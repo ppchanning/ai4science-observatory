@@ -22,7 +22,7 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-10** — [11 条新闻](digests/ai4science/2026/2026-10-10.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-10.md) — 作物育种与科学发现。
+- **2026-10-10** — [11 条新闻](digests/ai4science/2026/2026-10-10.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-10.md) — 作物育种与科学发现。 补齐[3 条已归档新闻的目录](digests/ai4science/2026/2026-09-27.md)，修正 182 条归档引用、清理 4 期资料；无新增独立资料或补录期数。
 - **2026-10-09** — [9 条新闻](digests/ai4science/2026/2026-10-09.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-09.md) — 气候模型与望远镜。
 - **2026-10-08** — [9 条新闻](digests/ai4science/2026/2026-10-08.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-08.md) — 细胞图谱与 X 射线 Agent。
 - **2026-10-07** — [12 条新闻](digests/ai4science/2026/2026-10-07.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-07.md) — 蛋白设计与自动化实验。
@@ -109,7 +109,7 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-截至 **2026-10-10**：**17 期科学日报 · 182 个去重新闻事件 · 11 期科学智能体晨读 · 45 项晨读书目 · 170 个信源 · 11 份 CSV 数据集**。
+截至 **2026-10-10**：**17 期科学日报 · 185 个去重新闻事件 · 11 期科学智能体晨读 · 45 项晨读书目 · 170 个信源 · 11 份 CSV 数据集**。
 
 新闻归档覆盖 2026-09-22 至 2026-10-10；晨读覆盖 2026-09-28 至 2026-10-10。日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引与结构化数据一起维护。
 <!-- collection-stats:end -->

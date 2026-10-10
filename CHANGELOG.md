@@ -12,7 +12,7 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
-- **2026-10-10** — Added [2-language update history](CHANGELOG.zh-CN.md), covering 17 material dates; the [homepage](README.md#updates) shows 7 days.
+- **2026-10-10** — Added [2-language update history](CHANGELOG.zh-CN.md), covering 17 material dates; the [homepage](README.md#updates) shows 7 days. Cataloged [3 items already present in the September 27 digest](digests/ai4science/2026/2026-09-27.md), corrected 182 news archive references, and revised 4 issues to remove editorial workflow language. New independent resources: 0; backfilled issues: 0.
 
 ## Backfilled reading timeline
 

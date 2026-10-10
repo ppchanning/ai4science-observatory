@@ -22,7 +22,7 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-10** — [11 news items](digests/ai4science/2026/2026-10-10.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-10.md) — Crop breeding & scientific discovery.
+- **2026-10-10** — [11 news items](digests/ai4science/2026/2026-10-10.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-10.md) — Crop breeding & scientific discovery. Cataloged [3 previously archived items](digests/ai4science/2026/2026-09-27.md), fixed 182 archive references, and cleaned up 4 issues. No new resources or issues.
 - **2026-10-09** — [9 news items](digests/ai4science/2026/2026-10-09.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-09.md) — Climate models & telescopes.
 - **2026-10-08** — [9 news items](digests/ai4science/2026/2026-10-08.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-08.md) — Cell maps & X-ray agents.
 - **2026-10-07** — [12 news items](digests/ai4science/2026/2026-10-07.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-07.md) — Protein design & automated labs.
@@ -109,7 +109,7 @@ Paper tables may overlap; their row counts cannot be added to obtain a unique pa
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-10-10**: **17 science digests · 182 deduplicated news events · 11 scientific-agent reading issues · 45 bibliography entries · 170 sources · 11 CSV datasets**.
+As of **2026-10-10**: **17 science digests · 185 deduplicated news events · 11 scientific-agent reading issues · 45 bibliography entries · 170 sources · 11 CSV datasets**.
 
 News archives cover 2026-09-22 through 2026-10-10; reading issues cover 2026-09-28 through 2026-10-10. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
