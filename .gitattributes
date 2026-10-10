@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.csv text diff
+*.json text diff
+*.svg text

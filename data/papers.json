@@ -1,0 +1,773 @@
+[
+  {
+    "title": "Autonomous Quantum Transport Measurements of 2D Semiconductors by an AI Agent",
+    "authors": "Brandon Bauer et al.",
+    "arxiv": "2609.26661",
+    "url": "https://arxiv.org/abs/2609.26661",
+    "verified_version": "v1",
+    "type": "arXiv预印本",
+    "verified_at": "2026-09-28T11:28:47.803630+08:00",
+    "limitations": "专家先用已有数据dry run迭代Skills；属于专家工作流内适应，非自主创立实验策略；未证通用GUI迁移、公开远程接入或低接入成本。",
+    "read_first": "Fig.1；Monolayer MoS2 Device Campaign；Discussion",
+    "id": "arxiv:2609.26661",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "OSWorld-Pro: Process-based Evaluation for Computer Use Agents",
+    "authors": "Zhilin Wang et al.（NVIDIA）",
+    "arxiv": "2609.24890",
+    "url": "https://arxiv.org/abs/2609.24890",
+    "verified_version": "v1",
+    "type": "arXiv预印本",
+    "verified_at": "2026-09-28T11:28:47.803630+08:00",
+    "limitations": "桌面成功不等于科学正确；跨基准分数非受控因果比较；LLM判断不能替代测量与不确定度核验。",
+    "read_first": "§2–4、§6、附录D依赖规则",
+    "id": "arxiv:2609.24890",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+    "authors": "Zihan Dong et al.（Georgia Tech等）",
+    "arxiv": "2609.16251",
+    "url": "https://arxiv.org/abs/2609.16251",
+    "verified_version": "v2，2026-09-21",
+    "type": "arXiv预印本",
+    "verified_at": "2026-09-28T11:28:47.803630+08:00",
+    "limitations": "单应用多工作台不等于跨应用；包含计算/仿真，不是连接真实机床；没有GUI/API公平成本对照。",
+    "read_first": "§3产物验证、§4结果、§6局限",
+    "id": "arxiv:2609.16251",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education",
+    "authors": "Lamine Chalal et al.",
+    "arxiv": "2609.00815",
+    "url": "https://arxiv.org/abs/2609.00815",
+    "verified_version": "v1",
+    "type": "arXiv预印本",
+    "verified_at": "2026-09-28T11:28:47.803630+08:00",
+    "limitations": "论文有会议排版，未另核正式出版日期；这里用arXiv上线日。非LLM agent；三个入口不等于一次跨应用科研轨迹；通信延迟不是完整实验周期。",
+    "read_first": "Fig.2、§3.1、§4.2及Table3",
+    "id": "arxiv:2609.00815",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "New Evidence, Same Choice: Testing Physical Experiment Selection in Vision Language Models",
+    "authors": "Sourajit Saha et al.",
+    "arxiv": "2609.11022",
+    "url": "https://arxiv.org/abs/2609.11022",
+    "fulltext_url": "https://arxiv.org/html/2609.11022v1",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与正文§3已核",
+    "verified_at": "2026-09-29T07:05:13.820543+08:00",
+    "evidence": "六个开放模型、144组参数；直接回答在95.1%–100%的图像对上重复同一动作；简短推理最佳成对正确率5.9%",
+    "read_first": "§3.2–3.3，再读§4",
+    "id": "arxiv:2609.11022",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-29.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A computable representation of the physical laboratory enables verifiable workflows",
+    "authors": "Xiaobo Li et al.",
+    "arxiv": "2609.03621",
+    "url": "https://arxiv.org/abs/2609.03621",
+    "type": "arXiv预印本",
+    "verification": "仅原始摘要；HTML/PDF网页读取失败",
+    "verified_at": "2026-09-29T07:05:13.820543+08:00",
+    "evidence": "摘要报告已在模块化agentic机器人实验室实现；无本轮已核定量成绩",
+    "read_first": "摘要；下一次补正文的真实执行与评价章节",
+    "id": "arxiv:2609.03621",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-29.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Reimagining research papers as interactive and reliable AI agents",
+    "authors": "Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, James Zou",
+    "doi": "10.1038/s41586-026-11044-y",
+    "url": "https://www.nature.com/articles/s41586-026-11044-y",
+    "type": "Nature研究论文／Paper2Agent",
+    "verification": "期刊原文Main、Large-scale evaluation和Methods已核；补充材料未核",
+    "verified_at": "2026-09-29T07:05:13.820543+08:00",
+    "evidence": "10篇非生物计算论文、42个执行任务，五次独立运行准确率98.1±0.8%；包含emcee等计算工具",
+    "read_first": "Large-scale evaluation of Paper2Agent；Methods同名节",
+    "id": "doi:10.1038/s41586-026-11044-y",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-29.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Can Autonomous LLM Agents Execute Multireference Quantum Chemistry Calculations?",
+    "authors": "Victor Chang Lee; James M. Rondinelli",
+    "team": "Northwestern University",
+    "doi": "10.48550/arXiv.2609.13357",
+    "arxiv": "2609.13357",
+    "url": "https://arxiv.org/abs/2609.13357",
+    "fulltext_url": "https://arxiv.org/html/2609.13357v1",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与正文§II、§IV及Tables 1–2已核",
+    "verified_at": "2026-09-30T07:07:06.049153+08:00",
+    "evidence": "Table 1：558个参考VTE，覆盖率24.9%→44.1%，已识别子集MAE 0.373→0.339 eV；§IV.5计算数131→576",
+    "read_first": "§II.3–II.6；Table 1；§IV.5–IV.7",
+    "id": "arxiv:2609.13357",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-30.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+    "authors": "Hejia Geng et al.",
+    "doi": "10.48550/arXiv.2609.19134",
+    "arxiv": "2609.19134",
+    "url": "https://arxiv.org/abs/2609.19134",
+    "fulltext_url": "https://arxiv.org/html/2609.19134v1",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与正文§2、§3.1–3.2、§5及附录8–9已核",
+    "verified_at": "2026-09-30T07:07:06.049153+08:00",
+    "evidence": "Hard集合85任务、18环境、每任务一小时；最高观察成功率67.1%，非统计确立的模型排序",
+    "read_first": "§2.2；§3.1；附录9.1–9.3；§5",
+    "id": "arxiv:2609.19134",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-09-30.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution",
+    "authors": "Subba Reddy Oota et al.",
+    "team": "ADIA Lab等",
+    "doi": "10.48550/arXiv.2609.38108",
+    "arxiv": "2609.38108",
+    "url": "https://arxiv.org/abs/2609.38108",
+    "type": "arXiv预印本",
+    "verification": "摘要、正文§3–5、Table 5、附录E.3/I/L定向核查；PDF第10页视觉复核",
+    "verified_at": "2026-10-01T07:14:02.937370+08:00",
+    "evidence": "Table 5 DeepSeek-V4 ALFWorld：Plan+ReAct 0.480、最佳固定Search 0.918、自主Routing@1 0.721；不能将0.918写成自主路由成绩",
+    "read_first": "Table 5；§3.3；附录E.3、I.1–I.2、L",
+    "id": "arxiv:2609.38108",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-01.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Comparing Active Anomaly Detection Frameworks: From Light Curves to Images",
+    "authors": "Sreevarsha Sreejith; Robert C. Nichol",
+    "doi": "10.48550/arXiv.2609.36096",
+    "arxiv": "2609.36096",
+    "url": "https://arxiv.org/abs/2609.36096",
+    "type": "arXiv预印本",
+    "verification": "原始摘要、PDF§3.5–3.6、§4–6定向正文已核",
+    "verified_at": "2026-10-01T07:14:02.937370+08:00",
+    "evidence": "前100对象：光变变星83/78/38（Protege/PineForest/Astronomaly）；图像目标70/29/19（PineForest/Astronomaly/Protege）",
+    "read_first": "§3.5–3.6；§4.3及结果；§6",
+    "id": "arxiv:2609.36096",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-01.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
+    "authors": "Dingyuan Dai et al.；清华、UCLA、RIKEN等",
+    "doi": "10.48550/arXiv.2609.39903",
+    "arxiv": "2609.39903",
+    "url": "https://arxiv.org/abs/2609.39903",
+    "type": "arXiv预印本",
+    "verification": "原始摘要、正文评估部分及附录F.1天文案例已核",
+    "verified_at": "2026-10-04T14:23:11.073458+08:00",
+    "evidence": "146任务；最佳73.7%是含VOID的平均部分得分。天文3任务×12模型共36次运行，14次满分，平均部分得分45.1%。净计数参考1424.92 counts，满分容差0.5 counts",
+    "read_first": "§3.2；附录F.1；§4轨迹分析",
+    "id": "arxiv:2609.39903",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-04.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Strategies for Deploying AI Agents in Production at Scientific User Facilities",
+    "authors": "Ming Du et al.；Argonne/APS团队",
+    "doi": "10.48550/arXiv.2609.36362",
+    "arxiv": "2609.36362",
+    "url": "https://arxiv.org/abs/2609.36362",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与正文§3.1.7、§3.2、§4.1–4.2已核",
+    "verified_at": "2026-10-04T14:23:11.073458+08:00",
+    "evidence": "既有工具层可复用到已配置束线；26-ID从图像定位到acquire_fine_scan。未给同预算科学成功率或新设施适配人时",
+    "read_first": "§3.2.3；§4.1–4.2；§3.1.7与§3.5",
+    "id": "arxiv:2609.36362",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-04.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A Programmable Optics Cloud Laboratory",
+    "authors": "Sachin Vaidya et al.；MIT Research Laboratory of Electronics等",
+    "doi": "10.48550/arXiv.2609.16413",
+    "arxiv": "2609.16413",
+    "url": "https://arxiv.org/abs/2609.16413",
+    "type": "arXiv预印本",
+    "verification": "原始摘要及正文§IV–VI、Table I已核；直接HTML下载失败但网页原文可读",
+    "verified_at": "2026-10-04T14:23:11.073458+08:00",
+    "evidence": "重复测量RMSD 3.87 μm（1.61相机像素）；5次端到端运行、15/15配置恢复成功。恢复设定不恢复可测量；优化内部中间状态不在抽象trace中",
+    "read_first": "§IV-C–E；§V-A/V-C；§VI Fig.4与Table I",
+    "id": "arxiv:2609.16413",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-04.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Agents Are Systems, Not Models: Rethinking Agentic Evaluation",
+    "authors": "Luis Wiedmann、Leander Girrbach、Cordelia Schmid、Zeynep Akata",
+    "doi": "10.48550/arXiv.2610.01618",
+    "arxiv": "2610.01618",
+    "url": "https://arxiv.org/abs/2610.01618",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与正文§3.1、Table 2、§4.3已核；仅取天文部分",
+    "verified_at": "2026-10-04T14:23:11.073458+08:00",
+    "evidence": "Table 2红移任务完成76.3±1.8%；完成运行的平均R² -0.109，对照专用模型0.753。完成率与科学质量分母不同；信息影响不在每个底座上都最大",
+    "read_first": "§3.1；Table 2；§4.3",
+    "id": "arxiv:2610.01618",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-04.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "EAA: Automating materials characterization with vision language model agents",
+    "team": "Ming Du、Mathew J. Cherukara等；APS/Argonne",
+    "doi": "10.48550/arXiv.2602.15294",
+    "arxiv": "2602.15294",
+    "url": "https://arxiv.org/abs/2602.15294",
+    "type": "arXiv预印本",
+    "verification": "原始摘要和正文所列章节已核；作者报告，未独立复现",
+    "verified_at": "2026-10-05T07:10:56.914134+08:00",
+    "evidence": "聚焦例扫描8个位置；Siemens star搜索8次采集，末次仍仅近似居中",
+    "read_first": "§3.1 Fig.4 → §3.2 Fig.5 → §2.4",
+    "id": "arxiv:2602.15294",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Artifact-centered Claim-aware Observability for Autonomous Scientific Agents",
+    "team": "Xiangyu Yin、Ming Du、Michael H. Prince、Mathew J. Cherukara",
+    "doi": "10.48550/arXiv.2608.18312",
+    "arxiv": "2608.18312",
+    "url": "https://arxiv.org/abs/2608.18312",
+    "type": "arXiv预印本",
+    "verification": "原始摘要和正文所列章节已核；作者报告，未独立复现",
+    "verified_at": "2026-10-05T07:10:56.914134+08:00",
+    "evidence": "给出八类核心对象与字段绑定例；§6为toy示例，4.2pp不是实验成绩",
+    "read_first": "§3 Table 1 → §4.1 → §6",
+    "id": "arxiv:2608.18312",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "AIM: Agentic Idea Management for Automated Research",
+    "team": "Google Cloud AI Research、University of Wisconsin–Madison；Hyeong Kyu Choi等",
+    "doi": "10.48550/arXiv.2609.38445",
+    "arxiv": "2609.38445",
+    "url": "https://arxiv.org/abs/2609.38445",
+    "type": "arXiv预印本",
+    "verification": "原始摘要和正文所列章节已核；作者报告，未独立复现",
+    "verified_at": "2026-10-05T07:10:56.914134+08:00",
+    "evidence": "作者报告相对ScientistOne系统优化+1.6pp、长程模型/CUDA+4.9pp，最高3.1倍wall-clock加速",
+    "read_first": "§4.3 → §5 → Appendix C.1",
+    "id": "arxiv:2609.38445",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A hardware-safety-gated system for LLM-written native ARTIQ control code on a trapped-ion platform",
+    "team": "Duanyang Wang、Lu Qi、Yuanheng Xie、Norbert M. Linke、Kenneth R. Brown；UMD QLab等",
+    "doi": "10.48550/arXiv.2606.27231",
+    "arxiv": "2606.27231",
+    "url": "https://arxiv.org/abs/2606.27231",
+    "type": "arXiv预印本",
+    "verification": "原始摘要和正文所列章节已核；作者报告，未独立复现",
+    "verified_at": "2026-10-05T07:10:56.914134+08:00",
+    "evidence": "自由运行补偿后T2*=1483±73 μs；人工多次指导目标、拟合与参数化",
+    "read_first": "III.2 Fig.4/Table 1 → II.3 → III.3",
+    "id": "arxiv:2606.27231",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations",
+    "team": "J. Paul Liu、Uthpala Herath、Andrew Petersen；NC State、Duke",
+    "doi": "10.48550/arXiv.2609.32868",
+    "arxiv": "2609.32868",
+    "url": "https://arxiv.org/abs/2609.32868",
+    "version_date": "2026-09-30",
+    "type": "arXiv预印本",
+    "verification": "原始摘要和正文所列章节已核；作者报告，未独立复现",
+    "verified_at": "2026-10-05T07:10:56.914134+08:00",
+    "evidence": "天气曲线偏差z500 2.1%、t850 2.4%；同编译选项修复后串行与16线程输出一致，-O2并行6.8倍",
+    "read_first": "Table 1 → §4.2 → Table 3 → §6",
+    "id": "arxiv:2609.32868",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "RF Instrument Agent (RFIA): Empowering RF Instruments with Natural Language Understanding, Scheduling and Execution of Complex Tasks",
+    "team": "Chunhui Li、Wei Fan",
+    "doi": "10.48550/arXiv.2605.23636",
+    "arxiv": "2605.23636",
+    "url": "https://arxiv.org/abs/2605.23636",
+    "version_date": "2026-05-22",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与所列正文段落已核；作者报告，未独立复现",
+    "verified_at": "2026-10-06T17:21:57.123699+08:00",
+    "evidence": "16项预设任务：15项执行完成，1项危险删除校准请求正确阻断；信道延迟估计200.100/500.350ns对应设定200/500ns",
+    "read_first": "§V-D/Table VI → §IV-C → Tables IV/VIII",
+    "id": "arxiv:2605.23636",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Agentic AI for Scientific Reasoning in Autonomous Quantum Sensing Experiments",
+    "team": "Takuya Isogawa等；MIT，Mingda Li、Paola Cappellaro",
+    "doi": "10.48550/arXiv.2607.25145",
+    "arxiv": "2607.25145",
+    "url": "https://arxiv.org/abs/2607.25145",
+    "version_date": "2026-07-27",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与所列正文段落已核；作者报告，未独立复现",
+    "verified_at": "2026-10-06T17:21:57.123699+08:00",
+    "evidence": "该案例18.9小时；T2*约2–3微秒且依赖估计方法；13C附近特征只支持可能耦合，非确证",
+    "read_first": "Results工作流/Table 1/Fig.2 → Fig.4",
+    "id": "arxiv:2607.25145",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Autonomous Algorithm Discovery for Ptychography via Evolutionary LLM Reasoning",
+    "team": "Xiangyu Yin、Ming Du等；APS关注作者后续补读",
+    "doi": "10.48550/arXiv.2603.05696",
+    "arxiv": "2603.05696",
+    "url": "https://arxiv.org/abs/2603.05696",
+    "version_date": "2026-03-05",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与所列正文段落已核；作者报告，未独立复现",
+    "verified_at": "2026-10-06T17:21:57.123699+08:00",
+    "evidence": "IC：100个算法、83%评估成功；最佳SSIM .785，固定3000迭代较基线+0.26 SSIM/+8.3dB；搜索16.5小时",
+    "read_first": "Table 1/Fig.4 → §4.5",
+    "id": "arxiv:2603.05696",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "YouRA: A Persistent-State Architecture for Evidence-Traceable Autonomous Research Agents",
+    "team": "Yoonkyu Woo、Woojin Lee、Jin-Xia Huang",
+    "doi": "10.48550/arXiv.2610.01097",
+    "arxiv": "2610.01097",
+    "url": "https://arxiv.org/abs/2610.01097",
+    "version_date": "2026-10-01",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与所列正文段落已核；作者报告，未独立复现",
+    "verified_at": "2026-10-06T17:21:57.123699+08:00",
+    "evidence": "10个端到端任务、3个匹配模型骨干、4个LLM评审；Sonnet4.5全系统4.20，无VSA 2.88（1–10分）",
+    "read_first": "§3状态表示 → Table 3 → §4.1日志评审",
+    "id": "arxiv:2610.01097",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+    "team": "Oliver Jaffe、Dane Sherburn；P-Zero Research",
+    "doi": "10.48550/arXiv.2610.06824",
+    "arxiv": "2610.06824",
+    "url": "https://arxiv.org/abs/2610.06824",
+    "version_date": "2026-10-05",
+    "type": "arXiv预印本",
+    "verification": "原始摘要与所列正文段落已核；作者报告，未独立复现",
+    "verified_at": "2026-10-06T17:21:57.123699+08:00",
+    "evidence": "24专家，取每题最佳专家尝试为基线；20模型；40 H100小时或120墙钟小时上限；Opus5.5计算倍率2.3×（95%CI 1.15–4.37）",
+    "read_first": "§2.1/§2.5 → §4",
+    "id": "arxiv:2610.06824",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
+    "team": "Jingjie Ning等；CMU／清华",
+    "doi": "10.48550/arXiv.2609.27490",
+    "arxiv": "2609.27490",
+    "url": "https://arxiv.org/abs/2609.27490",
+    "version_date": "2026-09-28",
+    "type": "arXiv预印本",
+    "verification": "原始摘要及上述关键正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-07T07:06:00.789510+08:00",
+    "evidence": "8次购买测量＋2个免费锚点下，pair-ridge在22源中选中15个最优，其中13个仍有条件效应误差超过效用范围10%。v2的12源前瞻组Flash全部交付，相同观测下比GP的恢复分数高0.147。",
+    "read_first": "§3、§5 → §6.1与Table 4",
+    "id": "arxiv:2609.27490",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Agents for self-driving laboratories applied to quantum computing",
+    "team": "Shuxiang Cao、Zijian Zhang等；Oxford／Toronto／Aspuru-Guzik组",
+    "doi": "10.1016/j.patter.2025.101372",
+    "arxiv": "2412.07978",
+    "url": "https://arxiv.org/abs/2412.07978",
+    "version_date": "2025-06-05",
+    "type": "论文关联Patterns正式版；本轮核arXiv修订原文",
+    "verification": "原始摘要及上述关键正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-07T07:06:00.789510+08:00",
+    "evidence": "原文展示单比特校准、两比特siZZle搜索与GHZ制备／层析；搜索示例约3小时，设100实验和20频率预算。",
+    "read_first": "Fig.4 → II Results → IV.2／IV.3",
+    "id": "arxiv:2412.07978",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding",
+    "team": "Shuxiang Cao等；NVIDIA／Toronto／LBNL／Fermilab等",
+    "doi": "10.48550/arXiv.2604.25884",
+    "arxiv": "2604.25884",
+    "url": "https://arxiv.org/abs/2604.25884",
+    "version_date": "2026-04-28",
+    "type": "arXiv预印本",
+    "verification": "原始摘要及上述关键正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-07T07:06:00.789510+08:00",
+    "evidence": "18个VLM评测中，通用模型最佳零样本平均72.3，Ising Calibration 1为74.7；是百分制问答分数，不是硬件成功率。",
+    "read_first": "§3／Table 2 → §6 → App.A.3",
+    "id": "arxiv:2604.25884",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Demonstration of a Structured Agentic Workflow for Applied Quantum Computing Research",
+    "team": "Dikshant Dulal、Maxence Grandadam等；Haiqu",
+    "doi": "10.48550/arXiv.2610.05304",
+    "arxiv": "2610.05304",
+    "url": "https://arxiv.org/abs/2610.05304",
+    "version_date": "2026-10-04",
+    "type": "arXiv预印本",
+    "verification": "原始摘要及上述关键正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-07T07:06:00.789510+08:00",
+    "evidence": "STO-3G有限基组下SQD势垒555 meV，与FCI 574 meV相差19 meV；5次普通agent基线中3次违背全电子空间要求。",
+    "read_first": "§4 → LLM use disclosure → App.A.1",
+    "id": "arxiv:2610.05304",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "aRieL - Reinforcement Learning for the Ariel Space Telescope Scheduling",
+    "team": "James Kostas Ray、Kai Hou Yip等；UCL／KCL／INAF",
+    "doi": "10.48550/arXiv.2609.38566",
+    "arxiv": "2609.38566",
+    "url": "https://arxiv.org/abs/2609.38566",
+    "version_date": "2026-09-29",
+    "type": "arXiv预印本",
+    "verification": "原始摘要及上述关键正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-07T07:06:00.789510+08:00",
+    "evidence": "基准情景完成696个Tier 1目标（85.5%）、129个Tier 3目标，分箱覆盖100%，观测效率72.6%；并非每个单项都优于启发式。",
+    "read_first": "§3.6 → §4.1 → §5.3",
+    "id": "arxiv:2609.38566",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences",
+    "team": "Mingda Zhang、Wenjin Liu、Erik Cambria等",
+    "doi": "10.48550/arXiv.2610.08691",
+    "arxiv": "2610.08691",
+    "url": "https://arxiv.org/abs/2610.08691",
+    "type": "arXiv预印本 v1",
+    "verification": "原始页面与所列关键正文已核；作者结果，未独立复现",
+    "verified_at": "2026-10-08T15:12:02.640864+08:00",
+    "evidence": "23学科基准；Table 2地球科学任务的IID与跨数据集OOD平均RMSE由冻结agent的1.0963 K降至Linked Full的0.9650 K。",
+    "read_first": "§4重放／验证 → Table 2与§6 → §8局限",
+    "id": "arxiv:2610.08691",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A self-learning scientific agent for X-ray diffraction",
+    "team": "Bin Cao等；港科大广州／UCL／长三角AI Lab／中科院自动化所",
+    "doi": "10.48550/arXiv.2610.07862",
+    "arxiv": "2610.07862",
+    "url": "https://arxiv.org/abs/2610.07862",
+    "type": "arXiv预印本 v1；正文冠名Gan Jiang",
+    "verification": "原始页面与所列关键正文已核；作者结果，未独立复现",
+    "verified_at": "2026-10-08T15:12:02.640864+08:00",
+    "evidence": "无成分输入的opXRD单相top-1为40.83%，最强对照26.45%；这是物相识别准确率。",
+    "read_first": "Fig.3／技能学习 → Supplementary Note 2.1的artifact交接与验收",
+    "id": "arxiv:2610.07862",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Operating advanced scientific instruments with AI agents that learn on the job",
+    "team": "Aikaterini Vriza、Michael H. Prince、Tao Zhou、Henry Chan、Mathew J. Cherukara；Argonne／APS团队",
+    "doi": "10.1038/s41524-026-02005-0",
+    "url": "https://www.nature.com/articles/s41524-026-02005-0",
+    "type": "npj Computational Materials正式论文",
+    "verification": "原始页面与所列关键正文已核；作者结果，未独立复现",
+    "verified_at": "2026-10-08T15:12:02.640864+08:00",
+    "evidence": "Fig.2任务要求1 μm定位；作者报告O3在测试模型中能稳定进行跨模态坐标推理，不能外推普遍1 μm精度。",
+    "read_first": "Results／X-ray nanoprobe experiment → Fig.2、Fig.3及Supplementary 1.1",
+    "id": "doi:10.1038/s41524-026-02005-0",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "An agentic artificially intelligent X-ray scientist",
+    "team": "Zhantao Chen、Alexander N. Petsch等；Stanford／SLAC等",
+    "doi": "10.1038/s42256-026-01261-5",
+    "url": "https://www.nature.com/articles/s42256-026-01261-5",
+    "type": "Nature Machine Intelligence正式论文",
+    "verification": "原始页面与所列关键正文已核；作者结果，未独立复现",
+    "verified_at": "2026-10-08T15:12:02.640864+08:00",
+    "evidence": "Fig.3–4及Extended Data Fig.2记录偏移修正与后续找峰；真实试验因束线时间限制未按相同条件系统重复。",
+    "read_first": "Deploying on a real synchrotron → Fig.3–4、Extended Data Fig.2 → Methods/MCP",
+    "id": "doi:10.1038/s42256-026-01261-5",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Astra: an open-source fully autonomous robotic observatory control software",
+    "team": "Peter P. Pedersen等；ETH／Cambridge／Liège／Bern等",
+    "doi": "10.48550/arXiv.2607.12898",
+    "arxiv": "2607.12898",
+    "url": "https://arxiv.org/abs/2607.12898",
+    "type": "arXiv v1；SPIE会议稿",
+    "verification": "原始页面与所列关键正文已核；作者结果，未独立复现",
+    "verified_at": "2026-10-08T15:12:02.640864+08:00",
+    "evidence": "2026年1／5月数据的网络中位指向散布0.11 arcsec；作者称未发生归因Astra的调度中止，不等于设施从未中断。",
+    "read_first": "§3.7站点定制／§4设备兼容 → §5真实观测结果",
+    "id": "arxiv:2607.12898",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "MATCH: Performance Characterization and Scientific Observations of the Wuhan University 1-m Optical Telescope",
+    "team": "Sai-En Xu、Bei You等；武汉大学／中科院南京天文光学技术研究所等",
+    "doi": "10.48550/arXiv.2609.38858",
+    "arxiv": "2609.38858",
+    "url": "https://arxiv.org/abs/2609.38858",
+    "type": "arXiv预印本 v1",
+    "verification": "原始摘要／作者身份／v1日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-09T07:08:36.654632+08:00",
+    "evidence": "典型条件60秒g波段5σ深度约20 mag；光谱1800秒B/G约15–16 mag。深度指能检测多暗的目标，曝光更长不能等同排队更短。",
+    "read_first": "§VI.4–VI.5 → §VII与灵敏度结果",
+    "id": "arxiv:2609.38858",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+    "team": "Yinling Zhang、Langchen Liu、Mengdi Wang、Shilong Liu等；Ohio State／Yale／UCSD／Stanford／Princeton",
+    "doi": "10.48550/arXiv.2610.10513",
+    "arxiv": "2610.10513",
+    "url": "https://arxiv.org/abs/2610.10513",
+    "type": "arXiv预印本 v1",
+    "verification": "原始摘要／作者身份／v1日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-09T07:08:36.654632+08:00",
+    "evidence": "六小时eligible预算下12系统中6个最终模型超过参考综合分0.378；参考仍最擅长统计再现。最佳checkpoint与最终提交会改变数量。",
+    "read_first": "§3.2–3.4 → §4 → Appendix B/C",
+    "id": "arxiv:2610.10513",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations",
+    "team": "Toby D. Pilditch、Konstantinos Voudouris、Alexandra Abbas、Cozmin Ududec；UK AI Security Institute／Meridian Labs",
+    "doi": "10.48550/arXiv.2610.08364",
+    "arxiv": "2610.08364",
+    "url": "https://arxiv.org/abs/2610.08364",
+    "type": "arXiv预印本 v1",
+    "verification": "原始摘要／作者身份／v1日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-09T07:08:36.654632+08:00",
+    "evidence": "单个近1300万token案例含554主代理工具调用、79子代理部署、8次压缩；580输出仅2个标Hypothesising。",
+    "read_first": "§3.1与Fig.2 → §3.5 → Appendix A.5",
+    "id": "arxiv:2610.08364",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "AI Agents as a Research Team: A Human-Supervised Case Study in Stellar Spectroscopy",
+    "team": "Marwan Gebran、Ian Bentley；Saint Mary’s College／Florida Polytechnic University",
+    "doi": "10.48550/arXiv.2610.05424",
+    "arxiv": "2610.05424",
+    "url": "https://arxiv.org/abs/2610.05424",
+    "type": "arXiv预印本 v1",
+    "verification": "原始摘要／作者身份／v1日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-09T07:08:36.654632+08:00",
+    "evidence": "scaler错配的MAE约0.024，纠正后0.003681（归一化光通量）；改变了预处理身份与精度，不能归因为float32更准。",
+    "read_first": "Appendix A.3–A.4 → §2.4与§7.1.2",
+    "id": "arxiv:2610.05424",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Explore, Then Commit: Measurement-Efficient Scientific Law Discovery with Language Models",
+    "team": "Kautik Mandve、Dileepa Fernando；Vernon Hills High School／SUTD",
+    "doi": "10.48550/arXiv.2610.07620",
+    "arxiv": "2610.07620",
+    "url": "https://arxiv.org/abs/2610.07620",
+    "type": "arXiv预印本 v1",
+    "verification": "原始摘要／作者身份／v1日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-09T07:08:36.654632+08:00",
+    "evidence": "576试验：medium解释器planner用8.6/8.9次测量，对照22.5/43.0；审计发现29条不完整结果。",
+    "read_first": "§2.2、Table 2 → §3.3与§4",
+    "id": "arxiv:2610.07620",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Prior or Feedback? What an LLM Uses When Adapting Neural Operators",
+    "team": "Julian Chan（Surrey）、Javier Mora Jimenez（Compare the Market）",
+    "doi": "10.48550/arXiv.2610.12325",
+    "arxiv": "2610.12325",
+    "url": "https://arxiv.org/abs/2610.12325",
+    "type": "arXiv预印本；元数据标工作坊接收",
+    "verification": "原始身份/日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-10T07:11:22.654160+08:00",
+    "evidence": "12迁移单元×3种子；20试验各策略；测试nRMSE对随机36/36、TPE35/36更低；分数置换相对保值改写动作距离中位差0.085。",
+    "read_first": "§3反馈回放、§4结果",
+    "id": "arxiv:2610.12325",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "LLM-IDEA: Identifiability-Driven Experimental Agent for Autonomous Discovery of Mechanistic World Models",
+    "team": "Surya Shetty（Texas A&M／Polara Labs）、Ulisses Braga-Neto（Texas A&M）",
+    "doi": "10.48550/arXiv.2610.11253",
+    "arxiv": "2610.11253",
+    "url": "https://arxiv.org/abs/2610.11253",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-10T07:11:22.654160+08:00",
+    "evidence": "63 ODE系统中62有常数，60初始可辨识；RC三常数只进入两组合，同类实验不可分；首版数值误判后修正方法。",
+    "read_first": "§5.8 RC案例、§5.4、§6",
+    "id": "arxiv:2610.11253",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+    "team": "Wenyu Du、Stephen Chung；DualverseAI／香港大学／剑桥大学",
+    "doi": "10.48550/arXiv.2610.08927",
+    "arxiv": "2610.08927",
+    "url": "https://arxiv.org/abs/2610.08927",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-10T07:11:22.654160+08:00",
+    "evidence": "3项ICLR再发现任务33判据，各3运行；任务平均恢复62.7%，LLM评分；24提案75%专家判科学意义低。",
+    "read_first": "§6.2人类评价，监督／反思机制",
+    "id": "arxiv:2610.08927",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "The missing map of the sky",
+    "team": "Brice Ménard（Johns Hopkins）与Anthropic Claude Science",
+    "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+    "type": "官方实质科研技术文章（非已核正式论文）",
+    "verification": "原始身份/日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-10T07:11:22.654160+08:00",
+    "evidence": "GALEX约38000观测覆盖2/3天；余区推断；文章称验证约10%偏差，误差定义划分未充分报告。",
+    "read_first": "原文遮蔽验证及圆形伪影段",
+    "id": "url:https://www.anthropic.com/research/the-missing-map-of-the-sky",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes",
+    "team": "Shalin Anand Jain、Jiazhen Liu、Siva Kailas、Harish Ravichandar；Georgia Tech STAR Lab",
+    "doi": "10.48550/arXiv.2505.06771",
+    "arxiv": "2505.06771",
+    "url": "https://arxiv.org/abs/2505.06771",
+    "version_date": "2025-11-10",
+    "type": "CoRL 2025论文／arXiv v3",
+    "verification": "原始身份/日期及所列正文已核；作者报告，未独立复现",
+    "verified_at": "2026-10-10T07:11:22.654160+08:00",
+    "evidence": "8任务×4算法×5硬件初始实例；追逐捕获PQN4.4→1.4、QMIX0.4→3.6，排序反转；仿真5策略各100评估。",
+    "read_first": "表4、§6.1、§9",
+    "id": "arxiv:2505.06771",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  }
+]

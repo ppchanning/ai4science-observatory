@@ -1,0 +1,12 @@
+# Remote Labs · Evidence Notes
+
+真实硬件、数字仿真与桌面软件分别标记；未证实的接入费用、等待时长、个人资格和自动化权限均为未知。
+
+## LabsLand Electronics Hive
+
+- **verified_at**: 2026-09-28T11:28:47.803630+08:00
+- **source_urls**: ["https://labsland.com/en/labs/electronics-hive/", "https://labsland.com/pub/docs/experiments/hive/user/en/using_instruments.html", "https://labsland.com/pub/docs/experiments/hive/user/en/taking_measurements.html", "https://labsland.com/pub/docs/experiments/hive/hive-node-reference-documentation.pdf"]
+- **hardware**: 继电器连接真实元件并测量；不是纯模拟
+- **interface**: 浏览器仪器界面；Perform Measurement执行物理测量；示波器CSV导出已核（参考文档§4.1.7）
+- **feedback**: 用户可依据测量修改电路再次提交；无已核自主agent闭环成绩
+- **timing_evidence**: §4.2区分用户取得结果UPRT与包含清理的节点处理HPRT；繁忙时增加排队。表4.1/4.2为2023年5月测试，不外推当前延迟。

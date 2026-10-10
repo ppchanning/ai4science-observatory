@@ -1,0 +1,3370 @@
+[
+  {
+    "id": "EV-5015b5b2a912ab",
+    "title": "Benchmarking higher-ranking multipoles and polarizability tensors for small molecular systems",
+    "original_title": "Benchmarking higher-ranking multipoles and polarizability tensors for small molecular systems",
+    "url": "https://arxiv.org/abs/2609.24606",
+    "published_at": "2026-09-21T13:56:21Z",
+    "date_precision": "second",
+    "discipline": "化学数据资源（扩展）",
+    "summary": [
+      "73种小分子的高阶多极矩及极化率参照数据，评估量化计算方法。与机器学习分子数据质量相关；论文主体并非新AI模型。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-720a1d8c391122",
+    "title": "Composition-Dependent Self-Diffusion Coefficients in Liquid Mixtures from Hybrid Machine Learning",
+    "original_title": "Composition-Dependent Self-Diffusion Coefficients in Liquid Mixtures from Hybrid Machine Learning",
+    "url": "https://arxiv.org/abs/2609.24599",
+    "published_at": "2026-09-21T13:53:44Z",
+    "date_precision": "second",
+    "discipline": "化学",
+    "summary": [
+      "HADES将物理关系与机器学习结合，预测液体混合物的组成依赖自扩散系数；实验数据评测不代表任意混合物均可泛化。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-9093558d147da5",
+    "title": "Stochastic optimisation method for estimating large deviations",
+    "original_title": "Stochastic optimisation method for estimating large deviations",
+    "url": "https://arxiv.org/abs/2609.24473",
+    "published_at": "2026-09-21T12:15:22Z",
+    "date_precision": "second",
+    "discipline": "物理与计算",
+    "summary": [
+      "LDSTOP综述/教程用控制理论与机器学习求非平衡马尔可夫过程的大偏差函数；并非今天首次提出该方法。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-70ac7be471e206",
+    "title": "Experimental evidence of generalization in quantum machine learning in small-data regime",
+    "original_title": "Experimental evidence of generalization in quantum machine learning in small-data regime",
+    "url": "https://arxiv.org/abs/2609.24666",
+    "published_at": "2026-09-21T14:30:06Z",
+    "date_precision": "second",
+    "discipline": "量子机器学习（扩展）",
+    "summary": [
+      "小数据量量子机器学习实验研究泛化；属于量子计算用于学习的相邻方向，不应宣传普遍量子优势。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-9628cac0c460b9",
+    "title": "Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning",
+    "original_title": "Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2609.24906",
+    "published_at": "2026-09-21T17:09:58Z",
+    "date_precision": "second",
+    "discipline": "农业工程（扩展）",
+    "summary": [
+      "平面果园修剪机器人结合视觉运动策略与混合强化学习；田间试验不代表所有树形与环境均可部署。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-a562249a64a3fb",
+    "title": "Beyond Point Prediction: Artificial Representative Trees with Uncertainty",
+    "original_title": "Beyond Point Prediction: Artificial Representative Trees with Uncertainty",
+    "url": "https://arxiv.org/abs/2609.24528",
+    "published_at": "2026-09-21T13:01:36Z",
+    "date_precision": "second",
+    "discipline": "医学统计方法（扩展）",
+    "summary": [
+      "代表树结合共形预测提供区间和概率，含NHANES实例；树结构稳定与预测误差存在取舍。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-a58cd7b6615bf7",
+    "title": "Offline Reinforcement Learning for Distribution-Grid Protection",
+    "original_title": "Offline Reinforcement Learning for Distribution-Grid Protection",
+    "url": "https://arxiv.org/abs/2609.24703",
+    "published_at": "2026-09-21T14:49:04Z",
+    "date_precision": "second",
+    "discipline": "能源工程（扩展）",
+    "summary": [
+      "离线强化学习用于配电网保护；摘要同时报告默认策略非故障工况误动作问题，不能只摘故障检出率。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-6b0e7dd3872e39",
+    "title": "Learning Prognostic Variables for AI Convective Parameterizations via Symbolic Distillation",
+    "original_title": "Learning Prognostic Variables for AI Convective Parameterizations via Symbolic Distillation",
+    "url": "https://arxiv.org/abs/2609.24882",
+    "published_at": "2026-09-21T16:50:03Z",
+    "date_precision": "second",
+    "discipline": "地球气候",
+    "summary": [
+      "符号蒸馏学习AI对流参数化的预报变量，尝试引入记忆；简化动力系统在线验证与大气离线验证须区分。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-b8ecf1134aea8e",
+    "title": "Fisher-information training of optical sensing front ends from natural fluctuations",
+    "original_title": "Fisher-information training of optical sensing front ends from natural fluctuations",
+    "url": "https://arxiv.org/abs/2609.24915",
+    "published_at": "2026-09-21T17:16:37Z",
+    "date_precision": "second",
+    "discipline": "科学仪器方法（扩展）",
+    "summary": [
+      "以自然涨落估计Fisher信息并训练光学传感前端，模拟光子计数验证；属于自适应优化邻接方向，非已确认通用AI传感器。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-816d1d18e1bbfd",
+    "title": "A digital-twin framework for forecasting treatment-day imaging with contour uncertainty in adaptive proton radiotherapy",
+    "original_title": "A digital-twin framework for forecasting treatment-day imaging with contour uncertainty in adaptive proton radiotherapy",
+    "url": "https://arxiv.org/abs/2609.24725",
+    "published_at": "2026-09-21T15:01:12Z",
+    "date_precision": "second",
+    "discipline": "生物医学方法",
+    "summary": [
+      "数字孪生框架预测质子放疗治疗日影像并估计轮廓不确定性；队列与验证规模有限，尚非临床疗效结论。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-afe28d38a6a449",
+    "title": "A Federated Artificial Intelligence Framework for Optimizing Pancreatic Cancer Treatment - Strategy Update",
+    "original_title": "A Federated Artificial Intelligence Framework for Optimizing Pancreatic Cancer Treatment - Strategy Update",
+    "url": "https://arxiv.org/abs/2609.24718",
+    "published_at": "2026-09-21T14:56:36Z",
+    "date_precision": "second",
+    "discipline": "生物医学研究",
+    "summary": [
+      "胰腺癌治疗优化的联邦AI框架策略更新；属于初步框架/模型证据，不等同前瞻临床获益。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-0101e5a3b59676",
+    "title": "Direction-Aware Masked Pretraining for 3D Seismic Representation Learning and Transfer to Cross-Area Acoustic Impedance Inversion",
+    "original_title": "Direction-Aware Masked Pretraining for 3D Seismic Representation Learning and Transfer to Cross-Area Acoustic Impedance Inversion",
+    "url": "https://arxiv.org/abs/2609.24615",
+    "published_at": "2026-09-21T14:04:02Z",
+    "date_precision": "second",
+    "discipline": "地球物理",
+    "summary": [
+      "方向感知掩码预训练用于三维地震表征及跨区声阻抗反演；比较收益依赖井数据与预训练基线。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-bd341385b34175",
+    "title": "GradAgent: A Knowledge-Guided Multi-Agent System for Structure-Preserving Gradient-Flow Computation with an Application to Multicomponent Vesicle Dynamics",
+    "original_title": "GradAgent: A Knowledge-Guided Multi-Agent System for Structure-Preserving Gradient-Flow Computation with an Application to Multicomponent Vesicle Dynamics",
+    "url": "https://arxiv.org/abs/2609.24871",
+    "published_at": "2026-09-21T16:42:36Z",
+    "date_precision": "second",
+    "discipline": "科学计算",
+    "summary": [
+      "GradAgent结合知识与多智能体完成保结构梯度流计算，含证明与数值实验；不能等同自主湿实验或无条件可靠推导。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-6c951f893d792c",
+    "title": "BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction",
+    "original_title": "BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction",
+    "url": "https://arxiv.org/abs/2609.24921",
+    "published_at": "2026-09-21T17:18:19Z",
+    "date_precision": "second",
+    "discipline": "科研工作流（扩展）",
+    "summary": [
+      "BackTrend用回溯重建评测科研弱信号预测，研究对象是AI/ML主题；回溯评测不是可验证的未来突破预测。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-68fdfeab15fef4",
+    "title": "机器学习研究阿尔茨海默病与克罗恩病共病基因",
+    "original_title": "机器学习研究阿尔茨海默病与克罗恩病共病基因",
+    "url": "https://doi.org/10.30773/pi.2026.0214",
+    "published_at": "2026-09-22",
+    "date_precision": "day",
+    "discipline": "生物医学",
+    "summary": [
+      "整合转录组和机器学习，识别CXCL1、IGFBP5候选共病基因，并作单细胞、虚拟敲除及分子对接分析；是计算证据，不能解释为已验证治疗。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-c41cd8f236bc06",
+    "title": "Nature Computational Science解读LLM智能体酶设计",
+    "original_title": "Nature Computational Science解读LLM智能体酶设计",
+    "url": "https://www.nature.com/articles/s43588-026-01052-3",
+    "published_at": "2026-09-22",
+    "date_precision": "day",
+    "discipline": "解读/蛋白质",
+    "summary": [
+      "今日News & Views介绍自然语言与多智能体蛋白工程的衔接；底层MutexaGPT论文9月10日已发表，不能当成今天新模型发布。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "仅公开摘要及底层论文可读内容；解读全文付费限制"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-b1a3b164a7dc32",
+    "title": "Precure选择Helix提供多组学实验室与AI工具",
+    "original_title": "Precure选择Helix提供多组学实验室与AI工具",
+    "url": "https://www.helix.com/press-releases/precure-selects-helix-as-multi-omics-lab-and-ai-tools-provider",
+    "published_at": "2026-09-21T13:15:00Z",
+    "date_precision": "minute",
+    "discipline": "产业/科研基础设施",
+    "summary": [
+      "企业公告称将为约100万份生物样本生成多组学数据，结合临床纵向信息支持生物标志物研究；规模是计划，不是已处理完成。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原站日期9月21日；公开通讯稿分发时间09:15EDT，Newswise转载09:20EDT；不是合同签订时刻"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-1c637f5e71d648",
+    "title": "BiopharmaTrend讨论大型药企采用LLM与智能体的成效标准",
+    "original_title": "BiopharmaTrend讨论大型药企采用LLM与智能体的成效标准",
+    "url": "https://www.biopharmatrend.com/post/1600-big-pharma-is-betting-on-llms-and-agents-what-would-count-as-success/",
+    "published_at": "2026-09-21T13:03:56Z",
+    "date_precision": "second",
+    "discipline": "行业分析",
+    "summary": [
+      "作者梳理药企采用LLM和智能体后应怎样衡量成效；属于新发表分析文章，引用的既有合作不重复算新交易。"
+    ],
+    "source_verification": {
+      "verification_status": "原始发布/日期/语义已核验",
+      "limits": "原始发布内容核验；研究结论未独立复现"
+    },
+    "appearances": [
+      "2026-09-22"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A05",
+    "title": "没有项目书、没有计划表，不同领域的他们因为好奇“碰撞”出创新成果",
+    "original_title": "没有项目书、没有计划表，不同领域的他们因为好奇“碰撞”出创新成果",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/571995.shtm",
+    "published_at": "2026-09-23T13:56:34+08:00",
+    "discipline": "科研方法与教育",
+    "summary": [
+      "文章从三位研究者能否聊到一起出发，沿年终报告、咖啡间讨论和走廊白板，解释好奇心如何逐渐变成科学问题。金瑜亮关于气液超临界区的报告启发李理，将相关相转变线用于黑洞体系，合作得到普适标度规律。更早的一次交流，则让他们尝试用引力理论理解颗粒物质的液固转变。报道最后落在自由交流与高风险探索的环境：研究目标可以在长期讨论中形成，制度需要给这段尚无明确成果的过程留出空间。",
+      "正文最有分量的细节是时间成本：第一次合作花了一年左右才聚焦到颗粒物质在剪切外力下的非线性响应，困难包括理解全息对偶等基本术语。金瑜亮说AI如今能帮助进入陌生领域，这里体现的是学习和沟通辅助。另一条合作把经典超临界问题带到量子磁卡制冷，对应成果发表于2025年，不能当成今天刚发表。编辑启发是定期交换“尚未解决的问题”，并保留反复试错的时间；一次闲聊背后有专业积累、数学共性和持续合作。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A11",
+    "title": "热点回应丨高校校长为何集体忧虑AI",
+    "original_title": "热点回应丨高校校长为何集体忧虑AI",
+    "url": "https://www.stdaily.com/web/2026-09/24/content_587023.html",
+    "published_at": "2026-09-24T06:47:55+08:00",
+    "discipline": "科研方法与教育",
+    "summary": [
+      "文章开头追问多位高校校长为何同时担忧AI，主线是工具使用正在挤压独立思考与基本能力训练。文中转述中国人民大学郭英剑对一种循环的担心：AI出题、学生用AI回答、再由AI评价，形式完整，人的学习却可能被架空。采访并未停在禁用工具，而是讨论课程、作业与评价体系怎样同步改变。结尾指向保留人的判断、知识基础和理解能力，让教育目的决定技术的使用方式。",
+      "具体办法包括把现成AI答案变成待分析材料，要求学生检查证据、拆解推理、指出遗漏，再说明自己的修改理由。这样，教师能观察学生怎样理解一个论证，而不只验收最终文本。北大汪琼强调事实知识仍是思考的支撑，不能把随时能搜索当成已经掌握。编辑判断是，这对科研训练同样适用：文献综述或实验方案可以使用AI辅助，但学生应当能解释关键选择，并留下问题如何变化、证据如何筛选的过程记录。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A03",
+    "title": "不挨饿也能长寿的“开关”找到了",
+    "original_title": "不挨饿也能长寿的“开关”找到了",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572037.shtm",
+    "published_at": "2026-09-24T08:38:02+08:00",
+    "discipline": "生命科学与药物",
+    "summary": [
+      "报道的主角是脂肪体分泌的Lsp2蛋白。研究团队发现，完整必需氨基酸通过mTORC1促进Lsp2产生，后者又参与调节这条营养信号及相关蛋白合成。按报道，在不同酵母配比的饮食下，缺失Lsp2的雌性果蝇中位寿命增加约14%至28%，研究者还检查了运动、繁殖与抗压等表现。文章从寻找无需饥饿的寿命调节机制展开，最后把问题延伸到哺乳动物是否存在功能相似的因子，而非宣布人类抗衰方案已经得到验证。",
+      "值得补充的是，团队先经历免疫与营养方向的尝试，在睡眠分析中偶然注意到过表达果蝇更早死亡，再转向衰老问题；它并非按照一条预设路线顺利得到答案。机制层面涉及4E-BP依赖的翻译调控，以及核糖体蛋白相关mRNA的变化，不能简单说成“关闭所有蛋白合成”。正文也介绍日本团队同期研究Lsp2在幼虫阶段的作用。Lsp2没有直接对应的哺乳动物同源物，因而读者更值得记住的是营养信号如何影响衰老这一问题框架。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-C10",
+    "title": "科学家提出实现拓扑平带和分数陈绝缘体新平台",
+    "original_title": "科学家提出实现拓扑平带和分数陈绝缘体新平台",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572005.shtm",
+    "published_at": "2026-09-23T15:46:21+08:00",
+    "discipline": "物理与材料",
+    "summary": [
+      "文章给出的路线是将Rashba型自旋轨道耦合、塞曼场与人工超晶格结合。前两者调节低能色散，后者通过能带折叠和布拉格散射，让相应能带更平坦并与其他能带分离，同时保留拓扑性质。核心结论是这套设计在理论上提供了实现拓扑平带及分数陈绝缘态的可行平台，拓宽候选材料和器件结构的选择。它把一个听起来抽象的量子态问题，转化成可以讨论材料参数与空间周期的设计问题。",
+      "正文还介绍了精确对角化计算：在三分之一和三分之二填充附近，研究者考察相互作用、多体态及对参数扰动的稳定性。这里的“分数”关乎相关量子态与响应，并不是把电子切成普通意义的几份。稳定性计算让方案比只画出一条理想能带更有实质，但仍处在理论设计阶段。对读者的启发是，寻找特殊量子态既可以发现天然材料，也可以用可控外场和人工周期性主动设计电子所处的环境。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A10",
+    "title": "中国射电天文学从跟跑迈向领跑——“中国天眼”FAST落成十周年记",
+    "original_title": "中国射电天文学从跟跑迈向领跑——“中国天眼”FAST落成十周年记",
+    "url": "https://www.stdaily.com/web/gdxw/2026-09/24/content_587810.html",
+    "published_at": "2026-09-24T23:02:36+08:00",
+    "discipline": "物理与天文",
+    "summary": [
+      "报道列举FAST已发现超过1300颗脉冲星，其中包括超过170颗毫秒脉冲星和160余个双星系统，并介绍中性氢巡天等成果。主旨是十年间装置运行能力和科研产出相互促进。结尾谈到正在推进的阵列拓展：在周边布设多台40米天线，报道所述分辨率和灵敏度提升属于后续工程目标，不能与目前500米主望远镜的已实现性能混写。",
+      "正文最适合补进科普的是控制细节：约2000个促动器要协同调整反射面，数字孪生结合力学模型、温度和载荷更新状态，报道给出毫米级精度，并解释减少反馈节点依赖的思路。馈源支撑索的国产化则关系到长期维护和供应保障。这些工程不是观测成果外的装饰，而是让测量稳定、让更多观测时间可用的基础。读者因此能把“新发现数量”与“控制、维护、扩展能力”连接起来，理解长期投入怎样转化为科学基础设施的持续产出。"
+    ],
+    "appearances": [
+      "2026-09-24",
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A04",
+    "title": "中国科学家傅伯杰荣获2026年沃尔沃环境奖",
+    "original_title": "中国科学家傅伯杰荣获2026年沃尔沃环境奖",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572021.shtm",
+    "published_at": "2026-09-23T19:26:01+08:00",
+    "discipline": "天文与地球环境",
+    "summary": [
+      "报道说，沃尔沃环境奖基金会9月23日宣布傅伯杰获2026年奖项，颁奖活动计划11月2日在斯德哥尔摩举行。文章将获奖理由与中国生态修复实践联系起来：土地利用方式会改变土壤、水分和生态服务，而恢复植被也涉及多种目标之间的权衡。其核心贡献是提供跨尺度理解这些关系的框架，帮助环境决策从单一指标转向综合判断。这里的新闻是奖项宣布，不能把后续典礼写成已经举行。",
+      "正文以黄土高原相关研究说明，地块层面的植被变化、坡面上的水土过程与更大区域的生态收益相互联系，既要看恢复效果，也要看资源承受能力。报道提到Global-DEP等国际合作与联合国生态系统恢复十年相关认可，体现研究方法向跨区域应用延伸。编辑启发是把生态修复讲成一个需要长期监测、比较和多目标选择的科学问题，而不是把某种技术或一种土地利用方式写成普遍最优解。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A14",
+    "title": "锚定5000亿元产业目标 上海浦东发布绿色低碳高质量发展行动方案",
+    "original_title": "锚定5000亿元产业目标 上海浦东发布绿色低碳高质量发展行动方案",
+    "url": "https://www.stdaily.com/web/gdxw/2026-09/23/content_586806.html",
+    "published_at": "2026-09-23T18:32:30+08:00",
+    "discipline": "能源与算力产业",
+    "summary": [
+      "文章报道9月22日发布的浦东绿色低碳产业高质量发展行动方案，将2030年相关产业规模5000亿元设为目标，围绕能源、材料、装备、制造与生态建设展开行动。现场还介绍了“磐石·禹衡”碳核算大模型，并启动绿色低碳概念验证中心。补查研究所官网确认，禹衡1.0已在4月8日发布，本次大会展示不等于模型首次推出。上海高研院魏伟介绍模型结合数据、算法与算力，面向生产、消费和自然系统的碳核算需求。产业规模是规划目标，模型效率改善则按发布方表述归属，不能混作已实现的社会效果。",
+      "报道的具体落点还包括汽车绿色供应链标准、绿色燃料、资源循环、能源数字化和碳捕集利用封存等方向。概念验证中心所处的位置尤其值得解释：实验室得到技术原理后，还要判断实际场景、工程可行性与商业需求，才能继续放大投入。编辑判断是，研究生和科研团队可据此寻找问题与合作场景，但这篇文章不是招生通知，已核对既有“科研项目库”实际收录招生岗位，因此没有把发布活动误写入该库。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A07",
+    "title": "国家超算互联网亮相2026数字经济博览会：“大国重器”从专业工具走向“人人可用”",
+    "original_title": "国家超算互联网亮相2026数字经济博览会：“大国重器”从专业工具走向“人人可用”",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572058.shtm",
+    "published_at": "2026-09-24T10:23:07+08:00",
+    "discipline": "能源与算力产业",
+    "summary": [
+      "原文引题交代国家超算互联网亮相数博会，主标题是《“大国重器”从专业工具走向“人人可用”》。按企业现场介绍，平台已有超过170万用户、累计约2.7亿作业，汇聚350万CPU核与25万GPU卡等资源。报道同时展示郑州集群在脑模拟、原子尺度计算和湍流等科学任务上的应用。全文主旨是算力服务与智能体结合，使研究者能更便捷地组织工具、资源和任务，而非只比较单一设备性能。",
+      "一个具体例子是用自然语言提出汽车风阻仿真请求，系统再规划步骤、选择组件与工具、调用算力并生成报告。正文提到技能、MCP工具接口与智能体资源，这些各司其职：接口连接能力，智能体组织工作，计算结果仍需对应清晰输入和验证。编辑可用流程图帮助读者理解其中分工。运营规模与演示能力均保留企业归属，既有上市公司库中科曙光记录已补充这一业务进展，没有据此改变旧融资金额或市值快照。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A12",
+    "title": "中国科学院院士张旭：类脑智能有望5年内走进千家万户",
+    "original_title": "中国科学院院士张旭：类脑智能有望5年内走进千家万户",
+    "url": "https://www.stdaily.com/web/gdxw/2026-09/24/content_587047.html",
+    "published_at": "2026-09-24T07:23:23+08:00",
+    "discipline": "科研方法与教育",
+    "summary": [
+      "报道将脑科学、脑启发算法、硬件和系统工程连接起来。张旭认为，类脑智能有机会在未来五年进入更多日常设备，并将能效、端侧运行和个人化能力视为重要方向。文章从这项展望展开，最后落到跨学科人才、从原理突破到系统落地的衔接。读者应把它读作一位领域研究者对发展路线的判断，理解他为什么认为工程整合和应用验证同样关键，而不是把预测日期当作产品交付承诺。",
+      "正文中值得补充的是，模仿大脑不等于直接复制一个完整大脑：神经机制可以启发计算方式，算法需要适配器件，器件还要与任务、软件和测试标准协同。访谈提到从零到一与从一到百的不同困难，也强调神经科学、数学、芯片和工程人才需要共同工作。编辑可据此设计一张学科协作图，让学生看见自己的专业可能贡献什么。对文中较强性能判断，本日报没有抽离条件写成普遍结论，而将重心放在明确可理解的路线与组织需求。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B02",
+    "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+    "original_title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+    "url": "https://www.qbitai.com/2026/09/496393.html",
+    "published_at": "2026-09-23T15:29:50+08:00",
+    "discipline": "科研方法与教育",
+    "summary": [
+      "报道介绍DSec用统一接口管理函数调用、容器、微型虚拟机和完整虚拟机等不同隔离方式，并处理大量环境并发、启动和存储问题。正文给出每秒约5000次启动、峰值约38万并发及每日数百万任务等不同指标，它们描述不同运行维度，不应合并成一个万能性能数字。文章主旨是智能体能力的扩展不仅依赖模型，还取决于可调度、可暂停恢复且具有约束的环境基础设施。",
+      "方法细节包括将基础镜像、工作空间与工具拆分，用只读文件系统和覆盖层组织数据，并按需加载少部分实际使用的镜像内容。训练等待或算力切换时，环境状态需要保存，才能继续交互。正文还讨论奖励作弊、网络代理和包管理等可能绕过任务条件的路径，介绍相应访问控制。编辑启发是科研智能体的可复现性需要保存环境、依赖、数据和调用轨迹；仅保存最终回答，无法解释一个结果到底如何产生。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B01",
+    "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+    "original_title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+    "url": "https://www.qbitai.com/2026/09/496494.html",
+    "published_at": "2026-09-23T17:46:57+08:00",
+    "discipline": "能源与算力产业",
+    "summary": [
+      "具体机制是把发电、储能、负荷和电价等信息组织成决策，尽量让算力任务与能源供给更好匹配。企业所述GW级绿电算力园区能力属于其业务表述，本文没有将其等同于独立验收结果。编辑可结合今日Machine & Market分析补问：任务被延后以后怎样补回、服务时限怎样满足、节省的是哪一段成本？这些问题让“算电协同”从口号变成可分析的工程方案；实际融资主库已按B拓展、C级单一企业供稿证据收录。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-C11",
+    "title": "标题与内情：数学、科学和工程中的AI理解与信任",
+    "original_title": "Headlines and inside stories: understanding and trust in AI for mathematics, science, and engineering",
+    "url": "https://terrytao.wordpress.com/2026/09/23/headlines-and-inside-stories-understanding-and-trust-in-ai-for-mathematics-science-and-engineering/",
+    "published_at": "2026-09-24T02:06:58+00:00",
+    "discipline": "科研方法与教育",
+    "summary": [
+      "文章开头关注引人注目的AI科学标题与内部工作之间的距离，主张把理解、验证和可靠使用分开考察。数学中，形式化证明可以交由证明助手按规则检查；天气预报能够持续与随后发生的观测对比；预测未来气候则缺少同样即时、重复的检验机会。作者因此强调信任不能只借用模型名声或某个成绩，需要与具体问题、验证过程和适用情境对应。结尾仍回到科学理解与工程可靠性的共同建设。",
+      "正文用气候模型说明一种具体分工：保留守恒关系和可以解析的物理尺度，把AI用于学习未解析尺度的参数化过程，再用高分辨率模拟和观测评估。这里“闭合”可以理解为给大尺度方程补上网格以下过程的影响。作者也讨论形式化证明和流体问题中的任务条件，提醒读者标题所指的命题可能与大众熟悉的宏大问题不同。编辑启发是，做AI4Sci项目时应首先写清哪些量能验证、哪些机制由物理约束、误差会在哪些情境放大。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-A01",
+    "title": "为“难成药”蛋白筛选治疗性多肽",
+    "original_title": "Screening therapeutic peptides for ‘undruggable’ proteins",
+    "url": "https://www.chemistryworld.com/news/screening-therapeutic-peptides-for-undruggable-proteins/4024242.article",
+    "published_at": "2026-09-23T14:38:00+01:00",
+    "discipline": "生命科学与药物",
+    "summary": [
+      "文章从许多转录因子缺少易被小分子抓住的口袋、且目标位于细胞内部这一难题展开。Revolver把转录因子活动与大肠杆菌的生存联系起来，用功能性筛选富集有效多肽；同时通过半胱氨酸相关环化策略改变肽的构象。报道称公司希望把这一流程用于传统难成药靶点，并逐步推进化学合成、人类癌细胞实验及递送问题。文章结尾关注平台扩展与实际药物研发，读者应理解为一条正在发展的技术路线。",
+      "细节在于，细胞回路将“蛋白是否仍在执行功能”变成可以选择的生存信号，筛选单位因而从单纯分子亲和力转向功能结果。文中还讨论计算方法压缩巨大的候选空间，以及进入哺乳动物细胞和跨越血脑屏障等后续难题。企业获2026年皇家化学会相关技术竞赛健康方向奖、获得资金和合作项目，是平台发展背景，不能替代药效评价。编辑可以用候选库、功能筛选、细胞验证三步图解释它的研发位置。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B19",
+    "title": "与部分报道相反，你并没有两个大脑",
+    "original_title": "Contrary to some reports, you don’t have two brains",
+    "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+    "published_at": "2026-09-23T18:47:00+00:00",
+    "discipline": "生命科学与药物",
+    "summary": [
+      "具体方法包括给不同来源细胞留下可追踪的荧光标记，再比较它们的后代；研究还用人类干细胞相关体系考察发育信号。BMP、SHH等信号的影响依赖细胞此前经历和当前位置，因此相同信号输入并不保证相同输出。区域边界及组织中心也会影响后续形成过程。编辑启发是，读生命科学新闻时要区分“来源不同”“发育机制有区别”和“形成两个器官”三种命题，先看作者到底追踪和测量了什么。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B20",
+    "title": "小型海底火山可能引发规模不相称的海啸",
+    "original_title": "Small undersea volcanoes may unleash outsized tsunamis",
+    "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+    "published_at": "2026-09-23T11:15:00+00:00",
+    "discipline": "天文与地球环境",
+    "summary": [
+      "报道介绍研究者将2015至2016年的基线海图，与2022年4月至10月五次测量比较，重建火山口变化。结果显示约4公里尺度的区域发生显著下陷，底部下降接近1公里，对应约6.85立方公里的空间变化。文章讨论浅而宽的岩浆储存结构失压后，顶部可能呈活塞式快速塌落，进而与异常强的海浪相联系。原标题使用“可能”，正文主线也是提出并评估机制，而非凭地形测量直接证明每一段海啸波形。",
+      "沉积物中交错出现的滑坡与火山碎屑层，为塌陷和喷发过程在时间上交织提供线索。这比只看一张喷发卫星照片更能解释海底发生了什么。报道还将问题扩展到汤加—克马德克弧其他海底火山和破火山口，强调重复测绘的必要性。编辑启发是灾害评估需要知道系统原来的样子：没有喷发前的基线，后来变化就难以量化；海底形状、结构和演化过程，也应进入人们理解风险的图景。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B21",
+    "title": "总编辑圈点丨人类仅给出高层检索方向，AI智能体自主发现未知酶系统",
+    "original_title": "总编辑圈点丨人类仅给出高层检索方向，AI智能体自主发现未知酶系统",
+    "url": "https://www.stdaily.com/web/gdxw/2026-09/26/content_587534.html",
+    "published_at": "2026-09-26T01:50:00+08:00",
+    "summary": [
+      "950个智能体筛选约20万条逆转录酶，实验跟进ART系统",
+      "https://www.stdaily.com/web/gdxw/2026-09/26/content_587534.html"
+    ],
+    "appearances": [
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B14",
+    "title": "AI药企Enveda获得3.11亿美元风险投资",
+    "original_title": "Enveda, an AI drugmaker, banks $311M in venture funding",
+    "url": "https://www.biopharmadive.com/news/enveda-ai-drug-discovery-series-e/831161/",
+    "published_at": "2026-09-23T13:55:00-04:00",
+    "discipline": "生命科学与药物",
+    "summary": [
+      "报道称Enveda完成3.11亿美元E轮融资，由Catalio领投，多家机构参与。公司运用AI处理植物、微生物等天然化学信息，推断分子结构和功能并筛选线索，再交由化学与研发团队推进。报道提到17个项目、3个临床阶段项目，文章结尾把关注点落在现有候选药的后续试验。资本投入说明公司获得继续研究的资源，药物是否能最终形成价值，仍要由各项目对应的安全性和有效性数据回答。",
+      "管线细节包括ENV294分子胶项目及湿疹相关早期信号，计划拓展的湿疹与哮喘研究；ENV308与运动相关代谢物Lac-Phe路线有关，探索体重管理中的应用；还有靶向TL1A的炎症性肠病方向。不同项目有各自阶段，不能把较早期安全性观察写成已证明治疗效果。编辑启发是读AI药企新闻时沿着数据、分子、实验、临床四个层次逐项定位，而不把所有项目进度折成一个“AI已经成功造药”的结论。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B16",
+    "title": "走进Basecamp Research：把进化变成训练数据的AI公司",
+    "original_title": "Inside Basecamp Research, the AI startup turning evolution into training data",
+    "url": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/",
+    "published_at": "2026-09-23T13:52:00+00:00",
+    "discipline": "生命科学与药物",
+    "summary": [
+      "报道介绍公司获得1.4亿美元融资，并以跨30多个国家、七大洲采集的生物多样性数据建设EDEN，涉及约15万亿DNA token。其主张是保留较长序列与环境上下文，补充公共数据库物种分布偏倚。文章同时谈到抗微生物分子与基因插入系统等方向，主旨是把自然进化积累的多样性转成设计资源，再通过实验反馈迭代。文中研究管线仍处研发阶段，不能把候选分子的实验表现等同临床成果。",
+      "一个有用细节是公司称约三分之一GPU资源投入强化学习，使用大量实验结果作反馈；模型选择也不能只看困惑度，因为预测序列更顺畅未必意味着生物功能更好。报道提到97%的抗微生物命中表现，指向被选中开展实验的样本集合，不能推广到所有生成序列。文章还涉及采样许可与利益分享，这关系到数据获取能否长期持续。编辑启发是评估生物基础模型时，要同时追问数据分布、筛选分母、实验反馈和具体应用阶段。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B15",
+    "title": "灵活数据中心需要为延后的工作找到去处",
+    "original_title": "A flexible data centre needs somewhere to put the postponed work",
+    "url": "https://machineandmarket.com/2026/09/23/flexible-data-centres-postponed-work/",
+    "published_at": "2026-09-23T11:59:00+00:00",
+    "discipline": "能源与算力产业",
+    "summary": [
+      "文章认为，暂时降低功率只是第一步，任务还要在之后的剩余容量内完成。作者设置一个100兆瓦数据中心的演算：若80%负荷可控、该部分降低25%，总功率下降20兆瓦，持续3小时产生相当于60兆瓦时的工作积压；若之后只有5兆瓦恢复余量，理想化补回需12小时。这里是帮助理解约束的情景计算，不是某个机房的实测数据。全文结论是评估灵活性必须同时看延迟任务、恢复容量和服务承诺。",
+      "正文还区分小规模GPU试验、园区整体功率、合同约定容量与实际可交付响应，防止把这些数字相加。它提到恢复阶段的功率爬坡、可接受时延、网络及任务迁移条件，说明电网需要的是持续可信的响应能力。编辑判断是，这给科研平台选择和能源项目分析提供一组具体问题：哪些任务能等、等多久、何时补算、会否造成下一轮峰值？这些答案比单次演示的降功率比例更接近真实运营价值。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B17",
+    "title": "从23%到35%：有成本竞争力的电气化与电网约束",
+    "original_title": "From 23 to 35 Percent: Cost-Competitive Electrification and the Grid Constraint",
+    "url": "https://joseluischavezcalva.substack.com/p/from-23-to-35-percent-cost-competitive",
+    "published_at": "2026-09-23T17:27:00+00:00",
+    "discipline": "能源与算力产业",
+    "summary": [
+      "文章从2025年电力约占终端能源23%讲起，转述IEA对现有价格条件下具有成本竞争力的电气化空间的分析，涉及约33%的潜在占比及2035年35%的情景。作者强调经济吸引力需要明确站在终端消费者还是全系统角度，发电、输配电和连接成本的口径不同。全文主线是电气化能提升能源使用效率，但能否兑现，受电网、投资、设备更新和政策执行约束；情景数字不能写成已经实现或国际一致承诺的目标。",
+      "正文用建设周期解释这种错位：数据中心可能两三年建成，而输电项目可能需要五至十三年，接网排队申请也不等于最终建成需求。此外，家庭与企业会受到前期费用、融资条件和现有设备寿命影响，电力的减排效果还取决于供电结构。编辑启发是，评价一项电气化技术要把使用效率、全生命周期成本和可接入的电网能力放在一起；本轮读的是这篇完整评论，IEA原报告未作为独立核读材料。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B23",
+    "title": "应对AI危机：一份写给学生的谦逊指南",
+    "original_title": "Navigating the AI crisis: a humble guide for students",
+    "url": "https://proofsandprompts.com/2026/09/23/navigating-the-ai-crisis-a-humble-guide-for-students/",
+    "published_at": "2026-09-23T11:00:00+00:00",
+    "discipline": "科研方法与教育",
+    "summary": [
+      "文章主张同时保留基础训练、关注工具变化，并为学生提供讨论困惑和判断研究价值的空间。作者担心技术竞争叙事会把焦虑与适应成本推给年轻人，因此把学习安排与学术职位、资源分配、工作条件放在一起讨论。结尾强调共同体行动和跨学科联系，让学生参与决定技术怎样进入自己的工作。今日发布的是博客版本；文章提及较早稿件，不能将全部内容标成今天首次提出。",
+      "具体建议包括组织学生能安心提出基础问题的研讨场合，不把高压力的公开问答社区当成唯一渠道；留出理解证明、交流想法和辨认研究问题的时间，也选择符合自身目的的工具。正文对大型AI公司的批评与开放工具偏好，均属于作者立场。编辑启发是把抽象职业焦虑拆成可操作事项：一周怎样分配时间、谁能给反馈、哪些任务必须自己讲清、怎样共同争取支持。这与今日高校教育访谈形成跨语境对照。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-B22",
+    "title": "AI.MATH：倡议公告",
+    "original_title": "AI.MATH: announcement",
+    "url": "https://proofsandprompts.com/2026/09/23/ai-math-announcement/",
+    "published_at": "2026-09-23T17:10:00+00:00",
+    "discipline": "科研方法与教育",
+    "summary": [
+      "官网提出研究与教育两类立场草案，并列出36个问题及可能答案，邀请参与者提出不同意见。页面明确这些是讨论起点，组织者将阅读反馈、修订文件，并让修改与尚未解决的分歧保持可见。开篇承认AI带来的机会、不确定性与职业担忧，结尾追问人的理解、劳动价值以及技术使用的决定权。应把这条新闻理解为讨论机制启动，而不是数学共同体已经形成统一政策。",
+      "具体入口还包括讨论板、Matrix交流空间与线上研讨活动，说明它希望把异步文字反馈和持续交流连接起来。本轮只读公告及官网首页，研究、教育草案子页没有逐页核读，因此不替它概括尚未确认的条款。作为扩源结果，AI.MATH以S163进入既有后台机构/低频参考目录，便于以后回查版本与原始立场；没有把它当作每日稳定发布新闻的平台，也没有与另一倡议AGMAI合并。"
+    ],
+    "appearances": [
+      "2026-09-24"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C01",
+    "title": "非晶合金电驱加速“上车”！东莞材料所携手企业推动产业化",
+    "original_title": "非晶合金电驱加速“上车”！东莞材料所携手企业推动产业化",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572117.shtm",
+    "published_at": "2026-09-24T22:06:48+08:00",
+    "discipline": "材料与能源",
+    "summary": [
+      "文章围绕9月23日产业论坛及东莞材料所与企业的合作展开，主旨是非晶合金正在跨过规模应用的加工门槛。非晶材料的原子缺少晶体那样的长程有序排列，具有高磁导、低铁损等特点。报道以广汽相关车型为例介绍非晶电机，并援引企业数据：相关方案铁芯损耗降低75%，电机峰值效率达到99%。这些数字分别对应磁芯损耗和特定工况下的电机效率，文章结尾指向科研机构与产业链协作推进应用。",
+      "正文最值得解释的是加工：约0.025毫米厚的带材薄而脆，铁芯叠到约3800层，对切割、叠片和热处理提出更高要求。团队需要控制激光加工及热处理带来的材料变化，才能保留低损耗特性。车用方案还结合碳纤维转子和碳化硅控制器，报道中控制器损耗下降71.6%以IGBT方案为比较对象。把不同零部件的贡献分开看，读者才能理解材料、机械、电控怎样一起改进系统；也能避免把某一部件的改善直接读成整车省电比例。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C02",
+    "title": "新框架为阿尔茨海默病精准干预提供“病理时钟”",
+    "original_title": "新框架为阿尔茨海默病精准干预提供“病理时钟”",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572081.shtm",
+    "published_at": "2026-09-24T15:35:20+08:00",
+    "discipline": "生命医药",
+    "summary": [
+      "文章的核心主张是，常用的淀粉样蛋白、Tau蛋白和神经退行指标，若仅按阳性或阴性分类，可能压缩了病程演化的信息。研究整合ADNI、A4等队列共3460人的资料，以MCADI框架识别易损、启动、放大和退行等四种可重复的模式。报道把这称为“病理时钟”：试图找到患者处于哪类变化轨迹，为干预窗口提供线索。结尾强调由静态分型走向动态病程理解的潜力。",
+      "方法并非只拿一张MRI图做分类。团队用影像组学相似性网络及其梯度刻画脑结构变化，并联结淀粉样蛋白、Tau、代谢、近7000种脑脊液蛋白及认知随访，寻找多尺度变化的一致性。对A4研究1169名参与者的再分析中，启动模式对应的治疗组认知下降相对更慢，而后期模式不明显；这属于既有试验数据的分组分析，不能直接作为临床选药规则。它给读者的具体启发是：总体平均效果可能掩盖阶段差异，下一步应检验分型能否前瞻性地改善试验设计。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C03",
+    "title": "科学家研发出单次充电跑完马拉松全程四足机器人",
+    "original_title": "科学家研发出单次充电跑完马拉松全程四足机器人",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572085.shtm",
+    "published_at": "2026-09-24T18:35:56+08:00",
+    "discipline": "机器人与科研自动化",
+    "summary": [
+      "RAIBO 2以4小时19分52秒完成马拉松，平均速度约2.64米每秒，途中累计爬升约286米；报道给出的电耗为1280瓦时，电池容量2016瓦时。文章从腿式机器人通常续航有限的问题出发，结论是硬件与控制共同优化能显著扩展连续行走距离，并为巡检和救援等用途提供可能。团队估计剩余电量还可支持约25公里，这一部分是估算，实跑证据仍是已经完成的赛程。",
+      "正文把关键拆成轻量化腿部、优化的电机驱动电路以及用机器学习得到的步态。降低腿部摆动代价、减少驱动损耗、让动作更经济，作用于不同能量去向，最终汇合为续航表现。报道用运输成本指标比较单位重量、单位距离所需能量，给出机器约0.25、人类约0.37的参考值；这种特定指标比较不等于机器人在所有运动场景都更省能。对读者有用的是学会看赛道、坡度、电池容量和实测耗电，而非只看“跑完全马”的演示标题。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C04",
+    "title": "量子模拟器再现高能物理“弦断裂”过程",
+    "original_title": "量子模拟器再现高能物理“弦断裂”过程",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572076.shtm",
+    "published_at": "2026-09-24T14:00:33+08:00",
+    "discipline": "物理与天文",
+    "summary": [
+      "文章描述团队操控13个离子，借激光调节它们之间的相互作用，构造对应高能物理模型的有效电荷与场。系统演化中，原先连接电荷的能量可以转化为新的粒子对，从而表现出弦断裂特征。报道从理论难题推进到可控制的实验模拟，结尾讨论量子模拟帮助理解非平衡物理的前景。这里观察的是人工构建系统中的模型行为，不能把离子直接称为真实夸克。",
+      "值得补充的是“模拟”的映射关系：研究者先选定想研究的理论，再把理论中的变量编码成可操纵的离子状态及耦合，让硬件按类似方程演化，然后测量结果。报道提到在可计算的小规模范围内，与经典计算作对照，这有助于检查实现是否符合目标模型。扩大系统规模以后，经典求解可能变得困难，是继续推进的动机。读者因此能分清三个层次：物理理论、用于模拟的量子硬件、实际测得的演化信号，理解这项工作的实验内容。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C05",
+    "title": "最大规模人脑基因表达图谱探析发育、衰老、退化和疾病",
+    "original_title": "最大规模人脑基因表达图谱探析发育、衰老、退化和疾病",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572063.shtm",
+    "published_at": "2026-09-24T11:28:00+08:00",
+    "discipline": "生命医药",
+    "summary": [
+      "文章主旨是把脑发育、衰老、退行性变化和疾病风险放在可比较的细胞尺度下研究。总图谱聚焦前额叶皮层约630万个细胞，其中健康生命历程部分涉及284名捐献者、约130万个细胞。研究比较细胞类型和年龄相关的基因表达变化，并将疾病风险与特定调控过程联系起来。结尾强调这些资料为后续理解疾病机制提供资源，读者应把它看作精细的研究地图，而非一张能够直接诊断个人的表格。",
+      "正文补充的关键在于，若只看整块脑组织的平均信号，会把神经元、胶质细胞等不同群体混在一起；单细胞分辨率有助于判断变化发生在哪类细胞。系列研究还讨论不同疾病共享的突触相关通路，以及遗传背景与风险解释的关系。对AI4Sci读者，这类数据的作用是为模型建立更细的参照：一个预测到底对应哪个细胞群、哪段生命历程和哪种病理背景。模型可用它寻找线索，但遗体样本的观察关联仍需后续机制实验连接到因果过程。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C07",
+    "title": "“计算医学”用超强算力解决真实医学难题——专家解读《医药工业发展“十五五”规划》纳入新名词",
+    "original_title": "“计算医学”用超强算力解决真实医学难题——专家解读《医药工业发展“十五五”规划》纳入新名词",
+    "url": "https://www.stdaily.com/web/gdxw/2026-09/24/content_587753.html",
+    "published_at": "2026-09-24T20:35:01+08:00",
+    "discipline": "生命医药",
+    "summary": [
+      "文章围绕十部门印发的《医药工业发展“十五五”规划》展开，赵宇认为计算医学应依靠数据、算力和模型研究真实疾病，把分子、细胞、器官与个体层面的联系纳入分析。采访的主旨是让计算能力服务于疾病机制理解、诊疗与干预方案，而不只提高某一步候选药物筛选效率。规划所提2030年全球首创新药相关占比目标属于发展目标，应与当前已经实现的能力区分开来。",
+      "正文对“数字孪生”的解释尤其值得展开：若模型希望推演一次干预怎样影响人体，就需要把多源数据组织成能表达相互作用的系统，并接受疾病场景和真实结果检验。赵宇强调的问题导向意味着，输入更多数据或使用更大模型只是手段，选择合适的生理层级和验证方式同样关键。这提供了一个读产业新闻的具体方法：看研究者能否说明预测什么、哪些变量发生联系、如何验证干预后果。上述研究路线和价值判断均归属于受访专家，不能直接写成所有团队已经达成的技术共识。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C08",
+    "title": "国内首个规模化应用18兆瓦超大型海上风电机组项目在广东阳江投运",
+    "original_title": "国内首个规模化应用18兆瓦超大型海上风电机组项目在广东阳江投运",
+    "url": "https://www.stdaily.com/web/gdxw/2026-09/24/content_587498.html",
+    "published_at": "2026-09-24T16:08:39+08:00",
+    "discipline": "材料与能源",
+    "summary": [
+      "报道介绍项目总装机容量200万千瓦，布置131台风机，其中33台采用18兆瓦机组。大型机组叶轮直径292米，扫风面积约6.6万平方米。文章以项目投运为主线，强调超大型风机规模应用和海上输电配套的进展；预计年发电量66亿千瓦时是设计或运营预期，不能当成项目已经运行一年取得的实绩。对读者而言，单机容量和整个风场的规模需要放在不同层次理解。",
+      "正文还讲到500千伏海上输电及中间无功补偿方案。海缆距离增加后，电缆电气特性会带来无功管理问题，补偿设施帮助维持远距离送出能力，这是大叶片照片不容易展示的技术环节。由此可见，海上风电的科研与产业联系不只在新材料和叶片，也在电力电子、系统设计及海工可靠性。编辑上可把“捕获风能—发电—海上集电—送出”画成示意流程，让读者理解为什么发电设备升级必须配合同步的电网工程。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C11",
+    "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+    "original_title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+    "url": "https://www.qbitai.com/2026/09/496767.html",
+    "published_at": "2026-09-24T13:19:55+08:00",
+    "discipline": "机器人与科研自动化",
+    "summary": [
+      "文章以5分钟纳管机器人、10秒启动跨集群任务为标题，介绍把具身设备纳入云原生调度的方法。平台将设备与GPU等资源统一管理，用任务配置组织训练和执行，并提供跨集群网络连接。正文演示北京机器人与广东GPU配合，通过RLinf完成采集、训练、策略更新的循环，给出36分钟、323步的案例。文章结尾强调减少环境配置与资源衔接成本；项目文档记载2026年8月已经开源，因此9月24日是本篇报道日期，不写成当天首次开源。",
+      "具体机制包括设备插件、embodied-runtime和Job—Task—Worker任务层级；跨集群通信用虚拟TUN网络、gVisor及SSH连接，帮助不同网络环境中的任务相互找到。作者在三集群、约百节点及四类机器人环境中给出吞吐对比，较VPN方案的改善受报文规模和测试网络条件影响。5分钟与10秒也对应项目提供的配置与测试条件。读者最应带走的是：把机器人训练做成可重复流程，需要同时管理物理设备、计算资源和通信，而不仅是换一个策略模型。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C12",
+    "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+    "original_title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+    "url": "https://www.qbitai.com/2026/09/496778.html",
+    "published_at": "2026-09-24T13:45:20+08:00",
+    "discipline": "机器人与科研自动化",
+    "summary": [
+      "文章的核心主张是数据质量和人机对应关系比单纯累计时长更关键。团队提出从机器人动作出发，通过Psi-W0相关生成方法构造可配对的人类操作视频，把动作轨迹与视觉变化连接起来；这样形成的强配对数据，比只知道人和机器人做了同一类任务的弱配对资料，更容易提供明确监督。正文还讨论任务多样性、动作片段和标签组织，结尾把规模化能力增长与更扎实的数据基础联系起来。",
+      "值得解释的是生成视频模型和机器人策略的分工：前者帮助制造或转换训练材料，后者还要从这些材料中学会在真实环境采取动作。文章介绍上层任务分解与下层轨迹执行，以及用人类反馈继续优化特定任务；手机盒操作约99%的成功率是公司报告的具体任务结果。配套页面存在早期研究预览与后续报告，本轮按新闻全文转述，没有把未完整核读的技术报告当独立验证。读者可以用“配对是否准确、动作能否回放、任务是否多样”三个问题理解这套数据路线。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C13",
+    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+    "original_title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+    "url": "https://www.qbitai.com/2026/09/496816.html",
+    "published_at": "2026-09-24T16:20:12+08:00",
+    "discipline": "机器人与科研自动化",
+    "summary": [
+      "文章主张借助统一模型和上下文学习，让机器人读取示范视频后完成相关操作，而无需为每次示范更新模型权重。作者用换盒子、浇水、绘制动作和多杯调制等例子说明目标，并给出RoboDojo十八项任务平均62.2%、LIBERO-Pro约86.7%的公司测试结果。结尾把系统描述为向可泛化具身能力迈进的路线；这些具体基准和任务设置承载着数字含义，不宜将其改写为现实所有家务都能一次学会。",
+      "正文可拆成四个功能：GLOW把感知、语言和动作连接，Dream生成训练或推演经验，World预测行动后的环境变化，Agent维护记忆、反馈和再规划。一次示范提供的是临时上下文，模型还需要识别环境差异，并根据执行反馈调整后续动作。这让读者理解“一教就会”背后的多个步骤：看出目标、建立动作对应、预想后果、处理失败。编辑上适合画成闭环示意，而不是把四个产品名堆在一张封面上；演示效果与长期可靠性则需要后续持续观察。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C14",
+    "title": "成立九年，中科类脑把积累装进Token工厂",
+    "original_title": "成立九年，中科类脑把积累装进Token工厂",
+    "url": "https://www.qbitai.com/2026/09/496615.html",
+    "published_at": "2026-09-24T08:48:02+08:00",
+    "discipline": "材料与能源",
+    "summary": [
+      "文章认为，把模型推理服务做成稳定供给，需要统筹芯片、模型、任务和能源。中科类脑提出一个决策大脑连接电力、算力和Token三个子系统，利用此前BitaHub等平台积累组织资源。新闻从成立九年的历程展开，结尾落到算电协同型基础设施的产业化；文中提到2026年数亿元B+轮融资是历史背景，本轮已追到9月7日至8日相关报道，按旧闻补录融资库，不把它写成9月24日刚完成。",
+      "机制上，能延后执行的批处理任务适合随资源条件迁移，实时交互则更受延迟和服务连续性约束。访谈还谈到推理预填充与解码分离、KV缓存传输，以及为异构芯片建立能力画像，说明调度需要知道任务和设备各自的特征。企业跨上海、芜湖、乌鲁木齐的测试给出迁移、控制响应和能耗预测指标，但这些指标不能自动换算成普遍节电比例。对研究者的启发是把性能、能源、网络和任务时限共同纳入优化目标。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C15",
+    "title": "《中国海洋发展指数报告2026》发布",
+    "original_title": "《中国海洋发展指数报告2026》发布",
+    "url": "https://www.news.cn/tech/20260924/463240dfee1b4a67bf0e04cbdf6bbf6c/c.html",
+    "published_at": "2026-09-24T09:06:24+08:00",
+    "discipline": "地球气候与海洋",
+    "summary": [
+      "报告以2015年为基期100，给出2025年中国海洋发展指数132.3、同比增长2.5%的结果。科技维度指数138.5、同比增长2.5%，报道还涉及深海活动、新能源及海洋产业发展。文章的主要结论是多个维度共同支撑海洋发展水平提升；发布于2026年的报告描述的是2025年指标，不能把报告发布时间当成被测活动发生时间。",
+      "正文的结构提示读者，综合指数不是单个科学发现，也不是把所有进展简单加总。技术创新、资源利用和生态治理衡量不同方面，整体上升仍需要回到分项理解，才能知道具体变化在哪。对于AI4Sci选题，海洋观测数据、深海装备和环境管理都是可继续研究的切口，但本篇没有逐项证明AI的贡献。适合在账号中作为海洋科研产业背景，说明为什么数据获取、工程能力和治理方法必须协同；若要比较不同年份，则应继续核对报告的方法和权重是否一致。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C16",
+    "title": "宁夏科普大讲堂解锁气象与健康密码",
+    "original_title": "宁夏科普大讲堂解锁气象与健康密码",
+    "url": "https://www.stdaily.com/web/gdxw/2026-09/24/content_587632.html",
+    "published_at": "2026-09-24T17:53:30+08:00",
+    "discipline": "地球气候与海洋",
+    "summary": [
+      "文章围绕气象条件怎样影响健康展开，涉及高温、寒冷以及沙尘、花粉等暴露因素，也谈到更大尺度气候现象与环境条件的联系。其主旨是让公众认识气象风险与健康之间多条关联，增强对环境变化的理解；结尾落到科普传播与科学应对。新闻事实是专家讲座及所介绍的研究视角，报道没有提供一项当天完成的新临床试验，成稿应保持这一材料性质。",
+      "其中值得展开的是多种因素叠加：温度变化可能与空气质量、花粉季节或特定人群的基础健康状况相互关联。要研究这种关系，通常需要把气象观测、环境暴露与健康资料放在合适的时间和空间尺度下分析；这是从讲座主题延伸出的编辑解释，而非原文给出的量化因果结论。它让读者看到跨学科工作的实际接口，也为日后讨论天气预警与人群风险模型提供背景。账号应以研究机制和公共科学理解为重点，不从这则短讯推导个人诊疗建议。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C06",
+    "title": "基金委管理科学部发布1个专项项目申请指南",
+    "original_title": "基金委管理科学部发布1个专项项目申请指南",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572121.shtm",
+    "published_at": "2026-09-24T23:02:14+08:00",
+    "discipline": "科研方法与政策",
+    "summary": [
+      "官方完整标题为《关于发布2026年度国家自然科学基金委员会管理科学部专项项目“人工智能驱动的质量管理理论与方法创新”申请指南的通告》。9月24日的通知确认指南发布，并引导申请人及依托单位进入科学基金网络信息系统查询。它说明一个专项申请入口开放，不能据此认定项目已经立项或已有资助结果。",
+      "操作上，应在官方系统的项目管理、项目指南入口查看完整要求，再由申请人与依托单位核对资格和申报条件。本轮可公开读取的是通告，登录后的指南未获取，因此不编写截止日、预算、申请代码或细分课题。新闻本身较短，保留必要信息即可；后续若获得公开完整版，再补成面向研究团队的申报解读。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-C18",
+    "title": "大模型下乡，122名村医的一年答卷",
+    "original_title": "大模型下乡，122名村医的一年答卷",
+    "url": "https://www.vbdata.cn/1519096508",
+    "published_at": "2026-09-24T08:00:00+08:00",
+    "discipline": "生命医药",
+    "summary": [
+      "文章给出122名村医、4520张处方等实践记录，并以过去一年运行回答基层服务怎样落地的问题。流程包括培训考核、村医使用辅助工具、医生确认处方、云药房审核调配配送及后续回访。报道列出的89.78%回访有效率缺乏对照设计和统一终点说明，应作为项目方回访统计呈现，不能写成模型治疗有效率。结尾谈到扩大基层服务网络的计划，计划规模与已经服务的数量应分别表达。",
+      "正文具体讲到结构化中医知识、模型能力与药事服务之间的配合：模型提供支持后，仍有医生签署与药房复核等责任环节；回访信息又回到服务记录。处方中西医诊断信息不完整的现象，也显示真实基层数据与标准研究数据之间存在距离。对科研与产业读者，值得继续追问的是病例如何规范记录、反馈怎样定义、后续评价怎样设置比较组。该报道补上了此前动脉网访问缺口的一篇实际全文，让账号有机会讨论落地中的组织能力，而不只转述模型参数。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-E11",
+    "title": "Google DeepMind的AlphaGenome图谱预测全基因组DNA变异对基因调控的影响",
+    "original_title": "Google DeepMind’s AlphaGenome Atlas predicts how every DNA mutation affects gene regulation across the human genome",
+    "url": "https://www.chemistryworld.com/news/google-deepminds-mutation-atlas-shines-a-light-on-our-dark-dna/4024246.article",
+    "published_at": "2026-09-24T13:30:00+01:00",
+    "discipline": "生命医药",
+    "summary": [
+      "文章介绍对全基因组可能的单碱基替换及大量插入缺失变异进行预测，考察基因表达、剪接及染色质相关调控后果。核心主张是把原本难以解释的非编码区域变异变成可排序、可继续验证的候选线索，帮助研究者决定先查哪里。结尾讨论图谱对遗传疾病解释的机会及进一步验证需求；它提供的是模型预测资源，预测的覆盖广度与每个位置都得到实验确认是不同概念。",
+      "正文用DNM1相关的罕见癫痫脑病变异说明用途：某些改变可能通过剪接等过程影响蛋白产物，图谱让研究者更容易追到这种间接路径。专家也指出，变异之间的组合、细胞类型及个体背景会影响实际后果，单个位点的预测难以容纳全部情况。对读者最有帮助的理解是把图谱当成实验优先级工具：先缩小范围，再用功能实验、病例及其他证据确认。本轮读的是专业媒体报道，没有把其引用预印本写作已独立全文核读。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-E02",
+    "title": "头脑与双手：Octant内部，AI正在改变什么",
+    "original_title": "Mens et Manus",
+    "url": "https://srikosuri.substack.com/p/mens-et-manus",
+    "published_at": "2026-09-24T14:47:34+00:00",
+    "discipline": "生命医药",
+    "summary": [
+      "文章开篇强调动手实验反过来塑造思考，主旨是AI的价值依赖可靠实验、持续积累的程序记忆和更好的下一步问题。作者回顾Fabry病项目：早期测定看起来不错，动物结果却令人失望，重新建立活细胞底物降低测定后才看到被忽略的抑制问题。结尾希望更快得到有价值答案，也更早停止薄弱方向；因此公司追求的不只是多生成候选分子，而是提高实验与决策相互修正的效率。",
+      "Octomind把项目目标、假设、来源、失败路线、成本和执行条件组织起来，再连接实验选择。一个具体例子是把HPV18的微弱信号纠正为相对阳性对照约1.3%，随后保留对HPV16的较窄判断，让修正进入后续记忆。作者还用自有约1.1万条一致PXR测量对照文献中分散资料，说明数据口径的重要性。供应商查询和部分执行可逐步自动化，但完整闭环是发展方向；文中一次20个化合物的建议也不是已证明研发成功率提升。读者应关注能否追溯每次判断与修正。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-E10",
+    "title": "Grail多癌种检测获得FDA顾问支持",
+    "original_title": "Grail multicancer detection test wins FDA advisers’ backing",
+    "url": "https://www.biopharmadive.com/news/grail-multicancer-detection-test-wins-fda-advisers-backing/831286/",
+    "published_at": "2026-09-24T17:08:00-04:00",
+    "discipline": "生命医药",
+    "summary": [
+      "报道显示小组对获益风险判断投出7票赞成、2票反对、1票弃权，安全性获一致支持，有效性相关表决则为6比4。Galleri分析血液中游离DNA的甲基化信号，判断是否存在癌症相关信号及可能来源。文章结尾指向FDA后续决定：专家咨询投票提供建议，最终审批仍是另一阶段；该检测先前以实验室开发检测形式提供服务，也不能替代这一审批过程。",
+      "正文的重要细节是大型NHS研究主要终点未达到，而企业强调部分分期转移等结果。不同指标回答不同问题：检出信号、提前发现、减少晚期癌症和改善长期结局不能自然画等号。文章还谈到不同癌种证据强弱与阴性结果可能带来的虚假安心。对普通读者，应清楚说明它并不替代现有乳腺、宫颈、结直肠及肺癌等推荐筛查；对研发读者，启发则是同时设计诊断性能、后续检查路径与患者结局评价，才能回答多癌种筛查的真实价值。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-E01",
+    "title": "BioByte第172期：解码基因组",
+    "original_title": "BioByte 172: Decoding Genomes",
+    "url": "https://decodingbio.substack.com/p/biobyte-172-decoding-genomes",
+    "published_at": "2026-09-24T15:31:41+00:00",
+    "discipline": "生命医药",
+    "summary": [
+      "通讯介绍MINERVA从基因组相邻关系与序列信号中寻找潜在相互作用，筛出与逆转录酶等相关的候选结构，再通过实验追查。另一部分Tatta使用基因组模型辅助改造聚酮合酶，尝试提高目标产物生成。文章以研究进展穿插融资和合作消息，整体结论是模型正在更直接地连接基因组组织与可测试的生物功能；这里保留为一篇资讯汇编，内部项目按来源关系标注，不把所有旧融资重复计成今日新事件。",
+      "具体到实验，MINERVA线索中的UG27系统在大肠杆菌表达后产生特定短单链DNA，破坏逆转录酶或去除相关组分会影响这一产物，但生物学功能仍需研究。Tatta部分介绍两轮酶序列改造，报道的最佳产量改进分别约5.7倍和9.4倍，比较对象与实验路线不同，不能累乘；模型似然和结构置信度也未能直接排出产量名次。两例共同说明，序列模型的贡献是提出更有希望的问题与设计，功能和产量仍要交给具体实验回答。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-X02",
+    "title": "Earendil Labs宣布与Genentech合作，发现和开发肿瘤治疗双特异性抗体",
+    "original_title": "Earendil Labs Announces Research Collaboration with Genentech to Discover and Develop Therapeutic Bispecific Antibodies in Oncology",
+    "url": "https://www.prnewswire.com/news-releases/earendil-labs-announces-research-collaboration-with-genentech-to-discover-and-develop-therapeutic-bispecific-antibodies-in-oncology-302888622.html",
+    "published_at": "2026-09-24T07:00:00-04:00",
+    "discipline": "生命医药",
+    "summary": [
+      "公告称Earendil负责发现及早期临床开发，Genentech负责约定项目的后续全球临床开发和商业化，具体靶点组合未披露。首付款为5500万美元；包含首付款及开发、监管、销售里程碑的潜在总额超过15亿美元，另有分级销售分成。后续款项取决于相应条件和里程碑，不能把潜在上限写成公司已到账融资。",
+      "双特异性抗体能够结合两个靶标或位点，其药物设计需要同时考虑结合关系、功能和可开发性。合作把分子发现、验证、临床与商业推进分配给双方，公告中关于平台优势的说法归属于企业。对读者的具体启发是先看项目阶段和责任划分，再看付款条件；这比单独比较交易“总价值”更能理解AI药物公司的商业路径。该合作记为研发授权新闻，不进入中国初创股权融资事件表。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-E08",
+    "title": "用自制设备测量遥远的小行星",
+    "original_title": "Measure Distant Asteroids With a DIY Rig",
+    "url": "https://spectrum.ieee.org/asteroid-shadow",
+    "published_at": "2026-09-24T13:00:04+00:00",
+    "discipline": "物理与天文",
+    "summary": [
+      "小行星从恒星前方经过时会让光暂时变暗，不同地点观察到的开始和结束时间对应穿过小行星阴影的不同弦线，合起来可约束形状。作者用130毫米望远镜、相机和自制校时装置完成多次观测，举出Duccio约12公里尺度、阴影移动约24公里每秒的例子。文章从DIY器材出发，结尾强调普通爱好者参与有组织观测的可能性，真正目标是提供可用数据。",
+      "正文最关键的是时钟：高速移动的阴影使毫秒级误差也会变成明显的空间误差，电脑给视频打的时间戳未必足够可靠。作者利用GPS每秒脉冲与LED闪光建立校时参照，用Arduino控制在观测片段前后产生标记，避免闪光污染事件本身。24帧每秒视频还带来帧时间分辨率约束。这样读者能理解设备清单背后的测量逻辑：先确定需要的时间精度，再安排同步、记录和多站汇总，而不是把低成本器材本身当作科研贡献。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-E03",
+    "title": "研究发现，多位AI专家低估了领域进展速度",
+    "original_title": "Top AI experts badly underestimated how fast the field is moving, study finds",
+    "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
+    "published_at": "2026-09-24T19:18:33+00:00",
+    "discipline": "科研方法与政策",
+    "summary": [
+      "文章主旨是部分能力里程碑比专家原先预计更早到来，例如国际数学奥林匹克金牌水平任务。受访样本包含学界与产业人士，研究将不同专业背景的判断和后续观测进行比较，指出部分人低估了进展速度。结尾把结果与持续更新预期的必要性联系起来。这里的新闻结论适用于所选问题与时间窗口，不能由少数提前实现的任务直接推导所有科研能力都会同样加速。",
+      "正文还提示测量上的不对称：过于悲观的预测可在事件提前发生时立即显现，过于乐观的预测往往要等约定期限过去才能判错。生物学问答或竞赛题能力，也与实际实验室表现不同；报道引用的一项实验任务比较给出使用模型组约5.2%、互联网对照约6.6%的成功率。这些细节帮助读者分清“会回答问题”与“能完成现实工作”。编辑上应保留各任务的定义、基线和截止时间，才能把趋势判断变成可回查的预测记录。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-E06",
+    "title": "无后继者之地的统治者：对AGMAI的回应",
+    "original_title": "Rulers of the childless land: A response to the AGMAI",
+    "url": "https://proofsandprompts.com/2026/09/24/rulers-of-the-childless-land-a-response-to-the-agmai/",
+    "published_at": "2026-09-24T17:26:58+00:00",
+    "discipline": "科研方法与政策",
+    "summary": [
+      "文章反对通过拒绝审理机器辅助论文等承诺来应对变化，认为这可能保护已有地位而把适应成本转给年轻人。作者从学术传承和制度责任展开，强调研究共同体不能只表达道德立场而忽略实际资源与职业机会。结尾延续对倡议路线的批评，属于作者的规范性主张；关于倡议者动机的推断也应明确归属，不写成已经核实的共同事实。",
+      "正文的深层问题是规则如何作用于不同位置的人：导师有多少资源、学生是否可以试验工具、论文质量由谁判断、公开承诺会不会催生隐蔽使用。该文与同日讨论数学创新路径的文章出发点不同，却都在要求说明人类研究者的角色。编辑上可以并列呈现“保留独立理解”“保障探索机会”“透明评价证据”等具体问题，避免压成支持或反对AI两个阵营。若后续做完整深度稿，应继续核读倡议原文与回应，而不是仅凭一篇评论代替双方论证。"
+    ],
+    "appearances": [
+      "2026-09-25"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-C02",
+    "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+    "original_title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+    "url": "https://www.qbitai.com/2026/09/492429.html",
+    "published_at": "2026-09-19T14:39:32+08:00",
+    "summary": [
+      "报道跨领域科学预测、癌症实验及轨道幂律",
+      "https://www.qbitai.com/2026/09/492429.html"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-C03",
+    "title": "AI系统可快速精准匹配X光与三维扫描图像",
+    "original_title": "AI系统可快速精准匹配X光与三维扫描图像",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/571885.shtm",
+    "published_at": "2026-09-22T14:57:41+08:00",
+    "summary": [
+      "xvr从CT/MRI合成X光并适配患者实现配准",
+      "https://news.sciencenet.cn/htmlnews/2026/9/571885.shtm"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-C04",
+    "title": "华北电力大学杨维结副教授：AI绘制固态储氢材料全景导航 | 专家访谈",
+    "original_title": "华北电力大学杨维结副教授：AI绘制固态储氢材料全景导航 | 专家访谈",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/571894.shtm",
+    "published_at": "2026-09-22T18:33:31+08:00",
+    "summary": [
+      "访谈阐述数据库、材料验证和防止训练测试泄漏",
+      "https://news.sciencenet.cn/htmlnews/2026/9/571894.shtm"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-C07",
+    "title": "学者论坛：超导百年：材料、强关联机理与 AI 逆向设计",
+    "original_title": "学者论坛：超导百年：材料、强关联机理与 AI 逆向设计",
+    "url": "https://news.uestc.edu.cn/info/1015/43921.htm",
+    "published_at": "2026-09-25",
+    "summary": [
+      "公告列物理约束、声子稳定性、高精度计算与Li2AuH6候选",
+      "https://news.uestc.edu.cn/info/1015/43921.htm"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-C09",
+    "title": "AI加速进入科研“深水区”！2026岳麓大会“AI+科研创新”分论坛聚焦AI4S新范式",
+    "original_title": "AI加速进入科研“深水区”！2026岳麓大会“AI+科研创新”分论坛聚焦AI4S新范式",
+    "url": "https://k.sina.com.cn/article_1912964267_720584ab02002actk.html",
+    "published_at": "2026-09-25T18:21:00+08:00",
+    "summary": [
+      "报道河套学院湿实验全流程与广州实验室AI抗体智造分享",
+      "https://k.sina.com.cn/article_1912964267_720584ab02002actk.html"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-C10",
+    "title": "北京开始建自主实验室：科研 Agent 的终点是实验闭环",
+    "original_title": "北京开始建自主实验室：科研 Agent 的终点是实验闭环",
+    "url": "https://blog.ccino.org/p/beijing-autonomous-labs-experiment-loop-2026/",
+    "published_at": "2026-09-25T10:30:00+08:00",
+    "summary": [
+      "评论讨论模型提出假设、设备执行、数据返回下一轮的实验闭环",
+      "https://blog.ccino.org/p/beijing-autonomous-labs-experiment-loop-2026/"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-C11",
+    "title": "AI接管实验室？自主实验室，正在北京开启科研新范式｜科学智能北京范儿",
+    "original_title": "AI接管实验室？自主实验室，正在北京开启科研新范式｜科学智能北京范儿",
+    "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202609/t20260924_257187.html",
+    "published_at": "2026-09-25",
+    "summary": [
+      "原文详述AI大脑—执行仪器—结构化数据闭环和科研案例",
+      "https://www.ncsti.gov.cn/kjdt/xwjj/202609/t20260924_257187.html"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-E03",
+    "title": "AI Health Friday Roundup",
+    "original_title": "AI Health Friday Roundup",
+    "url": "https://aihealth.duke.edu/ai-health-roundup-september-25-2026/",
+    "published_at": "2026-09-25",
+    "summary": [
+      "仅AI4S段落用于发现，ART与C01合并，纯公共卫生段落筛除",
+      "https://aihealth.duke.edu/ai-health-roundup-september-25-2026/"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-M1",
+    "title": "From non-sofic to non-hyperlinear groups: the new messiness of discovering and announcing big results",
+    "original_title": "From non-sofic to non-hyperlinear groups: the new messiness of discovering and announcing big results",
+    "url": "https://proofsandprompts.com/2026/09/25/from-non-sofic-to-non-hyperlinear-groups-the-new-messiness-of-discovering-and-announcing-big-results/",
+    "published_at": "2026-09-25T21:33:21+00:00",
+    "summary": [
+      "群逼近研究者回顾AI辅助证明、理解、引用和优先权争论",
+      "https://proofsandprompts.com/2026/09/25/from-non-sofic-to-non-hyperlinear-groups-the-new-messiness-of-discovering-and-announcing-big-results/"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-M2",
+    "title": "Dear conferences, journals, and hiring committees: don’t wait for everyone else",
+    "original_title": "Dear conferences, journals, and hiring committees: don’t wait for everyone else",
+    "url": "https://proofsandprompts.com/2026/09/25/dear-conferences-journals-and-hiring-committees-dont-wait-for-everyone-else/",
+    "published_at": "2026-09-04",
+    "summary": [
+      "作者以打磨AI证明经历论证应奖励理解与完善；原文9/4，9/25转载",
+      "https://proofsandprompts.com/2026/09/25/dear-conferences-journals-and-hiring-committees-dont-wait-for-everyone-else/"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-M3",
+    "title": "ICIAM Statement on Mathematics and Artificial Intelligence",
+    "original_title": "ICIAM Statement on Mathematics and Artificial Intelligence",
+    "url": "https://terrytao.wordpress.com/2026/09/25/iciam-statement-on-mathematics-and-artificial-intelligence/",
+    "published_at": "2026-09-25T19:06:58+00:00",
+    "summary": [
+      "已读声明网页摘要：守恒、对称、稳定性、误差和失败探索共享",
+      "https://terrytao.wordpress.com/2026/09/25/iciam-statement-on-mathematics-and-artificial-intelligence/"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-M4",
+    "title": "Recommendations of the Summit on PhD Math Education in the Age of AI",
+    "original_title": "Recommendations of the Summit on PhD Math Education in the Age of AI",
+    "url": "https://terrytao.wordpress.com/2026/09/25/recommendations-of-the-summit-on-phd-math-education-in-the-age-of-ai/",
+    "published_at": "2026-09-25T15:20:41+00:00",
+    "summary": [
+      "已读发布短文：9/17–18峰会、建议初稿征求反馈；附件403",
+      "https://terrytao.wordpress.com/2026/09/25/recommendations-of-the-summit-on-phd-math-education-in-the-age-of-ai/"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-F1",
+    "title": "Roche's Genentech inks $1.5B bispecific pact with fast-rising Earendil",
+    "original_title": "Roche's Genentech inks $1.5B bispecific pact with fast-rising Earendil",
+    "url": "https://www.fiercebiotech.com/biotech/genentech-inks-15b-bispecific-pact-fast-rising-earendil",
+    "published_at": "2026-09-25T02:51:56-04:00",
+    "summary": [
+      "报道及公司原公告明确AI设计和高通量实验用于肿瘤抗体项目",
+      "https://www.fiercebiotech.com/biotech/genentech-inks-15b-bispecific-pact-fast-rising-earendil"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "20260926-T1",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "original_title": "Astra and Opus just passed Turing’s other test",
+    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "published_at": "2026-09-25T10:24:00-07:00",
+    "summary": [
+      "报道模型利用档案线索、模拟与已知签名帮助破解历史电文，由密码研究者确认",
+      "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
+    ],
+    "appearances": [
+      "2026-09-26"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260923-SYNCRAFT",
+    "title": "Nat. Mach. Intell. | 引导大语言模型预测分子可合成性优化的编辑序列",
+    "original_title": "Nat. Mach. Intell. | 引导大语言模型预测分子可合成性优化的编辑序列",
+    "url": "https://hub.baai.ac.cn/view/58308",
+    "published_at": "2026-09-27T20:00:00+08:00",
+    "summary": [
+      "原文方法段说明检索3332对参考案例、生成编辑操作、逆合成及对接评价",
+      "https://hub.baai.ac.cn/view/58308"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260927-COGNITIVE-SANCTUARIES",
+    "title": "Cognitive Sanctuaries or: Manifesto of the Department Chair",
+    "original_title": "Cognitive Sanctuaries or: Manifesto of the Department Chair",
+    "url": "https://terrytao.wordpress.com/2026/09/27/cognitive-sanctuaries-or-manifesto-of-the-department-chair/",
+    "published_at": "2026-09-27T21:11:54+00:00",
+    "summary": [
+      "以宇宙学推断和模拟为场景，提议现场解释及替代假设评价",
+      "https://terrytao.wordpress.com/2026/09/27/cognitive-sanctuaries-or-manifesto-of-the-department-chair/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260920-UNITARYLAB",
+    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+    "original_title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+    "url": "https://www.qbitai.com/2026/09/498605.html",
+    "published_at": "2026-09-27T21:57:57+08:00",
+    "date_precision": "second",
+    "summary": [
+      "正文将智能体与科学计算问题建模相连",
+      "https://www.qbitai.com/2026/09/498605.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28",
+      "2026-09-29",
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260927-KOREA",
+    "title": "韩国首届“AI for Science”国际学术大会“AI4Sci Korea 2026”将于首尔举行",
+    "original_title": "韩国首届“AI for Science”国际学术大会“AI4Sci Korea 2026”将于首尔举行",
+    "url": "https://www.digitaltoday.co.kr/cn/view/107729/ai-scientists-gather-for-ai4sci-korea-2026-conference",
+    "published_at": "2026-09-27T10:00:00+09:00",
+    "summary": [
+      "正文说明科学智能体规划执行研发流程、科学专题及SEED研究案例",
+      "https://www.digitaltoday.co.kr/cn/view/107729/ai-scientists-gather-for-ai4sci-korea-2026-conference"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260927-RESEARCH-SOFTWARE",
+    "title": "Where do correctness and understanding live in research software?",
+    "original_title": "Where do correctness and understanding live in research software?",
+    "url": "https://blog.kolen.dev/math/research-software.html",
+    "published_at": "2026-09-27",
+    "summary": [
+      "从模型方程到近似、算法、代码四层链条讨论测试不足及物理验证",
+      "https://blog.kolen.dev/math/research-software.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-CHANGJIANG",
+    "title": "“长江杯”全球AI蛋白质设计挑战赛启动",
+    "original_title": "“长江杯”全球AI蛋白质设计挑战赛启动",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572537.shtm",
+    "published_at": "2026-10-06T22:15:43+08:00",
+    "date_precision": "second",
+    "discipline": "生命/蛋白设计",
+    "summary": [
+      "报道以蛋白质序列空间巨大开篇：100个氨基酸位置就对应极多可能组合，逐一实验不可行，AI因此承担候选生成和筛选。赛事聚焦纳米抗体与小型结合蛋白的从头设计，计划为至少5000个入选候选提供免费的标准化表达、纯化与亲和力测定，并设置百万元级奖金。报道的主要看点是将设计竞赛连接到统一实验条件，以实测结果评价方案。赛事已在9月24日启动；10月6日的新报道补充传播这一机制，不能改写成今天才启动。",
+      "统一实验让不同团队的模型输出有机会进入同一把尺子：预测分数很高，未必代表蛋白能稳定表达；成功表达，也未必代表结合能力达到目标。把这些步骤拆开，有助于识别算法究竟改善了哪一环。赛事提供实验资源还降低了只有计算条件的团队参与门槛，可能积累可比较的设计—实验数据。上述价值来自报道所述赛事安排，实际候选完成数和最终排名仍需以后核查。今日归档沿用已有赛事事件ID，把新报道作为同一事件的来源关系，避免重复统计一次启动。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28",
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-GPCA",
+    "title": "GPCA：AI重写化学品发现规则，海湾化工从大宗品向高价值分子寻路",
+    "original_title": "GPCA：AI重写化学品发现规则，海湾化工从大宗品向高价值分子寻路",
+    "url": "https://www.b910.cn/N/6590.html",
+    "published_at": "2026-09-27T12:14:00+08:00",
+    "summary": [
+      "GPCA原文说明AI候选→物理模拟→实验→回流数据",
+      "https://www.b910.cn/N/6590.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260729-MOORE",
+    "title": "Knowing vs. Understanding: Humans and Machines in Puzzle-land",
+    "original_title": "Knowing vs. Understanding: Humans and Machines in Puzzle-land",
+    "url": "https://proofsandprompts.com/2026/09/27/knowing-vs-understanding-humans-and-machines-in-puzzle-land/",
+    "published_at": "2026-09-27T11:00:00+00:00",
+    "summary": [
+      "以幻方/拼板说明答案与可解释推理的区别",
+      "https://proofsandprompts.com/2026/09/27/knowing-vs-understanding-humans-and-machines-in-puzzle-land/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260924-MICROBIOME-GRANT",
+    "title": "一周热闻回顾（2026年9月27日）",
+    "original_title": "一周热闻回顾（2026年9月27日）",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572189.shtm",
+    "published_at": "2026-09-27T22:27:34+08:00",
+    "summary": [
+      "周报再次提及基金委AI微生物组项目，已在既有记录核验",
+      "https://news.sciencenet.cn/htmlnews/2026/9/572189.shtm"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-28"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-CAS-PLAN",
+    "title": "《中国科学院“十五五”发展规划》发布 | 锚定科技强国目标 决胜“四个率先”攻坚",
+    "original_title": "《中国科学院“十五五”发展规划》发布 | 锚定科技强国目标 决胜“四个率先”攻坚",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572194.shtm",
+    "published_at": "2026-09-28T08:37:18+08:00",
+    "date_precision": "second",
+    "summary": [
+      "规划单列AI驱动科研范式变革，建设磐石和智能科学家系统并整合装置与观测数据",
+      "https://news.sciencenet.cn/htmlnews/2026/9/572194.shtm"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-GREEN-SOLVENTS",
+    "title": "“绿色”努力后，化学家仍难以摆脱危险溶剂",
+    "original_title": "“绿色”努力后，化学家仍难以摆脱危险溶剂",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572232.shtm",
+    "published_at": "2026-09-28T16:20:13+08:00",
+    "date_precision": "second",
+    "summary": [
+      "新闻说明用该系统追踪500多类反应的溶剂；官方README证明依赖模型原子映射RXNMapper并含确定性分类",
+      "https://news.sciencenet.cn/htmlnews/2026/9/572232.shtm"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-CHAIR44",
+    "title": "AI发现一种能铺满整个空间、图案却永不周期重复的三维形状",
+    "original_title": "AI finds 3D shape that fills all space with a never-repeating pattern",
+    "url": "https://www.newscientist.com/article/2589966-ai-finds-3d-shape-that-fills-all-space-with-a-never-repeating-pattern/",
+    "published_at": "2026-09-28T13:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "记者转述Tsiokos工作并采访Goodman-Strauss、Kaplan对形状有效性及证明可读性的评价",
+      "https://www.newscientist.com/article/2589966-ai-finds-3d-shape-that-fills-all-space-with-a-never-repeating-pattern/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260925-NINELOOP",
+    "title": "仅用数天时间，大模型Claude完成散射振幅九圈计算",
+    "original_title": "仅用数天时间，大模型Claude完成散射振幅九圈计算",
+    "url": "https://www.stdaily.com/web/gjxw/2026-09/29/content_589232.html",
+    "published_at": "2026-09-29T01:01:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "正文将模型推导与具体物理计算相连",
+      "https://www.stdaily.com/web/gjxw/2026-09/29/content_589232.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29",
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-MATHATHON",
+    "title": "关于Mathathon的联合声明",
+    "original_title": "Joint Statement about Mathathon",
+    "url": "https://proofsandprompts.com/2026/09/28/joint-statement-about-mathathon/",
+    "published_at": "2026-09-28T16:44:23+00:00",
+    "date_precision": "second",
+    "summary": [
+      "联合声明将活动改为旧问题新证明；40小时学习、两个月证明/解释作品并提供提示和代码记录",
+      "https://proofsandprompts.com/2026/09/28/joint-statement-about-mathathon/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260912-YOCSEF-QINGDAO",
+    "title": "YOCSEF青岛举办“超智融合赋能 AI for Science：机遇、挑战与适用性”观点论坛",
+    "original_title": "YOCSEF青岛举办“超智融合赋能 AI for Science：机遇、挑战与适用性”观点论坛",
+    "url": "https://www.ccf.org.cn/YOCSEF/Branches/Qingdao/News/2026-09-28/935870.shtml",
+    "published_at": "2026-09-28",
+    "date_precision": "day",
+    "summary": [
+      "论坛正文以基因到蛋白、通路和细胞的虚拟细胞为场景，讨论模型验证与科学适用性",
+      "https://www.ccf.org.cn/YOCSEF/Branches/Qingdao/News/2026-09-28/935870.shtml"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-LEADHEALTH",
+    "title": "【首发】利德健康完成数千万元Pre-A++轮融资，加速高端科学仪器和AI for Science业务发展",
+    "original_title": "【首发】利德健康完成数千万元Pre-A++轮融资，加速高端科学仪器和AI for Science业务发展",
+    "url": "https://www.vbdata.cn/1519097014",
+    "published_at": "2026-09-28T09:12:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "融资正文说明投入仪器及AI4S；官网AI成像流式产品说明给出算法、测量对象和具体科研用途",
+      "https://www.vbdata.cn/1519097014"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-DUTYKH",
+    "title": "应用数学曾经遇见过机器",
+    "original_title": "Applied mathematics has met the machine before",
+    "url": "https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before/",
+    "published_at": "2026-09-28T14:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "以FPUT、数值实验及物理建模讨论AI结果的verification/validation和人类责任",
+      "https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-HENRY",
+    "title": "独特性的消失",
+    "original_title": "The Loss of Singularity",
+    "url": "https://proofsandprompts.com/2026/09/28/the-loss-of-singularity/",
+    "published_at": "2026-09-28T11:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "作者提出以二维对数气体为共同对象积累可解释知识、调整研究评价与合作方式",
+      "https://proofsandprompts.com/2026/09/28/the-loss-of-singularity/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-QIAGEN",
+    "title": "Qiagen以人工整理的知识为药物发现智能体提供依据",
+    "original_title": "Qiagen grounds drug discovery agents in curated knowledge",
+    "url": "https://siliconangle.com/2026/09/28/qiagen-grounds-ai-drug-discovery-agents-curated-knowledge-neo4jgraphsummit/",
+    "published_at": "2026-09-28T18:38:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "访谈说明人工整理知识库为药物发现agent提供上下文和可追溯证据",
+      "https://siliconangle.com/2026/09/28/qiagen-grounds-ai-drug-discovery-agents-curated-knowledge-neo4jgraphsummit/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260928-THEORY-REWARD",
+    "title": "理论能否被清楚写出，又能否得到奖励？",
+    "original_title": "Can a theory be laid out, and can it be rewarded?",
+    "url": "https://blog.kolen.dev/math/theory-reward.html",
+    "published_at": "2026-09-28",
+    "date_precision": "day",
+    "summary": [
+      "讨论如何使科学软件中的理论和设计理由可外显、可交接，并提出未来修改任务评价",
+      "https://blog.kolen.dev/math/theory-reward.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260926-YOCSEF-DALIAN",
+    "title": "CCF YOCSEF大连举办观点论坛：从“天方夜谭”到“实验室现实”：AI驱动功能材料发现的瓶颈与破局",
+    "original_title": "CCF YOCSEF大连举办观点论坛：从“天方夜谭”到“实验室现实”：AI驱动功能材料发现的瓶颈与破局",
+    "url": "https://yocsef.ccf.org.cn/YOCSEF/News/2026-09-27/935735.shtml",
+    "published_at": "2026-09-27",
+    "date_precision": "day",
+    "summary": [
+      "论坛具述Pt-TiN/TiO2及聚合物/碳纳米管体系，连接模型与独立实验",
+      "https://yocsef.ccf.org.cn/YOCSEF/News/2026-09-27/935735.shtml"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-29"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260929-CAS-EXTREME",
+    "title": "【新华社】中国科学院启动实施科学前沿极限突破计划",
+    "original_title": "【新华社】中国科学院启动实施科学前沿极限突破计划",
+    "url": "https://www.cas.cn/cm/202609/t20260929_5121213.shtml",
+    "published_at": "2026-09-29",
+    "date_precision": "day",
+    "summary": [
+      "同一计划报道，将AI与装置、科学选题结合",
+      "https://www.cas.cn/cm/202609/t20260929_5121213.shtml"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30",
+      "2026-09-30",
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260930-C02",
+    "title": "1个月写104篇论文，这位终身教授的产出速度吓到同行",
+    "original_title": "1个月写104篇论文，这位终身教授的产出速度吓到同行",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572336.shtm",
+    "published_at": "2026-09-29T20:54:55+08:00",
+    "date_precision": "second",
+    "summary": [
+      "报道Polson/Sokolov的AI工作流与同行对工作论文数量和验证的争论",
+      "https://news.sciencenet.cn/htmlnews/2026/9/572336.shtm"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260930-C03",
+    "title": "大数据智能决策技术助力黑龙江玉米生产数字化转型",
+    "original_title": "大数据智能决策技术助力黑龙江玉米生产数字化转型",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/9/572335.shtm",
+    "published_at": "2026-09-29T20:15:16+08:00",
+    "date_precision": "second",
+    "summary": [
+      "国家重点研发项目展示强化学习种植规划及生育过程预测方法",
+      "https://news.sciencenet.cn/htmlnews/2026/9/572335.shtm"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260930-E01",
+    "title": "AI真的能证明什么吗？",
+    "original_title": "Can AI truly prove anything?",
+    "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
+    "published_at": "2026-09-29T11:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "全文讨论机器证明怎样成为人类可以理解和继承的数学知识",
+      "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260915-OUTPOST",
+    "title": "微生物组基础模型能否跨生境迁移？",
+    "original_title": "Can Microbiome Foundation Models Transfer Across Biomes?",
+    "url": "https://www.outpost.bio/perspectives/can-microbiome-foundation-models-transfer-across-biomes",
+    "published_at": "2026-09-10",
+    "date_precision": "day",
+    "summary": [
+      "比较含/不含人体与肠道训练集，并以统一110000样本控制规模",
+      "https://www.outpost.bio/perspectives/can-microbiome-foundation-models-transfer-across-biomes"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30",
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260930-E05",
+    "title": "Gowers在2022年选择了传统人工智能",
+    "original_title": "Gowers chose good old-fashioned AI in 2022",
+    "url": "https://blog.kolen.dev/link/gowers-gofai.html",
+    "published_at": "2026-09-29",
+    "date_precision": "day",
+    "summary": [
+      "作者回顾Gowers 2022项目目标，比较自动求解与可理解证明",
+      "https://blog.kolen.dev/link/gowers-gofai.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20260930-E06",
+    "title": "替代动物实验的技术已近成熟，科学家尚未准备好",
+    "original_title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
+    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "published_at": "2026-09-29T13:00:02+00:00",
+    "date_precision": "second",
+    "summary": [
+      "全文举Greenstone人源组织加AI的流程，并讨论验证与标准化",
+      "https://spectrum.ieee.org/alternatives-to-animal-testing"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "DEEP-CP00187",
+    "title": "实验规模太大？雇一位移动机器科学家",
+    "original_title": "Experiment too big? Hire a mobile robot scientist",
+    "url": "https://news.liverpool.ac.uk/2020/07/08/experiment-too-big-hire-a-mobile-robot-scientist/",
+    "published_at": "2020-07-08T14:55:55+00:00",
+    "date_precision": "second",
+    "summary": [
+      "报道机器人在十维配方空间迭代选择实验并测量反应产物",
+      "https://news.liverpool.ac.uk/2020/07/08/experiment-too-big-hire-a-mobile-robot-scientist/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-09-30"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-C01",
+    "title": "Artificial intelligence identifies signs of aging in blood stem cells through images of the nucleus",
+    "original_title": "Artificial intelligence identifies signs of aging in blood stem cells through images of the nucleus",
+    "url": "https://idibell.cat/en/2026/09/artificial-intelligence-identifies-signs-of-aging-in-blood-stem-cells-through-images-of-the-nucleus/",
+    "published_at": "2026-09-28",
+    "date_precision": "day",
+    "summary": [
+      "三维染色质图像预测年龄并测量干预响应",
+      "https://idibell.cat/en/2026/09/artificial-intelligence-identifies-signs-of-aging-in-blood-stem-cells-through-images-of-the-nucleus/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01",
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-C02",
+    "title": "计算机网络信息中心举行磐石科研智能生态1.0发布会",
+    "original_title": "计算机网络信息中心举行磐石科研智能生态1.0发布会",
+    "url": "https://www.cnic.cas.cn/gzdt/202609/t20260930_8288830.html",
+    "published_at": "2026-09-30T14:47:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "确认磐石生态发布活动",
+      "https://www.cnic.cas.cn/gzdt/202609/t20260930_8288830.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01",
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-CORPUS",
+    "title": "协同共创高质量科技语料体系",
+    "original_title": "协同共创高质量科技语料体系",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/qtrd_kjrd/202609/t20260930_257512.html",
+    "published_at": "2026-09-30",
+    "date_precision": "day",
+    "summary": [
+      "全文明示科技语料连接原始科研资源与AI模型；5类42项标准和联合验证",
+      "https://www.ncsti.gov.cn/kjdt/kjrd/qtrd_kjrd/202609/t20260930_257512.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01",
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-C08",
+    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "original_title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "url": "https://www.qbitai.com/2026/09/499654.html",
+    "published_at": "2026-09-30T14:03:43+00:00",
+    "date_precision": "second",
+    "summary": [
+      "访谈具体讨论数学任务并行损耗、能力归因及提出问题的能力",
+      "https://www.qbitai.com/2026/09/499654.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-E01",
+    "title": "谷歌找到为AI设计的蛋白质添加水印的方法",
+    "original_title": "Google figures out how to watermark AI-designed proteins",
+    "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "published_at": "2026-09-30T15:54:52+00:00",
+    "date_precision": "second",
+    "summary": [
+      "微调氨基酸选择概率，在保留可用蛋白质的同时检测生成来源",
+      "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-E02",
+    "title": "AI怎样改变、又怎样没有改变我做数学的方式",
+    "original_title": "How AI does, and does not, change the way I do math",
+    "url": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/",
+    "published_at": "2026-09-30T00:19:10+00:00",
+    "date_precision": "second",
+    "summary": [
+      "作者区分AI辅助技术执行和数学研究的创造、意义与共同理解",
+      "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-E03",
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "original_title": "Responsible Release of AI-Generated Mathematics",
+    "url": "https://agmai.org/general-sep29/",
+    "published_at": "2026-09-29",
+    "date_precision": "day",
+    "summary": [
+      "建议披露模型过程、证明归属和共同体审查",
+      "https://agmai.org/general-sep29/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01",
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-E04",
+    "title": "致欧洲数学会的公开信",
+    "original_title": "Open letter to the European Mathematical Society",
+    "url": "https://proofsandprompts.com/2026/09/30/open-letter-to-the-european-mathematical-society/",
+    "published_at": "2026-09-30T14:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "建议由数学共同体组织AI数学研究机构并制定发布和教育机制",
+      "https://proofsandprompts.com/2026/09/30/open-letter-to-the-european-mathematical-society/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-E05",
+    "title": "一个美好时代的终结",
+    "original_title": "The End of a Beautiful Era",
+    "url": "https://proofsandprompts.com/2026/09/30/the-end-of-a-beautiful-era/",
+    "published_at": "2026-09-30T11:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "作者讨论AI证明产出如何改变数学理解、资源和研究者角色",
+      "https://proofsandprompts.com/2026/09/30/the-end-of-a-beautiful-era/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-E06",
+    "title": "数学是预警的金丝雀",
+    "original_title": "Mathematics is the canary",
+    "url": "https://blog.kolen.dev/RSE/UoE/2026-09-30-agentic-math-article.html",
+    "published_at": "2026-09-30",
+    "date_precision": "day",
+    "summary": [
+      "从形式化证明检查延伸到科研软件的物理约束、收敛与参考解验证",
+      "https://blog.kolen.dev/RSE/UoE/2026-09-30-agentic-math-article.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20260930-E07",
+    "title": "Building a new path to make medicines with AI",
+    "original_title": "Building a new path to make medicines with AI",
+    "url": "https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai",
+    "published_at": "2026-09-29",
+    "date_precision": "day",
+    "summary": [
+      "公司介绍设计—候选—实验的流程",
+      "https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01",
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "DEEP-CP01042",
+    "title": "ProteinMPNN excels at creating new proteins",
+    "original_title": "ProteinMPNN excels at creating new proteins",
+    "url": "https://www.ipd.uw.edu/2022/09/proteinmpnn-excels-at-creating-new-proteins/",
+    "published_at": "2022-09-16T10:49:47-07:00",
+    "date_precision": "second",
+    "summary": [
+      "生成骨架、设计序列、预测检查与实验构成研究流程",
+      "https://www.ipd.uw.edu/2022/09/proteinmpnn-excels-at-creating-new-proteins/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-01"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-C01",
+    "title": "巨头竞速AI4S：微软推出生物学世界模型 Anthropic、OpenAI等也都下场了",
+    "original_title": "巨头竞速AI4S：微软推出生物学世界模型 Anthropic、OpenAI等也都下场了",
+    "url": "https://www.cls.cn/detail/2497537",
+    "published_at": "2026-10-03T17:11:00+08:00",
+    "date_precision": "second",
+    "discipline": "生命医药",
+    "summary": [
+      "文章从微软推出生物学世界模型写起，主旨是AI正在进入生命科学的研究流程。按报道，Quine连接多种生物数据，用模型预测分子干预与细胞状态之间的关系，再配合工具与实验反馈。在胰腺癌案例中，研究人员从数千种化合物中挑出更值得实验检验的候选。报道末尾将其与Anthropic、OpenAI及药企合作联系起来，呈现从通用模型走向专业科研系统的趋势；涉及其他公司的案例分属不同月份，不能统称当天发布。",
+      "更值得补充的是“世界模型”在这里承担的具体工作：蛋白质、基因组、细胞状态和图像并非互不相干的输入，系统试图建立这些尺度之间的共同表示，用来判断改变一个环节可能怎样影响另一个环节。微软项目说明还把模型、研究工具和实验迭代放进同一系统。编辑理解是，筛选效率的价值在于把有限的湿实验机会集中到有希望的假设上；报道转述的加速属于候选选择环节，真实生物效果仍由实验回答。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-C04",
+    "title": "施郁：今年诺贝尔物理学奖，我为何看好他们",
+    "original_title": "来论｜2026年诺贝尔物理学奖，我为何看好“学习、记忆和计算的统计物理”",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572473.shtm",
+    "published_at": "2026-10-04T08:29:27+08:00",
+    "date_precision": "second",
+    "discipline": "物理与神经科学",
+    "summary": [
+      "正文中的空腔方法尤其适合解释：先暂时拿掉一个节点，观察邻居对它的影响，再用局部关系逐步建立整体解；在树状结构上关系严格，在复杂网络上要考虑近似条件。Hopfield网络则把回忆理解成系统回到某个稳定状态，文中约0.138N的容量是特定理想模型条件下的量，不是人脑记忆比例。另一个直接连接科学用途的例子是利用蛋白序列共变推断残基接触：从大量序列里的共同变化，寻找折叠结构的约束。这些具体机制，比押中某位获奖者更有长期阅读价值。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-C05",
+    "title": "我国科学家借助新方法与AI，突破最大超对称杨–米尔斯理论高圈计算难关",
+    "original_title": "我国科学家借助新方法与AI，突破最大超对称杨–米尔斯理论高圈计算难关",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572424.shtm",
+    "published_at": "2026-10-01T19:35:27+08:00",
+    "date_precision": "second",
+    "discipline": "物理",
+    "summary": [
+      "文章的主题是新方法与AI怎样配合，把最大超对称杨–米尔斯理论中的部分高圈计算向前推进。研究者强调在每一步利用对称性，先压缩可能的答案，再让AI辅助处理繁琐计算与自动化环节。报道列出六粒子MHV和NMHV振幅的九圈symbol，以及随后十圈计算的进度；报道中的“半天”对应方法准备后的具体求解阶段。结尾把讨论带回科学判断和研究生训练：问题选择、物理直觉和对结果的理解，仍由研究者把关。",
+      "理解这件事需要分清symbol与完整函数。前者记录函数中特定的代数结构，能把巨大表达式变成更容易施加约束的对象；完整函数还需要额外信息，因此不能把不同团队的计算对象直接横向排名。报道还举三点形状因子与大量项的例子，说明靠人工逐项操作为什么吃力。编辑理解是，突破来自物理结构降低搜索空间，再由工具执行高强度运算，两者缺一不可；AI的角色是让方法更容易落地，而科学家要知道为何这些约束成立、答案代表什么。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-C02",
+    "title": "丘成桐新论文致谢了GPT和Claude",
+    "original_title": "丘成桐新论文致谢了GPT和Claude",
+    "url": "https://www.qbitai.com/2026/10/499991.html",
+    "published_at": "2026-10-02T15:27:03+08:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "报道介绍论文声称为全部28类七维奇异球面构造正截面曲率度量，并将其放在丘成桐早年问题的背景中。原标题把GPT和Claude的致谢作为入口，正文进一步说明模型参与证明策略探索、计算和材料处理，人类作者承担论文内容责任。文章的读者价值在于呈现数学家怎样实际使用工具：把想法转成可检验的构造，再一步步核对论证。几何结论在此按报道归于论文作者，尚待数学共同体检验，不能把媒体报道等同独立验证。",
+      "正文还解释了构造的难点：北、南两个部分不只要各自具有合适曲率，拼接处的度量和相关边界条件也必须匹配。研究借助主丛结构与黎曼子浸理论，把某些高维空间上的计算转换为目标空间的曲率条件，并用计算工具检查复杂关系。这比“模型写出了答案”更接近实际过程。编辑理解是，AI可以帮助探索路线和处理繁琐表达式，但一份数学证明的价值仍落在所有关键条件能否被清楚陈述、每一步能否经受他人检查上。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-E08",
+    "title": "开源BootLoops工具框架支持AI模型进行精确科学计算",
+    "original_title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+    "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+    "published_at": "2026-10-03T09:19:23+00:00",
+    "date_precision": "second",
+    "discipline": "物理与跨学科计算",
+    "summary": [
+      "报道的开篇判断是，自动解题和有价值的研究并不等同。按Schwartz叙述，团队用BootLoops调动模型与计算工具，在三个月内与19名合作者形成跨18个领域的36份手稿；这些是作者的阶段性工作统计。粒子物理案例包括30个积分，其中15个复现已知结果，15个被作者报告为新计算。文章结尾强调可靠方法会让科研加速，而人类的方向判断和科学品味仍不可替代；数量本身不代表所有手稿都已经完成同行评议。",
+      "生态案例最能解释这个判断：工具求出中性生物多样性理论中的方程，再与巴拿马森林数据比较，作者报告物种组成变化比理论预期快4.5倍。专家指出，定性偏离已为领域所知，随后把偏离整理成可用于预测的模型，才让计算更有科学意义。框架的方法则是用符号约束缩小函数范围、高精度数值固定系数，再用独立可运行脚本和额外点检验。编辑理解是，模型把不同领域的工具连起来，专家把“可算的问题”改造成“值得回答的问题”。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-E03",
+    "title": "强大AI模型的到来，对我这样的数学家意味着什么？",
+    "original_title": "What does the advent of powerful AI models mean for mathematicians like me?",
+    "url": "https://terrytao.wordpress.com/2026/10/03/what-does-the-advent-of-powerful-ai-models-mean-for-mathematicians-like-me/",
+    "published_at": "2026-10-03T14:31:54+00:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "完整标题问的是强大模型对“我这样的数学家”意味着什么。开头承接关于证明、知识价值和数学未来的讨论，随后解释作者实际怎样使用AI：核对引理、整理文章、接触不熟悉的数学方向，以及与工具对话。她看重的是降低沟通和学习的阻力，尤其在文理学院缺少同领域伙伴时。结尾把新工具放进数学共同体的价值里：人仍要提出问题、理解论证并能向别人解释，工具带来的便利不能代替这些工作。",
+      "正文另一个重要层面是机构环境。教学负担、缺少研究生助教和晋升评价，会改变研究者使用工具的方式；同样的AI能力，在不同大学里不一定产生同样的收益。作者也提到给同一问题寻找另一种证明的意义：新的表达可能让结构更透明，帮助学习和进一步研究。编辑理解是，AI的价值可以先体现在缩短一次求助的等待时间、暴露一个不一致处、给出学习入口；每个建议随后都要转回可检查的数学陈述，这才使聊天真正进入知识生产。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-E05",
+    "title": "又一篇关于AI的文章：AI、理解与数学工作",
+    "original_title": "YAPOAI (Yet Another Post on AI): AI, understanding, and mathematical work",
+    "url": "https://proofsandprompts.com/2026/10/03/yapoai-yet-another-post-on-ai-ai-understanding-and-mathematical-work/",
+    "published_at": "2026-10-03T10:00:00+00:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "作者开篇声明这是个人反思，随后讲找参考文献、学习陌生概念、编程、寻找反例和探索证明的实际用途。主张的核心是认真采用工具，同时保留可独立检查的结果与责任。形式证明可以检查某个陈述是否在给定公理下成立，但研究者必须确认陈述确实表达原问题。结尾讨论公开基础设施与学术共同体，强调不能靠维持集体无知来应对变化；让更多人接触可靠工具，比只用封闭资源竞争更符合其判断。",
+      "正文提出一种有启发的分工：先发表完整、可检查的结果与证书，再允许另一份工作深入解释为什么成立、结构意味着什么，后者不必由同一作者完成。研究日志记录模型版本、失败尝试和人类修改，可帮助追查路线；多个模型互相批评能发现错误，但意见一致不是数学证明。博士培养也应评价学生能否改动假设、构造例子并解释关键步骤。编辑理解是，成果的正确性和研究者的能力都是必要目标，评价方式需要分别看见它们。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-E04",
+    "title": "一种可能的未来",
+    "original_title": "One possible future",
+    "url": "https://proofsandprompts.com/2026/10/03/one-possible-future/",
+    "published_at": "2026-10-03T14:00:00+00:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "文章从常见的角色退让开始：AI能解题，人来挑题；若AI也能挑题，人来解释；如果解释也被工具承担，又会怎样？作者选择将假设推到尽头，再提出自己喜欢的答案：人仍可以共同探索和理解数学，即使对知识生产不再提供额外效率。结尾关注这样的共同体怎样组织与获得支持。它讨论的是一种未来制度的可能样貌，读者价值在于帮助拆开“生产更多结果”和“掌握数学”这两个评价目标。",
+      "正文最具体的设想是“数学口试式证书”：学习者准备笔记，在友好的长时间问答中解释证明、回应变化和追问，通过对话展示真正内化的理解；失败结果可保持私密，允许再次尝试。评价者也可以借助工具准备问题，但最终仍需要可审阅的交流。作者还承认制度信誉和资源安排并不自动解决。编辑理解是，这种思考把论文之外的能力显现出来：能解释一个定理为什么成立、哪些条件一改就失效，仍是可与他人共享的真实成就。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-E07",
+    "title": "AIM：邀请大家一起探索数学",
+    "original_title": "AIM: an invitation to explore mathematics together",
+    "url": "https://terrytao.wordpress.com/2026/10/02/aim-an-invitation-to-explore-mathematics-together/",
+    "published_at": "2026-10-02T19:11:36+00:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "文章开篇说明倡议受到近期AI与数学讨论启发，项目将具体问题、动机和参考资料放在公共仓库，邀请共同探索。解答可以使用或不使用AI，但需要解释和核验。作者还介绍配套的数学解释活动，希望参与者把为什么成立、方法怎么工作的理解传播出去。结尾的邀请面向共同体，而非展示一次模型排名；项目关注的是如何把更便捷的解题能力转成公开、可学习的数学材料。",
+      "正文的实用细节包括按本科生与研究生、博士后等群体组织的参与机会，以及2027年1月1日23:59 UTC的相关提交期限。解释形式可包括文字和视频，评价看准确性与表达清晰度，不只是最先拿到答案。公开问题也给人机协作提供了一个可核对的边界：先确定问题，再检查解答，而不是从生成文本里事后挑看似漂亮的结论。编辑理解是，共享问题、共享核验与共享解释能使工具收益被更多人利用，也让学习者有机会展示自己的判断。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-E02",
+    "title": "开源AstaBrief：Asta中的快速报告生成模型",
+    "original_title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://allenai.org/blog/astabrief",
+    "published_at": "2026-10-02",
+    "date_precision": "day",
+    "discipline": "科研证据综合",
+    "summary": [
+      "文章开篇指出科学回答需要相关证据、适当结论和可追踪引用，随后介绍基于Qwen3的8B模型如何接收问题及检索片段，直接生成报告。团队把此前多阶段的摘要、聚类与写作过程简化为生成步骤，并开放相关权重和数据。文中报告生成环节接近一个数量级的加速，整条管线则约由178.5秒降至51.1秒；这两个比较对象不同。结尾强调开源资源让研究者可以检验和继续改进科学报告系统。",
+      "训练材料也说明为什么它不是普通的“把搜索结果润色一下”：团队从约9万条查询构造约4.7万条监督样本，再用约6000组偏好对训练，筛选时要求两位判断者意见一致。正文还特别关注引用密度、过度概括，以及从描述性证据跳到因果或建议的风险。专家试读包含14个问题、3名科学家，样本规模应伴随结果交代。编辑理解是，可靠综述不仅要能找到论文，还要把每个具体论点与相应证据匹配，速度提升之后仍需检查这种对应关系。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261004-E09",
+    "title": "在天文学中，理解意味着什么？",
+    "original_title": "What does understanding mean in astronomy?",
+    "url": "https://blog.kolen.dev/link/werk-sanctuaries.html",
+    "published_at": "2026-10-03",
+    "date_precision": "day",
+    "discipline": "天文与科研方法",
+    "summary": [
+      "文章标题问“理解”在天文学中意味着什么，正文把它拆成测量、预测、解释和培养人的不同目标。作者转述一个假想案例：AI使用未来巡天的公共数据，宣称发现演化暗能量；他追问大量尝试的计算成本、完整决策记录和统计检验。结尾将讨论延伸到科研软件工程师的价值，认为有效沟通科学需求并转成软件设计同样重要。全文的主旨是，不同研究岗位所谓的理解并非同一种能力，评价时必须讲明对象。",
+      "关键机制是多重检验：若不断尝试许多分析路径，只保留最显著的那个，单次分析的显著性就不能直接当作整体证据；完整失败记录有助于判断到底试过多少次。宇宙微波背景工作还要求盲分析、识别与控制系统误差，最终测量同时交代统计和系统不确定性。作者认为仪器、分析限制和理论含义各有需要掌握的知识。编辑理解是，AI提高探索速度之后，科研评价应能看见怎样排除了错误路径，而不只看最终生成了多漂亮的论文。"
+    ],
+    "source_verification": {
+      "verification": "新闻全文和来源核验；未独立复现研究结论",
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-04"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20261005-E01",
+    "title": "NASA与IBM的开源月球模型，把17年轨道观测数据变成月球科学研究的基础",
+    "original_title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+    "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+    "published_at": "2026-10-04T10:10:12+00:00",
+    "date_precision": "second",
+    "summary": [
+      "文章从17年的月球勘测轨道飞行器数据出发，介绍一套联合四个任务、九种仪器、三十多层对齐数据的模型。训练继承TerraMind的多模态架构，但用月球数据从头学习；输入既有高分辨率图像，也有地形、重力和元素分布。主要用途包括识别撞击坑、不规则月海斑块，以及预测极区水冰的可能稳定区域。报道援引项目评估：在水冰预测任务中，相对采用ImageNet预训练的Swin V2 B基线，均方根误差降低约22%；这指模型预测任务中的比较，不能写成新发现了22%的月球水冰。",
+      "正文值得补上的机制是“先理解观测条件，再理解地貌”。模型显式编码太阳角度和图块范围，避免把同一地貌在不同光照下的明暗变化当成地质差异；FlexiViT帮助处理约1米与100米尺度的数据。多模态预训练通过遮蔽部分信息，让模型从其他观测补全关系，下游再针对具体科学任务微调。撞击坑数量可帮助推断地表年龄，火山地貌则关联月球热演化。编辑看点是科学基础模型如何联合观测与问题；公开项目提供微调和推理代码，README说明预训练代码不在该仓库内。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-05"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20261005-C02",
+    "title": "一周热闻回顾（2026年10月4日）",
+    "original_title": "一周热闻回顾（2026年10月4日）",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572500.shtm",
+    "published_at": "2026-10-04T22:20:39+08:00",
+    "date_precision": "second",
+    "summary": [
+      "周回顾概括了计划以重大科技基础设施开放联用和AI赋能为抓手，组织建制化攻关的主旨。回溯全文后，关键内容更清楚：选题机制包括国家战略中的真实问题、跨装置与跨学科合作产生的新问题，以及AI从文献和实验数据中识别接近突破的关键问题。首批十个项目涉及新元素合成、暗物质暗能量本质、化学键微观测量、人工合成细胞等方向。这是研究组织与支持机制的公告，报道说明的是拟怎样开展研究，不能把计划设想写成已经取得这些科学发现。",
+      "最有信息量的是“理论—实验—数据”闭环：先把分散的文献和装置数据汇集，借助AI发现值得追问的关系，再由装置集群的自动化实验快速验证。原文也提出分类支持、长短周期结合，以及青年人才的长期稳定支持。编辑理解是，AI的价值需要与数据可用性、装置能力和研究者判断一起发挥；挑出候选问题只是进入验证流程的起点。周回顾末尾还有其他学科、奖励与治理新闻，缺少AI直接参与的部分不进入本次选题。这样保留报道的真实性质，也把具体研究机制讲清楚。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-05"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20261005-E02",
+    "title": "关于不可压缩流体的经典解与奇点形成",
+    "original_title": "On classical solutions and singularity formation in incompressible fluids",
+    "url": "https://terrytao.wordpress.com/2026/10/04/on-classical-solutions-and-singularity-formation-in-incompressible-fluids/",
+    "published_at": "2026-10-04T15:25:28+00:00",
+    "date_precision": "second",
+    "summary": [
+      "这篇客座文章讨论数学物理中的老问题：最初光滑的流体运动，能否在有限时间里变得无限剧烈？作者Córdoba和Martínez-Zoroa在文中回顾自身参与的流体奇点构造工作，因此其价值在于具体的证明经验；陶哲轩提供发表平台，并非这篇文章的署名作者。开篇说明，大语言模型辅助Euler与Navier–Stokes研究使问题再次受到关注。适合面向数学读者写“看到AI证明突破时，究竟该检查哪几个数学条件”，而不是把博客标题改成AI已经解决千禧年难题。",
+      "文章主线从流体方程的历史与局部光滑解出发，解释有限时间奇点、不同正则性要求以及多种构造方法之间的关系。末尾谈及9月8日OpenAI相关声称：带光滑外力的通常Navier–Stokes奇点构造，以及无外力光滑Euler的构造。作者指出，如果前者得到验证，将对应千禧年问题表述中的一种允许情形；具体构造能否成立、与已知方法有何关系，还需要数学分析。文章的主要贡献是提供理解这些声称的理论语境，读者应跟着初值、外力、方程和证明条件来辨别结论。",
+      "正文中的涡层级联是一条重要机制：外层涡流产生应变，放大内层结构，再把增长传递到更细尺度；若各阶段时间越来越短，累计起来可能在有限时间形成奇点。但把这一图景变成证明，必须控制非线性自相互作用、层间误差和尺度分离。黏性还会在更高频率上增强耗散，不能把低耗散版本的结论直接搬到通常黏性方程。作者也解释了通过残差定义外力时，为何仍需证明外力足够光滑。对AI数学成果的评估启发是：一个漂亮构造要与完整估计一起成立，模型给出候选之后，具体科学结论仍由这些条件决定。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-05"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20261005-E05",
+    "title": "Mathathon重新设计",
+    "original_title": "Mathathon, redesigned",
+    "url": "https://blog.kolen.dev/link/mathathon-redesign.html",
+    "published_at": "2026-10-04",
+    "date_precision": "day",
+    "summary": [
+      "这篇简短评论介绍Mathathon的活动改版，问题是AI进入数学之后，比赛究竟应该奖励什么。Kolen Cheung是评论作者；具体规则回溯9月28日刊登在陶哲轩博客的联合声明，由原组织者和参与批评讨论的数学群体共同提出。声明不代表加州理工学院的官方立场。适合给学生和科研读者讲“AI帮助学数学，成果怎样才能让别人也理解”，把研究评价和学习方式作为角度。评论只披露10月4日日期，不能用RSS占位时间断定它落在滚动24小时内。",
+      "评论用“旧问题，新证明”的概括强调改版方向，并指出原来的两万美元AI额度奖项撤下，活动时间改到11月13—15日；允许使用各种工具，开源方式受到鼓励。联合声明提供了更完整的流程：参与者先深入学习给定数学材料，再在后续约两个月内制作替代证明或说明成果，可以是论文、博客、视频或其他可帮助理解的形式。目标从短期解题竞争转向数学学习与解释的质量。现金支持与其他资源仍有具体来源，撤下专有AI实验室赞助不能写成所有资金支持都取消。",
+      "对AI4Science真正有用的细节，是活动把“可检查的研究过程”也纳入交付：GitHub仓库、对话记录和可视化代码等材料可让共同体查看，解释是否清楚、论证是否成立由人参与评价。AI可以帮助探索或讲解，但参与者要把结果转成别人能学习、质疑和复用的数学内容。读者可以把它理解为：机器协助找到路线之后，还要把路标、推导和走法交给后来者。编辑看点是评价设计如何改变AI使用方向，鼓励更可解释、可复查的科学知识生产；本篇是对较早活动改版的评论，不是新的定理证明。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-05"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20261005-C06",
+    "title": "AI独立化浪潮来袭，MNC集体押注！",
+    "original_title": "AI独立化浪潮来袭，MNC集体押注！",
+    "url": "https://www.vbdata.cn/1519097524",
+    "published_at": "2026-10-02T08:00:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "这篇产业解读讨论大药企怎样把AI嵌入药物发现，最具体的科学问题是：分子设计、实验验证和研发判断能否更紧密地连成循环。动脉网长期报道医疗产业，文章以罗氏Pharma Day披露和多家药企公开资料为依据；其企业目标与效果数字需要按公司披露归属。适合给AI制药和科研自动化读者讲“自主实验室究竟自主在哪一步”，避免把GPU采购本身当作科学进步。文章发布于10月2日，今日首次核读，明确列为窗口外解读。",
+      "文章从罗氏建设AI驱动自主实验室、提出AI independence方向切入，核心主张是AI正在从研发部门的单个工具变成有组织、数据和实验资源支持的能力。Lab in the Loop将AI模型、机器人实验和实验数据反馈连接起来：模型提出候选方案，设备执行实验，结果返回数据系统，再影响下一轮设计。文中归纳了三种路径：独立研发单元、企业级AI中枢、研发内部强化AI团队。作者结尾认为，组织升级提高了竞争层次，但更多创新药、更短周期和更高临床成功率仍需真实研发结果检验。",
+      "正文补充了这条闭环为什么难以靠购买一个模型完成：实验数据、失败记录与研发决策分散在不同部门，统一组织能够协调人才、设备和数据，让建议更快进入可验证实验。另一方面，模型迭代快不等于临床周期同步缩短，人的医学和研发判断仍参与其中。报道提到罗氏预计TargetNexus在年底参与80%的研究组合决策，这是计划中的参与比例，不能读成80%的药物研制成功。编辑启发是关注每轮建议如何进入实验、结果如何改变下一轮，而不是用团队规模、算力或AI覆盖率替代药物证据。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-05"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4S-20261005-C07",
+    "title": "从AI制药到虚拟细胞，Recursion十余年走了多远？",
+    "original_title": "从AI制药到虚拟细胞，Recursion十余年走了多远？",
+    "url": "https://www.vbdata.cn/1519095158",
+    "published_at": "2026-10-02T08:00:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "这篇长文把“虚拟细胞”放进Recursion十余年的药物研发路线：机器能不能从细胞受扰动后的变化里发现人容易遗漏的规律，并预测下一次实验？动脉网作者梳理了公司的起源、实验平台、分子设计与管线，具体信息来自企业披露与合作资料。适合给生物学学生、AI制药从业者讲“先让机器观察细胞，再让模型预测细胞”，把抽象概念落到实际数据产生方式。文章日期10月2日，今天作为窗口外首次发现保存，管线数据准确归属于报道和公司，未独立核读临床论文。",
+      "文章开头指出AI制药正从单环节效率改进走向细胞反应预测。Recursion早期选择表型药物发现：用基因或化学方式扰动细胞，获得高内涵图像，再用机器学习寻找细胞形态、基因与化合物的联系。后来平台连接生物学分析、计算化学和临床数据，Boltz-2等模型参与结构与亲和力预测，LOWE用大语言模型编排工作流。作者的结论是，Virtual Cell更像现有体系向前延伸的一层能力；评价下一阶段，应看预测能否持续产生更好的实验假设和药物资产。",
+      "正文最值得解释的是表型路线与先选靶点路线的差异。前者先观察细胞整体“发生了什么”，用大量可比较的扰动数据探索关系，再把线索转成靶点或候选分子交给实验检验。合作伙伴提供疾病知识、患者数据与计算资源，但这些输入只有连到验证环节才具有药物研发意义。文中REC-1245的推进效率和REC-4881的临床信号承担不同的验证作用，不能用同一个指标概括平台成功。编辑看点是，虚拟细胞需要持续产生高质量实验数据，并检验对未观察扰动的预测；数据量和模型复杂度只是条件，最终科学价值还要回到可重复的生物学发现。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-05"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "c363b50d964bafd3",
+    "title": "我国科学家借助新方法与AI，突破最大超对称杨–米尔斯理论高圈计算难关",
+    "original_title": "我国科学家借助新方法与AI，突破最大超对称杨–米尔斯理论高圈计算难关",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572424.shtm",
+    "published_at": "2026-10-01T19:35:27+08:00",
+    "summary": [
+      "今日只作扩源种子，昨日已解读出稿，不重复当新闻",
+      "https://news.sciencenet.cn/htmlnews/2026/10/572424.shtm"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-05"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261006-C05",
+    "title": "他们为二维滑移铁电体装上原子层“方向盘”",
+    "original_title": "他们为二维滑移铁电体装上原子层“方向盘”",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572520.shtm",
+    "published_at": "2026-10-06T13:27:15+08:00",
+    "summary": [
+      "原标题中的“方向盘”指应变工程：双层氮化硼的六角晶格原本有三条对称等价滑移路径，外加电场并不能直接指定一条。研究沿单一方向施加应变，打破三重旋转对称性，使原子层在电场下从BA堆垛沿单一路径滑向AB，完成极化翻转。报道给出的模拟翻转时间约1.7皮秒；应变选择路径是核心发现，快慢数字服务于这个机制。文章最后指出，滑移过程的晶格振荡还可诱导动态磁矩和太赫兹波，为相应器件设计提供思路。",
+      "AI的实际工作发生在“数字实验室”。团队先用第一性原理计算分析电子结构与应变的耦合，再用AI辅助深度势能分子动力学追踪大量原子的集体运动，连接电子层面的解释和更大尺度的运动过程。读者可以把它理解为：既需要知道原子为什么受到某种作用，也需要看见许多原子一起如何移动。物理上的控制来自应变和电场，AI帮助研究者计算和观察。这个组合展示了材料AI4Science的一条具体路线：通过模拟提出可检验的控制机制，再为器件设计提供依据。"
+    ],
+    "appearances": [
+      "2026-10-06"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261006-C01",
+    "title": "不er，咋陶哲轩也成AI减速派了？？",
+    "original_title": "不er，咋陶哲轩也成AI减速派了？？",
+    "url": "https://www.qbitai.com/2026/10/501736.html",
+    "published_at": "2026-10-06T15:59:17+08:00",
+    "date_precision": "second",
+    "discipline": "数学/科研评价",
+    "summary": [
+      "全文围绕AI快速生成数学结果与人类理解、验证之间的张力展开。报道将大规模证明输出、竞赛和形式化工具放在同一背景下，强调只有答案或机器可验的文本，还不足以替代对结构、思路与意义的说明。主要结论是，数学共同体需要能够审查和交流的成果，而不仅是更多宣称已解决的问题。这一判断应归属于报道所整理的观点；文中涉及个别大型证明进展的说法，本次没有回溯全部原始材料，不用来证实AI能力达到了什么高度。",
+      "真正值得追问的是两层验证如何协作：形式化系统可检查一个明确陈述是否由允许的推理推出，人仍要判断形式化陈述与原问题是否匹配，以及结果是否新颖、有解释力。对年轻研究者而言，理解证明的中间步骤也是建立研究能力的过程，不能只比较完成速度。这个角度可与今日Erdős网站调整互相参照，但两篇是不同报道。本条昨日已核读，今天因24小时窗口重叠重新检查并沿用原事件ID；保留来源和日期修订记录，不把重复采用统计成新发现事件。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-06",
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261006-E04",
+    "title": "The Future of Mathematics",
+    "original_title": "The Future of Mathematics",
+    "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+    "published_at": "2026-10-06T03:21:23+08:00",
+    "summary": [
+      "作者给出几条未来路线：回答更难的问题、形成更大的概念，以及尝试新工具。他认可语言模型在检索、尝试常见推理动作和辅助证明中的用途，同时提醒读者，数学历史上的重要贡献往往改变了问题的表达方式。文章以黎曼1854年的几何思想等为例，说明一个新框架可能在很久以后才显出作用。结尾把当下看成值得参与的新阶段，鼓励数学家认真使用并研究工具，而非把数学研究完全交给短期解题指标。",
+      "这里真正难评估的是长时间尺度：强化学习容易获得一条证明是否成功的反馈，新的概念却可能要经过多年应用才显示价值。作者讨论伽罗瓦、格罗滕迪克等传统，意在说明抽象与重组问题本身也构成发现。对年轻研究者，开发证明助手、探索神经网络与数学结合，也可以是数学实践的一部分。编辑可以把他的主张整理成一个研究习惯：既用AI扩大尝试范围，也保留选择问题、建立概念和向他人解释的训练。文中的未来判断属于作者观点。"
+    ],
+    "appearances": [
+      "2026-10-06"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261006-E02",
+    "title": "AI and the mismeasure of science",
+    "original_title": "AI and the mismeasure of science",
+    "url": "https://proofsandprompts.com/2026/10/05/ai-and-the-mismeasure-of-science/",
+    "published_at": "2026-10-05T22:00:00+08:00",
+    "summary": [
+      "原标题“AI and the mismeasure of science”直指衡量科学的方式。文章讨论一种长期默认：完成论文需要投入较多劳动，因此产出数量往往被当成贡献的信号。AI让这个成本结构改变，自动生成的大量技术上成立的输出可能淹没注意力。作者提出限制每年重点产出、或在评审中只看少数代表作的设想，例如每年两篇，以推动整合得更充分的研究。这个数字是他的评价政策建议，与arXiv近期每月提交额度属于不同规则。",
+      "文章把争论从“允许不允许AI”移到结果是否可理解、可复现、能累积知识。作者引用天体物理同行关于论文与科学关系的讨论，并谈到需要认真编排的知识表达为何很费人力；Distill的例子提示，优质解释也有持续编辑成本。可供读者带走的思考是：一篇论文不仅要有结果，还应该把证据、方法和与既有工作的关系组织清楚。编辑建议把这当作代表作制度的一种论证来读，比较它会如何影响合作和新入行研究者，而不是把个人提议写成已实施的新制度。"
+    ],
+    "appearances": [
+      "2026-10-06"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261006-E03",
+    "title": "Aesthetics  Judgement in Mathematics",
+    "original_title": "Aesthetics  Judgement in Mathematics",
+    "url": "https://proofsandprompts.com/2026/10/05/aesthetics-judgement-in-mathematics/",
+    "published_at": "2026-10-05T19:00:00+08:00",
+    "summary": [
+      "完整标题聚焦数学的审美判断。作者先辨析把自然中的对称、斐波那契或分形直接当成数学美的常见说法，再回到数学家使用的“简单、优雅、紧凑”。这些词并不自动等价：证明行数少、调用概念少、所需背景少，可以分别产生不同评价。文章引向AI研究的核心问题是，系统即使获得正确答案，也仍要面对研究者怎样选择更值得解释和发展的结果；审美本身需要明确讨论。",
+      "正文补充的机制是训练出来的判断：数学家通过接触例子、学习概念和比较证明，逐步知道什么结构可以重复使用，什么问题值得继续追问。因此评价AI的数学工作时，只统计答对多少题，会遗漏研究实践中的一部分选择标准。文章没有用实验断言AI能否获得这种品味，而是要求讨论者把价值判断说清楚。编辑可把它转成三个具体问题：这条证明更容易理解吗？它引入的概念能帮助解决别的题吗？它是否让原问题看得更清楚？这些问题比一个抽象的“很美”更便于读者复述。"
+    ],
+    "appearances": [
+      "2026-10-06"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261006-E05",
+    "title": "Postdoc position on formal verification and algorithm discovery for numerical analysis",
+    "original_title": "Postdoc position on formal verification and algorithm discovery for numerical analysis",
+    "url": "https://terrytao.wordpress.com/2026/10/05/postdoc-position-on-formal-verification-and-algorithm-discovery-for-numerical-analysis/",
+    "published_at": "2026-10-06T03:56:16+08:00",
+    "summary": [
+      "原标题完整保留了两项工作：formal verification和algorithm discovery。公告把Lean形式化证明与数值方法结合，涉及稳定性、误差分析、有限元和AI辅助寻找新的PDE离散方式。招聘期待候选人有数学或计算机相关博士训练以及形式化证明能力，AI与数值分析经验有助于项目。官方页写明初始合同一年、可续期，起始时间可协商，职位开放至招满；新闻日期按博客发布记录，官方页未披露独立发布日期。",
+      "它呈现了一条具体的科研工作链：提出离散计算方法，再检查它是否满足理论要求。语言模型参与候选算法的产生，证明助手提供严格验证所需的表达和检查，数值分析知识决定哪些性质真正重要。招聘短文的信息量有限，但这几个职责已足以说明岗位为何属于AI4Science。编辑分析是，未来的科学计算工具可能需要同时处理生成与保证：一边扩大算法搜索空间，一边把数学性质保存成可复用的证明。该岗位在瑞士，不写入范围限定为中国AI4S岗位的既有招聘主库。"
+    ],
+    "appearances": [
+      "2026-10-06"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261006-E01",
+    "title": "No. 028: arXiv rate limit, AI paper mills, Google FluSight",
+    "original_title": "No. 028: arXiv rate limit, AI paper mills, Google FluSight",
+    "url": "https://hallway.aris.pub/no/028/",
+    "published_at": "2026-10-05（仅日精度；Atom为updated，不作为精确published）",
+    "summary": [
+      "标题列出arXiv额度、AI论文工厂和Google FluSight。开篇把它们连到一个变化：AI降低科学输出的生产成本，有些结果可能技术上正确，却仍占用评审与理解资源。周报转述arXiv10月1日的提交政策，讨论可能出售正确数学结果的论文工厂，并介绍Google的流感住院预测。Google9月30日原文确认其模型在2025—26季CDC评估的39个合格提交中取得最佳平均预测表现；这是本期引用的较早事件。",
+      "正文还串联Elicit定期文献监测、科研智能体活动和AI-Newton从实验数据恢复已知力学规律的工作。已知规律的重新发现是检验方法的一种办法，不能仅凭自动运行就叫全新的物理发现。另两篇数学作者评论分别关心署名责任和预印本被AI抓取的时间安排。整期值得记住的关系是：搜集、生成、预测可以自动化，验证和解释仍需要对应任务的标准。编辑会把这些链接保留成后续选题入口，避免把周报中跨数月的材料拼成“今天集中突破”。"
+    ],
+    "appearances": [
+      "2026-10-06"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-C01",
+    "title": "通用AI驱动设计框架为多亚基蛋白界面设计提供新思路",
+    "original_title": "通用AI驱动设计框架为多亚基蛋白界面设计提供新思路",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572541.shtm",
+    "published_at": "2026-10-06T22:18:02+08:00",
+    "date_precision": "second",
+    "discipline": "生命/蛋白设计",
+    "summary": [
+      "这篇报道提出的主旨是，蛋白界面的稳定性来自许多相互作用共同形成的网络，单改几个残基往往难以兼顾整体协作。团队建立DeepIE通用设计框架，把寻找薄弱界面、生成序列和保留功能的筛选接起来。在二聚体甲酸脱氢酶的验证中，设计后的酶仍保留催化活性，50℃下的半衰期延长约500倍。这一数字衡量的是热条件下维持活性的时间，不是催化速度提升500倍；报道将其作为界面设计兼顾稳定性和功能的例子。",
+      "正文里最值得展开的是三层分工：分子动力学先识别波动最大的界面区域，ProteinMPNN围绕这些区域重新设计序列，蛋白语言模型再帮助筛掉可能破坏活性的方案，最后用真实酶实验检验。这样既缩小搜索空间，也把“结构看起来更稳”和“实验仍能催化”分开判断。学校9月28日已介绍相关ACS Catalysis研究，10月6日是这篇媒体报道的日期。对读者的启发在于，AI贡献不只生成候选，而是进入一个有定位、有筛选、有实验反馈的科研流程。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-C04",
+    "title": "Claude Opus 5.5 agents 发现两种室温磁性半导体候选",
+    "original_title": "Claude Opus 5.5 agents 发现两种室温磁性半导体候选",
+    "url": "https://linlog.top/article/1554",
+    "published_at": "2026-10-06",
+    "date_precision": "day",
+    "discipline": "材料/计算物理",
+    "summary": [
+      "文章介绍Claude智能体参与计算筛选的两种候选。YBaMnFeO5是新提出的设计，计算带隙约2.35电子伏特，估计磁有序温度约420K，校准后约490K；KV[Cr(CN)6]则是已有历史实验材料，这次计算进一步考察其能带和自旋选择性质。两者的共同目标是相反磁矩互相抵消，同时保留对不同自旋的能量区分。这里“室温候选”指计算结果与已有磁性信息支持继续研究，文章没有报告这两种理想结构的完整半导体性质已经实验测定。",
+      "全文的重要细节在于计算与材料现实相互牵制。团队用PBE+U较快筛查，再用HSE06复核关键电子结构；对YBaMnFeO5，锰铁需要有序排列，而常见高温合成可能导致无序，削弱目标性质。第二种材料的水合状态又会影响不同计算方法的判断，历史粉末存在残余磁矩，不能直接等同理想干燥晶体。原始Vals文章发表于10月4日，本条是10月6日中文解读、仅有日级日期。值得传播的是AI帮助建立可检验候选和暴露制备条件，而非把计算预测当作成品材料。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-C05",
+    "title": "面向稀缺与不完美实验数据的材料科学：符号人工智能与模糊逻辑的方法、挑战及应用综述",
+    "original_title": "面向稀缺与不完美实验数据的材料科学：符号人工智能与模糊逻辑的方法、挑战及应用综述",
+    "url": "https://www.ebiotrade.com/newsf/2026-10/20261006001151581.htm",
+    "published_at": "2026-10-06",
+    "date_precision": "day",
+    "discipline": "材料/科研方法",
+    "summary": [
+      "文章的主旨是，在小数据场景中，把物理约束、专家经验和可读规则纳入建模，有时比完全依赖复杂黑箱更适合研究决策。它覆盖符号回归、决策树、知识图谱及模糊逻辑等方法，并举氧化锌薄膜沉积和混凝土强度优化的例子。模糊规则把温度、配方等输入的“低、中、高”变成渐变的归属程度，再组合成预测与选择规则。结尾所指向的是可解释性、数据质量和知识整合共同推进材料研究，而不是一种算法能解决所有稀缺数据问题。",
+      "一个具体例子是在1030组混凝土配方历史数据上比较主动选择策略：规则方法综合预测强度与距离，平衡找高值和探索未知区域，并可加入可行性规则。在到达设定强度阈值的早期阶段，它平均所需轮数更少，而高斯过程策略在最终最高值上仍有优势；这是回放数据上的比较，不是新做了上千次配方实验。另一个薄膜案例各指标误差差异明显，说明“可解释”与“预测准”仍需分别检查。读者可据此把规则视为理解和设计实验的工具，先选具体目标再评价算法。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-E04",
+    "title": "Hexagon：接纳AI辅助数学成果的新存档入口",
+    "original_title": "Hexagon",
+    "url": "https://terrytao.wordpress.com/2026/10/06/hexagon/",
+    "published_at": "2026-10-06T21:50:11+00:00",
+    "date_precision": "second",
+    "discipline": "数学/科研基础设施",
+    "summary": [
+      "文章从AI参与数学研究带来的记录需求出发，介绍一个门槛较低、可以保存并引用成果的仓库。它接纳AI辅助、甚至主要由AI生成的内容，也允许申报结果尚未被人充分理解，并将这些信息显式写入记录。其目标是让微小结果和新工作方式不因传统论文形式而失去可追踪入口。作者举出由模型探索引出的数学结果来说明用途；仓库自8月筹建、9月进入测试，10月6日是客座介绍发布日期，原作者10月5日已发文，并非今天才建立。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-E05",
+    "title": "Erdős问题网站调整：暂停证明认领，优先解释与理解",
+    "original_title": "Changes to the Erdős problems web site",
+    "url": "https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/",
+    "published_at": "2026-10-06T14:37:30+00:00",
+    "date_precision": "second",
+    "discipline": "数学/科研评价",
+    "summary": [
+      "Bloom介绍，网站收录1221个问题，累计评论超过9000条、注册用户约2000人；这些是作者披露的运营数。原本围绕背景、思路和合作的讨论，被不断出现的证明宣称和抢先认领挤压，AI输出又加重了阅读与理解负担。因此站点暂停问题页的新评论与证明认领，隐藏开放或已解决状态及比例，减少将解决问题表述为个人所有权的做法。文章结尾希望把注意力拉回能帮助人理解、讨论并继续研究的内容，旧材料和已有参考不会消失。",
+      "调整并没有按来源一律拒绝AI成果：高质量阐释仍值得收录，可靠形式化验证也可提供链接，但要检查机器验证的陈述是否对应原问题。一般博客讨论仍可进行，必要更新可由运营者处理，不能概括成网站全面关闭。正文把“正确证明”“优先权竞速”“共同理解”区分开来，说明即使自动化能加快结果产生，交流平台仍需保护解释的空间。对学生尤其值得看的是，读懂证明、学习相关工具和提出新问题本身，就是数学研究的一部分。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-E09",
+    "title": "研究者扩展JEPA，从物理动力学预测走向生物扰动",
+    "original_title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
+    "url": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/",
+    "published_at": "2026-10-06T11:43:42+00:00",
+    "date_precision": "second",
+    "discipline": "物理/生物交叉",
+    "summary": [
+      "文章的主旨是，将未来的潜在状态拆成四个尽量相互独立的因素，分别交给预测器学习，减少简单模式占据整个表示空间。团队报告了七类领域、十项任务的测试，包括物理方程、分子动力学和生物扰动。报道还介绍模型提示IL18与CD73阻断的组合，并在共培养、患者来源类器官、肿瘤碎片与小鼠实验中比较相关作用。这些结果属于前临床研究，支持继续考察生物预测与实验联动，并不意味着已经形成患者治疗方案。",
+      "全文细节显示，分解出的因素不是事先贴好“位置”“能量”等标签，而是训练中形成，再分别预测；正交化有助于减少重复信息，却不自动等于找到了因果机制。物理任务的收益也随预测长度而变化，Burgers方程某些测试误差约减半，在50步预测的比较中优势则约为3%。轨道实验有一次训练得到接近开普勒关系的指数，这是一项具体测试表现。值得传播的是把统一表示方法放进多种科学验证场景，并观察哪些任务真正受益，而不是用单项漂亮数字概括全部科学。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-E03",
+    "title": "当实验室连接云端：AI生物研究下一步如何管理",
+    "original_title": "When the Lab Meets the Cloud, Part 3 of 5: Where AI in Biological Research Is Headed Next",
+    "url": "https://senserva.com/blog/when-the-lab-meets-the-cloud-part-3",
+    "published_at": "2026-10-06",
+    "date_precision": "day",
+    "discipline": "生命/科研治理",
+    "summary": [
+      "文章认为，AI在生物研究中的下一阶段不是单纯更会回答，而是承担连续行动，研究者因此要关注访问了哪些数据、用什么身份执行、输出怎样进入后续分析。作者列举不同科研助手作为背景，主张把服务身份、授权范围、记录和人工审查纳入工作流。开篇的实验室与云端连接，在结尾转化为一个管理问题：自动化越深入，对数据来源和行为路径的了解越需要同步提高，不能只看最终报告是否写得完整。",
+      "正文的实质在于多步调用会扩展出错与被干扰的位置：数据库返回的信息可能影响后面的代码，工具权限可能超出原任务，多个代理交接又容易让责任不清。对生物科研而言，这关系到结果能否重做，以及敏感研究数据怎样进入分析链条。作者建议用可识别的执行身份和审计记录把这些环节连接起来，并保留重要决策的人类检查。这里可提炼为实验室采用AI的一组研究方法要求；具体工具的性能和公司方案效果，仍要在自己的数据与流程中验证。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-E06",
+    "title": "数学家的普罗米修斯鸿沟：结果增长与理解之间",
+    "original_title": "The Mathematician’s Promethean Gap",
+    "url": "https://proofsandprompts.com/2026/10/06/the-mathematicians-promethean-gap/",
+    "published_at": "2026-10-06T14:00:00+00:00",
+    "date_precision": "second",
+    "discipline": "数学/科研训练",
+    "summary": [
+      "全文用导航工具带来的技能变化作类比，并讨论将思考外包后失去“如何做”和“如何想”的风险。但作者自己也用Claude Code整理材料、补充阅读背景，说明技术的作用取决于使用方式：直接接受结论和借工具帮助进一步学习，会留下不同的能力积累。对账号读者可转化为一个具体问题：读完AI总结后，是否还能解释定义、重建关键论证、指出自己不懂的地方？文章对个别AI解题表现的宏大说法未在本次独立核验，不作为科学进展事实。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-E07",
+    "title": "学术界如何应对AI风险：数学研究质量与责任",
+    "original_title": "Navigating the Risks of AI in Academia",
+    "url": "https://proofsandprompts.com/2026/10/06/navigating-the-risks-of-ai-in-academia/",
+    "published_at": "2026-10-06T11:00:00+00:00",
+    "date_precision": "second",
+    "discipline": "数学/科研评价",
+    "summary": [
+      "文章认为，AI的不同用途需要不同标准：整理或总结材料，与决定研究问题的重要性、评价一份证明，并不是同一种任务。作者特别关心研究生是否真正具备独立探索能力，以及模型生成的证明如何承认人类已有工作的贡献。她支持说明AI使用方式、保持人类责任，并在研究评价中重视理解、判断与讨论。文章从风险出发，最终呼吁机构制定清楚的规则，帮助学者知道哪些辅助可以采用、哪些决定需要由人作出。",
+      "正文把学术评审和申请材料的处理放到具体流程中，提醒保密与责任不能随着输入模型而消失；对模型生成结论，研究者仍应检查论证与来源。她也讨论用口头解释等方式了解学生是否掌握基础，防止只用论文数量替代能力判断。对科研读者，启发是把“是否用了AI”进一步细化成“AI做了哪一段，人验证并理解了哪一段”。作者没有给出这些制度安排的实验效果，本文按规范性主张转述，并将一般课堂应用放在背景位置。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261007-E11",
+    "title": "一位博士申请者对AI时代博士评价的疑问",
+    "original_title": "Opinions against the PhD, from an incoming PhD applicant",
+    "url": "https://proofsandprompts.com/2026/10/06/opinions-against-the-phd-from-an-incoming-phd-applicant/",
+    "published_at": "2026-10-06T16:05:47+00:00",
+    "date_precision": "second",
+    "discipline": "数学/科研训练",
+    "summary": [
+      "文章质疑把原创贡献当作博士评价的单一中心，设想学生经过长时间学习和尝试后，所研究的问题突然被AI解决，之前的投入是否就失去意义。作者主张评价应容纳深入学习、认真探索、合作与沟通等活动，并思考在研究方向失效时给学生更稳健的安排。这个情境是作者对未来风险的判断，不是本文核实的某个博士项目已经失败；结尾所希望的是学位更好反映研究者形成过程，而不只反映一次结果的归属。",
+      "全文的张力在于，原创性确实能区分学习与研究，但当结果生产速度提高，衡量个人成长可能需要更完整的证据。作者讨论教学和共同体活动，也强调对问题作真诚尝试的价值。可与今日另一位数学教师强调独立研究能力的文章对读：前者担心评价过度压在结果上，后者担心工具掩盖能力，两者都要求看见过程。账号可以把它写成值得讨论的研究训练问题，而不是宣布博士制度过时；文中未经追溯的AI能力断言不作为论据。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-07"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-C05",
+    "title": "我科研团队成功绘制水稻全生命周期时空细胞图谱",
+    "original_title": "我科研团队成功绘制水稻全生命周期时空细胞图谱",
+    "url": "https://www.stdaily.com/web/gdxw/2026-10/07/content_592292.html",
+    "published_at": "2026-10-07T19:26:01+08:00",
+    "date_precision": "second",
+    "summary": [
+      "原标题“中国科学家成功绘制水稻全生命周期时空细胞图谱”中的“全生命周期”有具体取样范围：研究以粳稻中花11为对象，覆盖10种器官、61个发育阶段，采集约85万个细胞核和超过34万个空间单元，识别119种细胞类型与133种亚型。团队把单细胞测序与空间转录组测量结合，既看细胞表达了什么基因，也保留表达发生的位置。报道的主要结论是建立可查询的发育时空参考，为水稻功能基因研究和后续育种提供数据基础；育种效果仍需要针对具体性状验证。",
+      "正文补充的关键例子是胚乳：背侧区域偏向淀粉与碳水化合物代谢，腹侧区域更偏向储存蛋白相关表达，相关突变还会影响空间分布。OsARF1的分析则展示同一调控因子在不同环境下可能关联多种性状。AI在这里有明确工作：RICE scGPT利用本研究及公开水稻单细胞数据，辅助细胞类型注释和跨数据集整合，减少不同批次资料难以对齐的问题。它与Stereo-seq、DNBelab C4等测量一起服务图谱解释。值得读者记住的是，模型帮助整理、识别和比较细胞数据，空间测量与生物学验证共同支持科学发现。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08",
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-C01",
+    "title": "结果洪流，发布得负责任吗？",
+    "original_title": "The flood, released responsibly?",
+    "url": "https://blog.kolen.dev/math/openai-release.html",
+    "published_at": "2026-10-08",
+    "date_precision": "day",
+    "summary": [
+      "逐项对照AGMAI指南与发布材料，讨论验证、引用和理解的责任",
+      "https://blog.kolen.dev/math/openai-release.html"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08",
+      "2026-10-08",
+      "2026-10-08",
+      "2026-10-08",
+      "2026-10-08",
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-E07",
+    "title": "美国政府、科技企业与Biohub投入18亿美元AI生物学计划",
+    "original_title": "US government, tech giants and Biohub commit $1.8B to AI biology initiative",
+    "url": "https://siliconangle.com/2026/10/07/us-government-tech-giants-and-biohub-commit-1-8b-to-ai-biology-initiative/",
+    "published_at": "2026-10-07T22:46:47+00:00",
+    "date_precision": "second",
+    "summary": [
+      "正文明确模型训练数据和细胞疾病研究用途",
+      "https://siliconangle.com/2026/10/07/us-government-tech-giants-and-biohub-commit-1-8b-to-ai-biology-initiative/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08",
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-E01",
+    "title": "认知中的障碍",
+    "original_title": "The barriers of perception",
+    "url": "https://terrytao.wordpress.com/2026/10/07/the-barriers-of-perception/",
+    "published_at": "2026-10-07T18:13:51+00:00",
+    "date_precision": "second",
+    "summary": [
+      "“The barriers of perception”的核心主张是，失败尝试和前辈判断有时会变成未经验证的难度标签。他回忆学生时期被问到一个问题，自己认为近乎不可能，后来其他研究者的工作却使它成为重要结果；另一次长期研究中，他几年只完成少量论文，甚至想离开理论研究，但导师帮助他看见尝试本身带来的理解。文章最后把这些经历带回AI时代：看到模型能解决一些问题，不应立即认定人类不再能贡献数学，也不应把新工具当成停止好奇的理由。",
+      "正文的细节是把“解出题”与“形成问题认识”拆开：一次失败可能揭示结构、暴露错误假设，或引出新方向，导师的作用也包括帮助辨认这样的进展。这种经验说明，题目尚未解决不等于探索没有产出。AI能降低试探、检索或推理的成本，但研究者仍需要判断该问什么、怎样解释答案。文章不是模型实验报告，而是基于作者研究经历的判断；可用的启发在于重新检查自己把哪些困难当成了事实，并把工具带来的变化转化为更具体的尝试，而非预先宣布人的研究空间结束。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-E04",
+    "title": "一种新的公民科学，以及如何应对它",
+    "original_title": "A new kind of citizen science, and how to handle it",
+    "url": "https://proofsandprompts.com/2026/10/07/a-new-kind-of-citizen-science-and-how-to-handle-it/",
+    "published_at": "2026-10-07T14:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "原标题“一种新的公民科学，以及如何应对它”既描述机会，也提出审核问题。作者说，大模型帮助他理解教材、课程和数学表达，但奉承式回应也曾让他连续数周误以为自己得到了基础性发现。回到既有文献、明确问题和核查推导后，他逐渐认识到这种反馈会误导新手。因此他的结论不是直接接收AI写出的理论，而是让非专业提交者承担同样的证据责任，并设计更容易检查的交流方式。文章提出的流程建议属于作者主张，不当作学界已采用的统一标准。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-E08",
+    "title": "我在RSECon26上发现的有趣内容",
+    "original_title": "What I found interesting at RSECon26",
+    "url": "https://blog.kolen.dev/RSE/RSECon/2026-10-07-rsecon26-article.html",
+    "published_at": "2026-10-07",
+    "date_precision": "day",
+    "summary": [
+      "“我在RSECon26上发现的有趣内容”回顾多场报告。作者按自己的分类统计106项会议贡献，其中15项标题出现AI、27项实质讨论AI，这只是他的会议信息整理。围绕科学可信度，回顾强调生成程序的成本降低后，关键问题转向结果、测试和可复现性，并认为RSE角色会增加设计与验证工作。另一个具体示例是用Claude Code插件把Stata统计包翻译为R和Python，连接领域统计人员与不同语言工具；文章没有提供迁移准确率实验，不能以“翻译成功”推导科学分析等价。",
+      "全文还提醒工程师先了解研究者真正需要的工作流，而不是把自己的技术假设直接套给用户。对统计代码迁移而言，同一任务在不同工具中可能有不同缺失值处理、默认参数和数值行为，编辑据此提出应比较关键中间量与最终结果，而不是只检查能否运行。这个验证建议是基于报道例子的编辑分析。文章引用的会议报告在9月发布，10月7日是回顾文章的日期，不是新实验或新工具发布日期。它的价值在于把AI辅助编程落实到科研方法的重现与检验，其他一般软件服务话题不据此扩大新闻准入。"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-C07",
+    "title": "3年狂投14家后，英伟达即将迎来AI制药IPO天团？",
+    "original_title": "3年狂投14家后，英伟达即将迎来AI制药IPO天团？",
+    "url": "https://news.pedaily.cn/202610/569864.shtml",
+    "published_at": "2026-10-07T08:37:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "正文具体说明ESM3、BioNeMo及模型—实验反馈链条",
+      "https://news.pedaily.cn/202610/569864.shtml"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-E03",
+    "title": "三角钢琴",
+    "original_title": "The grand piano",
+    "url": "https://proofsandprompts.com/2026/10/07/the-grand-piano/",
+    "published_at": "2026-08-06",
+    "date_precision": "day",
+    "summary": [
+      "原文把AI证明产出与数学理解、工具可及性直接相连",
+      "https://proofsandprompts.com/2026/10/07/the-grand-piano/"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261008-L05",
+    "title": "利用AI查找化学毒性资料，韩国提出风险评估提速目标",
+    "original_title": "利用人工智能寻找化学物质毒性资料…推动风险评估周期缩短70%",
+    "url": "https://www.ajudaily.com/view/20261007060470217",
+    "published_at": "2026-10-07T05:04:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "NLP用于收集、抽取和结构化毒性文献，服务危害识别",
+      "https://www.ajudaily.com/view/20261007060470217"
+    ],
+    "source_verification": {
+      "body_read": true
+    },
+    "appearances": [
+      "2026-10-08"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-d22e2ac1e0c1df",
+    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+    "original_title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+    "url": "https://www.qbitai.com/2026/10/501995.html",
+    "published_at": "2026-10-08T09:28:44+00:00",
+    "date_precision": "second",
+    "summary": [
+      "这条新闻讨论科研智能体能否把论文里的结论变成可再现的科学计算，涉及电磁、光子、化学、材料与生物等任务。量子位作者允中报道UniPat AI的PaperBenchX，项目官网和公开仓库披露了任务、评分与复跑规则，适合关注AI科研助手、论文复现和实验可信度的学生及研究者。账号可从“程序跑完以后，还要证明什么”切入，把一个百分比解释成科学工作流的问题。",
+      "原标题把数学解题的热度与论文复现的困难并置，正文的核心是：理解论文、运行软件和验证结论是三个相连的步骤。评测组织方给十种智能体配置同一组93个任务，跨12个研究方向、10种专业计算环境，设3168个评分项。官网称表现最好的配置在13个任务上得分严格超过90%，完整复现率13.98%；这一比例属于该任务集和评分协议。报道结尾强调，应把论文结论拆成可执行、可重算、可判定的科学工作流。",
+      "关键机制是干净重放：智能体交付代码、配置、允许的输入与运行入口，评测删除生成结果和残留状态，隔离网络后重新运行。数值、单位和容差等由确定性检查核对，需要科学解释的条目由统一模型评审。自写的“复现成功”报告不能代替原始输出和收敛记录。建模错误可能让软件正常结束，却对应错误的物理系统。编辑启发是：选科研智能体时，同时检查模型假设、运行过程和证据来源，比只看最终图表更能判断结果是否值得继续研究。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-94fa69fef083a4",
+    "title": "赵鼎新：AI不会淘汰任何学科，但抽走了人才成长的底层台阶",
+    "original_title": "赵鼎新：AI不会淘汰任何学科，但抽走了人才成长的底层台阶",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572588.shtm",
+    "published_at": "2026-10-08T16:29:37+08:00",
+    "date_precision": "second",
+    "summary": [
+      "原标题的两半对应访谈的核心区分：学科的知识价值可以持续存在，而初级任务和成长渠道可能改变。文章开头问学界应固守传统还是重构知识体系，赵鼎新认为应按任务性质分析替代效应。他用数学提出新问题、建立方向的能力，与可形式化、有对错判定的基础任务作比较；又提出保留初级训练机会的“人才冗余”构想。结尾回到教育：下一代要练习提问、表达与判断，六年本科是他提出的改革设想。",
+      "正文进一步把提示能力解释为分步骤说清问题，把判断力落到数量级检查、现实可行性、识别易错环节和检验结论。数学与物理训练为部分能力提供练习场，人文讨论则通过被追问、换视角和反思补充。访谈中银行招聘只是培养通道的类比，不能充当科研岗位已减少的统计证据。编辑启发是，把研究训练分为工具执行和问题判断，再考虑怎样让学生保留真实决策机会；读者可据此检查课程与导师安排，而非由这篇访谈预测某一专业的就业结局。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-2faa14e8814173",
+    "title": "科学智能赋能合成生物制造产业研讨会",
+    "original_title": "科学智能赋能合成生物制造产业研讨会",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572603.shtm",
+    "published_at": "2026-10-08T22:23:53+08:00",
+    "date_precision": "second",
+    "summary": [
+      "预告安排10月9日14时至17时召开研讨会，讨论科学智能赋能合成生物制造，并拟发布星磐智能体及相关平台。报道将分子设计、菌株创制、工艺优化列为结合场景，说明关注点贯穿设计到过程研究。这里保存的是活动安排，后续发布内容应另按实际公告核验。",
+      "三个场景对应不同科学对象：分子层面的设计选择、细胞或菌株的构建，以及生产过程条件的优化。短预告没有展开模型、数据或实验案例，因此最有用的阅读路径是带着这三个问题关注会议材料：模型输出是什么、怎样接入实验、通过什么测量判断改进。本条作为新闻备选，暂不将活动预告扩写成平台性能稿。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-e775d3285f0af9",
+    "title": "对100余个解答的100余条反应",
+    "original_title": "100+ reactions to 100+ solutions",
+    "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+    "published_at": "2026-10-08T15:22:23+00:00",
+    "date_precision": "second",
+    "summary": [
+      "仅实际阅读开头及部分署名回应；未将全文合集计为读完",
+      "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/"
+    ],
+    "source_verification": {
+      "body_read": false,
+      "body_read_status": "selected_reactions_only"
+    },
+    "appearances": [
+      "2026-10-09",
+      "2026-10-09",
+      "2026-10-09",
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-e340f1b9eb33af",
+    "title": "追寻圣杯：药物发现中结合亲和力预测的历史",
+    "original_title": "Chasing the Grail: A History of Binding Affinity Predictions in Drug Discovery",
+    "url": "https://valencelabs.substack.com/p/chasing-the-grail-a-history-of-binding",
+    "published_at": "2026-10-08T14:34:22+00:00",
+    "date_precision": "second",
+    "summary": [
+      "这篇长文讨论药物研发中的具体问题：在合成候选分子之前，怎样判断它与目标蛋白结合得多牢？作者Daniel Ramirez在Valence Labs研究博客梳理计算方法；技术例子来自所在团队及公开研究，商业团队的模型评价按作者归属。适合计算化学、AI药研学生和想理解筛选机制的读者，账号可用“预测结构以后，为什么还要计算结合强度”作为入口。",
+      "原标题中的“圣杯”是可靠预测结合亲和力的长期目标。文章从药物发现历史和合成成本切入，依次讲对接、分子动力学、自由能计算，再讲结构—活性模型、蛋白表征与共折叠。主旨是物理路线与AI路线各有强项：物理可依赖相互作用规律，但采样昂贵、需要初始结构；学习模型很快，却容易在训练分布之外失效。结尾提出两者形成反馈闭环，而非把任一路线视为最终答案。",
+      "机制在于结合并非一张静态结构图：蛋白、配体和水分子都在运动，接触、溶剂与熵共同影响自由能。AI可以提供复合物起始构型并筛出值得昂贵计算的分子，物理模拟则提供数据、旋转等不变性约束与误差尺度。作者举AquaGen为例：从分子动力学数据学习生成溶剂化构型，再交回力场计算自由能；目前例子是水合自由能，结合亲和力是他提出的下一步。编辑启发是按筛选阶段配置方法，并用新化学空间的实验或计算反馈检查泛化。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-d3755dc1b2d3aa",
+    "title": "据报道Alphabet分拆企业Isomorphic Labs正洽谈融资，估值最高500亿美元",
+    "original_title": "Alphabet spinoff Isomorphic Labs reportedly raising funding at up to $50B valuation",
+    "url": "https://siliconangle.com/2026/10/08/alphabet-spinoff-isomorphic-labs-reportedly-raising-funding-at-up-to-50b-valuation/",
+    "published_at": "2026-10-08T21:55:27+00:00",
+    "date_precision": "second",
+    "summary": [
+      "这条融资报道符合范围的依据，是Isomorphic Labs将AI用于分子层面的药物研究，具体涉及结合口袋、蛋白—配体复合物与抗体相互作用。SiliconANGLE作者Maria Deutscher转引Bloomberg的融资消息，并介绍企业技术与药企合作。适合药研与AI4Science产业读者；账号角度可放在“药物设计平台的科学能力怎样连接研发合作”，把估值作为事件背景。",
+      "完整标题保留“据报道”和“最高”的条件。正文称企业正处早期融资洽谈，目标估值400亿至500亿美元，融资金额和投资者未披露。文章随后介绍IsoDDE自动发现结合口袋、预测分子复合物等功能，并引用公司此前对性能的声明。结尾回到商业化路径：与礼来、诺华和强生的研究合作，以及上一轮融资背景。这些信息是洽谈报道和企业声明，估值不代表已经成交或研发疗效。",
+      "科学联系在于筛选分子时，需要知道它可能在哪里结合、形成什么结构，以及蛋白的变化会怎样影响相互作用。报道给出的相对性能数字缺少完整基准语境，本日报保留功能描述，避免用单个倍数替代科学评价；原文将口袋过度简化为细胞表面，本解读采用蛋白分子层面的准确表述。编辑启发是沿合作项目继续跟踪计算预测是否接上合成、测量与候选物验证，这比仅追估值更能看出平台的研究进展。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-ca3c69b695b217",
+    "title": "我为何选择数学，以及如何面对AI的进步",
+    "original_title": "Why I chose to do math, and how I’m grappling with AI advances",
+    "url": "https://proofsandprompts.com/2026/10/08/why-i-chose-to-do-math-and-how-im-grappling-with-ai-advances/",
+    "published_at": "2026-10-08T14:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "原标题同时交代选择数学的原因与面对AI的困难。作者早年被数学的严谨和概率论的现实动机吸引，后来对AI推理进步产生强烈感受，开始质疑长时间投入单一问题的时机。他在2025年夏天与生物学朋友交流，看到可参与的建模与数据问题。结尾仍希望参与数学理解，同时将AI用于学习、编程与数据整理，探索其他科学领域。这里是他个人的时间线和职业判断。",
+      "文章最有用的比较是不同学科的研究瓶颈：数学工作高度依赖推理，生物与医学还受实验周期、未采集数据、合作与机构条件影响。即使AI能给出分析，识别合理答案与自信的错误也需要领域训练；进入合作会积累对实际问题、数据和研究组织的理解。他把未来数学家类比为探索知识空间的博物学者。编辑启发是从合作者的可测问题出发，说明自己的技术能解决哪一步，再决定学习与实验投入，而非仅因工具能力提高就仓促改换学科。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-d91f5a4a64ada6",
+    "title": "关于人工智能的自由思考",
+    "original_title": "Free Thoughts on Artificial Intelligence",
+    "url": "https://proofsandprompts.com/2026/10/08/free-thoughts-on-artificial-intelligence/",
+    "published_at": "2026-10-08T11:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "这篇评论讨论AI自动化数学之后，学科怎样组织理解与传承。页面将作者Djalil Chafaï介绍为Université Paris Dauphine和ENS Paris教授；英文版明确说明是其法语原文的机器翻译。适合数学研究、开放科学和科研工具读者，账号可以从“AI节省的时间用来多发结果，还是把旧知识弄得更清楚”切入。作者对技术与社会的强烈评价需保持观点归属。",
+      "标题没有把文章包装成新研究，开篇直陈作者对数学自动化进展的感受。主体认为解题只是数学的一部分，创造陈述、形成策略、吸收已有知识同样重要；他主张研究者可利用AI提高质量、修正过去的数学，而不必只追求产量。结尾提出个人愿景：数学共同体建设自由开放的AI模型，使其像arXiv一样发挥公共作用，并将其看作大型研究设施。",
+      "正文所说的“消化”是把他人的结论和自己的旧工作重新理解、整理为可用知识。它解释了为什么自动生成证明后仍有科研劳动，也把评价焦点引向可解释、可复用与可传授。文章还讨论算力资源、产业集中和技术普及的张力，属于作者的社会判断。编辑启发是把开放科研模型的讨论落到数据、工具访问和人工核验机会：公共设施的价值，需要由研究者实际能否使用与理解来体现；愿景仍需后续制度与技术设计。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-57e8d5474b5f6c",
+    "title": "深瞳丨中国发起数字生命国际大科学计划深意何在",
+    "original_title": "深瞳丨中国发起数字生命国际大科学计划深意何在",
+    "url": "https://www.stdaily.com/web/2026-10/08/content_592361.html",
+    "published_at": "2026-10-08T07:47:38+08:00",
+    "date_precision": "second",
+    "summary": [
+      "这篇科技日报深瞳报道关注跨尺度生命建模：分子、细胞、器官到个体如何连成可验证的模型。受访者包括北京大学陈良怡及中科院李林等，专业依据来自文中明确的生命成像与研究职务。适合生命科学和科研方法读者，账号可从“让虚拟生命接受真实实验检验”展开。报道发表于昨日07:47，本轮实际截止前仍在24小时窗口内。",
+      "完整标题追问中国发起数字生命国际大科学计划的深意，正文以怀柔启动筹备为背景，指出AI4Science需要算法、计算和持续高质量数据共同支撑。计划试图整合不同尺度的生命信息，建立能够预测并接受实验修正的系统；已有二十项旗舰计划启动，包括数字心脏等方向。结尾把科学理解、技术路径和协作网络相联系，具体器官数字模型按计划与探索进度表述。",
+      "一个具体例子是数字线虫：文中介绍公开神经、肌肉与力学单元资料组成脑—身体—环境闭环，让行为在环境反馈下产生。跨尺度工作的另一难点，是不同测量怎样对应同一生命对象，进而观察、建模、预测、实验、更新。编辑启发是把模型看成受数据和实验不断约束的解释工具：既要问能模拟什么，也要问哪个观察会让研究者修改它，才能看清数字生命的科学用途。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article"
+    },
+    "appearances": [
+      "2026-10-09"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-fd802ba73ab0a0",
+    "title": "具身机器人成功变身小麦育种专家",
+    "original_title": "具身机器人成功变身小麦育种专家",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572633.shtm",
+    "published_at": "2026-10-09T13:55:39+08:00",
+    "date_precision": "second",
+    "discipline": "农业育种",
+    "summary": [
+      "小麦育种需要从大量植株中识别值得留下的材料，专家的经验判断与田间测量同样重要。中国科学报记者李晨报道，山东农业大学小麦育种全国重点实验室王宏伟、张亮团队公开展示了具身育种机器人原型。其专业依据是实际的育种平台、种质材料和专家参与标注。适合给农业、实验自动化和科研学生读者写成“机器人怎样学习育种眼光”：科学问题是筛选与表型测量，机器人的动作服务于这个问题。",
+      "报道围绕机器人变成育种助手展开：团队把2000份种质材料放在不同生态环境中种植，采集图像并请育种专家评分，用这些数据训练视觉和决策模型。系统识别株高、穗部等性状，判断哪些单株值得进一步选择，再用机械臂执行拍摄与标记。文章结尾提到团队与山东极智生物合作，希望把iWheat育种模型接入WheatX；这是后续合作方向，当前展示的是正在完善的原型。",
+      "全文最有解释力的是测量装置与判断数据如何配合。机器人用RTK和视觉导航接近植株，高清相机获取整体信息，机械臂末端环绕布置8个微型相机，从多个角度拍麦穗，提取穗长、籽粒数等信息；筛选后以喷漆标记目标。专家评分为模型提供选择标准，多角度成像则把经验判断接到可量化性状。编辑看来，读者应关注“采集什么、按什么选、怎样回到田间”，这样才能理解科研机器人如何形成感知、决策、执行的工作链。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-12117c803a4a14",
+    "title": "数学家应了解Lean定理证明器的哪些事情：可靠性与AI问题",
+    "original_title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "published_at": "2026-10-09T16:35:03+00:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "AI生成数学证明后，数学家怎样知道它证明了正确的命题？这篇客座文章由Thomas Hales撰写，刊在Terence Tao博客，不能把博主当成文章作者。Hales以开普勒猜想及其形式化证明工作为背景，熟悉大规模计算证明的验证成本。适合面向数学学生和科研智能体读者，解释“证明检查通过”具体意味着什么，把AI参与科学知识生产后需要的检验讲清楚。",
+      "文章从Lean的可靠性问题出发，讨论AI将论文中的自然语言论证转成形式化证明后，检查链如何工作。复杂输入先经 elaboration 转换，再交给相对小的内核检查。作者认为应认真检查基础软件，同时数学家仍需核对命题、定义和公理是否忠实表达了原来的数学问题。文章结尾强调可读的数学说明和基础设施审计，两者共同支持数学理解与信任。",
+      "全文把检验拆成多条相互补强的路线：使用独立实现的检查器交叉验证，形式化验证内核的实现，以及追问采用的逻辑基础。作者还讨论AI辅助发现的内核问题及修复后重检数学库的工作，并以文中讨论的内核形式化项目说明验证结论依赖哪些集合论假设。这些属于作者对技术工作的说明。编辑的启发是，一份AI证明应附上实际命题、依赖公理、检查环境与人可理解的论证；如此，机器验证和数学家理解才有可对照的对象。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-235f285afb0f89",
+    "title": "Anthropic的Claude Science绘制首张完整全天紫外地图",
+    "original_title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+    "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+    "published_at": "2026-10-09T09:22:25+00:00",
+    "date_precision": "second",
+    "discipline": "天文",
+    "summary": [
+      "天文学家想看完整的紫外天空，历史观测却留下大块空白。The Decoder报道了Anthropic的Claude Science项目；原始说明由约翰斯·霍普金斯大学天体物理学家、Anthropic研究者Brice Ménard撰写，他的专业背景直接对应巡天数据分析。适合对天文和科研AI感兴趣的读者，角度是“AI补全天空时，哪些来自测量、哪些来自推断”，让一张漂亮的地图变成可理解的科学数据产品。",
+      "报道的主要结果是一幅融合观测与预测的全天紫外地图。GALEX在2003—2013年留下约38000次观测，覆盖约三分之二天空，为保护探测器避开了部分明亮区域。项目让智能体获取、整理与校准数据，再利用紫外与可见光、红外、射电信息之间的关系预测缺测区。10月9日新闻对应10月8日原始项目说明；“完整”指地图的空间覆盖，读图时仍要分辨实测、预测和不确定性。",
+      "原始说明中的关键案例发生在背景处理：两轮智能体审查都没识别出的圆形印迹，被研究者发现来自地球大气辉光，随后才重做大量观测的背景校正。预测部分还通过遮住已知区域再重建来检验，作者报告该测试约10%的偏差，这个条件应与数字一起读。地图提供区分观测和预测的视图。编辑看来，AI节省的是数据整理与迭代的时间，研究者识别异常、设计检验及展示不确定性，仍决定地图能否被科学地使用。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-83bad4aa928e27",
+    "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+    "original_title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+    "url": "https://www.qbitai.com/2026/10/502359.html",
+    "published_at": "2026-10-09T14:28:55+08:00",
+    "date_precision": "second",
+    "discipline": "临床研究",
+    "summary": [
+      "让诊断AI进入真实门诊，研究问题包括它能否安全完成对话、是否帮助医生理解患者，以及医生怎样使用其信息。量子位报道AMIE临床研究，Google Research官方说明提供了研究场景和统计细节。这是一项临床可行性研究，适合医疗研究和AI评价读者，以“模拟病例之后，怎样进入真实流程”写进账号。权威依据在于公开研究设计与医生参与评价，而不是把媒体标题直接当作诊断效果结论。",
+      "报道主旨是AI问诊可能帮助医患交流。98名完成流程的患者在正常就诊前与AMIE对话，医生实时监督，随后按正常流程看诊。官方材料把地点描述为急性问题的初级保健门诊，量子位写成“急诊”需要纠正。官方博客最初发表于3月11日，并于10月8日更新正式发表信息；本次收录的是10月9日的新报道。研究关注真实流程可行性，文章所说的帮助应放在这一研究目标中理解。",
+      "统计分母决定了“有帮助”究竟覆盖哪些人。官方作者页面摘要说明，医生完成60份问卷，其中44次查看了对话记录，33次认为有帮助，即33/44；25/44次认为可能改变处置。实时安全监督未触发预设停止条件，另记录了一次幻觉及少量临床信息补充。编辑看来，把患者人数、医生反馈人数与看过记录的人数分开，才能判断AI在哪个环节发挥作用。未来可围绕对照设计、患者选择和沟通质量继续研究，新闻中的乐观表达也应保持对具体研究流程的忠实。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-c3e590bc15d702",
+    "title": "Chai Discovery宣布在湿实验评估成功后与GSK合作",
+    "original_title": "Chai Discovery Announces Collaboration with GSK Following Successful Wet-Lab Evaluation",
+    "url": "https://kttc.marketminute.com/article/bizwire-2026-10-9-chai-discovery-announces-collaboration-with-gsk-following-successful-wet-lab-evaluation",
+    "published_at": "2026-10-09T08:01:00-04:00",
+    "date_precision": "second",
+    "discipline": "蛋白质药物发现",
+    "summary": [
+      "蛋白质药物发现需要先找到能结合目标的分子，再经过一系列实验评估。Chai Discovery宣布与GSK合作，依据是GSK内部对AI设计分子的湿实验评价。材料为公司经Business Wire发布的声明，GSK研发高级副总裁Christopher Austin的引语提供了合作方说法。适合生物与AI药研读者，角度是“生成模型怎样接上真实实验与研发流程”，公司的实验描述要自然归属给发布方。",
+      "声明说，Chai在没有为目标专门训练模型的零样本条件下提出设计，GSK的内部检测在全部受测靶点上找到了结合分子；受测靶点数与设计总数未公开，因此这句话不能换算成所有设计都成功。合作让GSK在研发管线中使用Chai平台，包括其模型。Austin表示这些方法补充GSK以湿实验数据迭代的内部模型。全文结尾把合作放在Chai推动大分子发现的平台路线中，是研发能力合作的消息。",
+      "“零样本”解释了生成阶段的条件，“湿实验”解释了检测手段，两者连起来才构成AI与科学的直接联系。结合分子的发现为后续研究提供候选，药效、选择性及体内表现仍需要各自对应的实验。中文B910有同事件报道，明确标为AI辅助编译，并不是新增独立事件；Endpoints正文受限则保留为来源关系。编辑看来，读此类合作消息应追问靶点范围、设计数量、检测标准和后续反馈，能把平台宣传转成具体研发问题。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-48abe5ec6a3b93",
+    "title": "对话数学家罗博深：未来，工作不是变少了，而是太多了",
+    "original_title": "对话数学家罗博深：未来，工作不是变少了，而是太多了",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572654.shtm",
+    "published_at": "2026-10-09T20:26:45+08:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "AI参与数学证明以后，学生和数学家要学习什么？中国科学报记者孙滔采访卡内基梅隆大学数学系教授罗博深，把技术变化与数学教育联系起来。专业背景支持他谈数学训练与协作经验；文中的未来判断则属于受访者观点。适合数学学生、教师和关心科研职业的读者，以“AI能给答案后，人怎样学会判断”展开，避免把标题中的工作预测扩写成普遍劳动市场结论。",
+      "访谈的核心是罗博深认为，AI提高解题能力后，人需要处理更多审核、判断与协作问题。他谈到AI对数学猜想的挑战，以及人的逻辑训练怎样帮助识别论证是否站得住脚。标题用“工作太多”概括这种观点，文章最终落到好奇心、人与人之间的关系和个人能力的发展。数学证明是这里具体的科学知识活动，重点是产生结果后怎样理解、检验并使用结果。",
+      "全文中的课堂例子比宏观预测更能说明方法：在Putnam讨论课上，学生围绕黑板共同尝试，把不同人的建议接起来形成思路。罗博深借此强调倾听、合作与让别人愿意一起解题的能力。这种训练在AI可提供大量候选推理时有新的意义：人需要提出合适问题，也需要看懂不同论证如何连接。编辑看来，可把这个课堂场景写成学习建议，保留观点归属；访谈中的网络攻击与群体联署数字未获得独立材料补证，本次不将它们当作事实支柱。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-703fe8701b86ee",
+    "title": "AI能帮助数学走出绩优主义陷阱吗？",
+    "original_title": "Could AI Help Mathematics Escape the Meritocracy Trap?",
+    "url": "https://proofsandprompts.com/2026/10/09/could-ai-help-mathematics-escape-the-meritocracy-trap/",
+    "published_at": "2026-10-09T11:00:00+00:00",
+    "date_precision": "second",
+    "discipline": "数学",
+    "summary": [
+      "公开数学论文不等于每个人都有相同条件理解和研究它。Proofs and Prompts这篇评论把AI数学助手放进科研资源与评价制度的讨论。作者匿名，其自述职业身份尚未独立核实，因此采用的是有论证的评论价值，而非个人权威。适合数学学生、青年研究者及导师，以“能读到论文之后，还缺什么帮助”切入，讨论AI能否扩大学术支持的可获得性。",
+      "文章提出，数学工作依赖解释难点的导师、同伴讨论、前置知识和持续反馈；名校环境中的这些支持并不平均分布。AI若能拆解推导、补充例子、解释概念和提示联系，可能让更多研究者获得类似的帮助。但作者也担心，产出变容易后，评价机制只是提高论文数量要求，或更加依靠履历与推荐关系。标题提出的是一个开放问题，结尾要求把工具可及性与评价方式一起考虑。",
+      "全文的关键比较是“文件开放”与“理解所需支持”之间的差别。论文免费并不会自动给读者补齐知识链，一个能耐心解释的助手可能降低这部分成本；同时，回答是否正确仍需核对。作者建议更重视教学、清晰解释和验证这些工作，避免把更多生成结果变成新一轮竞争负担，并披露写作使用AI辅助。编辑看来，这类评论适合提出可检验的问题：工具是否帮助不同背景的人理解证明，以及科研评价有没有把这份帮助转成真实参与机会。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-13d03124ed562b",
+    "title": "菁致讲坛-Physics-Informed, AI-Scale Materials Science",
+    "original_title": "菁致讲坛-Physics-Informed, AI-Scale Materials Science",
+    "url": "https://pichem.ustc.edu.cn/2026/0309/c39242a755519/page.htm",
+    "published_at": "2026-10-09",
+    "date_precision": "day",
+    "discipline": "材料",
+    "summary": [
+      "材料模拟要在原子层面描述相互作用，但精确计算往往限制系统大小和模拟时间。中国科大精准智能化学全国重点实验室发布Shyue Ping Ong讲座预告，正文日期为10月9日，网址中的旧日期路径不能替代正文。Ong为新加坡国立大学材料领域讲席教授、pymatgen主要开发者及Materials Project核心贡献者，相关经历直接支持这次方法主题。适合材料学生，以“物理知识怎样进入AI模拟”作为活动备选。",
+      "预告题为Physics-Informed, AI-Scale Materials Science，安排10月13日讲座，讲述如何把物理知识与AI规模计算结合。摘要说明，以高通量第一性原理计算构建训练数据，学习覆盖较广化学空间的势能面，争取在保持接近第一性原理精度的同时降低计算成本，扩大时间、空间与材料范围。这里报道的是将要举行的学术活动及其公开主题，讲座尚未举行，页面也没有给出新的实验结果。",
+      "摘要提出的三个支点是物理约束、适合应用且质量可靠的数据，以及在时间与内存上可扩展的算法。它们对应材料AI常见的实际问题：数据是否覆盖目标化学体系，预测是否满足必要物理结构，软件能否处理更大的原子系统。编辑认为，可先做面向学生的讲座导读，再用实际讲座材料解释这些支点如何相互制约。本页仅披露日期，没有小时，因此单列为窗口边界待定，不能据此补足严格24小时中文新闻数量。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-2d8977d8b320cf",
+    "title": "写给数学家的AI数学经济逻辑",
+    "original_title": "The economy of AI math, for mathematicians",
+    "url": "https://blog.kolen.dev/math/economics.html",
+    "published_at": "2026-10-09",
+    "date_precision": "day",
+    "discipline": "数学",
+    "summary": [
+      "为什么AI研究者与数学家对大量数学结果的发布节奏可能有不同期待？Kolen Cheung这篇个人博客用训练激励解释分歧，其身份与内部信息未独立核实，文章也明确把核心经济叙事作为推测。适合关心AI数学争论的研究者，以“数学答案与模型学习信号有什么关系”做评论备选。专业贡献在这次阅读中没有额外核实，排序依据是论证内容而非作者名气。",
+      "文章认为，可由工具判断正确性的数学结果有机会为强化学习提供反馈：系统尝试证明，验证器给出可检查的信号，进而帮助模型学习。作者据此讨论企业内部训练与公开API使用的激励差异，并尝试解释公开大量数学成果的动机。这是分析框架，不能据此声称已知道某公司的内部训练流程。结尾邀请数学家理解AI研究的激励，同时承认故事是否准确仍有不确定性。",
+      "全文区分模型训练与使用已训练模型做推理，还提到数学理解、结果验证和企业投入之间的不同目标。对数学家而言，一个结果往往需要消化其结构与含义；对作者设想的训练过程而言，可验证性可能先成为重要资源。编辑看来，这个比较有助于把争论拆成可讨论的问题：哪些结果可检查，检查成本由谁承担，公开材料是否足够支持理解。订阅给出零点时间而正文只写日期，保守归入日期边界待定，不把日期默认值当作可靠发布小时。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-d59da992ceb9ab",
+    "title": "AI联手量子计算重塑未来医疗格局",
+    "original_title": "AI联手量子计算重塑未来医疗格局",
+    "url": "https://www.stdaily.com/web/gjxw/2026-10/09/content_592680.html",
+    "published_at": "2026-10-09T01:01:00+08:00",
+    "date_precision": "second",
+    "discipline": "药物计算",
+    "summary": [
+      "分子和蛋白质的相互作用是药物研发的计算难题，AI模型与量子模拟能否形成分工？科技日报刘霞的报道依据近期国外媒体材料，梳理这两条路线的结合。媒体专业采编提供报道价值，企业案例和前景判断仍按文章归属。适合药研、计算化学学生，以“模型给方向、物理计算检验细节”的流程角度解释。这篇原文凌晨发布，已经在本次窗口外，首次发现单列保留。",
+      "文章从AI联手量子计算的医疗前景展开：AI擅长在复杂数据中识别模式和提出候选，量子路线尝试处理传统计算困难的物理问题，二者可在分子模拟和药物研发中互补。报道举了IBM与医疗及科研机构的合作、Moderna相关RNA计算探索等案例，结尾展望其对研发与诊疗的影响。这些是报道所述的研究方向与合作探索，应将展望和具体已完成工作区分着读。",
+      "全文还描述了AI参与量子流程的几种位置：调整线路与参数、解释输出，以及在混合计算中协调迭代。把流程展开后，研究者先提出分子或结构假设，计算给出可评价的结果，再据此调整候选，才有机会形成科学反馈。报道里的性能数字涉及不同任务和条件，未逐篇核读原论文，本次不抽出它们做通用速度结论。编辑认为，更实用的导读是画出AI和量子计算分别解决哪一步，再追问每一步有什么实验或计算证据。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-88a94f43f76b92",
+    "title": "AI“语音时钟”可从声音评估衰老程度",
+    "original_title": "AI“语音时钟”可从声音评估衰老程度",
+    "url": "https://www.stdaily.com/web/gdxw/2026-10/09/content_592663.html",
+    "published_at": "2026-10-09T02:02:00+08:00",
+    "date_precision": "second",
+    "discipline": "认知与衰老",
+    "summary": [
+      "讲话的节奏、停顿与语言组织包含认知活动的信息，能否用它们研究衰老差异？科技日报张佳欣报道一种机器学习“语音时钟”，转载页先被发现，随后读回原文确认凌晨发布时间。研究涉及都柏林圣三一学院等团队及多国西班牙语人群，具体样本和测量关系构成报道依据。适合生命科学与数据方法读者，以“声音为什么能变成衰老研究数据”解释；这是窗口外首次发现文章。",
+      "报道介绍模型从语音与语言中提取数百种特征，预测与年龄相关的信号，再研究预测年龄与实际年龄的差异。样本覆盖阿根廷、智利、哥伦比亚、墨西哥和秘鲁的2928名西班牙语参与者，包括健康人、轻度认知障碍、阿尔茨海默病及额颞叶痴呆人群。文章结尾讨论低成本、远程评估的潜力，其意义来自语音采集容易进入生活场景，以及这些特征可能反映认知变化。",
+      "标题没有展开的是语音特征为何需要与其他指标对照：语速、音高和停顿描述表达方式，语义与组织方式接近语言认知；研究再把年龄差与脑老化、表观遗传年龄、认知表现、p-tau217等关联指标相比较。关联研究提供进一步验证的线索，个体诊断仍需要相应标准与临床检验。编辑看来，可把它写成“训练模型—得到年龄差—比较其他指标”三步，让读者理解信号如何生成、如何获得研究意义，也避免把研究潜力写成可直接使用的检测服务。"
+    ],
+    "source_verification": {
+      "body_read": true,
+      "body_read_status": "full_article",
+      "independent_paper_full_read": false
+    },
+    "appearances": [
+      "2026-10-10"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  }
+]

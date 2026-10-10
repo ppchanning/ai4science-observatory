@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite this collection for organization; cite original papers for scientific claims."
+title: "AI4Science Observatory"
+type: dataset
+authors:
+  - name: "ppchanning"
+repository-code: "https://github.com/ppchanning/ai4science-observatory"
+url: "https://github.com/ppchanning/ai4science-observatory"
+license: CC-BY-4.0

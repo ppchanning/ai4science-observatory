@@ -1,0 +1,17 @@
+name: Add a source
+description: Suggest a paper or resource
+title: "[source] "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Original source URL
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Relevance and evidence
+      description: Include date, material type, and limitations.
+    validations:
+      required: true

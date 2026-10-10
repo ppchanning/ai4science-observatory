@@ -1,0 +1,16 @@
+name: Correct a fact
+description: Report a factual, link, or attribution issue
+title: "[correction] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Repository entry or page
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correction and primary evidence
+    validations:
+      required: true
