@@ -1,124 +1,126 @@
+<p align="center"><strong>English</strong> | <a href="README.zh-CN.md">简体中文</a></p>
+
 <p align="center"><img src="assets/banner.svg" alt="AI4Science Observatory" width="100%"></p>
 
 <h1 align="center">AI4Science Observatory</h1>
-<p align="center"><strong>AI 科学发现、科研智能体与自动化实验的持续阅读地图</strong><br>Discover research, follow scientific agents, and explore the path from models to experiments.</p>
+<p align="center"><strong>A living reading map for AI scientific discovery, scientific agents, and automated experiments</strong><br>Discover research, follow scientific agents, and explore the path from models to experiments.</p>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/content-CC_BY_4.0-6366f1" alt="Content license: CC BY 4.0"></a>
   <a href="digests/README.md"><img src="https://img.shields.io/badge/format-digests_%2B_catalogs-0284c7" alt="Digests and catalogs"></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/notes-中文_%2B_English-334155" alt="Chinese notes and English paper titles"></a>
+  <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/README-English_%2B_简体中文-334155" alt="README available in English and Simplified Chinese"></a>
 </p>
 
-<p align="center"><a href="#start-here">快速开始</a> · <a href="#explore-the-landscape">领域地图</a> · <a href="#research-and-industry-data">可复用数据</a> · <a href="digests/README.md">历史归档</a> · <a href="CONTRIBUTING.md">参与贡献</a></p>
+<p align="center"><a href="#start-here">Start here</a> · <a href="#explore-the-landscape">Topic map</a> · <a href="#research-and-industry-data">Reusable data</a> · <a href="digests/README.md">Archives</a> · <a href="CONTRIBUTING.md">Contribute</a></p>
 
-**把分散的 AI4Science 进展，整理成能阅读、追溯、比较和继续探索的知识入口。**
+**Turn scattered AI4Science developments into a knowledge hub you can read, trace, compare, and explore further.**
 
-AI 正在进入科学研究的多个环节：分析数据、构建模型、提出假设、编写科学代码、操作专业软件，乃至连接真实仪器和远程实验平台。本仓库连接这些环节，帮助读者理解一项进展研究什么、使用什么方法、有什么证据，以及接下来值得读什么。
+AI is entering many stages of scientific research: analyzing data, building models, proposing hypotheses, writing scientific code, operating specialized software, and connecting to physical instruments and remote laboratories. This repository connects those stages to help you understand what a development investigates, how it works, what evidence supports it, and what to read next.
 
-这里提供持续整理的科学新闻、论文解读、专题书目、公开信源和结构化目录。你可以跟踪每天的变化，也可以沿着一个问题读下去，或下载数据建立自己的文献与产业分析。
+The collection brings together science news digests, paper reading notes, topical bibliographies, public sources, and structured catalogs. Follow daily developments, explore a research question across papers, or download the data to build your own literature and industry analysis.
 
 ## Start here
 
-| 你想做什么 | 从哪里开始 | 可以获得什么 |
+| What you want to do | Where to start | What you get |
 | --- | --- | --- |
-| 快速了解最近发生了什么 | [最新 AI4Science 日报](digests/ai4science/2026/2026-10-10.md) | 事件背景、AI 与科学问题的关系、原始来源及证据限制 |
-| 了解 Agent 如何真正参与科研 | [最新科学智能体晨读](digests/scientific-computer-use/2026/2026-10-10.md) | 科学软件、计算流程、仪器操作与远程实验论文的阅读切入点 |
-| 围绕问题建立文献路径 | [主题导航](topics/README.md) · [论文目录](resources/papers.md) | 按方法与场景连接论文，回到原文核查结论 |
-| 建立自己的信息跟踪渠道 | [信源目录](resources/sources.md) | 机构、期刊、项目与专业媒体的入口、采集方式及历史核验信息 |
-| 比较领域、项目或产业动向 | [数据指南](data/README.md) | 可下载的论文、综述、公司、融资、岗位与机构项目目录 |
-| 回顾某个时间段的变化 | [日期归档](digests/README.md) | 独立期次和历史来源，便于持续阅读与回溯 |
+| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-10-10.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
+| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-10-10.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
+| Build a reading path around a question | [Topic map](topics/README.md) · [Paper catalog](resources/papers.md) | Papers connected by methods and settings, with original sources for checking claims |
+| Build your own information feed | [Source directory](resources/sources.md) | Institutions, journals, projects, and specialist media, with collection methods and historical verification information |
+| Compare research areas, projects, or industry developments | [Data guide](data/README.md) | Downloadable catalogs of papers, surveys, companies, funding events, jobs, and institutional programs |
+| Review developments over time | [Dated archives](digests/README.md) | Individual issues and historical sources for continued reading and retrospective exploration |
 
-适合 AI4Science 研究者、希望进入相关领域的学生、科研软件与自动化实验开发者，以及关注科研产业的技术读者。正文以中文解释，保留英文论文题名与原始链接，方便继续查阅。
+For AI4Science researchers, students entering the field, scientific software and laboratory automation developers, and technical readers following the scientific industry. **The homepage is available in English and [Simplified Chinese](README.zh-CN.md). Most digests, research notes, and supporting guides are currently in Chinese, with original English paper titles and source links retained.**
 
 ## Explore the landscape
 
-### AI for scientific discovery · AI 与科学发现
+### AI for scientific discovery
 
-从科学问题出发观察 AI 方法：数据与表征、预测与建模、科学计算、实验选择和结果验证。每日新闻与跨学科论文目录提供宽视野，帮助读者把单篇论文放回学科、方法和研究流程中理解。
+Explore AI methods through the scientific problems they address: data and representations, prediction and modeling, scientific computing, experiment selection, and result validation. Daily news and interdisciplinary paper catalogs offer a broad view, placing individual papers within their disciplines, methods, and research workflows.
 
-**阅读入口：** [科学日报](digests/README.md#ai4science-daily) · [核心论文目录](data/catalogs/core-papers.csv) · [综述目录](data/catalogs/surveys.csv)
+**Start reading:** [Science digests](digests/README.md#ai4science-daily) · [Core papers](data/catalogs/core-papers.csv) · [Surveys](data/catalogs/surveys.csv)
 
-### Scientific agents · 科研智能体与计算工作流
+### Scientific agents & computational workflows
 
-关注 Agent 如何组织文献、代码、工具与多步骤任务，以及结果如何被记录和检查。阅读重点是系统的实际工作方式、产出物和验证证据，便于比较不同科研工作流。
+Follow how agents organize literature, code, tools, and multistep tasks, and how their outputs are recorded and checked. Notes focus on how systems actually work, what they produce, and the evidence used to validate them, helping you compare scientific workflows.
 
-**阅读入口：** [科研智能体专题](topics/scientific-agents.md) · [科学智能体书目](resources/papers.md)
+**Start reading:** [Scientific agents](topics/scientific-agents.md) · [Scientific-agent bibliography](resources/papers.md)
 
-### Scientific computer use · 科学软件与专业工具操作
+### Scientific computer use & specialized software
 
-关注 Agent 使用图形界面、终端及专业软件完成科学任务：它看到了什么、采取了什么动作、运行结果如何验证、长任务在哪些环节失败。材料包含科学软件使用、计算环境与过程评测相关论文。
+Study agents using graphical interfaces, terminals, and specialized software for scientific tasks: what they observe, which actions they take, how results are verified, and where long tasks fail. The collection includes papers on scientific software use, computational environments, and process evaluation.
 
-**阅读入口：** [科学软件操作专题](topics/computer-use.md) · [晨读归档](digests/README.md#scientific-computer-use)
+**Start reading:** [Scientific computer use](topics/computer-use.md) · [Reading-note archive](digests/README.md#scientific-computer-use)
 
-### Remote experiments · 远程实验与真实科学仪器
+### Remote experiments & physical instruments
 
-把远程科学实验纳入同一条研究链：从工具调用到仪器控制、测量反馈和实验闭环。论文阅读与平台目录一起呈现，帮助读者区分模拟环境、真实设备演示与可访问的公开设施。
+Connect remote scientific experiments to the broader research workflow, from tool calls to instrument control, measurement feedback, and closed-loop experimentation. Paper notes and platform directories help distinguish simulated environments, demonstrations on physical equipment, and publicly accessible facilities.
 
-**阅读入口：** [远程实验专题](topics/remote-experiments.md) · [平台与公开证据](resources/remote-labs.md)
+**Start reading:** [Remote experiments](topics/remote-experiments.md) · [Platforms and public evidence](resources/remote-labs.md)
 
-### Data & evaluation · 数据、验证与研究可信度
+### Data, evaluation & research validity
 
-关注研究用了什么数据、任务和对照，报告的结果支持什么结论，以及适用范围在哪里。阅读时保留版本、测量对象和未知条件，为比较不同方法提供上下文。
+Examine the data, tasks, and controls used in a study, the conclusions its reported results support, and the limits of those conclusions. Notes preserve versions, measurement targets, and unknown conditions to provide context for comparing methods.
 
-**阅读入口：** [数据与评测专题](topics/data-and-evaluation.md) · [编辑标准](docs/editorial-policy.md)
+**Start reading:** [Data and evaluation](topics/data-and-evaluation.md) · [Editorial policy](docs/editorial-policy.md)
 
 ## A taste of the collection
 
-以下题目展示当前书目的跨度；更完整的出处、版本与关联期次见 [论文目录](resources/papers.md)。
+These examples illustrate the range of the current bibliography. See the [paper catalog](resources/papers.md) for fuller source information, versions, and associated reading issues.
 
-| 方向 | 代表资料 | 可以带着什么问题阅读 |
+| Area | Selected resource | A question to read with |
 | --- | --- | --- |
-| 科学代码与 Agent 环境 | [ScienceIDE](https://arxiv.org/abs/2609.19134) | 科学代码如何组织成 Agent 可交互的任务环境？ |
-| 科学软件操作 | [OSWorld-Science](https://arxiv.org/abs/2609.39903) | 学习并使用专业软件，需要怎样的任务和评测？ |
-| 真实测量 | [Autonomous Quantum Transport Measurements](https://arxiv.org/abs/2609.26661) | Agent 如何进入物理测量流程，实验结果如何确认？ |
-| 远程实验设施 | [A Programmable Optics Cloud Laboratory](https://arxiv.org/abs/2609.16413) | 远程访问、程序控制与实验反馈如何衔接？ |
+| Scientific code and agent environments | [ScienceIDE](https://arxiv.org/abs/2609.19134) | How can scientific code become an interactive task environment for agents? |
+| Scientific software use | [OSWorld-Science](https://arxiv.org/abs/2609.39903) | What tasks and evaluations are needed to learn and use specialized software? |
+| Physical measurements | [Autonomous Quantum Transport Measurements](https://arxiv.org/abs/2609.26661) | How do agents enter physical measurement workflows, and how are experimental results confirmed? |
+| Remote laboratory facilities | [A Programmable Optics Cloud Laboratory](https://arxiv.org/abs/2609.16413) | How do remote access, programmatic control, and experimental feedback fit together? |
 
 ## Research and industry data
 
-除每日阅读外，仓库提供便于筛选和二次分析的 **UTF-8 JSON / CSV**。字段说明、记录数量和快照日期见 [Data Guide](data/README.md) 与 [数据清单](data/datasets.json)。
+Beyond daily reading, the repository provides **UTF-8 JSON / CSV** for filtering and further analysis. Field definitions, record counts, and snapshot dates are documented in the [data guide](data/README.md) and [dataset inventory](data/datasets.json).
 
-| 数据层 | 已提供材料 | 常见用途 |
+| Data layer | Available material | Common uses |
 | --- | --- | --- |
-| 研究文献 | 核心论文、综述、被引文献、已纳入论文及候选阅读集 | 建立文献表、筛选研究方向、追踪相关工作；候选与正式纳入分别标注 |
-| 科研与产业 | 公司、融资事件、岗位、机构项目、上市公司相关举措 | 观察技术转化、组织布局和历史人才需求 |
-| 新闻与书目 | 去重新闻 JSON、科学智能体论文 JSON、关联归档路径 | 本地检索、时间线分析、连接读书笔记与来源 |
-| 信息与设施 | 信源 JSON、远程实验平台证据 | 建立持续跟踪清单，查找公开项目和设施入口 |
+| Research literature | Core papers, surveys, cited works, included papers, and candidate reading sets | Build literature tables, select research directions, and trace related work; candidates and included papers are labeled separately |
+| Research and industry | Companies, funding events, jobs, institutional programs, and initiatives involving listed companies | Explore technology transfer, organizational activity, and historical hiring needs |
+| News and bibliographies | Deduplicated news JSON, scientific-agent paper JSON, and linked archive paths | Search locally, analyze timelines, and connect reading notes to their sources |
+| Sources and facilities | Source-directory JSON and evidence for remote laboratory platforms | Build monitoring lists and find public projects and facility entry points |
 
-不同论文表可能重叠，行数不能相加当作独立论文数。产业材料是带日期的公开信息快照，岗位和平台访问条件需要重新核验。
+Paper tables may overlap; their row counts cannot be added to obtain a unique paper count. Industry records are dated snapshots of public information. Job availability and platform access conditions require fresh verification.
 
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-截至 **2026-10-10**：**17 期科学日报 · 182 个去重新闻事件 · 11 期科学智能体晨读 · 45 项晨读书目 · 170 个信源 · 11 份 CSV 数据集**。
+As of **2026-10-10**: **17 science digests · 182 deduplicated news events · 11 scientific-agent reading issues · 45 bibliography entries · 170 sources · 11 CSV datasets**.
 
-新闻归档覆盖 2026-09-22 至 2026-10-10；晨读覆盖 2026-09-28 至 2026-10-10。日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引与结构化数据一起维护。
+News archives cover 2026-09-22 through 2026-10-10; reading issues cover 2026-09-28 through 2026-10-10. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository
 
-1. **日常跟踪：** 从最新日报选一个感兴趣的事件，阅读解释，再打开原始来源。
-2. **专题阅读：** 从主题页进入相关书目，结合晨读中的方法、限制和建议章节形成阅读顺序。
-3. **建立自己的资料库：** 下载 JSON / CSV，在表格或分析工具中按字段筛选；保留来源与快照日期。
-4. **补充与纠错：** 为遗漏论文、元数据修订或证据问题提交 [Issue](https://github.com/ppchanning/ai4science-observatory/issues) 或 Pull Request，按 [贡献指南](CONTRIBUTING.md) 附上原始出处。
+1. **Follow developments:** Choose an event from the latest digest, read the explanation, and open the original source.
+2. **Read by topic:** Follow a topic page into its bibliography, then use the methods, limitations, and suggested sections in the reading notes to plan your reading order.
+3. **Build your own collection:** Download JSON / CSV and filter by fields in a spreadsheet or analysis tool. Keep source information and snapshot dates.
+4. **Contribute and correct:** Submit an [issue](https://github.com/ppchanning/ai4science-observatory/issues) or pull request for missing papers, metadata corrections, or evidence concerns. Include original sources as described in the [contribution guide](CONTRIBUTING.md).
 
 ## Repository map
 
 ```text
-digests/       # 科学日报与科学智能体晨读：频道 / 年份 / 日期
-topics/        # 按问题与方法组织的阅读路径
-resources/     # 论文、公开信源与远程实验平台导航
-data/          # 可下载的 JSON / CSV 与数据清单
-docs/          # 编辑标准、分享说明与设计参考
-templates/     # 新增资料的统一模板
-.github/       # 资料推荐、纠错与 Pull Request 模板
+digests/       # Science digests and scientific-agent notes: channel / year / date
+topics/        # Reading paths organized by questions and methods
+resources/     # Paper, public-source, and remote-laboratory directories
+data/          # Downloadable JSON / CSV and dataset inventory
+docs/          # Editorial policy, sharing guidance, and design references
+templates/     # Consistent templates for new material
+.github/       # Resource suggestions, corrections, and pull request templates
 ```
 
 ## Sources, contributions & citation
 
-整理保留原始来源、版本与证据限制，区分预印本、正式论文、新闻及官方案例。内容由 AI 辅助整理；推荐不代表维护者已读完，作者报告不代表独立复现。详见 [Editorial Policy](docs/editorial-policy.md)。
+The collection preserves original sources, versions, and evidence limitations, distinguishing preprints, published papers, news, and official cases. Content is curated with AI assistance. A recommendation does not imply that the maintainer has completed the reading; an author's reported result does not imply independent replication. See the [editorial policy](docs/editorial-policy.md).
 
-欢迎补充有来源的资料、改进阅读路径与修正事实，见 [CONTRIBUTING](CONTRIBUTING.md)。原创说明与汇编采用 [CC BY 4.0](LICENSE)，第三方作品保留各自权利。科研结论请引用原论文；引用本集合的组织与数据可使用 [CITATION.cff](CITATION.cff)。
+Contributions of sourced resources, improved reading paths, and factual corrections are welcome; see [CONTRIBUTING](CONTRIBUTING.md). Original commentary and compilation are licensed under [CC BY 4.0](LICENSE); third-party works retain their respective rights. Cite the original papers for scientific claims. To cite this collection's organization and data, use [CITATION.cff](CITATION.cff).
 
-**Related collection:** [Agent Simulation Environments](https://github.com/ppchanning/agent-environments-and-evaluation) 聚焦 Agent 仿真环境的构建、生成与可信验证，涵盖工具服务仿真、有状态模拟器和世界模型；本仓库聚焦科学问题、科研工作流与真实实验。
+**Related collection:** [Agent Simulation Environments](https://github.com/ppchanning/agent-environments-and-evaluation) focuses on building, generating, and validating agent simulation environments, including tool-service simulation, stateful simulators, and world models. This repository focuses on scientific problems, research workflows, and physical experiments.
 
-[分享说明](docs/sharing.md) · [设计参考](docs/design-references.md)
+[Sharing guide](docs/sharing.md) · [Design references](docs/design-references.md)
