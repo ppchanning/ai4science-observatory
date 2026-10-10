@@ -119,6 +119,6 @@ templates/     # 新增资料的统一模板
 
 欢迎补充有来源的资料、改进阅读路径与修正事实，见 [CONTRIBUTING](CONTRIBUTING.md)。原创说明与汇编采用 [CC BY 4.0](LICENSE)，第三方作品保留各自权利。科研结论请引用原论文；引用本集合的组织与数据可使用 [CITATION.cff](CITATION.cff)。
 
-**Related collection:** [Agent Environments & Evaluation](https://github.com/ppchanning/agent-environments-and-evaluation) 聚焦通用 Agent 的工具、模拟环境、状态行为与评测；本仓库聚焦科学问题、科研工作流与真实实验。
+**Related collection:** [Agent Simulation Environments](https://github.com/ppchanning/agent-environments-and-evaluation) 聚焦 Agent 仿真环境的构建、生成与可信验证，涵盖工具服务仿真、有状态模拟器和世界模型；本仓库聚焦科学问题、科研工作流与真实实验。
 
 [分享说明](docs/sharing.md) · [设计参考](docs/design-references.md)
