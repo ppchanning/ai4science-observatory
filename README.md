@@ -11,13 +11,31 @@
   <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/README-English_%2B_简体中文-334155" alt="README available in English and Simplified Chinese"></a>
 </p>
 
-<p align="center"><a href="#start-here">Start here</a> · <a href="#explore-the-landscape">Topic map</a> · <a href="#research-and-industry-data">Reusable data</a> · <a href="digests/README.md">Archives</a> · <a href="CONTRIBUTING.md">Contribute</a></p>
+<p align="center"><a href="#updates">Updates</a> · <a href="#start-here">Start here</a> · <a href="#explore-the-landscape">Topic map</a> · <a href="#research-and-industry-data">Reusable data</a> · <a href="digests/README.md">Archives</a> · <a href="CONTRIBUTING.md">Contribute</a></p>
 
 **Turn scattered AI4Science developments into a knowledge hub you can read, trace, compare, and explore further.**
 
 AI is entering many stages of scientific research: analyzing data, building models, proposing hypotheses, writing scientific code, operating specialized software, and connecting to physical instruments and remote laboratories. This repository connects those stages to help you understand what a development investigates, how it works, what evidence supports it, and what to read next.
 
 The collection brings together science news digests, paper reading notes, topical bibliographies, public sources, and structured catalogs. Follow daily developments, explore a research question across papers, or download the data to build your own literature and industry analysis.
+
+## Updates
+
+<!-- updates-daily:start -->
+- **2026-10-10** — [11 news items](digests/ai4science/2026/2026-10-10.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-10.md) — Crop breeding & scientific discovery.
+- **2026-10-09** — [9 news items](digests/ai4science/2026/2026-10-09.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-09.md) — Climate models & telescopes.
+- **2026-10-08** — [9 news items](digests/ai4science/2026/2026-10-08.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-08.md) — Cell maps & X-ray agents.
+- **2026-10-07** — [12 news items](digests/ai4science/2026/2026-10-07.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-07.md) — Protein design & automated labs.
+- **2026-10-06** — [7 news items](digests/ai4science/2026/2026-10-06.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-06.md) — Instrument control & quantum sensing.
+- **2026-10-05** — [7 news items](digests/ai4science/2026/2026-10-05.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-05.md) — Lunar models & materials analysis.
+- **2026-10-04** — [11 news items](digests/ai4science/2026/2026-10-04.md) · [4 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-04.md) — Scientific software & cloud labs.
+<!-- updates-daily:end -->
+
+Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
+
+<!-- updates-milestones:start -->
+- 🚀 **2026-10-10** — [Launched](https://github.com/ppchanning/ai4science-observatory/commit/551b5b6) with [28 reading issues](digests/README.md) and [11 CSV datasets](data/README.md); added [English / Chinese homepages](README.zh-CN.md) and [update history](CHANGELOG.md).
+<!-- updates-milestones:end -->
 
 ## Start here
 

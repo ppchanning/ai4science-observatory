@@ -11,13 +11,31 @@
   <a href="README.md"><img src="https://img.shields.io/badge/README-English_%2B_简体中文-334155" alt="README available in English and Simplified Chinese"></a>
 </p>
 
-<p align="center"><a href="#start-here">快速开始</a> · <a href="#explore-the-landscape">领域地图</a> · <a href="#research-and-industry-data">可复用数据</a> · <a href="digests/README.md">历史归档</a> · <a href="CONTRIBUTING.md">参与贡献</a></p>
+<p align="center"><a href="#updates">更新记录</a> · <a href="#start-here">快速开始</a> · <a href="#explore-the-landscape">领域地图</a> · <a href="#research-and-industry-data">可复用数据</a> · <a href="digests/README.md">历史归档</a> · <a href="CONTRIBUTING.md">参与贡献</a></p>
 
 **把分散的 AI4Science 进展，整理成能阅读、追溯、比较和继续探索的知识入口。**
 
 AI 正在进入科学研究的多个环节：分析数据、构建模型、提出假设、编写科学代码、操作专业软件，乃至连接真实仪器和远程实验平台。本仓库连接这些环节，帮助读者理解一项进展研究什么、使用什么方法、有什么证据，以及接下来值得读什么。
 
 这里提供持续整理的科学新闻、论文解读、专题书目、公开信源和结构化目录。你可以跟踪每天的变化，也可以沿着一个问题读下去，或下载数据建立自己的文献与产业分析。
+
+## Updates
+
+<!-- updates-daily:start -->
+- **2026-10-10** — [11 条新闻](digests/ai4science/2026/2026-10-10.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-10.md) — 作物育种与科学发现。
+- **2026-10-09** — [9 条新闻](digests/ai4science/2026/2026-10-09.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-09.md) — 气候模型与望远镜。
+- **2026-10-08** — [9 条新闻](digests/ai4science/2026/2026-10-08.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-08.md) — 细胞图谱与 X 射线 Agent。
+- **2026-10-07** — [12 条新闻](digests/ai4science/2026/2026-10-07.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-07.md) — 蛋白设计与自动化实验。
+- **2026-10-06** — [7 条新闻](digests/ai4science/2026/2026-10-06.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-06.md) — 仪器控制与量子传感。
+- **2026-10-05** — [7 条新闻](digests/ai4science/2026/2026-10-05.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-05.md) — 月球模型与材料分析。
+- **2026-10-04** — [11 条新闻](digests/ai4science/2026/2026-10-04.md) · [4 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-04.md) — 科学软件与云实验室。
+<!-- updates-daily:end -->
+
+首页保留最近 7 天；[查看完整记录](CHANGELOG.zh-CN.md)。 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入，非历史发布记录。
+
+<!-- updates-milestones:start -->
+- 🚀 **2026-10-10** — [仓库上线](https://github.com/ppchanning/ai4science-observatory/commit/551b5b6)：整理 [28 期阅读资料](digests/README.md)、[11 份 CSV 数据集](data/README.md)，提供[中英文首页](README.md)与[更新记录](CHANGELOG.zh-CN.md)。
+<!-- updates-milestones:end -->
 
 ## Start here
 
