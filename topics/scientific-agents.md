@@ -31,4 +31,10 @@
 - [LLM-IDEA: Identifiability-Driven Experimental Agent for Autonomous Discovery of Mechanistic World Models](https://arxiv.org/abs/2610.11253) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-10.md)
 - [Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station](https://arxiv.org/abs/2610.08927) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-10.md)
 
+- [What Output-Only Review Cannot Verify: Study Contracts for Research Agents](https://arxiv.org/abs/2610.11754) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities](https://arxiv.org/abs/2412.18161) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [Integrating Domain-Specialized Language Models with AI Measurement Tools for Deterministic Atomic-Resolution Experimentation](https://arxiv.org/abs/2602.20669) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories](https://arxiv.org/abs/2405.13930) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+
 [完整书目](../resources/papers.md) · [全部主题](README.md)

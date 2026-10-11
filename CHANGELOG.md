@@ -12,6 +12,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-11** — Added [14 news events](digests/ai4science/2026/2026-10-11.md) and [5 scientific-agent papers](digests/scientific-computer-use/2026/2026-10-11.md) in 2 new issues; 1 returning event. Added 1 source, revised 1 source and 2 catalog records across 2 CSVs. Mathematical verification & instrument workflows. No paper revisions or backfilled issues.
+
 - **2026-10-10** — Added [2-language update history](CHANGELOG.zh-CN.md), covering 17 material dates; the [homepage](README.md#updates) shows 7 days. Cataloged [3 items already present in the September 27 digest](digests/ai4science/2026/2026-09-27.md), corrected 182 news archive references, and revised 4 issues to remove editorial workflow language. New independent resources: 0; backfilled issues: 0.
 
 ## Backfilled reading timeline

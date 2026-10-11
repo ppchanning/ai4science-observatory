@@ -2410,6 +2410,7 @@
       "collect_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%22machine%20learning%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22drug%20discovery%22%20OR%20%22protein%20design%22%20OR%20%22single%20cell%22%29&format=json&pageSize=25",
       "method": "europepmc_api",
       "access_status": "已实测结构化读取",
+      "observed_frequency": "原25条为相关性排序样本，不能估计更新间隔；增量按首次入库日游标全翻",
       "official_frequency": "未发现承诺",
       "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%22machine%20learning%22%20OR%20%22artificial%20intelligence%22%29%20AND%20%28%22drug%20discovery%22%20OR%20%22protein%20design%22%20OR%20%22single%20cell%22%29&format=json&pageSize=25&sort_date=y",
       "evidence_note": "生命科学论文与预印本；可查询日期与游标；结构化样本或官网栏目可验证，具体条目需内容过滤",
@@ -5763,6 +5764,40 @@
       "evidence_url": "https://leodemoura.github.io/blog/2026-8-24-postmortem-for-the-kernel-soundness-bug-hunt/",
       "evidence_note": "Tao博客客座作者Hales正文引用postmortem；复盘明确AI发现Lean证明内核问题及外部检查方案；作者页面披露Lean FRO联合创始人与首席架构师身份。",
       "checked_at": "2026-10-10"
+    },
+    {
+      "source_id": "S178",
+      "name": "First Proof · AI研究数学评测项目",
+      "nature": "低频项目原始公告",
+      "region": "国际协作（按所列团队机构）",
+      "language": "英文",
+      "priority": "P1",
+      "role": "数学AI能力评测／原始项目公告",
+      "discipline_tags": {
+        "生命医药": "未见",
+        "化学": "未见",
+        "材料": "未见",
+        "物理": "未见",
+        "地球气候": "未见",
+        "能源": "未见",
+        "数学与科学计算": "很多"
+      },
+      "facet_tags": {
+        "技术": "中",
+        "商业": "未见",
+        "金融": "未见",
+        "政策": "未见"
+      },
+      "focus": "独立透明评测AI研究数学能力、问题征集与社区解题实验",
+      "home_url": "https://1stproof.org/",
+      "collect_url": "https://1stproof.org/",
+      "method": "html_agent",
+      "access_status": "项目首页及公告列表可读",
+      "observed_frequency": "首页9条公告，2/5至8/25；不承诺固定更新",
+      "official_frequency": "按评测批次公告",
+      "evidence_url": "https://1stproof.org/",
+      "evidence_note": "Tao Math 2.0演讲第9页列First Proof；官网使命明确AI与研究数学能力评测，列编辑委员会与批次公告。",
+      "checked_at": "2026-10-11"
     }
   ],
   "note": "Historical checks; access and frequency may change."

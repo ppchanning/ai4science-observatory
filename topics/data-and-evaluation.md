@@ -14,4 +14,7 @@
 - [Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations](https://arxiv.org/abs/2610.08364) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-09.md)
 - [The missing map of the sky](https://www.anthropic.com/research/the-missing-map-of-the-sky) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-10.md)
 
+- [What Output-Only Review Cannot Verify: Study Contracts for Research Agents](https://arxiv.org/abs/2610.11754) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+
 [完整书目](../resources/papers.md) · [全部主题](README.md)

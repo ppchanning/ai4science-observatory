@@ -16,4 +16,8 @@
 - [LLM-IDEA: Identifiability-Driven Experimental Agent for Autonomous Discovery of Mechanistic World Models](https://arxiv.org/abs/2610.11253) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-10.md)
 - [JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes](https://arxiv.org/abs/2505.06771) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-10.md)
 
+- [VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities](https://arxiv.org/abs/2412.18161) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [Integrating Domain-Specialized Language Models with AI Measurement Tools for Deterministic Atomic-Resolution Experimentation](https://arxiv.org/abs/2602.20669) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories](https://arxiv.org/abs/2405.13930) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+
 [完整书目](../resources/papers.md) · [全部主题](README.md)

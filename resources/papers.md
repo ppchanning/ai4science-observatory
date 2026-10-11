@@ -49,3 +49,8 @@
 | [Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station](https://arxiv.org/abs/2610.08927) | — | — | arXiv预印本 |
 | [The missing map of the sky](https://www.anthropic.com/research/the-missing-map-of-the-sky) | — | — | 官方实质科研技术文章（非已核正式论文） |
 | [JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes](https://arxiv.org/abs/2505.06771) | — | — | CoRL 2025论文／arXiv v3 |
+| [What Output-Only Review Cannot Verify: Study Contracts for Research Agents](https://arxiv.org/abs/2610.11754) | Eitan Waks、Ben Glocker；Imperial College London | 2026-10-08 | arXiv预印本 |
+| [VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities](https://arxiv.org/abs/2412.18161) | Mathur、van der Vleuten、Yager、Tsai；Brookhaven National Laboratory | 2024-12-24 | 期刊关联论文／arXiv版本 |
+| [Integrating Domain-Specialized Language Models with AI Measurement Tools for Deterministic Atomic-Resolution Experimentation](https://arxiv.org/abs/2602.20669) | Diao、Matsumoto、Hou、Ohara、Yamashita、Abe；大阪大学 | 2026-02-24 | arXiv预印本 |
+| [AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories](https://arxiv.org/abs/2405.13930) | Yuxing Fei等；UC Berkeley／LBNL，Ceder与Jain团队 | 2024-05-22 | 期刊关联论文／arXiv版本 |
+| [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631) | Lijie Ding、Changwoo Do；Oak Ridge National Laboratory | 2026-10-02 | arXiv预印本 |

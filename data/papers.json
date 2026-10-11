@@ -769,5 +769,115 @@
       "digests/scientific-computer-use/2026/2026-10-10.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "What Output-Only Review Cannot Verify: Study Contracts for Research Agents",
+    "team": "Eitan Waks、Ben Glocker；Imperial College London",
+    "doi": "10.48550/arXiv.2610.11754",
+    "arxiv": "2610.11754",
+    "url": "https://arxiv.org/abs/2610.11754",
+    "version_date": "2026-10-08",
+    "type": "arXiv预印本",
+    "verification": "原始身份与日期、正文所列方法/结果/补充已核；作者报告，未独立复现",
+    "verified_at": "2026-10-11T07:07:49.458308+08:00",
+    "evidence": "8组自建正常/改坏包；确定检查器8/8；18别名×8改坏包=144判断，104缺陷、32弃权、8终止失败，0明确正常",
+    "read_first": "§3.3、§4、表1",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "limitations": "检查器与评审信息和规则不等；不是模型质量对照，也未证明reward hacking",
+    "fulltext_url": "https://arxiv.org/html/2610.11754v1",
+    "id": "arxiv:2610.11754",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities",
+    "team": "Mathur、van der Vleuten、Yager、Tsai；Brookhaven National Laboratory",
+    "doi": "10.1088/2632-2153/add9e4",
+    "arxiv": "2412.18161",
+    "url": "https://arxiv.org/abs/2412.18161",
+    "version_date": "2024-12-24",
+    "type": "期刊关联论文／arXiv版本",
+    "verification": "原始身份与日期、正文所列方法/结果/补充已核；作者报告，未独立复现",
+    "verified_at": "2026-10-11T07:07:49.458308+08:00",
+    "evidence": "§3.2真实束线操作采集分析演示；模块F1和响应时间不是实验总成功率",
+    "read_first": "§3.2、S1.3",
+    "first_published": "2024-12-24",
+    "verified_version": "v1",
+    "limitations": "无同预算GUI/API科研比较；迁移人时和总排队时延未知",
+    "fulltext_url": "https://arxiv.org/html/2412.18161v1",
+    "id": "arxiv:2412.18161",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Integrating Domain-Specialized Language Models with AI Measurement Tools for Deterministic Atomic-Resolution Experimentation",
+    "team": "Diao、Matsumoto、Hou、Ohara、Yamashita、Abe；大阪大学",
+    "doi": "10.48550/arXiv.2602.20669",
+    "arxiv": "2602.20669",
+    "url": "https://arxiv.org/abs/2602.20669",
+    "version_date": "2026-04-06",
+    "type": "arXiv预印本",
+    "verification": "原始身份与日期、正文所列方法/结果/补充已核；作者报告，未独立复现",
+    "verified_at": "2026-10-11T07:07:49.458308+08:00",
+    "evidence": "命令Stage i99.3%、Stage ii95.2%；方法表总命令测试181条，阶段分母未明确拆出，非181硬件实验",
+    "read_first": "图1、S3、命令解析方法",
+    "first_published": "2026-02-24",
+    "verified_version": "v2",
+    "limitations": "专用数据与模块预制；模型命令准确率不等于系统成功率",
+    "fulltext_url": "https://arxiv.org/html/2602.20669v2",
+    "id": "arxiv:2602.20669",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories",
+    "team": "Yuxing Fei等；UC Berkeley／LBNL，Ceder与Jain团队",
+    "doi": "10.1039/d4dd00129j",
+    "arxiv": "2405.13930",
+    "url": "https://arxiv.org/abs/2405.13930",
+    "version_date": "2024-08-30",
+    "type": "期刊关联论文／arXiv版本",
+    "verification": "原始身份与日期、正文所列方法/结果/补充已核；作者报告，未独立复现",
+    "verified_at": "2026-10-11T07:07:49.458308+08:00",
+    "evidence": "约1.5年3500不同样品；图6流程，运营规模非目标合成成功率",
+    "read_first": "§2.1、§3.1–3.3、图6",
+    "first_published": "2024-05-22",
+    "verified_version": "v2",
+    "limitations": "人工储存/恢复仍存在；专用驱动与任务定义必需，无接口成本公平比较",
+    "fulltext_url": "https://arxiv.org/html/2405.13930v2",
+    "id": "arxiv:2405.13930",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents",
+    "team": "Lijie Ding、Changwoo Do；Oak Ridge National Laboratory",
+    "doi": "10.48550/arXiv.2610.03631",
+    "arxiv": "2610.03631",
+    "url": "https://arxiv.org/abs/2610.03631",
+    "version_date": "2026-10-02",
+    "type": "arXiv预印本",
+    "verification": "原始身份与日期、正文所列方法/结果/补充已核；作者报告，未独立复现",
+    "verified_at": "2026-10-11T07:07:49.458308+08:00",
+    "evidence": "16任务7模型每任务方式1回，最高7/16；300留出实例Qwen3-8B34→230通过，第二种子69%；物理规则＋同预算优化81%与76.7%未分开",
+    "read_first": "表1、图2、表2",
+    "first_published": "2026-10-02",
+    "verified_version": "v1",
+    "limitations": "小基准不能模型排名；种子不稳定、专用工具与判据；非物理闭环",
+    "fulltext_url": "https://arxiv.org/html/2610.03631v1",
+    "id": "arxiv:2610.03631",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]
