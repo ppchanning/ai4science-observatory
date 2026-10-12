@@ -1,0 +1,13 @@
+---
+layout: "default"
+title: "如何核查 AI4Science 结论并复用研究数据"
+description: "从结论追到原始来源，区分证据类型、去重版本，并提供只读 JSON 使用示例。"
+lang: "zh-CN"
+markdown: "/guides/evidence-and-data-reuse.zh-CN.md"
+alternate: "/guides/evidence-and-data-reuse.html"
+alternate_lang: "en"
+schema_type: "Article"
+updated: "2026-10-12"
+---
+{% capture document %}{% include_relative evidence-and-data-reuse.zh-CN.md %}{% endcapture %}
+{{ document | replace: 'scientific-agent-selection.zh-CN.md)', 'scientific-agent-selection.zh-CN.html)' | replace: 'scientific-agent-selection.md)', 'scientific-agent-selection.html)' | replace: 'remote-lab-access.zh-CN.md)', 'remote-lab-access.zh-CN.html)' | replace: 'remote-lab-access.md)', 'remote-lab-access.html)' | replace: 'evidence-and-data-reuse.zh-CN.md)', 'evidence-and-data-reuse.zh-CN.html)' | replace: 'evidence-and-data-reuse.md)', 'evidence-and-data-reuse.html)' | replace: 'index.zh-CN.md)', 'index.zh-CN.html)' | replace: 'index.md)', 'index.html)' | replace: 'agent-index.zh-CN.md)', 'agent-index.zh-CN.html)' | replace: 'agent-index.md)', 'agent-index.html)' | markdownify }}

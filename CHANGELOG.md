@@ -8,9 +8,13 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Milestones
 
+- 🧭 **2026-10-12** — [Three core guides and Agent reading entry points](agent-index.md), with complete English / Chinese versions and a [public reading site](https://ppchanning.github.io/ai4science-observatory/).
+
 - 🚀 **2026-10-10** — [Launched](https://github.com/ppchanning/ai4science-observatory/commit/551b5b6) with [28 reading issues](digests/README.md) and [11 CSV datasets](data/README.md); added [English / Chinese homepages](README.zh-CN.md) and [update history](CHANGELOG.md).
 
 ## Publication updates
+
+- **2026-10-12** — Added [3 bilingual core guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/ai4science-observatory/); source records and JSON entry points included.
 
 - **2026-10-11** — Added [14 news events](digests/ai4science/2026/2026-10-11.md) and [5 scientific-agent papers](digests/scientific-computer-use/2026/2026-10-11.md) in 2 new issues; 1 returning event. Added 1 source, revised 1 source and 2 catalog records across 2 CSVs. Mathematical verification & instrument workflows. No paper revisions or backfilled issues.
 

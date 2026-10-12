@@ -1,0 +1,11 @@
+title: "AI4Science Observatory"
+description: "Source-backed guides to scientific agents, remote laboratories and reusable AI4Science evidence."
+url: "https://ppchanning.github.io"
+baseurl: "/ai4science-observatory"
+repository: "ppchanning/ai4science-observatory"
+repository_url: "https://github.com/ppchanning/ai4science-observatory"
+lang: "en"
+markdown: "kramdown"
+kramdown: {"input": "GFM"}
+exclude: ["AGENTS.md", "templates", ".github", "CITATION.cff"]
+plugins: []

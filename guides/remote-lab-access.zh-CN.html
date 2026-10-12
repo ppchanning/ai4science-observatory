@@ -1,0 +1,13 @@
+---
+layout: "default"
+title: "如何让 AI Agent 接入远程实验室"
+description: "区分真实硬件与仿真，核查接入及自动化权限，保留测量来源。"
+lang: "zh-CN"
+markdown: "/guides/remote-lab-access.zh-CN.md"
+alternate: "/guides/remote-lab-access.html"
+alternate_lang: "en"
+schema_type: "Article"
+updated: "2026-10-12"
+---
+{% capture document %}{% include_relative remote-lab-access.zh-CN.md %}{% endcapture %}
+{{ document | replace: 'scientific-agent-selection.zh-CN.md)', 'scientific-agent-selection.zh-CN.html)' | replace: 'scientific-agent-selection.md)', 'scientific-agent-selection.html)' | replace: 'remote-lab-access.zh-CN.md)', 'remote-lab-access.zh-CN.html)' | replace: 'remote-lab-access.md)', 'remote-lab-access.html)' | replace: 'evidence-and-data-reuse.zh-CN.md)', 'evidence-and-data-reuse.zh-CN.html)' | replace: 'evidence-and-data-reuse.md)', 'evidence-and-data-reuse.html)' | replace: 'index.zh-CN.md)', 'index.zh-CN.html)' | replace: 'index.md)', 'index.html)' | replace: 'agent-index.zh-CN.md)', 'agent-index.zh-CN.html)' | replace: 'agent-index.md)', 'agent-index.html)' | markdownify }}

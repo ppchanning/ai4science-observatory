@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-10-12",
+  "scope": "Small curated guide examples, separate from the full bibliography. No ranking or measured results.",
+  "unknown_policy": "Missing or null values mean unknown, never zero, free, permitted, or unavailable.",
+  "items": [
+    {
+      "id": "paperqa",
+      "name": "PaperQA",
+      "execution_setting": "literature",
+      "tags": [
+        "scientific-agents",
+        "document-retrieval",
+        "citations"
+      ],
+      "source_ids": [
+        "paperqa"
+      ],
+      "summary": "Scientific document question answering with citations.",
+      "summary_zh": "带引用的科学文档问答。",
+      "limitations": [
+        "Corpus coverage and citations require checking; not a physical laboratory."
+      ],
+      "source_urls": [
+        "https://github.com/Future-House/paper-qa"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "ai-scientist",
+      "name": "The AI Scientist",
+      "execution_setting": "computational",
+      "tags": [
+        "scientific-agents",
+        "code",
+        "computational-experiments"
+      ],
+      "source_ids": [
+        "ai-scientist"
+      ],
+      "summary": "A computational research workflow described by its authors.",
+      "summary_zh": "作者介绍的计算研究工作流。",
+      "limitations": [
+        "No independent reproduction by this collection; not evidence of physical laboratory access."
+      ],
+      "source_urls": [
+        "https://sakana.ai/ai-scientist/"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "coscientist",
+      "name": "Coscientist",
+      "execution_setting": "physical-lab-demonstration",
+      "tags": [
+        "scientific-agents",
+        "chemistry",
+        "lab-tools"
+      ],
+      "source_ids": [
+        "coscientist"
+      ],
+      "summary": "Published tool-assisted chemical research and automated experiment demonstration.",
+      "summary_zh": "已发表的工具辅助化学研究与自动实验示范。",
+      "limitations": [
+        "Demonstrated hardware integration does not establish current public access."
+      ],
+      "source_urls": [
+        "https://www.nature.com/articles/s41586-023-06792-0"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "chemcrow",
+      "name": "ChemCrow",
+      "execution_setting": "mixed-literature-tools-and-lab-demonstration",
+      "tags": [
+        "scientific-agents",
+        "chemistry",
+        "domain-tools"
+      ],
+      "source_ids": [
+        "chemcrow"
+      ],
+      "summary": "Chemistry tool augmentation with a public implementation subset.",
+      "summary_zh": "化学工具增强方案，公开实现包含论文系统的一个子集。",
+      "limitations": [
+        "Public tools differ from the paper system; service access must be checked."
+      ],
+      "source_urls": [
+        "https://www.nature.com/articles/s42256-024-00832-8"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "labsland-hive",
+      "name": "LabsLand Electronics Hive",
+      "execution_setting": "physical-remote-lab",
+      "tags": [
+        "remote-labs",
+        "real-hardware",
+        "electronics"
+      ],
+      "source_ids": [
+        "labsland-hive",
+        "hive-measurement"
+      ],
+      "summary": "Remote electronics experiments on physical hardware.",
+      "summary_zh": "在真实硬件上进行远程电子实验。",
+      "limitations": [
+        "Current eligibility, cost and agent API access are unknown; verify with the provider."
+      ],
+      "source_urls": [
+        "https://labsland.com/en/labs/electronics-hive/",
+        "https://labsland.com/pub/docs/experiments/hive/user/en/taking_measurements.html"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    }
+  ]
+}

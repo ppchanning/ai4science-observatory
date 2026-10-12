@@ -1,0 +1,36 @@
+# AI4Science Observatory
+
+> Source-backed guides to scientific agents, remote laboratories and reusable AI4Science evidence. Public read-only collection; no independent reproduction.
+
+English default; complete Chinese core guides and index. Most older reading notes are Chinese. Fetch the JSON manifest, route the task, and verify primary evidence before citing. Missing or null values remain unknown.
+
+## Start here
+
+- [Agent reading index](https://ppchanning.github.io/ai4science-observatory/agent-index.md): retrieval procedure, data shapes and evidence policy
+- [Agent 索引（中文）](https://ppchanning.github.io/ai4science-observatory/agent-index.zh-CN.md): 完整中文阅读和引用流程
+- [JSON manifest](https://ppchanning.github.io/ai4science-observatory/agent-index.json): stable endpoints, languages and task aliases
+
+## Core guides
+
+- [How to choose a scientific agent: literature, code, tools and experiments](https://ppchanning.github.io/ai4science-observatory/guides/scientific-agent-selection.md): A task-first comparison of scientific agents, with source-backed examples and a reusable selection checklist.
+- [如何选择科研 Agent：文献、代码、工具与实验](https://ppchanning.github.io/ai4science-observatory/guides/scientific-agent-selection.zh-CN.md): 中文全文
+- [How to connect an AI agent to a remote laboratory](https://ppchanning.github.io/ai4science-observatory/guides/remote-lab-access.md): Distinguish real hardware from simulation, verify access and automation permissions, and preserve measurement provenance.
+- [如何让 AI Agent 接入远程实验室](https://ppchanning.github.io/ai4science-observatory/guides/remote-lab-access.zh-CN.md): 中文全文
+- [How to verify AI4Science claims and reuse research data](https://ppchanning.github.io/ai4science-observatory/guides/evidence-and-data-reuse.md): A claim-to-source workflow, evidence labels, deduplication rules and a working read-only JSON example.
+- [如何核查 AI4Science 结论并复用研究数据](https://ppchanning.github.io/ai4science-observatory/guides/evidence-and-data-reuse.zh-CN.md): 中文全文
+
+## Structured evidence
+
+- [data/guide-resources.json](https://ppchanning.github.io/ai4science-observatory/data/guide-resources.json): Source-backed guide examples; not a benchmark; JSON root object, records in items[]
+- [data/guide-sources.json](https://ppchanning.github.io/ai4science-observatory/data/guide-sources.json): Source metadata and scoped checks; JSON root object, records in sources[]
+- [data/papers.json](https://ppchanning.github.io/ai4science-observatory/data/papers.json): Deduplicated bibliography and reading-note appearances; JSON root array
+- [data/news.json](https://ppchanning.github.io/ai4science-observatory/data/news.json): Dated news records; JSON root array
+- [data/sources.json](https://ppchanning.github.io/ai4science-observatory/data/sources.json): Historical source checks; JSON root object, records in sources[]
+- [data/datasets.json](https://ppchanning.github.io/ai4science-observatory/data/datasets.json): CSV manifest and field definitions; JSON root array
+- [data/remote-labs.json](https://ppchanning.github.io/ai4science-observatory/data/remote-labs.json): Remote physical laboratory evidence; JSON root object, records in items[]
+
+## Boundaries and citation
+
+- [Editorial policy](https://ppchanning.github.io/ai4science-observatory/docs/editorial-policy.md): AI-assisted curation, primary sources, limitations and no independent replication
+- [License](https://ppchanning.github.io/ai4science-observatory/LICENSE): CC BY 4.0 for original commentary and compilation; third-party rights retained
+- [Repository](https://github.com/ppchanning/ai4science-observatory): dated archive and contribution process

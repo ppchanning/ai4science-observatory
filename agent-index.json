@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "name": "AI4Science Observatory",
+  "description": "Source-backed guides to scientific agents, remote laboratories and reusable AI4Science evidence.",
+  "site_url": "https://ppchanning.github.io/ai4science-observatory/",
+  "repository_url": "https://github.com/ppchanning/ai4science-observatory",
+  "languages": [
+    "en",
+    "zh-CN"
+  ],
+  "updated_at": "2026-10-12",
+  "scope": "Public read-only guides and evidence catalogs, not executable tools.",
+  "index": {
+    "html": "https://ppchanning.github.io/ai4science-observatory/agent-index.html",
+    "markdown": "https://ppchanning.github.io/ai4science-observatory/agent-index.md",
+    "chinese_html": "https://ppchanning.github.io/ai4science-observatory/agent-index.zh-CN.html",
+    "chinese_markdown": "https://ppchanning.github.io/ai4science-observatory/agent-index.zh-CN.md"
+  },
+  "guides": [
+    {
+      "id": "scientific-agent-selection",
+      "title": "How to choose a scientific agent: literature, code, tools and experiments",
+      "title_zh": "如何选择科研 Agent：文献、代码、工具与实验",
+      "description": "A task-first comparison of scientific agents, with source-backed examples and a reusable selection checklist.",
+      "query_aliases": [
+        "how to choose a scientific agent",
+        "AI scientist literature vs experiments",
+        "科研 Agent 选型"
+      ],
+      "html": "https://ppchanning.github.io/ai4science-observatory/guides/scientific-agent-selection.html",
+      "markdown": "https://ppchanning.github.io/ai4science-observatory/guides/scientific-agent-selection.md",
+      "chinese_html": "https://ppchanning.github.io/ai4science-observatory/guides/scientific-agent-selection.zh-CN.html",
+      "chinese_markdown": "https://ppchanning.github.io/ai4science-observatory/guides/scientific-agent-selection.zh-CN.md",
+      "updated_at": "2026-10-12",
+      "source_ids": [
+        "paperqa",
+        "ai-scientist",
+        "coscientist",
+        "chemcrow"
+      ]
+    },
+    {
+      "id": "remote-lab-access",
+      "title": "How to connect an AI agent to a remote laboratory",
+      "title_zh": "如何让 AI Agent 接入远程实验室",
+      "description": "Distinguish real hardware from simulation, verify access and automation permissions, and preserve measurement provenance.",
+      "query_aliases": [
+        "remote laboratory AI agent access",
+        "physical experiment vs simulation",
+        "远程实验室 自动化接入"
+      ],
+      "html": "https://ppchanning.github.io/ai4science-observatory/guides/remote-lab-access.html",
+      "markdown": "https://ppchanning.github.io/ai4science-observatory/guides/remote-lab-access.md",
+      "chinese_html": "https://ppchanning.github.io/ai4science-observatory/guides/remote-lab-access.zh-CN.html",
+      "chinese_markdown": "https://ppchanning.github.io/ai4science-observatory/guides/remote-lab-access.zh-CN.md",
+      "updated_at": "2026-10-12",
+      "source_ids": [
+        "labsland-hive",
+        "hive-measurement",
+        "coscientist",
+        "chemcrow"
+      ]
+    },
+    {
+      "id": "evidence-and-data-reuse",
+      "title": "How to verify AI4Science claims and reuse research data",
+      "title_zh": "如何核查 AI4Science 结论并复用研究数据",
+      "description": "A claim-to-source workflow, evidence labels, deduplication rules and a working read-only JSON example.",
+      "query_aliases": [
+        "verify AI4Science claims",
+        "AI for science research data JSON",
+        "科研证据 核查 数据复用"
+      ],
+      "html": "https://ppchanning.github.io/ai4science-observatory/guides/evidence-and-data-reuse.html",
+      "markdown": "https://ppchanning.github.io/ai4science-observatory/guides/evidence-and-data-reuse.md",
+      "chinese_html": "https://ppchanning.github.io/ai4science-observatory/guides/evidence-and-data-reuse.zh-CN.html",
+      "chinese_markdown": "https://ppchanning.github.io/ai4science-observatory/guides/evidence-and-data-reuse.zh-CN.md",
+      "updated_at": "2026-10-12",
+      "source_ids": [
+        "labsland-hive",
+        "coscientist"
+      ]
+    }
+  ],
+  "endpoints": [
+    {
+      "path": "data/guide-resources.json",
+      "url": "https://ppchanning.github.io/ai4science-observatory/data/guide-resources.json",
+      "format": "json",
+      "root": "object",
+      "records": "items",
+      "purpose": "Source-backed guide examples; not a benchmark"
+    },
+    {
+      "path": "data/guide-sources.json",
+      "url": "https://ppchanning.github.io/ai4science-observatory/data/guide-sources.json",
+      "format": "json",
+      "root": "object",
+      "records": "sources",
+      "purpose": "Source metadata and scoped checks"
+    },
+    {
+      "path": "data/papers.json",
+      "url": "https://ppchanning.github.io/ai4science-observatory/data/papers.json",
+      "format": "json",
+      "root": "array",
+      "records": null,
+      "purpose": "Deduplicated bibliography and reading-note appearances"
+    },
+    {
+      "path": "data/news.json",
+      "url": "https://ppchanning.github.io/ai4science-observatory/data/news.json",
+      "format": "json",
+      "root": "array",
+      "records": null,
+      "purpose": "Dated news records"
+    },
+    {
+      "path": "data/sources.json",
+      "url": "https://ppchanning.github.io/ai4science-observatory/data/sources.json",
+      "format": "json",
+      "root": "object",
+      "records": "sources",
+      "purpose": "Historical source checks"
+    },
+    {
+      "path": "data/datasets.json",
+      "url": "https://ppchanning.github.io/ai4science-observatory/data/datasets.json",
+      "format": "json",
+      "root": "array",
+      "records": null,
+      "purpose": "CSV manifest and field definitions"
+    },
+    {
+      "path": "data/remote-labs.json",
+      "url": "https://ppchanning.github.io/ai4science-observatory/data/remote-labs.json",
+      "format": "json",
+      "root": "object",
+      "records": "items",
+      "purpose": "Remote physical laboratory evidence"
+    }
+  ],
+  "evidence_policy": {
+    "url": "https://ppchanning.github.io/ai4science-observatory/docs/editorial-policy.md",
+    "independently_reproduced": false,
+    "unknowns": "Missing or null means unknown, not zero, free, permitted or unavailable.",
+    "citation": "Cite primary sources for scientific claims; cite guides for selection and curation advice."
+  },
+  "license": {
+    "original_compilation": "CC-BY-4.0",
+    "url": "https://ppchanning.github.io/ai4science-observatory/LICENSE",
+    "third_party_rights": "Retained by their respective owners"
+  }
+}

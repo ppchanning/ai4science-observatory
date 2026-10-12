@@ -14,3 +14,12 @@ _private/
 state/
 PUBLISHING.local.md
 source-map.local.json
+
+# Public Pages templates; other HTML (e.g. downloaded source pages) stays ignored.
+!/index.html
+!/index.zh-CN.html
+!/agent-index.html
+!/agent-index.zh-CN.html
+!/404.html
+!/_layouts/*.html
+!/guides/*.html

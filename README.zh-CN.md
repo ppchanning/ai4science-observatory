@@ -1,5 +1,7 @@
 <p align="center"><a href="README.md">English</a> | <strong>简体中文</strong></p>
 
+<p align="center"><a href="https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html">阅读网站</a> · <a href="agent-index.zh-CN.md">Agent index</a> · <a href="llms.txt">llms.txt</a></p>
+
 <p align="center"><img src="assets/banner.svg" alt="AI4Science Observatory" width="100%"></p>
 
 <h1 align="center">AI4Science Observatory</h1>
@@ -22,20 +24,33 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)；提供来源与 JSON 入口。
 - **2026-10-11** — 新增[14 条新闻](digests/ai4science/2026/2026-10-11.md)与[5 篇科学智能体论文](digests/scientific-computer-use/2026/2026-10-11.md)，共 2 期；1 条旧新闻再次出现。新增 1 个信源，修订 1 个信源及 2 项目录记录（涉及 2 份 CSV）。数学验证与仪器工作流。
 - **2026-10-10** — [11 条新闻](digests/ai4science/2026/2026-10-10.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-10.md) — 作物育种与科学发现。 补齐[3 条已归档新闻的目录](digests/ai4science/2026/2026-09-27.md)，修正 182 条归档引用、清理 4 期资料；无新增独立资料或补录期数。
 - **2026-10-09** — [9 条新闻](digests/ai4science/2026/2026-10-09.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-09.md) — 气候模型与望远镜。
 - **2026-10-08** — [9 条新闻](digests/ai4science/2026/2026-10-08.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-08.md) — 细胞图谱与 X 射线 Agent。
 - **2026-10-07** — [12 条新闻](digests/ai4science/2026/2026-10-07.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-07.md) — 蛋白设计与自动化实验。
 - **2026-10-06** — [7 条新闻](digests/ai4science/2026/2026-10-06.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-06.md) — 仪器控制与量子传感。
-- **2026-10-05** — [7 条新闻](digests/ai4science/2026/2026-10-05.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-05.md) — 月球模型与材料分析。
 <!-- updates-daily:end -->
 
 首页保留最近 7 天；[查看完整记录](CHANGELOG.zh-CN.md)。 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入，非历史发布记录。
 
 <!-- updates-milestones:start -->
+- 🧭 **2026-10-12** — [3 篇核心指南与 Agent 阅读入口](agent-index.zh-CN.md)，完整中英文版本和 [公开阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)。
 - 🚀 **2026-10-10** — [仓库上线](https://github.com/ppchanning/ai4science-observatory/commit/551b5b6)：整理 [28 期阅读资料](digests/README.md)、[11 份 CSV 数据集](data/README.md)，提供[中英文首页](README.md)与[更新记录](CHANGELOG.zh-CN.md)。
 <!-- updates-milestones:end -->
+
+## 核心指南与 Agent 入口
+
+3 篇核心指南均有完整中英文版本，提供原始来源、适用边界和可复用模板。
+
+| 指南 | 内容 |
+| --- | --- |
+| [如何选择科研 Agent：文献、代码、工具与实验](guides/scientific-agent-selection.zh-CN.md) | 按科研任务比较 Agent，提供原始来源、能力边界与可复用的选型清单。 |
+| [如何让 AI Agent 接入远程实验室](guides/remote-lab-access.zh-CN.md) | 区分真实硬件与仿真，核查接入及自动化权限，保留测量来源。 |
+| [如何核查 AI4Science 结论并复用研究数据](guides/evidence-and-data-reuse.zh-CN.md) | 从结论追到原始来源，区分证据类型、去重版本，并提供只读 JSON 使用示例。 |
+
+[阅读网站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html) · [Agent 索引](agent-index.zh-CN.md) · [JSON manifest](agent-index.json) · [llms.txt](llms.txt)
 
 ## Start here
 
@@ -48,7 +63,7 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 | 比较领域、项目或产业动向 | [数据指南](data/README.md) | 可下载的论文、综述、公司、融资、岗位与机构项目目录 |
 | 回顾某个时间段的变化 | [日期归档](digests/README.md) | 独立期次和历史来源，便于持续阅读与回溯 |
 
-适合 AI4Science 研究者、希望进入相关领域的学生、科研软件与自动化实验开发者，以及关注科研产业的技术读者。首页提供[英文](README.md)与简体中文两个版本；日报、阅读笔记和配套指南目前主要使用中文，保留英文论文题名与原始链接，方便继续查阅。
+适合 AI4Science 研究者、希望进入相关领域的学生、科研软件与自动化实验开发者，以及关注科研产业的技术读者。首页提供[英文](README.md)与简体中文两个版本；既有日报、阅读笔记和配套归档主要为中文；3 篇核心指南与 Agent 索引有完整中英文版本，保留英文论文题名与原始链接，方便继续查阅。
 
 ## Explore the landscape
 

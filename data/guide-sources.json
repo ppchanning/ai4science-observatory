@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-10-12",
+  "verification_scope": "Primary documentation supports the scoped descriptions; no independent installation, execution or experimental reproduction.",
+  "sources": [
+    {
+      "id": "paperqa",
+      "title": "PaperQA: scientific document question answering",
+      "url": "https://github.com/Future-House/paper-qa",
+      "type": "official-project-documentation",
+      "locator": "README: overview, citations and configuration",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "ai-scientist",
+      "title": "The AI Scientist",
+      "url": "https://sakana.ai/ai-scientist/",
+      "type": "official-project-report",
+      "locator": "Overview of the computational research workflow; limitations",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "coscientist",
+      "title": "Autonomous chemical research with large language models",
+      "url": "https://www.nature.com/articles/s41586-023-06792-0",
+      "type": "peer-reviewed-paper",
+      "locator": "Main: six demonstrated tasks; Coscientist system architecture",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "chemcrow",
+      "title": "Augmenting large language models with chemistry tools",
+      "url": "https://www.nature.com/articles/s42256-024-00832-8",
+      "type": "peer-reviewed-paper",
+      "locator": "Results and discussion; Code availability",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "labsland-hive",
+      "title": "LabsLand Electronics Hive",
+      "url": "https://labsland.com/en/labs/electronics-hive/",
+      "type": "official-platform-documentation",
+      "locator": "Summary; Access options; Internal Operation",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "hive-measurement",
+      "title": "Hive user guide: Taking measurements",
+      "url": "https://labsland.com/pub/docs/experiments/hive/user/en/taking_measurements.html",
+      "type": "official-platform-documentation",
+      "locator": "Taking measurements",
+      "checked_at": "2026-10-12"
+    }
+  ]
+}
