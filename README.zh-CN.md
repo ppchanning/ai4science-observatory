@@ -24,7 +24,7 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)；提供来源与 JSON 入口。
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/ai4science-research/SKILL.md)与 Context7 索引配置。
 - **2026-10-11** — 新增[14 条新闻](digests/ai4science/2026/2026-10-11.md)与[5 篇科学智能体论文](digests/scientific-computer-use/2026/2026-10-11.md)，共 2 期；1 条旧新闻再次出现。新增 1 个信源，修订 1 个信源及 2 项目录记录（涉及 2 份 CSV）。数学验证与仪器工作流。
 - **2026-10-10** — [11 条新闻](digests/ai4science/2026/2026-10-10.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-10.md) — 作物育种与科学发现。 补齐[3 条已归档新闻的目录](digests/ai4science/2026/2026-09-27.md)，修正 182 条归档引用、清理 4 期资料；无新增独立资料或补录期数。
 - **2026-10-09** — [9 条新闻](digests/ai4science/2026/2026-10-09.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-09.md) — 气候模型与望远镜。
@@ -51,6 +51,16 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 | [如何核查 AI4Science 结论并复用研究数据](guides/evidence-and-data-reuse.zh-CN.md) | 从结论追到原始来源，区分证据类型、去重版本，并提供只读 JSON 使用示例。 |
 
 [阅读网站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html) · [Agent 索引](agent-index.zh-CN.md) · [JSON manifest](agent-index.json) · [llms.txt](llms.txt)
+
+## 可安装的 Agent Skill
+
+[查看 Skill](skills/ai4science-research/SKILL.md)：把指南、JSON 证据和原始来源串成可执行的研究流程。示例：为需要保留可追溯引用的文献综述选择科研 Agent。
+
+```sh
+npx skills add ppchanning/ai4science-observatory --skill ai4science-research
+```
+
+通过 Skills CLI 安装到支持的 Agent；首次运行会获取 CLI。Skill 本身是只读研究流程，输出包含依据、未知项和下一步核验。平台目录的收录状态与安装能力分别核实。
 
 ## Start here
 

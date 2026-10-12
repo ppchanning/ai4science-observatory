@@ -54,3 +54,13 @@ curl -fL https://ppchanning.github.io/ai4science-observatory/data/guide-resource
 
 - [llms.txt](llms.txt) · [JSON manifest](agent-index.json) · [Sitemap](sitemap.xml) · [GitHub](https://github.com/ppchanning/ai4science-observatory)
 原始评论与整理采用 [CC BY 4.0](LICENSE)，第三方论文、软件和数据保留各自权利。本页与指南无需 JavaScript 或登录；不承诺任何搜索引擎或 Agent 一定收录、引用。
+
+## 6. 可安装的研究流程
+
+[Skill 原文](https://raw.githubusercontent.com/ppchanning/ai4science-observatory/main/skills/ai4science-research/SKILL.md)将本索引整理成任务选择、证据关联和条件推荐流程。
+
+```sh
+npx skills add ppchanning/ai4science-observatory --skill ai4science-research
+```
+
+安装能力不代表平台已收录，也不建立独立复现或当前可用性。

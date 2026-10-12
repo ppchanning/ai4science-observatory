@@ -24,7 +24,7 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — Added [3 bilingual core guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/ai4science-observatory/); source records and JSON entry points included.
+- **2026-10-12** — Added [3 bilingual core guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/ai4science-observatory/); plus [1 installable Skill](skills/ai4science-research/SKILL.md) and Context7 indexing configuration.
 - **2026-10-11** — Added [14 news events](digests/ai4science/2026/2026-10-11.md) and [5 scientific-agent papers](digests/scientific-computer-use/2026/2026-10-11.md) in 2 new issues; 1 returning event. Added 1 source, revised 1 source and 2 catalog records across 2 CSVs. Mathematical verification & instrument workflows.
 - **2026-10-10** — [11 news items](digests/ai4science/2026/2026-10-10.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-10.md) — Crop breeding & scientific discovery. Cataloged [3 previously archived items](digests/ai4science/2026/2026-09-27.md), fixed 182 archive references, and cleaned up 4 issues. No new resources or issues.
 - **2026-10-09** — [9 news items](digests/ai4science/2026/2026-10-09.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-09.md) — Climate models & telescopes.
@@ -51,6 +51,16 @@ Three core guides, each available in English and Chinese, with primary sources, 
 | [How to verify AI4Science claims and reuse research data](guides/evidence-and-data-reuse.md) | A claim-to-source workflow, evidence labels, deduplication rules and a working read-only JSON example. |
 
 [Read on Pages](https://ppchanning.github.io/ai4science-observatory/) · [Agent index](agent-index.md) · [JSON manifest](agent-index.json) · [llms.txt](llms.txt)
+
+## Installable agent skill
+
+[Read the skill](skills/ai4science-research/SKILL.md): a research workflow connecting guides, JSON evidence and primary sources. Example: Select a scientific agent for a literature review with traceable citations.
+
+```sh
+npx skills add ppchanning/ai4science-observatory --skill ai4science-research
+```
+
+Install with the Skills CLI into a supported agent; the first run downloads the CLI. The skill itself is a read-only research workflow, returning evidence, unknowns and next checks. Directory indexing is verified separately from installability.
 
 ## Start here
 
@@ -144,6 +154,7 @@ topics/        # Reading paths organized by questions and methods
 resources/     # Paper, public-source, and remote-laboratory directories
 data/          # Downloadable JSON / CSV and dataset inventory
 docs/          # Editorial policy, sharing guidance, and design references
+skills/        # Installable evidence-guided agent workflow
 templates/     # Consistent templates for new material
 .github/       # Resource suggestions, corrections, and pull request templates
 ```

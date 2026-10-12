@@ -54,3 +54,13 @@ Suggested citation: `project/method — source URL — specific supported claim 
 
 - [llms.txt](llms.txt) · [JSON manifest](agent-index.json) · [Sitemap](sitemap.xml) · [GitHub](https://github.com/ppchanning/ai4science-observatory)
 Original commentary and compilation use [CC BY 4.0](LICENSE); third-party papers, software and data retain their own rights. Pages need no JavaScript or login. Discovery files do not guarantee indexing or citation by any search engine or agent.
+
+## 6. Installable research workflow
+
+[Skill source](https://raw.githubusercontent.com/ppchanning/ai4science-observatory/main/skills/ai4science-research/SKILL.md) packages this index into task routing, evidence joins and conditional recommendations.
+
+```sh
+npx skills add ppchanning/ai4science-observatory --skill ai4science-research
+```
+
+Installation does not establish directory indexing, independent reproduction or current availability.

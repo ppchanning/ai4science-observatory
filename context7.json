@@ -1,0 +1,28 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "AI4Science Observatory",
+  "description": "Compare scientific agents, check remote laboratory access and verify AI4Science claims using source-backed guides and structured evidence.",
+  "branch": "main",
+  "folders": [
+    "guides",
+    "resources",
+    "topics",
+    "docs",
+    "skills"
+  ],
+  "excludeFolders": [
+    "digests",
+    "templates",
+    ".github"
+  ],
+  "excludeFiles": [
+    "AGENTS.md",
+    "CHANGELOG.md",
+    "CHANGELOG.zh-CN.md"
+  ],
+  "rules": [
+    "Use primary sources for technical claims and preserve scope limits.",
+    "Missing or null data is unknown; no independent reproduction is claimed.",
+    "Distinguish curated advice, author-reported results and your inference."
+  ]
+}
