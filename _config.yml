@@ -7,7 +7,7 @@ repository_url: "https://github.com/ppchanning/ai4science-observatory"
 lang: "en"
 markdown: "kramdown"
 kramdown: {"input": "GFM"}
-exclude: ["AGENTS.md", "templates", ".github", "CITATION.cff"]
+exclude: ["AGENTS.md", "templates", ".github"]
 plugins: []
 # Keep clean Markdown sources separate from the explicit HTML wrappers.
 optional_front_matter:
