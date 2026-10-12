@@ -36,6 +36,7 @@ jobs:
       - name: Build and verify SelfRef mirror
         shell: bash
         run: |
+          sudo chown -R "$(id -u):$(id -g)" "$GITHUB_WORKSPACE/_site"
           npm ci --prefix science/site/selfref --ignore-scripts --no-audit --no-fund
           node science/site/selfref/build.mjs --science="$GITHUB_WORKSPACE/science" --simulation="$GITHUB_WORKSPACE/simulation" --output="$GITHUB_WORKSPACE/_site/library" --base=https://ppchanning.github.io/ai4science-observatory/library/
           python3 science/site/selfref/verify.py "$GITHUB_WORKSPACE/_site/library"
