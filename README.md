@@ -24,7 +24,7 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — Added [3 bilingual core guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/ai4science-observatory/); plus [1 installable Skill](skills/ai4science-research/SKILL.md) and Context7 indexing configuration.
+- **2026-10-12** — Added [3 bilingual core guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/ai4science-observatory/); plus [1 installable Skill](skills/ai4science-research/SKILL.md) and Context7 indexing configuration; listed in [2 skill directories](#installable-agent-skill).
 - **2026-10-11** — Added [14 news events](digests/ai4science/2026/2026-10-11.md) and [5 scientific-agent papers](digests/scientific-computer-use/2026/2026-10-11.md) in 2 new issues; 1 returning event. Added 1 source, revised 1 source and 2 catalog records across 2 CSVs. Mathematical verification & instrument workflows.
 - **2026-10-10** — [11 news items](digests/ai4science/2026/2026-10-10.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-10.md) — Crop breeding & scientific discovery. Cataloged [3 previously archived items](digests/ai4science/2026/2026-09-27.md), fixed 182 archive references, and cleaned up 4 issues. No new resources or issues.
 - **2026-10-09** — [9 news items](digests/ai4science/2026/2026-10-09.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-09.md) — Climate models & telescopes.
@@ -61,6 +61,8 @@ npx skills add ppchanning/ai4science-observatory --skill ai4science-research
 ```
 
 Install with the Skills CLI into a supported agent; the first run downloads the CLI. The skill itself is a read-only research workflow, returning evidence, unknowns and next checks. Directory indexing is verified separately from installability.
+
+Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/ai4science-research) and [askill](https://askill.sh/skills/gh/ppchanning/ai4science-observatory/@ai4science-research). For repository navigation and Q&A, use [DeepWiki](https://deepwiki.com/ppchanning/ai4science-observatory); its generated explanations should be checked against the cited source files.
 
 ## Start here
 

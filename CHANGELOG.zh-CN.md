@@ -14,7 +14,7 @@
 
 ## 发布更新
 
-- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/ai4science-research/SKILL.md)与 Context7 索引配置。
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/ai4science-research/SKILL.md)与 Context7 索引配置；已收录到 [2 个 Skill 目录](README.zh-CN.md#可安装的-agent-skill)。
 
 - **2026-10-11** — 新增[14 条新闻](digests/ai4science/2026/2026-10-11.md)与[5 篇科学智能体论文](digests/scientific-computer-use/2026/2026-10-11.md)，共 2 期；1 条旧新闻再次出现。新增 1 个信源，修订 1 个信源及 2 项目录记录（涉及 2 份 CSV）。数学验证与仪器工作流。 论文修订 0 篇，补录 0 期。
 
