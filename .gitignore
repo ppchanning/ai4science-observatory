@@ -14,6 +14,7 @@ _private/
 state/
 PUBLISHING.local.md
 source-map.local.json
+node_modules/
 
 # Public Pages templates; other HTML (e.g. downloaded source pages) stays ignored.
 !/index.html

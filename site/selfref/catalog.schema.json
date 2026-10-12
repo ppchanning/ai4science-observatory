@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://www.selfref.org/agents/catalog.schema.json",
+  "title": "SelfRef Agent Library catalog",
+  "type": "object",
+  "required": ["schema_version", "name", "url", "collections", "entries", "policy", "counts", "content_revision"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "name": {"type": "string"},
+    "url": {"type": "string", "format": "uri"},
+    "content_revision": {"type": "string", "pattern": "^[a-f0-9]{16}$"},
+    "counts": {"type": "object", "required": ["guide", "skill", "resource", "collection"], "additionalProperties": {"type": "integer", "minimum": 0}},
+    "policy": {"type": "object"},
+    "collections": {"type": "array", "items": {"type": "object", "required": ["id", "repository", "revision", "url"], "properties": {"revision": {"type": "string", "pattern": "^[a-f0-9]{40}$"}}}},
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "kind", "collection", "title", "title_zh", "description", "description_zh", "url", "chinese_url", "source_url", "source_revision"],
+        "properties": {
+          "id": {"type": "string"},
+          "kind": {"enum": ["guide", "skill", "resource", "collection"]},
+          "collection": {"enum": ["ai4science", "simulation"]},
+          "source_revision": {"type": "string", "pattern": "^[a-f0-9]{40}$"},
+          "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+          "url": {"type": "string", "format": "uri"},
+          "markdown": {"type": "string", "format": "uri"},
+          "sources": {"type": "array", "items": {"type": "object", "required": ["id", "url", "checked_at", "locator"]}}
+        },
+        "allOf": [
+          {"if": {"properties": {"kind": {"const": "guide"}}}, "then": {"required": ["markdown", "chinese_markdown", "sha256", "query_aliases"]}},
+          {"if": {"properties": {"kind": {"const": "skill"}}}, "then": {"required": ["markdown", "sha256", "download_url", "version", "install_command", "license", "validation"]}},
+          {"if": {"properties": {"kind": {"const": "resource"}}}, "then": {"required": ["sources", "checked_at", "limitations", "independently_reproduced"]}}
+        ]
+      }
+    }
+  }
+}

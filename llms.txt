@@ -38,3 +38,9 @@ English default; complete Chinese core guides and index. Most older reading note
 ## Installable skill
 
 - [ai4science-research](https://raw.githubusercontent.com/ppchanning/ai4science-observatory/main/skills/ai4science-research/SKILL.md): task routing, primary-source checks and conditional recommendations; install with `npx skills add ppchanning/ai4science-observatory --skill ai4science-research`
+
+## SelfRef Library
+
+- [Library](https://www.selfref.org/agents/): unified search across the two public collections
+- [Agent protocol](https://www.selfref.org/agents/agent-index.md)
+- [Catalog](https://www.selfref.org/agents/catalog.json): entries[], typed resources and skill downloads

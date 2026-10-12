@@ -163,5 +163,10 @@
         "zh-CN"
       ]
     }
-  ]
+  ],
+  "distribution": {
+    "library": "https://www.selfref.org/agents/",
+    "catalog": "https://www.selfref.org/agents/catalog.json",
+    "agent_protocol": "https://www.selfref.org/agents/agent-index.md"
+  }
 }

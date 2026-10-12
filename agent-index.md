@@ -64,3 +64,7 @@ npx skills add ppchanning/ai4science-observatory --skill ai4science-research
 ```
 
 Installation does not establish directory indexing, independent reproduction or current availability.
+
+## SelfRef Library
+
+[Unified search, guides and Skill downloads](https://www.selfref.org/agents/) · [JSON catalog](https://www.selfref.org/agents/catalog.json)

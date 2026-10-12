@@ -1,6 +1,6 @@
 <p align="center"><a href="README.md">English</a> | <strong>简体中文</strong></p>
 
-<p align="center"><a href="https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html">阅读网站</a> · <a href="agent-index.zh-CN.md">Agent index</a> · <a href="llms.txt">llms.txt</a></p>
+<p align="center"><a href="https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html">阅读网站</a> · <a href="agent-index.zh-CN.md">Agent index</a> · <a href="llms.txt">llms.txt</a> · <a href="https://www.selfref.org/agents/index.zh-CN.html">SelfRef 资源库</a></p>
 
 <p align="center"><img src="assets/banner.svg" alt="AI4Science Observatory" width="100%"></p>
 
@@ -24,7 +24,7 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/ai4science-research/SKILL.md)与 Context7 索引配置；已收录到 [2 个 Skill 目录](#可安装的-agent-skill)。
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/ai4science-research/SKILL.md)与 Context7 索引配置；已收录到 [2 个 Skill 目录](#可安装的-agent-skill)；接入 [SelfRef 资源库](https://www.selfref.org/agents/index.zh-CN.html)，支持搜索与 Skill 下载。
 - **2026-10-11** — 新增[14 条新闻](digests/ai4science/2026/2026-10-11.md)与[5 篇科学智能体论文](digests/scientific-computer-use/2026/2026-10-11.md)，共 2 期；1 条旧新闻再次出现。新增 1 个信源，修订 1 个信源及 2 项目录记录（涉及 2 份 CSV）。数学验证与仪器工作流。
 - **2026-10-10** — [11 条新闻](digests/ai4science/2026/2026-10-10.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-10.md) — 作物育种与科学发现。 补齐[3 条已归档新闻的目录](digests/ai4science/2026/2026-09-27.md)，修正 182 条归档引用、清理 4 期资料；无新增独立资料或补录期数。
 - **2026-10-09** — [9 条新闻](digests/ai4science/2026/2026-10-09.md) · [5 篇科研 Agent 资料](digests/scientific-computer-use/2026/2026-10-09.md) — 气候模型与望远镜。
@@ -36,6 +36,7 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 首页保留最近 7 天；[查看完整记录](CHANGELOG.zh-CN.md)。 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入，非历史发布记录。
 
 <!-- updates-milestones:start -->
+- 📚 **2026-10-12** — [SelfRef 资源库](https://www.selfref.org/agents/index.zh-CN.html)上线：统一检索两仓库，提供 6 篇双语指南与 2 个 Skill 下载。
 - 🧭 **2026-10-12** — [3 篇核心指南与 Agent 阅读入口](agent-index.zh-CN.md)，完整中英文版本和 [公开阅读站](https://ppchanning.github.io/ai4science-observatory/index.zh-CN.html)。
 - 🚀 **2026-10-10** — [仓库上线](https://github.com/ppchanning/ai4science-observatory/commit/551b5b6)：整理 [28 期阅读资料](digests/README.md)、[11 份 CSV 数据集](data/README.md)，提供[中英文首页](README.md)与[更新记录](CHANGELOG.zh-CN.md)。
 <!-- updates-milestones:end -->

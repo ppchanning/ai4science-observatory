@@ -1,0 +1,9 @@
+{
+  "name": "selfref-agent-library",
+  "private": true,
+  "type": "module",
+  "description": "Build a static, source-backed agent resource library from the two public research collections.",
+  "scripts": { "build": "node build.mjs" },
+  "dependencies": { "marked": "17.0.5" },
+  "engines": { "node": ">=20" }
+}
