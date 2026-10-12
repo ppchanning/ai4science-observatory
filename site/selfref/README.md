@@ -31,3 +31,7 @@ Use the two clean, published repository checkouts. The output must be outside bo
 Original code, design and curation in this directory follow the repository's CC BY 4.0 license. Marked retains its MIT license; linked sources retain their respective rights.
 
 Run `python3 verify.py OUTPUT_DIRECTORY` before upload. It checks all internal files and anchors, record counts, source IDs, Markdown SHA-256 values, ZIP contents and private deployment markers. `catalog.schema.json` is also available for full JSON Schema validation.
+
+## Public mirror
+
+The GitHub Pages workflow preserves the original collection site and builds a second library at [the Pages mirror](https://ppchanning.github.io/ai4science-observatory/library/). It runs on main pushes, manual dispatch and daily at 23:50 Asia/Shanghai, using only the two public checkouts; it creates no Git commits or research activity. The serving host remains the primary SelfRef address.
