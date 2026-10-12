@@ -9,5 +9,6 @@
 - [Integrating Domain-Specialized Language Models with AI Measurement Tools for Deterministic Atomic-Resolution Experimentation](https://arxiv.org/abs/2602.20669) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
 - [AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories](https://arxiv.org/abs/2405.13930) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
 - [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](https://arxiv.org/abs/2610.11050) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
 
 [完整书目](../resources/papers.md) · [全部主题](README.md)

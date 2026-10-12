@@ -16,5 +16,10 @@
 
 - [What Output-Only Review Cannot Verify: Study Contracts for Research Agents](https://arxiv.org/abs/2610.11754) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
 - [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-11.md)
+- [Vision-Language Agents for Active Perception in Optics Laboratories](https://arxiv.org/abs/2609.32918) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
+- [RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design](https://arxiv.org/abs/2610.10858) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
+- [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](https://arxiv.org/abs/2610.11050) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
+- [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
+- [EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale](https://arxiv.org/abs/2604.17406) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
 
 [完整书目](../resources/papers.md) · [全部主题](README.md)

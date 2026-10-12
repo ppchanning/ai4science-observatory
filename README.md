@@ -1,6 +1,6 @@
 <p align="center"><strong>English</strong> | <a href="README.zh-CN.md">简体中文</a></p>
 
-<p align="center"><a href="https://ppchanning.github.io/ai4science-observatory/">Documentation site</a> · <a href="agent-index.md">Agent index</a> · <a href="llms.txt">llms.txt</a> · <a href="https://www.selfref.org/agents/">SelfRef Library</a></p>
+<p align="center"><a href="https://ppchanning.github.io/ai4science-observatory/">Documentation site</a> · <a href="agent-index.md">Agent index</a> · <a href="llms.txt">llms.txt</a> · <a href="https://www.selfref.org/agents/curated.html">SelfRef Library</a></p>
 
 <p align="center"><img src="assets/banner.svg" alt="AI4Science Observatory" width="100%"></p>
 
@@ -24,7 +24,7 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — Added [3 bilingual core guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/ai4science-observatory/); plus [1 installable Skill](skills/ai4science-research/SKILL.md) and Context7 indexing configuration; listed in [2 skill directories](#installable-agent-skill); connected to the [SelfRef Library](https://www.selfref.org/agents/) for search and Skill downloads.
+- **2026-10-12** — Added [9 news events](digests/ai4science/2026/2026-10-12.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-12.md) in 2 issues; revised 1 catalog record across 2 CSVs. Also launched [3 bilingual guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md), [1 Skill](skills/ai4science-research/SKILL.md) and a Pages reading site; listed in 2 Skill directories and connected to the [SelfRef Library](https://www.selfref.org/agents/curated.html).
 - **2026-10-11** — Added [14 news events](digests/ai4science/2026/2026-10-11.md) and [5 scientific-agent papers](digests/scientific-computer-use/2026/2026-10-11.md) in 2 new issues; 1 returning event. Added 1 source, revised 1 source and 2 catalog records across 2 CSVs. Mathematical verification & instrument workflows.
 - **2026-10-10** — [11 news items](digests/ai4science/2026/2026-10-10.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-10.md) — Crop breeding & scientific discovery. Cataloged [3 previously archived items](digests/ai4science/2026/2026-09-27.md), fixed 182 archive references, and cleaned up 4 issues. No new resources or issues.
 - **2026-10-09** — [9 news items](digests/ai4science/2026/2026-10-09.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-09.md) — Climate models & telescopes.
@@ -36,7 +36,7 @@ The collection brings together science news digests, paper reading notes, topica
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
 
 <!-- updates-milestones:start -->
-- 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.
+- 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/curated.html) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.
 - 🧭 **2026-10-12** — [Three core guides and Agent reading entry points](agent-index.md), with complete English / Chinese versions and a [public reading site](https://ppchanning.github.io/ai4science-observatory/).
 - 🚀 **2026-10-10** — [Launched](https://github.com/ppchanning/ai4science-observatory/commit/551b5b6) with [28 reading issues](digests/README.md) and [11 CSV datasets](data/README.md); added [English / Chinese homepages](README.zh-CN.md) and [update history](CHANGELOG.md).
 <!-- updates-milestones:end -->
@@ -69,8 +69,8 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 
 | What you want to do | Where to start | What you get |
 | --- | --- | --- |
-| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-10-11.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
-| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-10-11.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
+| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-10-12.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
+| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-10-12.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
 | Build a reading path around a question | [Topic map](topics/README.md) · [Paper catalog](resources/papers.md) | Papers connected by methods and settings, with original sources for checking claims |
 | Build your own information feed | [Source directory](resources/sources.md) | Institutions, journals, projects, and specialist media, with collection methods and historical verification information |
 | Compare research areas, projects, or industry developments | [Data guide](data/README.md) | Downloadable catalogs of papers, surveys, companies, funding events, jobs, and institutional programs |
@@ -137,9 +137,9 @@ Paper tables may overlap; their row counts cannot be added to obtain a unique pa
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-10-11**: **18 science digests · 199 deduplicated news events · 12 scientific-agent reading issues · 50 bibliography entries · 171 sources · 11 CSV datasets**.
+As of **2026-10-12**: **19 science digests · 208 deduplicated news events · 13 scientific-agent reading issues · 55 bibliography entries · 171 sources · 11 CSV datasets**.
 
-News archives cover 2026-09-22 through 2026-10-11; reading issues cover 2026-09-28 through 2026-10-11. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
+News archives cover 2026-09-22 through 2026-10-12; reading issues cover 2026-09-28 through 2026-10-12. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

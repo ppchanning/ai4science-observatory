@@ -1,8 +1,10 @@
 # SelfRef Agent Library: static publishing source
 
-This directory builds [SelfRef Agent Library](https://www.selfref.org/agents/) from **AI4Science Observatory** and **Agent Simulation Environments**. It publishes searchable English / Chinese pages, guide mirrors, original public archives, evidence records, a JSON catalog, reading protocols and downloadable research skills. GitHub remains the source of record.
+This directory builds [SelfRef Agent Library](https://www.selfref.org/agents/curated.html) from **AI4Science Observatory** and **Agent Simulation Environments**. It publishes searchable English / Chinese pages, guide mirrors, original public archives, evidence records, a JSON catalog, reading protocols and downloadable research skills. GitHub remains the source of record.
 
-The server serves static files. Search runs in the browser; all cards and articles are present in HTML before JavaScript. There is no user database, model inference endpoint, autonomous collector or public execution service.
+The research example library uses `curated.html` and `curated-zh.html`, with reciprocal language links. Directory entry files remain available for the Pages mirror. The public hosting platform owns the separate `/agents/` homepage and its services; this builder does not modify them.
+
+The library serves static files. Search runs in the browser; all cards and articles are present in HTML before JavaScript. There is no user database, model inference endpoint, autonomous collector or public execution service.
 
 ## Build
 

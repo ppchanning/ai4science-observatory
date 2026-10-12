@@ -8,7 +8,7 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Milestones
 
-- 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.
+- 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/curated.html) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.
 
 - 🧭 **2026-10-12** — [Three core guides and Agent reading entry points](agent-index.md), with complete English / Chinese versions and a [public reading site](https://ppchanning.github.io/ai4science-observatory/).
 
@@ -16,7 +16,7 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
-- **2026-10-12** — Added [3 bilingual core guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/ai4science-observatory/); plus [1 installable Skill](skills/ai4science-research/SKILL.md) and Context7 indexing configuration; listed in [2 skill directories](README.md#installable-agent-skill); connected to the [SelfRef Library](https://www.selfref.org/agents/) for search and Skill downloads.
+- **2026-10-12** — Added [9 news events](digests/ai4science/2026/2026-10-12.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-12.md) in 2 issues; revised 1 catalog record across 2 CSVs. Also launched [3 bilingual guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md), [1 Skill](skills/ai4science-research/SKILL.md) and a Pages reading site; listed in 2 Skill directories and connected to the [SelfRef Library](https://www.selfref.org/agents/curated.html).
 
 - **2026-10-11** — Added [14 news events](digests/ai4science/2026/2026-10-11.md) and [5 scientific-agent papers](digests/scientific-computer-use/2026/2026-10-11.md) in 2 new issues; 1 returning event. Added 1 source, revised 1 source and 2 catalog records across 2 CSVs. Mathematical verification & instrument workflows. No paper revisions or backfilled issues.
 

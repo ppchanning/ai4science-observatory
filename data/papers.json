@@ -879,5 +879,115 @@
       "digests/scientific-computer-use/2026/2026-10-11.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Vision-Language Agents for Active Perception in Optics Laboratories",
+    "team": "Ryan Lopez、Sachin Vaidya等；MIT物理系/RLE/IAIFI",
+    "doi": "10.48550/arXiv.2609.32918",
+    "arxiv": "2609.32918",
+    "url": "https://arxiv.org/abs/2609.32918",
+    "fulltext_url": "https://arxiv.org/html/2609.32918v1",
+    "version_date": "2026-09-26",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及正文相关方法与结果已核；未独立复现，未核全部补充材料",
+    "verified_at": "2026-10-12T07:09:36.095968+08:00",
+    "evidence": "每任务10初始状态；预算60/50/100；四镜GPT9/10、Gemini10/10；双镜500步阈值9/10、6/10、0/10；自报完成不等于通过",
+    "read_first": "§3.4图4、§3.3和§3.5",
+    "first_published": "2026-09-26",
+    "verified_version": "v1",
+    "limitations": "小样本、任务指导与固定观测位置；BO只在模拟比较，获得不同观测；未测跨仪器接入成本",
+    "id": "arxiv:2609.32918",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design",
+    "team": "Awani Khodkumbhe等；Qualcomm Technologies，首作者兼UC Berkeley",
+    "doi": "10.48550/arXiv.2610.10858",
+    "arxiv": "2610.10858",
+    "url": "https://arxiv.org/abs/2610.10858",
+    "fulltext_url": "https://arxiv.org/html/2610.10858v1",
+    "version_date": "2026-10-07",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及正文相关方法与结果已核；未独立复现，未核全部补充材料",
+    "verified_at": "2026-10-12T07:09:36.095968+08:00",
+    "evidence": "一个两级LNA设计案例；保留前五候选只有#174五规格同时达标；27.1dB增益/4.2dB噪声/14.3mW；约2h作者报告，无匹配人工对照",
+    "read_first": "§3.3–3.5和表1",
+    "first_published": "2026-10-07",
+    "verified_version": "v1",
+    "limitations": "工艺/库/模板依赖；单案例、无同预算基线；作者首次和大幅人工节省主张不外推",
+    "id": "arxiv:2610.10858",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks",
+    "team": "Xing Han Lù等；ServiceNow Research、McGill/Mila等",
+    "doi": "10.48550/arXiv.2610.11050",
+    "arxiv": "2610.11050",
+    "url": "https://arxiv.org/abs/2610.11050",
+    "fulltext_url": "https://arxiv.org/html/2610.11050v1",
+    "version_date": "2026-10-08",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及正文相关方法与结果已核；未独立复现，未核全部补充材料",
+    "verified_at": "2026-10-12T07:09:36.095968+08:00",
+    "evidence": "1373要求轨迹对；困难528；最佳80.9%平衡准确率=(71.8%正例接受+90.0%负例拒绝)/2；Qwen27B工具式下降",
+    "read_first": "§3.2、表2、§4.2",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "limitations": "模型定义困难分组、人轨迹分布、预处理/框架混杂；非科学验收标准",
+    "id": "arxiv:2610.11050",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Accelerating Scientific Research with Gemini in the Real-World",
+    "team": "Samuel Schmidgall等；Google及合作实验团队",
+    "doi": "10.48550/arXiv.2608.26701",
+    "arxiv": "2608.26701",
+    "url": "https://arxiv.org/abs/2608.26701",
+    "fulltext_url": "https://arxiv.org/html/2608.26701v1",
+    "version_date": "2026-08-27",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及正文相关方法与结果已核；未独立复现，未核全部补充材料",
+    "verified_at": "2026-10-12T07:09:36.095968+08:00",
+    "evidence": "272候选中的#2路线25轮；MXene类似结构未原子级确认；三类TMD首次生长约1h，分钟指推理；快速晶域更小更不规则",
+    "read_first": "§3.1.2–3.1.4、图2/3",
+    "first_published": "2026-08-27",
+    "verified_version": "v1",
+    "limitations": "无等预算专家对照、硬件定制与人工处理",
+    "id": "arxiv:2608.26701",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale",
+    "team": "Xinyu Zhu等；上海交通大学/SciLand，Weinan E、Siheng Chen等",
+    "doi": "10.48550/arXiv.2604.17406",
+    "arxiv": "2604.17406",
+    "url": "https://arxiv.org/abs/2604.17406",
+    "fulltext_url": "https://arxiv.org/html/2604.17406v5",
+    "version_date": "2026-09-10",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及正文相关方法与结果已核；未独立复现，未核全部补充材料",
+    "verified_at": "2026-10-12T07:09:36.095968+08:00",
+    "evidence": "十基准同GPT5.4 medium、时间限制/评分/划分；非加权均值58.02%对Codex40.29%，PostTrainBench Codex领先",
+    "read_first": "§3.1–3.3、表2和§1.3",
+    "first_published": "2026-04-19",
+    "verified_version": "v5",
+    "limitations": "异质基准平均非物理成功率；机制未完全隔离、接入人时未知；生物基准仅原文评价构成非项目方向",
+    "id": "arxiv:2604.17406",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

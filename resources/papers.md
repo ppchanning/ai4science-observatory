@@ -54,3 +54,8 @@
 | [Integrating Domain-Specialized Language Models with AI Measurement Tools for Deterministic Atomic-Resolution Experimentation](https://arxiv.org/abs/2602.20669) | Diao、Matsumoto、Hou、Ohara、Yamashita、Abe；大阪大学 | 2026-02-24 | arXiv预印本 |
 | [AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories](https://arxiv.org/abs/2405.13930) | Yuxing Fei等；UC Berkeley／LBNL，Ceder与Jain团队 | 2024-05-22 | 期刊关联论文／arXiv版本 |
 | [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631) | Lijie Ding、Changwoo Do；Oak Ridge National Laboratory | 2026-10-02 | arXiv预印本 |
+| [Vision-Language Agents for Active Perception in Optics Laboratories](https://arxiv.org/abs/2609.32918) | Ryan Lopez、Sachin Vaidya等；MIT物理系/RLE/IAIFI | 2026-09-26 | arXiv预印本 |
+| [RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design](https://arxiv.org/abs/2610.10858) | Awani Khodkumbhe等；Qualcomm Technologies，首作者兼UC Berkeley | 2026-10-07 | arXiv预印本 |
+| [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](https://arxiv.org/abs/2610.11050) | Xing Han Lù等；ServiceNow Research、McGill/Mila等 | 2026-10-08 | arXiv预印本 |
+| [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) | Samuel Schmidgall等；Google及合作实验团队 | 2026-08-27 | arXiv预印本 |
+| [EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale](https://arxiv.org/abs/2604.17406) | Xinyu Zhu等；上海交通大学/SciLand，Weinan E、Siheng Chen等 | 2026-04-19 | arXiv预印本 |

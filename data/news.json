@@ -3652,5 +3652,149 @@
       "digests/ai4science/2026/2026-10-11.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-c292e5b07c2c94",
+    "title": "《科学》（20261008出版）一周论文导读",
+    "original_title": "《科学》（20261008出版）一周论文导读",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572755.shtm",
+    "published_at": "2026-10-11T21:25:14+08:00",
+    "date_precision": "second",
+    "summary": [
+      "科学网对《科学》10月8日研究的中文导读介绍模型与Lean形式化证明环境结合：模型提出候选推导，编译器检查明确规则。报道转述353个开放Erdős问题中解决9个、492个OEIS数列猜想中解决44个，两套分母须分别理解。",
+      "自然语言论证与通过形式化检查的推导具有不同证据价值；导读称交替生成与检查的简单基线也复制了Erdős题集上的成功。这里依据中文导读，未核读Science论文全文，也未独立复现。研究日期为10月8日，中文报道为10月11日；原始研究DOI为10.1126/science.aej2213。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-23c36dde8c598e",
+    "title": "证明之外的数学图示",
+    "original_title": "Illustration beyond Proof",
+    "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+    "published_at": "2026-10-11T23:21:07+00:00",
+    "date_precision": "second",
+    "summary": [
+      "Kate Stange与Edmund Harriss在陶哲轩博客发表客座评论，讨论AI辅助证明与绘图代码增多后，数学图示如何帮助理解结构。观点应归属客座作者。",
+      "代数starscapes中意外出现的椭圆引出额外维度问题；三维非周期铺砌的匹配规则图示帮助说明层级结构。图示可以提出问题或澄清论证，却不替代证明。有限分辨率可能漏掉Mandelbrot集合的细连接，因此算法、精度与显示限制也应随图记录。本文为评论，相关论文未逐篇核读。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-3a881c352de3ee",
+    "title": "AI for Science重塑科技竞争底层逻辑",
+    "original_title": "AI for Science重塑科技竞争底层逻辑",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572732.shtm",
+    "published_at": "2026-10-11T12:18:06+08:00",
+    "date_precision": "second",
+    "summary": [
+      "陈瑜在文汇报访谈上海科学院研究员李万，科学网转载。受访者把AI提出假设、仪器测量与自动化实验反馈连接起来，讨论科研组织与产业协作的变化。",
+      "高质量数据依赖长期实验条件：模型提出的假设仍需可靠观测和检验，自动化实验室的意义是连接操作、测量与修订。中国工程能力与未来机遇属于受访者分析，不能当作已验证的技术结论；精确时间为科学网转载时间。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-7a26b3517177c3",
+    "title": "数学定理网络相关研究｜AI for Math读书会第二季第3期",
+    "original_title": "数学定理网络相关研究｜AI for Math读书会第二季第3期",
+    "url": "https://api.swarma.org/api/wechat_article/6091",
+    "published_at": "2026-10-11T14:33:49+08:00",
+    "date_precision": "second",
+    "summary": [
+      "集智俱乐部的公开活动公告介绍10月13日的AI for Math分享，主讲李晓凯讨论数学定理依赖网络。公理和定理可作为节点，证明引用作为边，以便研究前提选择和搜索范围。",
+      "Lean与Mathlib提供形式化记录，依赖图可帮助描述结论的先后关系。公告引用LeanDojo等研究，但活动当时尚未举行，拟分享的效果不等于已演示的算法成绩。文章发布于10月11日，活动时间与发布日分开记录。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-8e35f4874770cc",
+    "title": "王的猜想，刚刚扩展到四维",
+    "original_title": "王的猜想，刚刚扩展到四维",
+    "url": "https://www.qbitai.com/2026/10/502584.html",
+    "published_at": "2026-10-11T13:23:47+08:00",
+    "date_precision": "second",
+    "summary": [
+      "量子位报道两份AI手稿声称推进三维挂谷极大函数与四维挂谷集合维数问题。集合能容纳各方向单位线段的直观问题，与细管重叠控制相关；体积和维数描述不同性质。",
+      "据报道，四维手稿使用局部多项式拟合与跨尺度结构，并涉及三维结果作为推理环节。该材料提供问题与方法线索；手稿证明未独立核实、未Lean形式化，不能据标题宣布猜想已经得到证明。底层手稿为10月7日，中文跟进报道为10月11日。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-2b602496907095",
+    "title": "重塑数学",
+    "original_title": "Transforming Mathematics",
+    "url": "https://proofsandprompts.com/2026/10/11/transforming-mathematics/",
+    "published_at": "2026-10-11T14:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "Benjamin Braun在署名意见中讨论AI改变数学研究后，教师、学生与不同研究方向如何共同参与工具和研究文化的设计。它是科研与教育实践评论，并非模型评测。",
+      "作者建议低成本、基于公开数据的领域工具及跨角色对话，强调解释、教学与协作仍影响知识的使用。对年轻人的支持与伦理工具是规范性建议，不能写成已经测量出的职业影响；页内收稿日不等于发布日。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-df49fa3318e47d",
+    "title": "关于我们的存在危机与可信AI",
+    "original_title": "On our existential crisis and trustworthy AI",
+    "url": "https://proofsandprompts.com/2026/10/11/on-our-existential-crisis-and-trustworthy-ai/",
+    "published_at": "2026-10-11T11:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "Michel Schellekens讨论可信AI数学研究环境，把研究者愿不愿探索新问题与工具的信任条件联系起来，提出公共合作环境与开放数学模型的设想。",
+      "作者强调领域知识、公理与逻辑应参与工具设计，并关注创造性教育。未发表想法泄漏的担忧属于个人判断，材料没有证明发生了隐私事故；本文是署名评论，收稿日不等于发布日。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-423781c1d521a0",
+    "title": "人工智能时代的科学研究：谦卑、把关与开放——对数学家联合声明的反思",
+    "original_title": "人工智能时代的科学研究：谦卑、把关与开放——对数学家联合声明的反思",
+    "url": "https://blog.sciencenet.cn/blog-3234816-1556056.html",
+    "published_at": "2026-10-11T09:29:00+08:00",
+    "date_precision": "minute",
+    "summary": [
+      "钟定胜在科学网博客评论AI数学手稿与数学家联合声明，主张把对新能力的开放态度与人类研究者的真伪检验并列。作者专业履历未核实，观点不能包装成数学共同体共识。",
+      "生成文本、公开稿件、审查和获得认可是不同阶段；公开有助于别人检查，但不自动证明结论成立。文章中有争议的手稿比例及未追溯的人物引语不作为本期证据，保留的是透明、可验证合作的论证。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-c714d68a89bb3d",
+    "title": "arXiv限制每月投稿量，以应对AI论文涌入",
+    "original_title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+    "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/",
+    "published_at": "2026-10-11T09:17:32+00:00",
+    "date_precision": "second",
+    "summary": [
+      "The Decoder的10月11日报道跟进arXiv于10月1日发布的投稿限额政策：每位实际提交者每自然月两篇、最多三篇活动中的提交；共同作者身份不自动占名额。",
+      "依据上游已阅读的官方公告，符合要求并披露工具使用的AI辅助研究仍可投稿，因此该限额不能解释为AI论文禁令。被拒稿件计入限额，规则按提交者与自然月计算。它是旧政策的新报道，不是10月11日新发布的政策；官方原文见https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
   }
 ]
