@@ -1,4 +1,4 @@
-[English](index.md) | **简体中文**
+[English](index.md) \| **简体中文**
 
 # AI4Science Observatory
 

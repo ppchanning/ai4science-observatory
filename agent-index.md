@@ -1,4 +1,4 @@
-**English** | [简体中文](agent-index.zh-CN.md)
+**English** \| [简体中文](agent-index.zh-CN.md)
 
 # Agent reading index
 

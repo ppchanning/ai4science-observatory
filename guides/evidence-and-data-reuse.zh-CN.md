@@ -1,4 +1,4 @@
-[English](evidence-and-data-reuse.md) | **简体中文**
+[English](evidence-and-data-reuse.md) \| **简体中文**
 
 # 如何核查 AI4Science 结论并复用研究数据
 

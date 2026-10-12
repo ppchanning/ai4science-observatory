@@ -1,4 +1,4 @@
-[English](scientific-agent-selection.md) | **简体中文**
+[English](scientific-agent-selection.md) \| **简体中文**
 
 # 如何选择科研 Agent：文献、代码、工具与实验
 

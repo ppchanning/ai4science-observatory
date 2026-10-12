@@ -9,3 +9,10 @@ markdown: "kramdown"
 kramdown: {"input": "GFM"}
 exclude: ["AGENTS.md", "templates", ".github", "CITATION.cff"]
 plugins: []
+# Keep clean Markdown sources separate from the explicit HTML wrappers.
+optional_front_matter:
+  enabled: false
+readme_index:
+  enabled: false
+relative_links:
+  enabled: false

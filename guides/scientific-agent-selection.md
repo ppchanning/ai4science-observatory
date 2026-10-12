@@ -1,4 +1,4 @@
-**English** | [简体中文](scientific-agent-selection.zh-CN.md)
+**English** \| [简体中文](scientific-agent-selection.zh-CN.md)
 
 # How to choose a scientific agent: literature, code, tools and experiments
 

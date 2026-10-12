@@ -1,4 +1,4 @@
-**English** | [简体中文](evidence-and-data-reuse.zh-CN.md)
+**English** \| [简体中文](evidence-and-data-reuse.zh-CN.md)
 
 # How to verify AI4Science claims and reuse research data
 

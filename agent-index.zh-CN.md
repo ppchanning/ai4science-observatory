@@ -1,4 +1,4 @@
-[English](agent-index.md) | **简体中文**
+[English](agent-index.md) \| **简体中文**
 
 # Agent 阅读索引
 

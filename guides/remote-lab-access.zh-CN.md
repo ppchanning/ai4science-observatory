@@ -1,4 +1,4 @@
-[English](remote-lab-access.md) | **简体中文**
+[English](remote-lab-access.md) \| **简体中文**
 
 # 如何让 AI Agent 接入远程实验室
 
