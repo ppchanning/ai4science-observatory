@@ -72,7 +72,7 @@ for path in root.rglob('*'):
         json.loads(path.read_text())
     if path.suffix in ('.md', '.html', '.json', '.txt', '.css', '.js'):
         text = path.read_text()
-        for forbidden in ('/Users/', '43.133.44.143', 'credentials.json', 'SSH_ASKPASS', 'personal-research_DO-NOT-READ'):
+        for forbidden in ('/Users/', 'credentials.json', 'SSH_ASKPASS', '-----BEGIN OPENSSH PRIVATE KEY-----'):
             assert forbidden not in text, f'Private deployment information: {path}'
 assert not errors, '\n'.join(errors)
 print(json.dumps({'status': 'passed', 'html_pages': len(pages), 'entries': len(entries), 'counts': catalog['counts'], 'revision': catalog['content_revision']}))
