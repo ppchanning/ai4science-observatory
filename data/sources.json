@@ -5798,6 +5798,41 @@
       "evidence_url": "https://1stproof.org/",
       "evidence_note": "Tao Math 2.0演讲第9页列First Proof；官网使命明确AI与研究数学能力评测，列编辑委员会与批次公告。",
       "checked_at": "2026-10-11"
+    },
+    {
+      "source_id": "S179",
+      "name": "科学北极星 · 科研仪器AI与产品公告",
+      "nature": "低频企业研发及产品公告",
+      "region": "中国·上海",
+      "language": "中文",
+      "priority": "P2",
+      "role": "AI科学仪器企业原始材料",
+      "discipline_tags": {
+        "生命医药": "未见",
+        "化学": "未见",
+        "材料": "很多",
+        "物理": "少",
+        "地球气候": "未见",
+        "能源": "未见",
+        "数学与科学计算": "未见",
+        "科研仪器与自动化实验": "很多"
+      },
+      "facet_tags": {
+        "技术": "很多",
+        "商业": "中",
+        "金融": "未见",
+        "政策": "未见"
+      },
+      "focus": "XLING智能体控制电子显微镜采集、图像判读及工作流；金属断口等材料表征",
+      "home_url": "https://www.scipolaris.com/",
+      "collect_url": "https://www.scipolaris.com/",
+      "method": "html_agent",
+      "access_status": "首页与原生智能体正文GET200",
+      "observed_frequency": "官网有新闻入口；频率及最新日期未完成核验",
+      "official_frequency": "未声明",
+      "evidence_url": "https://www.scipolaris.com/native-agent",
+      "evidence_note": "科学网专访给出科学北极星及XLING名称；检索官网确认上海研束科技主体，官网原生智能体正文展示金属断口多倍率调焦、成像、断裂类型分析和条纹重拍。",
+      "checked_at": "2026-10-13"
     }
   ],
   "note": "Historical checks; access and frequency may change."

@@ -23,3 +23,8 @@
 - [EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale](https://arxiv.org/abs/2604.17406) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
 
 [完整书目](../resources/papers.md) · [全部主题](README.md)
+- [Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control](https://arxiv.org/abs/2609.06887) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
+- [Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](https://arxiv.org/abs/2609.18598) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
+- [JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models](https://arxiv.org/abs/2610.13194) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
+- [Large Language Model-Assisted Superconducting Qubit Experiments](https://arxiv.org/abs/2603.08801) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
+- [radio-astro-tools: linking radio astronomical data to the astronomical Python ecosystem](https://arxiv.org/abs/2610.11429) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)

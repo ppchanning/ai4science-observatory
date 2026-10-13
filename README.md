@@ -24,13 +24,13 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-10-13** — Added [10 news events](digests/ai4science/2026/2026-10-13.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-13.md) in 2 issues, plus [1 source](resources/sources.md), [1 company and 1 funding event](data/README.md). Measurement feedback and mathematical verification.
 - **2026-10-12** — Added [9 news events](digests/ai4science/2026/2026-10-12.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-12.md) in 2 issues; revised 1 catalog record across 2 CSVs. Also launched [3 bilingual guides](guides/scientific-agent-selection.md), [1 Agent index](agent-index.md), [1 Skill](skills/ai4science-research/SKILL.md) and a Pages reading site; listed in 2 Skill directories and connected to the [SelfRef Library](https://www.selfref.org/agents/curated.html).
 - **2026-10-11** — Added [14 news events](digests/ai4science/2026/2026-10-11.md) and [5 scientific-agent papers](digests/scientific-computer-use/2026/2026-10-11.md) in 2 new issues; 1 returning event. Added 1 source, revised 1 source and 2 catalog records across 2 CSVs. Mathematical verification & instrument workflows.
 - **2026-10-10** — [11 news items](digests/ai4science/2026/2026-10-10.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-10.md) — Crop breeding & scientific discovery. Cataloged [3 previously archived items](digests/ai4science/2026/2026-09-27.md), fixed 182 archive references, and cleaned up 4 issues. No new resources or issues.
 - **2026-10-09** — [9 news items](digests/ai4science/2026/2026-10-09.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-09.md) — Climate models & telescopes.
 - **2026-10-08** — [9 news items](digests/ai4science/2026/2026-10-08.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-08.md) — Cell maps & X-ray agents.
 - **2026-10-07** — [12 news items](digests/ai4science/2026/2026-10-07.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-07.md) — Protein design & automated labs.
-- **2026-10-06** — [7 news items](digests/ai4science/2026/2026-10-06.md) · [5 scientific-agent resources](digests/scientific-computer-use/2026/2026-10-06.md) — Instrument control & quantum sensing.
 <!-- updates-daily:end -->
 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
@@ -69,8 +69,8 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 
 | What you want to do | Where to start | What you get |
 | --- | --- | --- |
-| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-10-12.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
-| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-10-12.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
+| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-10-13.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
+| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-10-13.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
 | Build a reading path around a question | [Topic map](topics/README.md) · [Paper catalog](resources/papers.md) | Papers connected by methods and settings, with original sources for checking claims |
 | Build your own information feed | [Source directory](resources/sources.md) | Institutions, journals, projects, and specialist media, with collection methods and historical verification information |
 | Compare research areas, projects, or industry developments | [Data guide](data/README.md) | Downloadable catalogs of papers, surveys, companies, funding events, jobs, and institutional programs |
@@ -137,9 +137,9 @@ Paper tables may overlap; their row counts cannot be added to obtain a unique pa
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-10-12**: **19 science digests · 208 deduplicated news events · 13 scientific-agent reading issues · 55 bibliography entries · 171 sources · 11 CSV datasets**.
+As of **2026-10-13**: **20 science digests · 218 deduplicated news events · 14 scientific-agent reading issues · 60 bibliography entries · 172 sources · 11 CSV datasets**.
 
-News archives cover 2026-09-22 through 2026-10-12; reading issues cover 2026-09-28 through 2026-10-12. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
+News archives cover 2026-09-22 through 2026-10-13; reading issues cover 2026-09-28 through 2026-10-13. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

@@ -23,3 +23,6 @@
 - [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-12.md)
 
 [完整书目](../resources/papers.md) · [全部主题](README.md)
+- [Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control](https://arxiv.org/abs/2609.06887) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
+- [Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](https://arxiv.org/abs/2609.18598) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
+- [Large Language Model-Assisted Superconducting Qubit Experiments](https://arxiv.org/abs/2603.08801) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)

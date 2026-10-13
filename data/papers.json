@@ -989,5 +989,115 @@
       "digests/scientific-computer-use/2026/2026-10-12.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control",
+    "team": "UTK、Rice、UC Berkeley；Yu Liu、Sergei V. Kalinin等",
+    "doi": "10.48550/arXiv.2609.06887",
+    "arxiv": "2609.06887",
+    "url": "https://arxiv.org/abs/2609.06887",
+    "fulltext_url": "https://arxiv.org/pdf/2609.06887",
+    "version_date": "2026-09-07",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及相关方法结果正文已核；未复现，未核完所有补充数据和代码",
+    "verified_at": "2026-10-13T09:35:44.441203+08:00",
+    "read_first": "§3.2—3.3、图2、§8.3—8.4",
+    "first_published": "2026-09-07",
+    "verified_version": "v1",
+    "evidence": "9代理闭环周期、8自行停止非成功率；同极性/交替极性匹配暴露对照；0.415→0.601为未处理膜方向比例",
+    "limitations": "单仪器、单薄膜，人工共建表示和检查；无GUI/API公平比较、无迁移人时",
+    "id": "arxiv:2609.06887",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents",
+    "team": "University of Tokyo、Rigaku；Takahara、Hitosugi、Mizoguchi等",
+    "doi": "10.48550/arXiv.2609.18598",
+    "arxiv": "2609.18598",
+    "url": "https://arxiv.org/abs/2609.18598",
+    "fulltext_url": "https://arxiv.org/html/2609.18598v1",
+    "version_date": "2026-09-16",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及相关方法结果正文已核；未复现，未核完所有补充数据和代码",
+    "verified_at": "2026-10-13T09:35:44.441203+08:00",
+    "read_first": "图3逐轮理解变化、Methods",
+    "first_published": "2026-09-16",
+    "verified_version": "v1",
+    "evidence": "18次一维单材料；最佳670°C峰比61.6，窗口650–690°C；每条件一次",
+    "limitations": "无等预算实物BO对照；技能自测、LLM判断无统一数值容差；基础设施已集成",
+    "id": "arxiv:2609.18598",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models",
+    "team": "ICT CAS、UCAS；Mengdi Liu、Chenghao Jia、Hong Chang等",
+    "doi": "10.48550/arXiv.2610.13194",
+    "arxiv": "2610.13194",
+    "url": "https://arxiv.org/abs/2610.13194",
+    "fulltext_url": "https://arxiv.org/html/2610.13194v1",
+    "version_date": "2026-10-09",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及相关方法结果正文已核；未复现，未核完所有补充数据和代码",
+    "verified_at": "2026-10-13T09:35:44.441203+08:00",
+    "read_first": "图2、§4.1、表1",
+    "first_published": "2026-10-09",
+    "verified_version": "v1",
+    "evidence": "30任务12领域；单A100每题5h同设置；同Flash主干JANUS13/30 BeatAll，Codex11/30；测试归一分41.07 vs38.91",
+    "limitations": "计算领域，不迁移硬件结论；主干不同不可混比；预测不等于测量",
+    "id": "arxiv:2610.13194",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Large Language Model-Assisted Superconducting Qubit Experiments",
+    "team": "University of Chicago为主；Shiheng Li、Andrew N. Cleland等",
+    "doi": "10.48550/arXiv.2603.08801",
+    "arxiv": "2603.08801",
+    "url": "https://arxiv.org/abs/2603.08801",
+    "fulltext_url": "https://arxiv.org/html/2603.08801v1",
+    "version_date": "2026-03-09",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及相关方法结果正文已核；未复现，未核完所有补充数据和代码",
+    "verified_at": "2026-10-13T09:35:44.441203+08:00",
+    "read_first": "五周期谐振器案例、知识库部分",
+    "first_published": "2026-03-09",
+    "verified_version": "v1",
+    "evidence": "谐振器5周期从4到8；约5min包含VNA扫描不含准备/排队；QND泄漏.124±.017非代理错误率",
+    "limitations": "两案例无重复比较；驱动知识库已建；无新硬件适配人时",
+    "id": "arxiv:2603.08801",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "radio-astro-tools: linking radio astronomical data to the astronomical Python ecosystem",
+    "team": "NRC Canada、UF、NRAO等；Eric W. Koch、Adam Ginsburg等",
+    "doi": "10.48550/arXiv.2610.11429",
+    "arxiv": "2610.11429",
+    "url": "https://arxiv.org/abs/2610.11429",
+    "fulltext_url": "https://arxiv.org/html/2610.11429v1",
+    "version_date": "2026-10-08",
+    "type": "arXiv预印本",
+    "verification": "原始身份/日期及相关方法结果正文已核；未复现，未核完所有补充数据和代码",
+    "verified_at": "2026-10-13T09:35:44.441203+08:00",
+    "read_first": "§1.1、§5.2、附录B图5",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "evidence": "附录B15角秒单天线、2–40角秒理想干涉响应；相同输入feather，指数差<1σ",
+    "limitations": "特定模拟数值相容非全部真实数据等价；无速度或接入人时对照",
+    "id": "arxiv:2610.11429",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

@@ -59,3 +59,8 @@
 | [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](https://arxiv.org/abs/2610.11050) | Xing Han Lù等；ServiceNow Research、McGill/Mila等 | 2026-10-08 | arXiv预印本 |
 | [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) | Samuel Schmidgall等；Google及合作实验团队 | 2026-08-27 | arXiv预印本 |
 | [EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale](https://arxiv.org/abs/2604.17406) | Xinyu Zhu等；上海交通大学/SciLand，Weinan E、Siheng Chen等 | 2026-04-19 | arXiv预印本 |
+| [Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control](https://arxiv.org/abs/2609.06887) | UTK、Rice、UC Berkeley；Yu Liu、Sergei V. Kalinin等 | 2026-09-07 | arXiv预印本 |
+| [Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](https://arxiv.org/abs/2609.18598) | University of Tokyo、Rigaku；Takahara、Hitosugi、Mizoguchi等 | 2026-09-16 | arXiv预印本 |
+| [JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models](https://arxiv.org/abs/2610.13194) | ICT CAS、UCAS；Mengdi Liu、Chenghao Jia、Hong Chang等 | 2026-10-09 | arXiv预印本 |
+| [Large Language Model-Assisted Superconducting Qubit Experiments](https://arxiv.org/abs/2603.08801) | University of Chicago为主；Shiheng Li、Andrew N. Cleland等 | 2026-03-09 | arXiv预印本 |
+| [radio-astro-tools: linking radio astronomical data to the astronomical Python ecosystem](https://arxiv.org/abs/2610.11429) | NRC Canada、UF、NRAO等；Eric W. Koch、Adam Ginsburg等 | 2026-10-08 | arXiv预印本 |
