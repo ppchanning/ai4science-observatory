@@ -1099,5 +1099,115 @@
       "digests/scientific-computer-use/2026/2026-10-13.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Stress-testing large language model agents in a robotic chemistry laboratory",
+    "team": "中国科学技术大学、合肥科学智能创新中心、伯明翰大学；Lulu Guo等",
+    "doi": "10.48550/arXiv.2607.23045",
+    "arxiv": "2607.23045",
+    "url": "https://arxiv.org/abs/2607.23045",
+    "fulltext_url": "https://arxiv.org/pdf/2607.23045",
+    "version_date": "2026-07-25",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-14T07:05:59.937977+08:00",
+    "read_first": "图2 N9/N10、图4与Iterative adaptation test",
+    "evidence": "48组合×32任务×3重复=4608；607调度后151专家可执行；最佳27/96；短任务训练证据不涉及该实验",
+    "first_published": "2026-07-25",
+    "verified_version": "v1",
+    "limitations": "4608是计划评测次数，不是已完成真实实验数；151为专家认为可无人工干预执行。第二轮前人类指出回收量不足；没有核实第五轮全部测量完成。设备迁移人时与通用GUI对照未知。",
+    "id": "arxiv:2607.23045",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "SVOM Follow-up Observation Coordinating Service",
+    "team": "国家天文台、国科大及合作台站；Xu-hui Han等",
+    "doi": "10.48550/arXiv.2511.06647",
+    "arxiv": "2511.06647",
+    "url": "https://arxiv.org/abs/2511.06647",
+    "fulltext_url": "https://arxiv.org/html/2511.06647v1",
+    "version_date": "2025-11-10",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-14T07:05:59.937977+08:00",
+    "read_first": "§3.2、§5、表1",
+    "evidence": "CGFT97%警报消息<3秒，GWAC90%计划消息<10秒；消息数未给，网络/载荷不同；非排队/曝光/分析耗时",
+    "first_published": "2025-11-10",
+    "verified_version": "v1",
+    "limitations": "预设曝光策略与人类再观测请求不同于语言代理自主改变研究设计。两组传输比例条件不同且消息分母未给，不包含排队、转台、曝光和分析时间；开放使用资格未知。",
+    "id": "arxiv:2511.06647",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+    "team": "上海交大、复旦、南洋理工、浙江大学、上海奇绩智峰；Yuqi Huang等",
+    "doi": "10.48550/arXiv.2610.12984",
+    "arxiv": "2610.12984",
+    "url": "https://arxiv.org/abs/2610.12984",
+    "fulltext_url": "https://arxiv.org/html/2610.12984v1",
+    "version_date": "2026-10-09",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-14T07:05:59.937977+08:00",
+    "read_first": "§3.1–3.3、表2",
+    "evidence": "350成功记录=64+286；8.48小时记录；平均分增4.67–10.54/3.11–7.50；GPT在64任务31/64 vs24/64",
+    "first_published": "2026-10-09",
+    "verified_version": "v1",
+    "limitations": "数据集筛选成功完整演示，不能代表任意科研软件；GUI、Bash及无障碍信息均可能参与。分数增幅不是科学准确率，没有专用API总接入工时对照。",
+    "id": "arxiv:2610.12984",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures",
+    "team": "Siléane、LAAS-CNRS；Loan Bernat等",
+    "doi": "10.48550/arXiv.2610.13534",
+    "arxiv": "2610.13534",
+    "url": "https://arxiv.org/abs/2610.13534",
+    "fulltext_url": "https://arxiv.org/pdf/2610.13534",
+    "version_date": "2026-10-09",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-14T07:05:59.937977+08:00",
+    "read_first": "§4.3–4.5、§5.1、表4",
+    "evidence": "99任务规格1254回合；261646训练样本；短165回合Qwen全完成2.42→72.73%=约4→120；历史全/32/8消息干净SR5.7/3.0/1.0%",
+    "first_published": "2026-10-09",
+    "verified_version": "v1",
+    "limitations": "任务在模拟器和高层技能接口执行；固定故障仅在符合条件的调用中暴露。训练测试共享场景词汇，不能证明真实仪器、网络或科学数据误差下的迁移能力。",
+    "id": "arxiv:2610.13534",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks",
+    "team": "NVIDIA、劳伦斯伯克利国家实验室、Quantum Computing Data等；W. Michael Brown等",
+    "doi": "10.48550/arXiv.2610.12187",
+    "arxiv": "2610.12187",
+    "url": "https://arxiv.org/abs/2610.12187",
+    "fulltext_url": "https://arxiv.org/html/2610.12187v1",
+    "version_date": "2026-10-08",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-14T07:05:59.937977+08:00",
+    "read_first": "§III-C、§IV-A、表II",
+    "evidence": "每模型一次13方法迁移；匿名模型用户提示33/20/26；数工作日为作者经验，人工数周/月是估计非对照",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "limitations": "无噪声软件模拟而非现场量子测量；每模型仅一次13方法迁移，匿名编号不能形成稳定排名。数工作日是作者经验，人工数周/月是估计而非同条件对照。",
+    "id": "arxiv:2610.12187",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

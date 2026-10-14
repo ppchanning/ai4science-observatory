@@ -46,3 +46,7 @@
 - [Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](https://arxiv.org/abs/2609.18598) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
 - [JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models](https://arxiv.org/abs/2610.13194) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
 - [Large Language Model-Assisted Superconducting Qubit Experiments](https://arxiv.org/abs/2603.08801) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
+- [Stress-testing large language model agents in a robotic chemistry laboratory](https://arxiv.org/abs/2607.23045) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
+- [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://arxiv.org/abs/2610.12984) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
+- [MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures](https://arxiv.org/abs/2610.13534) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
+- [Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks](https://arxiv.org/abs/2610.12187) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)

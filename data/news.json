@@ -4029,5 +4029,199 @@
       "digests/ai4science/2026/2026-10-13.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://www.ccf.org.cn/Member_Activities/2026-10-13/939699.shtml",
+    "published_at": "2026-10-13",
+    "date_precision": "day",
+    "discipline_tags": [
+      "材料",
+      "化学"
+    ],
+    "id": "EV-6ad0cff03e3f89",
+    "title": "天方夜谭”到实验室现实：AI驱动功能材料发现的瓶颈与破局",
+    "original_title": "天方夜谭”到实验室现实：AI驱动功能材料发现的瓶颈与破局",
+    "summary": [
+      "CCF发布9月26日YOCSEF大连论坛的回顾，围绕AI驱动功能材料发现讨论预测、合成、表征及实际应用之间的衔接。报道举出Pt-TiN/TiO2气敏材料、聚合物与碳纳米管导电体系等案例；10月13日是报道日期，不是论坛举行日。",
+      "图注意力网络、多尺度模拟与物理描述帮助研究结构和性能，实验反馈仍需检验合成可行性、分布外预测与制造条件。论坛回顾呈现方法和工程问题，不提供可据以比较全部材料模型的性能基准。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://pichem.ustc.edu.cn/2026/1013/c39133a755901/page.htm",
+    "published_at": "2026-10-13",
+    "date_precision": "day",
+    "discipline_tags": [
+      "化学",
+      "材料",
+      "科研仪器与自动化实验"
+    ],
+    "id": "EV-dbd5bc45c01b5b",
+    "title": "第一届精准智能化学学术研讨会第一次会议通知",
+    "original_title": "第一届精准智能化学学术研讨会第一次会议通知",
+    "summary": [
+      "中科大精准智能化学全国重点实验室发布首次会议通知，安排11月29日至30日在合肥讨论科学智能驱动的自主实验室与物质创制。议题连接科学基础模型、科研推理与智能体，以及分子材料设计、合成、表征和光谱研究。",
+      "会议议程体现模型、执行系统与实验数据需要共同组织的研究链。通知是未来交流安排，不能把预告议题记作已取得的研究成果；具体方法与效果需查后续报告及原始材料。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://soed.sio.org.cn/index_gzgg/5366.html",
+    "published_at": "2026-10-13",
+    "date_precision": "day",
+    "discipline_tags": [
+      "地球与气候",
+      "能源相关工程科学",
+      "科研仪器与自动化实验"
+    ],
+    "id": "EV-38120194fb180e",
+    "title": "海洋科学与智能技术学术研讨会 ——AI赋能海洋观探测与认知（2号通知）",
+    "original_title": "海洋科学与智能技术学术研讨会 ——AI赋能海洋观探测与认知（2号通知）",
+    "summary": [
+      "自然资源部第二海洋研究所相关实验室发布海洋科学与智能技术研讨会第二号通知，会议安排11月15日，讨论AI赋能观探测与认知。六组主题覆盖海底过程、环境感知预报、传感与深海运载、碳汇、极地观测及陆海相互作用。",
+      "异构观测的融合、解释、三维重建与预测把智能方法连接到海洋过程研究。通知给出研究议程，没有测量某个模型的效果，也不能据此证明复杂海洋环境的采集风险已被解决。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://www.globenewswire.com/news-release/2026/10/13/3379857/0/en/giraffe-bio-raises-6-4m-seed-to-scale-next-generation-reagents-for-copper-mining.html",
+    "published_at": "2026-10-13T14:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "化学",
+      "材料",
+      "能源相关工程科学"
+    ],
+    "id": "EV-6dd229801c0e9e",
+    "title": "长颈鹿生物完成640万美元种子轮融资，以扩大用于铜矿开采的下一代试剂规模",
+    "original_title": "长颈鹿生物完成640万美元种子轮融资，以扩大用于铜矿开采的下一代试剂规模",
+    "summary": [
+      "Giraffe Bio披露640万美元种子轮，由Orion Industrial Ventures领投、BHP Ventures等参与。公司把AI辅助分子设计与无细胞生物学结合，开发铜矿浮选用生化试剂，并称已在实际矿石样本及不同矿石类型中推进验证；中文快讯与公司公告合并为同一事件。",
+      "融资用于制造放大、研发测试和更大规模试验。公司进展按其公开陈述归属；公告未披露可比较的回收率提升、完整试验分母或独立验证，不能自行补造效果数值或把计划记作完成。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://www.cs.princeton.edu/news/ai-great-math-does-it-know-how-do-research",
+    "published_at": "2026-10-13",
+    "date_precision": "day",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-c978762ac7a96a",
+    "title": "AI is great at math, but does it know how to do research?",
+    "original_title": "AI is great at math, but does it know how to do research?",
+    "summary": [
+      "普林斯顿计算机科学系以Grothendieck常数研究案例讨论AI答题与长程数学研究的区别。模型提出候选并运行代码检查，阶段简报保存探索信息；报道记载约18轮后人类重新组织问题，随后约30轮继续探索。",
+      "数值候选仍需数学解释与证明，人类参与目标调整及判断结果意义。研究案例在8月已公开，10月13日新增的是大学解读；不能把候选检查或多轮搜索等同于全自动完成数学研究。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://www.mdanderson.org/newsroom/research-newsroom/ai-tool-reveals-what-attracts-immune-cells-to-tumors-and-what-keeps-them-away.h00-159859290.html",
+    "published_at": "2026-10-13",
+    "date_precision": "day",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "id": "EV-c15bce8c819580",
+    "title": "AI tool reveals what attracts immune cells to tumors and what keeps them away",
+    "original_title": "AI tool reveals what attracts immune cells to tumors and what keeps them away",
+    "summary": [
+      "MD Anderson介绍SPACER，用空间转录组的基因活性和邻近细胞位置寻找免疫细胞招募信号。团队在多种癌症的37个数据集中测试，报道所用比较中信号识别效果为既有方法的4至21倍；这个范围衡量信号发现，不是治疗或生存率改善。",
+      "模型将局部细胞环境作为解释单位，关联抗原呈递、T细胞吸引以及黏蛋白相关排斥。相关性和物理屏障假说需进一步实验；机构新闻所述比较不能直接外推为临床疗效。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://blogs.rsc.org/dd/2026/10/13/ddicann25/",
+    "published_at": "2026-10-13T15:09:48+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "化学",
+      "生命医药"
+    ],
+    "id": "EV-87b1d1b55a7afc",
+    "title": "Read our new themed collection for AI in Drug Discovery at ICANN2025",
+    "original_title": "Read our new themed collection for AI in Drug Discovery at ICANN2025",
+    "summary": [
+      "RSC Digital Discovery推出ICANN2025药物发现研讨会专题，提供分子表示、图神经网络解释、毒性片段基准、MolEncoder及MARCUS结构整理等阅读入口。集合中的论文跨2025与2026年，专题发布不表示它们同日新发表。",
+      "这些方向分别处理输入数据一致性、可学习的化学信息及可检查的预测解释。此条据出版方专题新闻说明研究主题，没有逐篇独立核查所引论文性能，不将集合拆成多项新发现。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://www.techlifesci.com/p/weekly-techbio-87-techbio-30-is-closing",
+    "published_at": "2026-10-13T22:09:54+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "生命医药",
+      "化学",
+      "科研仪器与自动化实验"
+    ],
+    "id": "EV-f2109c0ba1a8a5",
+    "title": "Weekly Tech+Bio #87: TechBio 3.0 Is Closing the Loop. Is \"Prompt to Drug\" Next?",
+    "original_title": "Weekly Tech+Bio #87: TechBio 3.0 Is Closing the Loop. Is \"Prompt to Drug\" Next?",
+    "summary": [
+      "Tech+Bio周报通过综述与Schrödinger研发负责人访谈讨论模型、计算工具和实验反馈的闭环。据所引访谈，Bunsen运行约80%的公司内部高性能计算建模作业，在科学家审阅计划后选择自由能、分子动力学与量子计算等工具。",
+      "该比例是访谈中的内部作业陈述，不是药物成功率或独立效率测量。行业评论强调适用域、物理模拟与反馈产生的新数据；“提示词到药物”保留为观点，不将周报里的每项简讯分别计为已验证事件。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻及评论按来源归属；非全部原始论文核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
   }
 ]

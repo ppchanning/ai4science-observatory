@@ -16,8 +16,8 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 | [catalogs/conference-candidates.csv](catalogs/conference-candidates.csv) | AI4Sci主会候选，902 条 |
 | [catalogs/reading-candidates.csv](catalogs/reading-candidates.csv) | 可follow论文库，1197 条 |
 | [industry/jobs.csv](industry/jobs.csv) | 岗位归档，60 条 |
-| [industry/startups.csv](industry/startups.csv) | 公司主表，38 条 |
-| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，45 条 |
+| [industry/startups.csv](industry/startups.csv) | 公司主表，39 条 |
+| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，46 条 |
 | [industry/research-programs.csv](industry/research-programs.csv) | 机构项目总表，18 条 |
 | [industry/public-company-initiatives.csv](industry/public-company-initiatives.csv) | 核心20家公司，20 条 |
 
@@ -40,3 +40,5 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 完整英文与中文读取、引用流程见 [Agent index](../agent-index.md) / [Agent 索引](../agent-index.zh-CN.md)。原始评论和整理采用 CC BY 4.0，第三方材料权利不变。
 
 2026-10-13 新增的百趣生物 B 轮记录对应[投资界公开报道](https://news.pedaily.cn/202610/570017.shtml)；近亿元为披露量级，非精确金额或估值。
+
+2026-10-14 新增的利太智药种子轮记录对应[36氪公开报道](https://eu.36kr.com/zh/p/4019481828628101)；披露日期为2026-10-10，近5000万元为近似金额，不作为精确金额或估值。

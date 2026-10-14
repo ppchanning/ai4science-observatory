@@ -16,6 +16,8 @@
 
 ## 发布更新
 
+- **2026-10-14** — 新增 [8 条新闻](digests/ai4science/2026/2026-10-14.md)与[5 篇论文](digests/scientific-computer-use/2026/2026-10-14.md)，共 2 期；另新增 [1 家公司与 1 条融资记录](data/README.md)。实验反馈、人工指导与科学软件核查。 独立条目修订 0，再次出现 0，补录 0 期。
+
 - **2026-10-13** — 新增 [10 条新闻](digests/ai4science/2026/2026-10-13.md)与[5 篇论文](digests/scientific-computer-use/2026/2026-10-13.md)，共 2 期；另新增 [1 个信源](resources/sources.md)、[1 家公司与 1 条融资记录](data/README.md)。测量反馈与数学验证。 独立条目修订 0，补录 0 期。
 
 - **2026-10-12** — 新增 [9 条新闻](digests/ai4science/2026/2026-10-12.md)与[5 篇论文](digests/scientific-computer-use/2026/2026-10-12.md)，2 期；修订 1 项目录记录（2 份 CSV）。 同日上线 [3 篇双语指南](guides/scientific-agent-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)、[1 个 Skill](skills/ai4science-research/SKILL.md)与 Pages 阅读站；收录到 2 个 Skill 目录，接入 [SelfRef 资料库](https://www.selfref.org/agents/curated-zh.html)。

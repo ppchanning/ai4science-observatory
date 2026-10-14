@@ -64,3 +64,8 @@
 | [JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models](https://arxiv.org/abs/2610.13194) | ICT CAS、UCAS；Mengdi Liu、Chenghao Jia、Hong Chang等 | 2026-10-09 | arXiv预印本 |
 | [Large Language Model-Assisted Superconducting Qubit Experiments](https://arxiv.org/abs/2603.08801) | University of Chicago为主；Shiheng Li、Andrew N. Cleland等 | 2026-03-09 | arXiv预印本 |
 | [radio-astro-tools: linking radio astronomical data to the astronomical Python ecosystem](https://arxiv.org/abs/2610.11429) | NRC Canada、UF、NRAO等；Eric W. Koch、Adam Ginsburg等 | 2026-10-08 | arXiv预印本 |
+| [Stress-testing large language model agents in a robotic chemistry laboratory](https://arxiv.org/abs/2607.23045) | 中国科学技术大学、合肥科学智能创新中心、伯明翰大学；Lulu Guo等 | 2026-07-25 | arXiv预印本 |
+| [SVOM Follow-up Observation Coordinating Service](https://arxiv.org/abs/2511.06647) | 国家天文台、国科大及合作台站；Xu-hui Han等 | 2025-11-10 | arXiv预印本 |
+| [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://arxiv.org/abs/2610.12984) | 上海交大、复旦、南洋理工、浙江大学、上海奇绩智峰；Yuqi Huang等 | 2026-10-09 | arXiv预印本 |
+| [MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures](https://arxiv.org/abs/2610.13534) | Siléane、LAAS-CNRS；Loan Bernat等 | 2026-10-09 | arXiv预印本 |
+| [Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks](https://arxiv.org/abs/2610.12187) | NVIDIA、劳伦斯伯克利国家实验室、Quantum Computing Data等；W. Michael Brown等 | 2026-10-08 | arXiv预印本 |
