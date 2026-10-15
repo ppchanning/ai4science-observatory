@@ -32,3 +32,8 @@
 - [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://arxiv.org/abs/2610.12984) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
 - [MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures](https://arxiv.org/abs/2610.13534) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
 - [Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks](https://arxiv.org/abs/2610.12187) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
+- [Principles and Techniques for Agentic Research in Experimental Physics](https://arxiv.org/abs/2610.17193) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
+- [Delegating Earth science model calibration to knowledge-guided LLM agents](https://arxiv.org/abs/2610.18378) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
+- [Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation](https://arxiv.org/abs/2610.15750) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
+- [Stateless Language Agents: Scaling Long-Horizon Automated Research](https://arxiv.org/abs/2610.07625) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
+- [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](https://arxiv.org/abs/2410.09034) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)

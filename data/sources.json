@@ -5833,6 +5833,40 @@
       "evidence_url": "https://www.scipolaris.com/native-agent",
       "evidence_note": "科学网专访给出科学北极星及XLING名称；检索官网确认上海研束科技主体，官网原生智能体正文展示金属断口多倍率调焦、成像、断裂类型分析和条纹重拍。",
       "checked_at": "2026-10-13"
+    },
+    {
+      "source_id": "S180",
+      "name": "OpenPep · 开放肽发现项目",
+      "nature": "低频科研项目参考",
+      "region": "加拿大·多伦多",
+      "language": "英文",
+      "priority": "P2",
+      "role": "科研项目原始材料/自述",
+      "discipline_tags": {
+        "生命医药": "很多",
+        "化学": "中",
+        "材料": "未见",
+        "物理": "未见",
+        "地球气候": "未见",
+        "能源": "未见",
+        "数学与科学计算": "未见"
+      },
+      "facet_tags": {
+        "技术": "很多",
+        "商业": "中",
+        "金融": "未见",
+        "政策": "未见"
+      },
+      "focus": "肽—蛋白结合实验、开放数据与跨靶点AI模型",
+      "home_url": "https://www.openpep.com/",
+      "collect_url": "https://www.openpep.com/science.html",
+      "method": "html_agent",
+      "access_status": "入口与Science正文GET200",
+      "observed_frequency": "项目说明页面，无已核日级新闻流",
+      "official_frequency": "未声明",
+      "evidence_url": "https://www.openpep.com/science.html",
+      "evidence_note": "多伦多药学院10月14日报道直接链接OpenPep；官网解释无细胞蛋白合成、亲和选择质谱、剂量反应与留靶测试结合AI闭环。计划不得写成已交付数据库。",
+      "checked_at": "2026-10-15"
     }
   ],
   "note": "Historical checks; access and frequency may change."

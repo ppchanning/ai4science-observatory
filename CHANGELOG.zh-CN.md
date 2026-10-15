@@ -16,6 +16,8 @@
 
 ## 发布更新
 
+- **2026-10-15** — 新增 [11 条新闻](digests/ai4science/2026/2026-10-15.md)与[5 篇论文](digests/scientific-computer-use/2026/2026-10-15.md)，共2期；另新增[1个信源](resources/sources.md)、[2家公司与2条融资记录](data/README.md)。从气候模拟到实验反馈。 无既有条目修订、旧条目再次出现或缺期补录。
+
 - **2026-10-14** — 新增 [8 条新闻](digests/ai4science/2026/2026-10-14.md)与[5 篇论文](digests/scientific-computer-use/2026/2026-10-14.md)，共 2 期；另新增 [1 家公司与 1 条融资记录](data/README.md)。实验反馈、人工指导与科学软件核查。 独立条目修订 0，再次出现 0，补录 0 期。
 
 - **2026-10-13** — 新增 [10 条新闻](digests/ai4science/2026/2026-10-13.md)与[5 篇论文](digests/scientific-computer-use/2026/2026-10-13.md)，共 2 期；另新增 [1 个信源](resources/sources.md)、[1 家公司与 1 条融资记录](data/README.md)。测量反馈与数学验证。 独立条目修订 0，补录 0 期。

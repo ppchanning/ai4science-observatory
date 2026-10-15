@@ -186,7 +186,7 @@
   },
   {
     "file": "data/industry/startups.csv",
-    "rows": 39,
+    "rows": 41,
     "source_sheet": "公司主表",
     "fields": [
       "地点",
@@ -206,11 +206,11 @@
       "融资来源2",
       "证据等级"
     ],
-    "snapshot": "2026-10-14"
+    "snapshot": "2026-10-15"
   },
   {
     "file": "data/industry/funding-events.csv",
-    "rows": 46,
+    "rows": 48,
     "source_sheet": "融资事件",
     "fields": [
       "事件ID",
@@ -225,7 +225,7 @@
       "投资方/领投",
       "来源页面"
     ],
-    "snapshot": "2026-10-14"
+    "snapshot": "2026-10-15"
   },
   {
     "file": "data/industry/research-programs.csv",

@@ -28,3 +28,4 @@
 - [Large Language Model-Assisted Superconducting Qubit Experiments](https://arxiv.org/abs/2603.08801) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-13.md)
 - [Stress-testing large language model agents in a robotic chemistry laboratory](https://arxiv.org/abs/2607.23045) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
 - [SVOM Follow-up Observation Coordinating Service](https://arxiv.org/abs/2511.06647) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
+- [Principles and Techniques for Agentic Research in Experimental Physics](https://arxiv.org/abs/2610.17193) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)

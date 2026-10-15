@@ -69,3 +69,8 @@
 | [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://arxiv.org/abs/2610.12984) | 上海交大、复旦、南洋理工、浙江大学、上海奇绩智峰；Yuqi Huang等 | 2026-10-09 | arXiv预印本 |
 | [MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures](https://arxiv.org/abs/2610.13534) | Siléane、LAAS-CNRS；Loan Bernat等 | 2026-10-09 | arXiv预印本 |
 | [Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks](https://arxiv.org/abs/2610.12187) | NVIDIA、劳伦斯伯克利国家实验室、Quantum Computing Data等；W. Michael Brown等 | 2026-10-08 | arXiv预印本 |
+| [Principles and Techniques for Agentic Research in Experimental Physics](https://arxiv.org/abs/2610.17193) | 马里兰大学Walsworth团队；Niko R. Reed等 | 2026-10-12 | arXiv预印本 |
+| [Delegating Earth science model calibration to knowledge-guided LLM agents](https://arxiv.org/abs/2610.18378) | 河海大学、南京水利科学研究院、Meta；Zhanliang Zhu等 | 2026-10-13 | arXiv预印本 |
+| [Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation](https://arxiv.org/abs/2610.15750) | Google Earth AI；Noam Slonim等 | 2026-10-11 | arXiv预印本 |
+| [Stateless Language Agents: Scaling Long-Horizon Automated Research](https://arxiv.org/abs/2610.07625) | Stanford、CMU、华盛顿大学、SambaNova、Berkeley；Qizheng Zhang等 | 2026-10-06 | arXiv预印本 |
+| [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](https://arxiv.org/abs/2410.09034) | Argonne国家实验室、Rice大学；Xiangyu Yin、Chuqiao Shi、Yimo Han、Yi Jiang | 2024-10-11 | arXiv预印本 |

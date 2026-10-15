@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-15** — Added [11 news events](digests/ai4science/2026/2026-10-15.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-15.md) in 2 issues, plus [1 source](resources/sources.md), [2 companies and 2 funding events](data/README.md). From climate simulation to experimental feedback. No resource revisions, returning appearances or backfilled issues.
+
 - **2026-10-14** — Added [8 news events](digests/ai4science/2026/2026-10-14.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-14.md) in 2 issues, plus [1 company and 1 funding event](data/README.md). Laboratory feedback, human guidance and scientific software checks. No resource revisions, returning appearances or backfilled issues.
 
 - **2026-10-13** — Added [10 news events](digests/ai4science/2026/2026-10-13.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-13.md) in 2 issues, plus [1 source](resources/sources.md), [1 company and 1 funding event](data/README.md). Measurement feedback and mathematical verification. No resource revisions or backfilled issues.

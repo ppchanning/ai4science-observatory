@@ -1209,5 +1209,115 @@
       "digests/scientific-computer-use/2026/2026-10-14.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Principles and Techniques for Agentic Research in Experimental Physics",
+    "team": "马里兰大学Walsworth团队；Niko R. Reed等",
+    "doi": "10.48550/arXiv.2610.17193",
+    "arxiv": "2610.17193",
+    "url": "https://arxiv.org/abs/2610.17193",
+    "fulltext_url": "https://arxiv.org/html/2610.17193v1",
+    "first_published": "2026-10-12",
+    "verified_version": "v1",
+    "version_date": "2026-10-12",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-15T07:08:53.406155+08:00",
+    "evidence": "20.8小时；首评分3.2小时；最佳10分钟0.97Hz；相同设置10次中位1.47Hz；25/34漂移受限；独立审计否定重复纪录",
+    "read_first": "§III.4、§IV.5和图6",
+    "id": "arxiv:2610.17193",
+    "limitations": "作者报告20.8小时、151次实验，其中34次正式评分；首次评分用时3.2小时。最佳10分钟0.97Hz，相同设置10次中位1.47Hz，25/34次漂移受限；独立审计否定了所声称的重复纪录。仪器、样品、八步协议和安全范围由人设定，人工耗时参照非配对试验，未提供跨仪器接入人时或公平 GUI 对照。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Delegating Earth science model calibration to knowledge-guided LLM agents",
+    "team": "河海大学、南京水利科学研究院、Meta；Zhanliang Zhu等",
+    "doi": "10.48550/arXiv.2610.18378",
+    "arxiv": "2610.18378",
+    "url": "https://arxiv.org/abs/2610.18378",
+    "fulltext_url": "https://arxiv.org/pdf/2610.18378",
+    "first_published": "2026-10-13",
+    "verified_version": "v1",
+    "version_date": "2026-10-13",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-15T07:08:53.406155+08:00",
+    "evidence": "FSM2知识5/5首次可执行、仅名0/5；验证NSE0.81–0.94对默认0.57；VIC10配对各臂150评估，差中位−0.003，95%区间−0.007至0.002，非劣界−0.02；11单向量回放",
+    "read_first": "§2.2、§2.6、§3.4及图5",
+    "id": "arxiv:2610.18378",
+    "limitations": "FSM2 首次可执行为有知识5/5、仅模型名0/5，验证NSE为0.81–0.94对默认0.57。VIC 的10组配对、各150次评估下差值中位约−0.003，95%区间−0.007至0.002，非劣界−0.02；结论限于指定预算与目标。10个中断代理臂按规则排除，11次单向量回放不是完整搜索重放，多变量选择部分使用验证信息。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation",
+    "team": "Google Earth AI；Noam Slonim等",
+    "doi": "10.48550/arXiv.2610.15750",
+    "arxiv": "2610.15750",
+    "url": "https://arxiv.org/abs/2610.15750",
+    "fulltext_url": "https://arxiv.org/html/2610.15750v1",
+    "first_published": "2026-10-11",
+    "verified_version": "v1",
+    "version_date": "2026-10-11",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-15T07:08:53.406155+08:00",
+    "evidence": "76测试开放问题、每配置3运行；Flash基础3.3、领域52.2、全系统62.7；Pro领域50.8加计划47.6；得分是流程价值对齐非科学正确率",
+    "read_first": "§3、表4和§6局限",
+    "id": "arxiv:2610.15750",
+    "limitations": "76个开放问题、每配置3次运行；Flash 基础3.3、领域52.2、完整62.7，Pro领域50.8加计划47.6。分数衡量流程价值对齐，不是科学正确率。专家参考流程及69条轨迹的207次标注支持裁判核查；基础 Python 不联网、工具能力不等、不可解任务过滤和仅Gemini测试限制比较。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Stateless Language Agents: Scaling Long-Horizon Automated Research",
+    "team": "Stanford、CMU、华盛顿大学、SambaNova、Berkeley；Qizheng Zhang等",
+    "doi": "10.48550/arXiv.2610.07625",
+    "arxiv": "2610.07625",
+    "url": "https://arxiv.org/abs/2610.07625",
+    "fulltext_url": "https://arxiv.org/html/2610.07625v1",
+    "first_published": "2026-10-06",
+    "verified_version": "v1",
+    "version_date": "2026-10-06",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-15T07:08:53.406155+08:00",
+    "evidence": "内核Codex每方法3运行，SLA3次均优于基线合计9次；共同目标67.9M对986.3M token；93.1%为推理预算减少非墙钟；共享检查点消融",
+    "read_first": "§3、§4.3及附录D.3",
+    "id": "arxiv:2610.07625",
+    "limitations": "内核 Codex 每方法3次运行，SLA 的3次均优于三组基线合计9次；达到共同目标用67.9M对986.3M token，93.1%是推理预算减少而非墙钟提速。共享检查点消融及短预算下排序变化提示预算依赖；自动固定评价器的结果不能直接推广到物理漂移和科学目标修订。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents",
+    "team": "Argonne国家实验室、Rice大学；Xiangyu Yin、Chuqiao Shi、Yimo Han、Yi Jiang",
+    "doi": "10.48550/arXiv.2410.09034",
+    "arxiv": "2410.09034",
+    "url": "https://arxiv.org/abs/2410.09034",
+    "fulltext_url": "https://arxiv.org/html/2410.09034v1",
+    "first_published": "2024-10-11",
+    "verified_version": "v1",
+    "version_date": "2024-10-11",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-15T07:08:53.406155+08:00",
+    "evidence": "100组假设条件，单/多代理跨模型脚本与专家参考比较；可跑参数错与语法错分列；SnSe图像案例；不复述未核图中精确百分比",
+    "read_first": "§2.3、图2、§3及附录B",
+    "id": "arxiv:2410.09034",
+    "limitations": "2024年论文的100种假设情形用GPT-4模拟用户，与专家参考比较，不是100次无人值守新物理实验。人工 Level 1 图像反馈能改变下一步参数。贝叶斯优化对比来自前作，非同预算对照；没有独立复现，不能从重构流程推断远程设备开放资格、费用或时延。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]
