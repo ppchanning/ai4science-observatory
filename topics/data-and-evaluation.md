@@ -37,3 +37,7 @@
 - [Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation](https://arxiv.org/abs/2610.15750) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
 - [Stateless Language Agents: Scaling Long-Horizon Automated Research](https://arxiv.org/abs/2610.07625) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
 - [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](https://arxiv.org/abs/2410.09034) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
+- [CosmoAgent: AI Agent for Theoretical Cosmology](https://arxiv.org/abs/2610.16536) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery](https://arxiv.org/abs/2610.18933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)

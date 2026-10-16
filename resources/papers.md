@@ -74,3 +74,8 @@
 | [Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation](https://arxiv.org/abs/2610.15750) | Google Earth AI；Noam Slonim等 | 2026-10-11 | arXiv预印本 |
 | [Stateless Language Agents: Scaling Long-Horizon Automated Research](https://arxiv.org/abs/2610.07625) | Stanford、CMU、华盛顿大学、SambaNova、Berkeley；Qizheng Zhang等 | 2026-10-06 | arXiv预印本 |
 | [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](https://arxiv.org/abs/2410.09034) | Argonne国家实验室、Rice大学；Xiangyu Yin、Chuqiao Shi、Yimo Han、Yi Jiang | 2024-10-11 | arXiv预印本 |
+| [Qumus: Realization of An Embodied AI Quantum Material Experimentalist](https://arxiv.org/abs/2605.18407) | Princeton、Michigan、NIMS；Lihan Shi、Zhaoyi Joy Zheng等 | 2026-05-18 | arXiv预印本 |
+| [CosmoAgent: AI Agent for Theoretical Cosmology](https://arxiv.org/abs/2610.16536) | Brown物理/BCTPI；Stephon Alexander、Loukas Gouskos、Savvas M. Koushiappas等 | 2026-10-12 | arXiv预印本 |
+| [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) | CMU及Los Alamos、Sandia、LBNL、LLNL、Ames等；Seungone Kim等 | 2026-10-13 | arXiv预印本 |
+| [The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery](https://arxiv.org/abs/2610.18933) | Sakana AI；Robert Tjarko Lange等 | 2026-10-13 | arXiv预印本 |
+| [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900) | 同济大学；Ridong Zhang、Shuxian Liang等 | 2026-10-14 | arXiv预印本 |

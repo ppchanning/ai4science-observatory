@@ -55,3 +55,7 @@
 - [Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation](https://arxiv.org/abs/2610.15750) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
 - [Stateless Language Agents: Scaling Long-Horizon Automated Research](https://arxiv.org/abs/2610.07625) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
 - [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](https://arxiv.org/abs/2410.09034) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
+- [Qumus: Realization of An Embodied AI Quantum Material Experimentalist](https://arxiv.org/abs/2605.18407) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [CosmoAgent: AI Agent for Theoretical Cosmology](https://arxiv.org/abs/2610.16536) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery](https://arxiv.org/abs/2610.18933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)

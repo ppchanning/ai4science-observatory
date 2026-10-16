@@ -16,3 +16,4 @@
 - [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://arxiv.org/abs/2610.12984) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
 - [Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks](https://arxiv.org/abs/2610.12187) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
 - [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](https://arxiv.org/abs/2410.09034) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
+- [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)

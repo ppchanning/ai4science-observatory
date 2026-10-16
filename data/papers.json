@@ -1319,5 +1319,115 @@
       "digests/scientific-computer-use/2026/2026-10-15.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Qumus: Realization of An Embodied AI Quantum Material Experimentalist",
+    "team": "Princeton、Michigan、NIMS；Lihan Shi、Zhaoyi Joy Zheng等",
+    "doi": "10.48550/arXiv.2605.18407",
+    "arxiv": "2605.18407",
+    "url": "https://arxiv.org/abs/2605.18407",
+    "fulltext_url": "https://arxiv.org/pdf/2605.18407",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-16T07:11:42.621816+08:00",
+    "evidence": "一次清史运行5实验超过4h，目标石墨烯>200平方微米；器件案例90min/30步/18决策调用，非统计成功率",
+    "read_first": "图3、Methods硬件及数据库",
+    "id": "arxiv:2605.18407",
+    "first_published": "2026-05-18",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-05-18",
+    "limitations": "专用工程显著；无GUI/API等预算对照或跨仪器接入人时；代码数据可获得性未下载核实"
+  },
+  {
+    "title": "CosmoAgent: AI Agent for Theoretical Cosmology",
+    "team": "Brown物理/BCTPI；Stephon Alexander、Loukas Gouskos、Savvas M. Koushiappas等",
+    "doi": "10.48550/arXiv.2610.16536",
+    "arxiv": "2610.16536",
+    "url": "https://arxiv.org/abs/2610.16536",
+    "fulltext_url": "https://arxiv.org/html/2610.16536v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-16T07:11:42.621816+08:00",
+    "evidence": "8模型各1000母理论；每理论1000初始参数且可追加3000/5000；最佳deltaAIC−3.328；8组BIC均偏好LCDM；记忆消融250母理论",
+    "read_first": "第五、六节及附录G",
+    "id": "arxiv:2610.16536",
+    "first_published": "2026-10-12",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-10-12",
+    "limitations": "等母理论非等算量；多重搜索效应；记忆消融少量运行；不能当新理论发现"
+  },
+  {
+    "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+    "team": "CMU及Los Alamos、Sandia、LBNL、LLNL、Ames等；Seungone Kim等",
+    "doi": "10.48550/arXiv.2610.19159",
+    "arxiv": "2610.19159",
+    "url": "https://arxiv.org/abs/2610.19159",
+    "fulltext_url": "https://arxiv.org/pdf/2610.19159",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-16T07:11:42.621816+08:00",
+    "evidence": "9代理135提交0全通过；114一致性失败，90/85/68非互斥；自动裁判非135份均人工；附录41目标判断一致",
+    "read_first": "2.1节、主表及附录A",
+    "id": "arxiv:2610.19159",
+    "first_published": "2026-10-13",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-10-13",
+    "limitations": "开放任务未解不代表总体能力；评判模型偏差；105诊断子集不混主表135；设置版本残留7代理"
+  },
+  {
+    "title": "The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery",
+    "team": "Sakana AI；Robert Tjarko Lange等",
+    "doi": "10.48550/arXiv.2610.18933",
+    "arxiv": "2610.18933",
+    "url": "https://arxiv.org/abs/2610.18933",
+    "fulltext_url": "https://arxiv.org/html/2610.18933v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-16T07:11:42.621816+08:00",
+    "evidence": "5任务14配置70研究运行；人工核验ALIFE案例；三个Pi RL运行2个改变测试采样条件，人工排除",
+    "read_first": "3.3–3.5及6.3节",
+    "id": "arxiv:2610.18933",
+    "first_published": "2026-10-13",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-10-13",
+    "limitations": "自动论文分数非真值；规则遗漏使比较对象变化；共享记忆最终成绩小样本不显著"
+  },
+  {
+    "title": "How GUI Agents Fail: GraceBench for Execution Stability Diagnosis",
+    "team": "同济大学；Ridong Zhang、Shuxian Liang等",
+    "doi": "10.48550/arXiv.2610.19900",
+    "arxiv": "2610.19900",
+    "url": "https://arxiv.org/abs/2610.19900",
+    "fulltext_url": "https://arxiv.org/html/2610.19900v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份、日期及相关正文核验；未复现，未核全部附录/代码/原始数据",
+    "verified_at": "2026-10-16T07:11:42.621816+08:00",
+    "evidence": "10应用2909状态3116边；169任务两指令11模型3718轨迹；1294成功中663有偏离/循环=51.24%；GPT5.6成功率63.91%",
+    "read_first": "3.3、4.3及附录E",
+    "id": "arxiv:2610.19900",
+    "first_published": "2026-10-14",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-10-14",
+    "limitations": "状态图不穷尽；不同模型恢复机会不同；非故障注入同条件对照；无科研跨应用/硬件实证"
   }
 ]
