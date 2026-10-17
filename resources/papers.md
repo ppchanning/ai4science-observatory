@@ -79,3 +79,7 @@
 | [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) | CMU及Los Alamos、Sandia、LBNL、LLNL、Ames等；Seungone Kim等 | 2026-10-13 | arXiv预印本 |
 | [The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery](https://arxiv.org/abs/2610.18933) | Sakana AI；Robert Tjarko Lange等 | 2026-10-13 | arXiv预印本 |
 | [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900) | 同济大学；Ridong Zhang、Shuxian Liang等 | 2026-10-14 | arXiv预印本 |
+| [Agent-assisted experimental strategy transfer across quantum processors](https://arxiv.org/abs/2610.21047) | 四川师范大学、深圳大学、SpinQ；Shi-Yao Hou、Keren Li等 | 2026-10-15 | arXiv预印本 |
+| [From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research](https://arxiv.org/abs/2610.21767) | 上海人工智能实验室、上海交通大学、香港科技大学（广州）、南洋理工大学等；Yijia Mao、Song Dai等 | 2026-10-15 | arXiv预印本 |
+| [Agentic AI for operating scientific instruments for nanoscale characterization](https://arxiv.org/abs/2608.26198) | EPFL；Zahra Ayar、Georg E. Fantner等 | 2026-08-25 | arXiv预印本 |
+| [A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments](https://arxiv.org/abs/2604.08318) | 早稻田大学、AIST AIRC/G-QuAT；Masaki Shiraishi、Ikko Hamamura等 | 2026-04-09 | QC4C3/QCNC 2026研讨会论文及arXiv版本 |

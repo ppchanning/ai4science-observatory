@@ -2133,7 +2133,8 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-04.md"
+      "digests/ai4science/2026/2026-10-04.md",
+      "digests/ai4science/2026/2026-10-05.md"
     ],
     "provenance": "ai-assisted-source-digest"
   },
@@ -2414,24 +2415,6 @@
       "这篇长文把“虚拟细胞”放进Recursion十余年的药物研发路线：机器能不能从细胞受扰动后的变化里发现人容易遗漏的规律，并预测下一次实验？动脉网作者梳理了公司的起源、实验平台、分子设计与管线，具体信息来自企业披露与合作资料。适合给生物学学生、AI制药从业者讲“先让机器观察细胞，再让模型预测细胞”，把抽象概念落到实际数据产生方式。文章日期10月2日，今天作为窗口外首次发现保存，管线数据准确归属于报道和公司，未独立核读临床论文。",
       "文章开头指出AI制药正从单环节效率改进走向细胞反应预测。Recursion早期选择表型药物发现：用基因或化学方式扰动细胞，获得高内涵图像，再用机器学习寻找细胞形态、基因与化合物的联系。后来平台连接生物学分析、计算化学和临床数据，Boltz-2等模型参与结构与亲和力预测，LOWE用大语言模型编排工作流。作者的结论是，Virtual Cell更像现有体系向前延伸的一层能力；评价下一阶段，应看预测能否持续产生更好的实验假设和药物资产。",
       "正文最值得解释的是表型路线与先选靶点路线的差异。前者先观察细胞整体“发生了什么”，用大量可比较的扰动数据探索关系，再把线索转成靶点或候选分子交给实验检验。合作伙伴提供疾病知识、患者数据与计算资源，但这些输入只有连到验证环节才具有药物研发意义。文中REC-1245的推进效率和REC-4881的临床信号承担不同的验证作用，不能用同一个指标概括平台成功。编辑看点是，虚拟细胞需要持续产生高质量实验数据，并检验对未观察扰动的预测；数据量和模型复杂度只是条件，最终科学价值还要回到可重复的生物学发现。"
-    ],
-    "source_verification": {
-      "body_read": true
-    },
-    "appearances": [
-      "digests/ai4science/2026/2026-10-05.md"
-    ],
-    "provenance": "ai-assisted-source-digest"
-  },
-  {
-    "id": "c363b50d964bafd3",
-    "title": "我国科学家借助新方法与AI，突破最大超对称杨–米尔斯理论高圈计算难关",
-    "original_title": "我国科学家借助新方法与AI，突破最大超对称杨–米尔斯理论高圈计算难关",
-    "url": "https://news.sciencenet.cn/htmlnews/2026/10/572424.shtm",
-    "published_at": "2026-10-01T19:35:27+08:00",
-    "summary": [
-      "今日只作扩源种子，昨日已解读出稿，不重复当新闻",
-      "https://news.sciencenet.cn/htmlnews/2026/10/572424.shtm"
     ],
     "source_verification": {
       "body_read": true
@@ -4811,6 +4794,332 @@
     },
     "appearances": [
       "digests/ai4science/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16",
+    "date_precision": "day",
+    "discipline_tags": [
+      "化学",
+      "能源相关工程科学"
+    ],
+    "id": "EV-4d9643352eaeab",
+    "title": "周光敏团队在锌基储能用于按需制氢研究方向取得新进展",
+    "original_title": "周光敏团队在锌基储能用于按需制氢研究方向取得新进展",
+    "url": "https://www.sigs.tsinghua.edu.cn/2026/1016/c7687a293861/page.psp",
+    "summary": [
+      "机器学习在这项锌基供氢研究中承担配体筛选：清华大学深圳国际研究生院报道，团队评估874个候选配体，再结合密度泛函理论选出乳酸根。乳酸根与Zn(II)形成可溶络合物，将其浓度提高到1.12 M，缓解反应产物低溶解度带来的限制。AI的作用需沿着分子选择、反应环境与器件结果这条链理解。",
+      "作者参与撰写的机构新闻称，接触催化装置可在0至80℃工作，法拉第效率最高99%，供氢时不需外部电路。这里消耗的是锌载体，再生仍需能量；不能据此称为无成本制氢，也不能把最高效率视作所有条件下的性能。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T15:10:00+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "天文"
+    ],
+    "id": "EV-9826061e587b97",
+    "title": "科研人员提出基于生成式人工智能的跨望远镜图像预测方法",
+    "original_title": "科研人员提出基于生成式人工智能的跨望远镜图像预测方法",
+    "url": "https://stcsm.sh.gov.cn/xwzx/kjzl/20261016/bc4c6c11375f47599d530cdd6290f2b1.html",
+    "summary": [
+      "上海天文台团队用DESI与Euclid Q1重叠区域的82830对图像训练和验证跨望远镜预测模型，以r波段图像和z波段条件生成VIS预测。薛定谔桥扩散模型试图减轻地面观测分辨率对星系结构测量的影响，生成的细节仍是预测，不能当作空间望远镜的新实测。",
+      "机构报道给出三项结构参数的中位偏差改善，但残差离散程度未改善。群体统计更接近参考，并不保证某个星系细节真实。面向后续Euclid DR1覆盖天区的E-BGS预测数据还需要独立观测检验；评价应看具体科学量，而非只看图像清晰度。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T21:07:15+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "地球与气候"
+    ],
+    "id": "EV-fa41f13c9907e1",
+    "title": "“风清”AI全球短中期集合天气预报系统，过审！",
+    "original_title": "“风清”AI全球短中期集合天气预报系统，过审！",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573058.shtm",
+    "summary": [
+      "“风清”全球短中期集合预报系统通过业务准入测试。报道的独立检验时段为2025年1月至2026年8月，其中500 hPa位势高度的集合平均有效预报时效达到11天。这个数字对应特定变量和判据，不能扩展为各地所有天气都能准确预报11天。",
+      "集合预报同时关心平均状态与不确定性：CRPS评价预测分布，离散度与误差的关系用于检查不确定性表达。部分指标优于报道中的数值或AI对照系统，仍须保留比较范围。准入测试通过与正式运行后的持续表现是不同阶段。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T17:29:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "物理",
+      "数学"
+    ],
+    "id": "EV-6d2b79869e4e90",
+    "title": "Designing more efficient quantum circuits with Claude",
+    "original_title": "Designing more efficient quantum circuits with Claude",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "summary": [
+      "Anthropic研究说明介绍Claude生成量子电路代码，再由工具检查正确性和资源成本的反馈循环。点加案例运行约53小时，以多12%的量子比特换取约17倍更少逻辑门；另一译码器在允许低错误率的条件下，将工作比特从665降至19，门数减少约12倍。不同案例的资源折中不能合并成一个通用加速倍数。",
+      "方法涉及通过反推分支减少辅助空间，以及改用Berlekamp–Massey译码路线。文中采用代数论证、Lean与测试，并以约4.03亿个解码样本研究低频错误。这是特定算法与容错设置下的公司研究报告，不是物理量子硬件的普遍实测速率；历史量子化学降本也不能全部归给本次AI工作。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T08:03:24+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "物理",
+      "食品科学"
+    ],
+    "id": "EV-d48eb0b4c00952",
+    "title": "Can AI help discover new food physics? Researchers pair AI with human expertise",
+    "original_title": "Can AI help discover new food physics? Researchers pair AI with human expertise",
+    "url": "https://www.psu.edu/news/research/story/can-ai-help-discover-new-food-physics-researchers-pair-ai-human-expertise",
+    "summary": [
+      "宾州州立大学报道AgentXtract以多个代理从食品介电性质文献的图、表与公式整理数据，由食品科学专家审核。研究比较10个语言模型的准确性、成本与速度，新闻称约半小时整理4000多条记录，并以百余种食品数据分析介电常数和介电损耗的关系。",
+      "“人工需要数月”来自负责人经验，不能作为同条件随机对照。单位、频率、实验条件和异常值仍需专家确认；抽取得快不等于规律已被新实验验证。报道所述2027年3月卷期安排与已上线的论文版本、2026年新闻日期应分别理解。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T12:10:00",
+    "date_precision": "minute_timezone_unspecified",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "id": "EV-40282cf8e62e27",
+    "title": "Iambic CEO on taking an AI drug company public",
+    "original_title": "Iambic CEO on taking an AI drug company public",
+    "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
+    "summary": [
+      "BioPharma Dive采访Iambic联合创始人兼CEO Tom Miller，讨论AI制药如何以具体候选和临床节点兑现平台能力。公司10月14日IPO筹得1.5亿美元；10月16日访谈是新的解释性报道，不能重复算作当天新融资。IAM1363的科研背景是结合物理信息机器学习与实验自动化优化HER2选择性和脑部可达性。",
+      "不到两年进入临床、百余名患者数据及2027年注册性试验计划均属公司陈述，应与独立临床证据区分。临床入组不等于获批，合作数量也不是药物有效性的替代指标。访谈的价值在于将资源、候选设计和后续验证连起来，同时保留受访者利益立场。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T16:29:25+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "物理",
+      "能源相关工程科学"
+    ],
+    "id": "EV-f8bdf2fa780556",
+    "title": "Vinci pushes the boundaries of chip design with physics AI",
+    "original_title": "Vinci pushes the boundaries of chip design with physics AI",
+    "url": "https://siliconangle.com/2026/10/16/vinci-brings-physics-ai-into-chip-design-loop-semiconwest/",
+    "summary": [
+      "SiliconANGLE在SEMICON West的两篇Vinci采访合并为一个事件。公司负责人介绍以预训练物理模型和GPU原生内核分析芯片、封装及板级系统的热与机械耦合，希望在架构阶段更早反馈物理后果，并支持既有文件和客户数据部署。",
+      "另一篇原标题为《Physics AI pushes chip design beyond traditional simulation》，同场报道不重复计数。速度、精度及部署能力主要为厂商陈述，未给出独立误差或加速基准。theCUBE披露付费媒体合作与采访赞助，并声明赞助者无编辑控制；来源关系应随技术路线一起保留。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T20:43:48+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-a257a58c07adbb",
+    "title": "北大教授董彬：AI让数学进入更好的时代",
+    "original_title": "北大教授董彬：AI让数学进入更好的时代",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573055.shtm",
+    "summary": [
+      "董彬在数学与AI访谈中区分知识获取、推理、提出猜想与数学品味，讨论反例发现和Lean验证。这是有研究经历支撑的署名意见，不是对整个数学学科能力的统一测量；所举既有案例也不应再次标成10月16日的新突破。",
+      "形式化工具检查写入系统的命题与证明，研究者还须判断命题是否对应原问题、结论是否重要。理解这一区别，有助于把一次成功示例放回研究流程，而不是仅凭生成速度推断人的研究角色。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T13:00:39+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-085a9595a3cc78",
+    "title": "GPT证千禧年难题成果大反转！OpenAI自己没看懂就发…",
+    "original_title": "GPT证千禧年难题成果大反转！OpenAI自己没看懂就发…",
+    "url": "https://www.qbitai.com/2026/10/503685.html",
+    "summary": [
+      "量子位报道回顾AI相关Navier–Stokes证明争论，并引述10月13日《科学美国人》报道。争议涉及带驱动力的爆破解、与既有路线的关系以及贡献归属；中文报道日期不是研究结果的首次日期。原标题的强烈说法不能直接作为结果被推翻或千禧年难题已解决的证据。",
+      "证明正确性、形式化陈述是否对应原问题、方法新颖性和作者理解程度是不同问题。Lean核验不能单独回答创新与归属，仍要查前人文献及不同研究者的具体判断。本条保存的是二手报道争论的范围，并未裁决相关数学结论。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16",
+    "date_precision": "day",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-8a4f33ab99552f",
+    "title": "First Proof project calls upon UB expert to test AI’s prowess in math",
+    "original_title": "First Proof project calls upon UB expert to test AI’s prowess in math",
+    "url": "https://www.buffalo.edu/provost/resources/policies-and-resources.host.html/content/shared/university/news/ub-reporter-articles/stories/2026/10/Sikora-First-Proof.detail.html",
+    "summary": [
+      "布法罗大学采访Adam Sikora，介绍First Proof研究级数学题的设计：十题、五个AI系统、24小时作答，题目有已知但此前未公开的解法。Sikora与Thang T. Q. Lê提供量子拓扑问题，报道说只有一个系统完成该题，整体有系统完成九题。",
+      "结果于10月14日公开，16日人物报道补充出题与判断经验，不能再次记为新一轮评测。分数需连同题目来源、预算、证明缺口检查和系统访问条件一起理解；一组受控题的成绩不等于任意开放数学问题均可解决。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T09:54:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-3695fb8ab8b1c2",
+    "title": "How to Formalize All of Mathematics",
+    "original_title": "How to Formalize All of Mathematics",
+    "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+    "summary": [
+      "Kevin Buzzard、Jeremy Avigad等参与形式化数学的研究者讨论如何组织AI加速生成的证明知识。文章连接TauCeti路线图、Mathlib规范、Formal Frontier与Palomar审计工具，强调定义的一般性、命名、文档和跨库复用。",
+      "局部代码通过检查不等于进入可长期复用的数学知识库；重复定义和难以连接的抽象仍需评审。文中约65位Mathlib审查者与950位贡献者说明社区维护的重要性。“几年内”推进大量形式化是作者预测，并非完成进度或承诺工期。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T17:32:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-cbf94f2b9d897e",
+    "title": "SAIR Open Math OS released",
+    "original_title": "SAIR Open Math OS released",
+    "url": "https://terrytao.wordpress.com/2026/10/16/sair-open-math-os-released/",
+    "summary": [
+      "陶哲轩博客介绍SAIR Open Math OS软发布，关注团队如何共享数学AI讨论和提示上下文。文章列出所托管的开放模型及讨论、总结和中等规模Lean任务用途，模型相对前沿的能力判断归属于作者使用经验。",
+      "团队账户、可见提示与捐赠算力支持提供了协作入口，但工具上线不保证任何申请人均可获得稳定额度，分配可能随需求变化。其证据属于平台使用与科研协作观察，不能当作新基础模型的独立基准；当前资格、费用和能力仍需向平台核实。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T11:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-c922bc4442a5d1",
+    "title": "On AI statements in mathematics papers",
+    "original_title": "On AI statements in mathematics papers",
+    "url": "https://proofsandprompts.com/2026/10/16/on-ai-statements-in-mathematics-papers/",
+    "summary": [
+      "Hendrik De Bie讨论数学论文应怎样披露AI参与。作者查看9月14日至18日arXiv math.CA和math.RT共152篇论文，分类为85篇无声明、6篇声明不用、8篇仅非数学用途、53篇报告数学用途；后者约34.9%，仅代表该有限样本及分类。",
+      "建议披露模型或版本、使用角色、对应任务和资源支持，是作者提出的规范主张。未声明不能自动推断未使用或隐瞒。区分润色、找反例和生成关键证明，能让读者更准确地追溯贡献，也避免把一项样本观察推广为全体数学研究者的使用率。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-16T14:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-e7532c3f334c49",
+    "title": "AI fusion cuisine: On the latest research article of Jacob Tsimerman",
+    "original_title": "AI fusion cuisine: On the latest research article of Jacob Tsimerman",
+    "url": "https://proofsandprompts.com/2026/10/16/ai-fusion-cuisine-on-the-latest-research-article-of-jacob-tsimerman/",
+    "summary": [
+      "Oliver Bräunling围绕Pila与Tsimerman近期研究的AI声明讨论贡献如何经由协作、概念选择和他人工作间接传播。原论文不是10月16日新发表，新闻事件是这一日发布的独立署名评论，应与另一篇声明样本调查分别归属。",
+      "评论认为简单的“使用/未使用”标记难以复原研究过程，并讨论资深研究者、学生和团队之间的责任。它提供透明记录的论证，不构成对个人学术不端的认定。阅读时应追问思路来源及参与者对证明的理解，而不是只检查模型名字。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-17.md"
     ],
     "provenance": "ai-assisted-source-digest"
   }

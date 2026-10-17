@@ -59,3 +59,7 @@
 - [CosmoAgent: AI Agent for Theoretical Cosmology](https://arxiv.org/abs/2610.16536) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
 - [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
 - [The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery](https://arxiv.org/abs/2610.18933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [Agent-assisted experimental strategy transfer across quantum processors](https://arxiv.org/abs/2610.21047) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
+- [From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research](https://arxiv.org/abs/2610.21767) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
+- [Agentic AI for operating scientific instruments for nanoscale characterization](https://arxiv.org/abs/2608.26198) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
+- [A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments](https://arxiv.org/abs/2604.08318) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)

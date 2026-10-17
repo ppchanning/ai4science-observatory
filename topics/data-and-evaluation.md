@@ -41,3 +41,5 @@
 - [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
 - [The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery](https://arxiv.org/abs/2610.18933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
 - [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [Agent-assisted experimental strategy transfer across quantum processors](https://arxiv.org/abs/2610.21047) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
+- [From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research](https://arxiv.org/abs/2610.21767) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)

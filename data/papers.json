@@ -1429,5 +1429,93 @@
     "provenance": "ai-assisted-literature-notes",
     "version_date": "2026-10-14",
     "limitations": "状态图不穷尽；不同模型恢复机会不同；非故障注入同条件对照；无科研跨应用/硬件实证"
+  },
+  {
+    "title": "Agent-assisted experimental strategy transfer across quantum processors",
+    "team": "四川师范大学、深圳大学、SpinQ；Shi-Yao Hou、Keren Li等",
+    "doi": "10.48550/arXiv.2610.21047",
+    "arxiv": "2610.21047",
+    "url": "https://arxiv.org/abs/2610.21047",
+    "fulltext_url": "https://arxiv.org/html/2610.21047v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本与相关正文核验；未复现、未核尽代码/原始数据/引用",
+    "verified_at": "2026-10-17T07:09:45.339671+08:00",
+    "evidence": "四台主导本征态投影占据0.910–0.959；五完整重复会话×3=15测量；另有参考失败停止",
+    "read_first": "补充S2、表S2、图3、S4",
+    "id": "arxiv:2610.21047",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-10-15",
+    "limitations": "统一处理器家族/接口；无人类或固定流程对照；投影值非原始物理占据；上下文未强制隔离；Q3进入策略部分事后重建"
+  },
+  {
+    "title": "From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research",
+    "team": "上海人工智能实验室、上海交通大学、香港科技大学（广州）、南洋理工大学等；Yijia Mao、Song Dai等",
+    "doi": "10.48550/arXiv.2610.21767",
+    "arxiv": "2610.21767",
+    "url": "https://arxiv.org/abs/2610.21767",
+    "fulltext_url": "https://arxiv.org/html/2610.21767v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本与相关正文核验；未复现、未核尽代码/原始数据/引用",
+    "verified_at": "2026-10-17T07:09:45.339671+08:00",
+    "evidence": "7模型×50任务×3=1050；最高均分6.29/10模型RC4为49/150约32.7%；高分229中83未RC4；闭合判断专家一致75.9%",
+    "read_first": "3.3节、图4/5、case30",
+    "id": "arxiv:2610.21767",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-10-15",
+    "limitations": "任务/评分规范依赖专家；未全量人工验证；无接口或物理实验比较"
+  },
+  {
+    "title": "Agentic AI for operating scientific instruments for nanoscale characterization",
+    "team": "EPFL；Zahra Ayar、Georg E. Fantner等",
+    "doi": "10.48550/arXiv.2608.26198",
+    "arxiv": "2608.26198",
+    "url": "https://arxiv.org/abs/2608.26198",
+    "fulltext_url": "https://arxiv.org/pdf/2608.26198",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本与相关正文核验；未复现、未核尽代码/原始数据/引用",
+    "verified_at": "2026-10-17T07:09:45.339671+08:00",
+    "evidence": "五匹配对同起点/参数/边界，轮次p=.063、时间.625；交互命令未观察错误执行；正文150请求与附表225汇总分母未厘清，不引用比例",
+    "read_first": "2.3–2.4节、图4、Methods5.5",
+    "id": "arxiv:2608.26198",
+    "first_published": "2026-08-25",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-08-25",
+    "limitations": "小样本不显著不等于等效；模型、接口、交互混杂；已有驱动成本未计；KPFM自身PID固定；请求总数口径未厘清。"
+  },
+  {
+    "title": "A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments",
+    "team": "早稻田大学、AIST AIRC/G-QuAT；Masaki Shiraishi、Ikko Hamamura等",
+    "doi": "10.48550/arXiv.2604.08318",
+    "arxiv": "2604.08318",
+    "url": "https://arxiv.org/abs/2604.08318",
+    "fulltext_url": "https://arxiv.org/html/2604.08318v1",
+    "type": "QC4C3/QCNC 2026研讨会论文及arXiv版本",
+    "verification": "原始身份/版本与相关正文核验；未复现、未核尽代码/原始数据/引用",
+    "verified_at": "2026-10-17T07:09:45.339671+08:00",
+    "evidence": "GHZ本地2000采样/远端模拟100采样；QAOA给定参数演示；无比较性能",
+    "read_first": "II架构、III-B/C",
+    "id": "arxiv:2604.08318",
+    "first_published": "2026-04-09",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-04-09",
+    "limitations": "原文/终端本地计数不一致不采信精确值；walltime是申请上限非实测排队/运行；费用/资格/适配人时未知"
   }
 ]

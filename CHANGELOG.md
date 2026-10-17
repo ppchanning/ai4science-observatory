@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-17** — Added [14 news events](digests/ai4science/2026/2026-10-17.md) and [4 papers](digests/scientific-computer-use/2026/2026-10-17.md) in 2 issues; [revised 1 historical funding record](data/README.md) and merged [1 historical duplicate news record](digests/ai4science/2026/2026-10-05.md). Quantum instruments, scientific closure and the limits of generated evidence. No paper revisions or current returning appearances or backfilled issues.
+
 - **2026-10-16** — Added [14 news events](digests/ai4science/2026/2026-10-16.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-16.md) in 2 issues. Mathematical verification, physical measurements and research audit trails. No resource revisions, returning appearances or backfilled issues.
 
 - **2026-10-15** — Added [11 news events](digests/ai4science/2026/2026-10-15.md) and [5 papers](digests/scientific-computer-use/2026/2026-10-15.md) in 2 issues, plus [1 source](resources/sources.md), [2 companies and 2 funding events](data/README.md). From climate simulation to experimental feedback. No resource revisions, returning appearances or backfilled issues.

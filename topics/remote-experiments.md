@@ -30,3 +30,6 @@
 - [SVOM Follow-up Observation Coordinating Service](https://arxiv.org/abs/2511.06647) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-14.md)
 - [Principles and Techniques for Agentic Research in Experimental Physics](https://arxiv.org/abs/2610.17193) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
 - [Qumus: Realization of An Embodied AI Quantum Material Experimentalist](https://arxiv.org/abs/2605.18407) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
+- [Agent-assisted experimental strategy transfer across quantum processors](https://arxiv.org/abs/2610.21047) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
+- [Agentic AI for operating scientific instruments for nanoscale characterization](https://arxiv.org/abs/2608.26198) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
+- [A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments](https://arxiv.org/abs/2604.08318) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
