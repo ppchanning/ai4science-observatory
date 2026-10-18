@@ -83,3 +83,8 @@
 | [From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research](https://arxiv.org/abs/2610.21767) | 上海人工智能实验室、上海交通大学、香港科技大学（广州）、南洋理工大学等；Yijia Mao、Song Dai等 | 2026-10-15 | arXiv预印本 |
 | [Agentic AI for operating scientific instruments for nanoscale characterization](https://arxiv.org/abs/2608.26198) | EPFL；Zahra Ayar、Georg E. Fantner等 | 2026-08-25 | arXiv预印本 |
 | [A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments](https://arxiv.org/abs/2604.08318) | 早稻田大学、AIST AIRC/G-QuAT；Masaki Shiraishi、Ikko Hamamura等 | 2026-04-09 | QC4C3/QCNC 2026研讨会论文及arXiv版本 |
+| [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://arxiv.org/abs/2610.22234) | 上海人工智能实验室等；Bowen Yang等 | 2026-10-15 | arXiv预印本 |
+| [ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing](https://arxiv.org/abs/2610.21502) | 自然资源部第一海洋研究所；Hao Zhang等 | 2026-10-15 | arXiv预印本 |
+| [Holding the Light: Teaching an AI to Lock and Tune our Quantum Computer’s Lasers](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers) | QuEra激光团队；Claude/MHS合作 | 2026-08-27 | 公司原始实质技术文章（非论文） |
+| [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) | 马里兰大学、Gradient Network等；Youran Sun等 | 2026-10-15 | arXiv预印本 |
+| [Reconstructing Implicit Scientific Knowledge: Evaluating LLM Agents through End-to-End Reproduction of Astronomy](https://arxiv.org/abs/2609.35900) | 之江实验室科学数据枢纽研究中心；Yuehui Wang等 | 2026-09-28 | arXiv预印本 |

@@ -4997,14 +4997,17 @@
     "url": "https://www.qbitai.com/2026/10/503685.html",
     "summary": [
       "量子位报道回顾AI相关Navier–Stokes证明争论，并引述10月13日《科学美国人》报道。争议涉及带驱动力的爆破解、与既有路线的关系以及贡献归属；中文报道日期不是研究结果的首次日期。原标题的强烈说法不能直接作为结果被推翻或千禧年难题已解决的证据。",
-      "证明正确性、形式化陈述是否对应原问题、方法新颖性和作者理解程度是不同问题。Lean核验不能单独回答创新与归属，仍要查前人文献及不同研究者的具体判断。本条保存的是二手报道争论的范围，并未裁决相关数学结论。"
+      "证明正确性、形式化陈述是否对应原问题、方法新颖性和作者理解程度是不同问题。Lean核验不能单独回答创新与归属，仍要查前人文献及不同研究者的具体判断。本条保存的是二手报道争论的范围，并未裁决相关数学结论。",
+      "The Decoder于10月17日转述Scientific American对数学家的采访，与此前中文报道属于同一Navier–Stokes证明争论，本次补充英文来源，不新增独立发现。专家讨论的是带可构造外力的爆破和最终证明路线，不能推广为常见无外力千禧年问题已解决。 补充来源：https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+      "发布者对既有路线的描述与专家后续重建可能不同。Lean检查编码推导的逻辑，专家仍需比较论文、代码和前人贡献；本资料库不据二手报道裁决证明是否成立或归属。"
     ],
     "source_verification": {
       "verification_status": "基于上游有来源解读；未独立复现",
       "limits": "新闻、采访与评论均保留来源归属；未对全部原始论文独立核查"
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-17.md"
+      "digests/ai4science/2026/2026-10-17.md",
+      "digests/ai4science/2026/2026-10-18.md"
     ],
     "provenance": "ai-assisted-source-digest"
   },
@@ -5120,6 +5123,169 @@
     },
     "appearances": [
       "digests/ai4science/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-17T18:36:00+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "科研仪器与自动化实验",
+      "天文"
+    ],
+    "id": "EV-8adaf398113a64",
+    "title": "AI移除之后，仪器还能运行吗？学界专家在沪探讨“AI原生”科学仪器",
+    "original_title": "AI移除之后，仪器还能运行吗？学界专家在沪探讨“AI原生”科学仪器",
+    "url": "https://m.sohu.com/a/1089060261_122014422",
+    "summary": [
+      "上海科学院论坛讨论AI怎样进入科学仪器的测量与控制。方向提出“移除AI后能否运行”的判断思路；田中群主张围绕科学问题连接感知、解析、控制与行动。报道涉及计量可信、协作平台及“仪元智衡OS1.0”，属于专家论述与平台介绍，不是完整效果评测。",
+      "多模态天文观测统一表示和连接存量设备的仪器操作系统，是报道提出的两条路径。算法更新快、硬件周期长以及模型输出漂移影响校准，均使具体闭环和权限成为验证对象；仪器“原生AI”标签本身不能替代测量证据。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、公司陈述和评论保留来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-17T17:06:17+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "生命医药",
+      "材料"
+    ],
+    "id": "EV-2b4ffde648eb5c",
+    "title": "未来产业看上海｜废塑料变水晶瓶，上海这家企业用AI重写蛋白质研发",
+    "original_title": "未来产业看上海｜废塑料变水晶瓶，上海这家企业用AI重写蛋白质研发",
+    "url": "https://api3.cls.cn/share/article/2507464?app=stib&os=ios&sv=202",
+    "summary": [
+      "科创板日报采访天鹜科技洪亮与上海未来产业基金蔡金旭，讨论AI蛋白质设计怎样进入工业验证。以PET降解为例，AI寻找活性、稳定性及工业耐受性合适的酶，再通过实验检验；栏目由媒体与上海国投联合策划，公司与投资人的主张保留归属。",
+      "据公司介绍，Venus连接文献数据、候选生成、机器人样品处理与功能测试，让结果反馈模型。数据能否持续产生、周期成本及客户复购是采访中的产业判断，没有独立比较证明统一研发提速。3月A+和7月A++为既有融资的回顾，不能记成今天新增融资。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、公司陈述和评论保留来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-17T21:48:06+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "材料"
+    ],
+    "id": "EV-4c53dc3abbda6e",
+    "title": "探路AI+先进材料，欧科亿联合顶材科技发布“智刃”大模型",
+    "original_title": "探路AI+先进材料，欧科亿联合顶材科技发布“智刃”大模型",
+    "url": "https://stock.stockstar.com/IG2026101700012648.shtml",
+    "summary": [
+      "欧科亿与顶材科技于10月16日发布“智刃”，南方财经的10月17日报道介绍其以Qwen3适配材料知识，连接配方组织、涂层工艺、切削条件和磨损诊断四类智能体。材料、微观组织和具体加工工况之间的关系是其科学应用入口。",
+      "液冷板加工涉及不锈钢加工硬化、切削热、薄壁振动等耦合约束。模型承担检索、分析与方案建议，候选仍需材料和实际加工试验验证；发布会及专家解释没有提供可计算统一提速比例的独立对照。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、公司陈述和评论保留来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-17T09:18:51+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-111de1f64b302f",
+    "title": "我科学家首次用中国大模型攻克世界级数学难题",
+    "original_title": "我科学家首次用中国大模型攻克世界级数学难题",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573076.shtm",
+    "summary": [
+      "中国科学报报道大湾区大学许地生团队与上海人工智能实验室用S2参与特定余维一全纯Anosov微分同胚分类，涉及三维情形的Ghys猜想。上海人工智能实验室已于10月15日披露相关主张，17日报道不是另一项独立发现。",
+      "七批问题逐步展开，人类筛选模型线索、重组推导并作关键判断；SHEAF把主要定理转写到Lean，专家核对形式化陈述与原问题是否对应。应分别检查搜索过程、编码逻辑和语义对应，不能把报道扩展为全部高维情形或完全无人证明。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、公司陈述和评论保留来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-17T20:06:51+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-893e1df4cf8958",
+    "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+    "original_title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+    "url": "https://www.qbitai.com/2026/10/503910.html",
+    "summary": [
+      "量子位转述Anthropic团队与合作者对标准椭圆曲线参数来源的分析：Claude提出伪随机发生器假设，研究者结合程序与格算法追查种子结构。原始披露为10月16日，17日是二手报道，悬赏背景可追至2023年。",
+      "lrand48的48位内部状态、截断输出和初始化模式形成可检验约束，结合LLL格约简与时间范围帮助恢复生成过程。部分参数和历史候选选择仍未解释；恢复来源不能等同于破解椭圆曲线密码或证明密码算法整体安全。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、公司陈述和评论保留来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-17T14:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-99e0b64a6b2d5d",
+    "title": "越恐慌，越可能喂养这头“读心兽”",
+    "original_title": "The more you panic the more you feed the pyschic beast",
+    "url": "https://proofsandprompts.com/2026/10/17/the-more-you-panic-the-more-you-feed-the-pyschic-beast/",
+    "summary": [
+      "Drexel University数学研究者James Eldred Pascoe评论AI与数学共同体的知识流动。他以“读心兽”比喻模型可能组合分散线索，强调正确证明、来源解释与共同体协作是不同问题。",
+      "关于人类交流进入训练的描述是带条件的解释框架，不是对具体训练取数的调查结论。文章主张维护引用、协作及下一代研究者可参与的空间，并肯定适度自动化；应作为署名观点阅读，不能转述为已证实的个人取数或学术失范。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、公司陈述和评论保留来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-17T11:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-030ef2f994a3f7",
+    "title": "让AI与人类理解并行，以及其他思考",
+    "original_title": "Parallelize AI and Human Understanding, and Other Thoughts",
+    "url": "https://proofsandprompts.com/2026/10/17/parallelize-ai-and-human-understanding-and-other-thoughts/",
+    "summary": [
+      "数学爱好者、软件工程师Nihal Uppugunduri主张让形式化成果积累与人类理解并行：机器核验通过后，人仍可探索证明的含义、解释和替代路径。作者身份与数学教授不同，这是一篇工具流程观点稿。",
+      "补齐省略步骤的Lean代码、反向检索定义和命题名称，是文中提出的用途；作者承认反向搜索仍可能幻觉，辅助评阅工具也仍是计划。保留引用和研究者控制有助讨论可核查性，文中物理类比不作为科学证据。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、公司陈述和评论保留来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-18.md"
     ],
     "provenance": "ai-assisted-source-digest"
   }

@@ -43,3 +43,7 @@
 - [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
 - [Agent-assisted experimental strategy transfer across quantum processors](https://arxiv.org/abs/2610.21047) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
 - [From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research](https://arxiv.org/abs/2610.21767) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
+- [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://arxiv.org/abs/2610.22234) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
+- [ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing](https://arxiv.org/abs/2610.21502) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
+- [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
+- [Reconstructing Implicit Scientific Knowledge: Evaluating LLM Agents through End-to-End Reproduction of Astronomy](https://arxiv.org/abs/2609.35900) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)

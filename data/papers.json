@@ -1517,5 +1517,113 @@
     "provenance": "ai-assisted-literature-notes",
     "version_date": "2026-04-09",
     "limitations": "原文/终端本地计数不一致不采信精确值；walltime是申请上限非实测排队/运行；费用/资格/适配人时未知"
+  },
+  {
+    "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+    "team": "上海人工智能实验室等；Bowen Yang等",
+    "doi": "10.48550/arXiv.2610.22234",
+    "arxiv": "2610.22234",
+    "url": "https://arxiv.org/abs/2610.22234",
+    "fulltext_url": "https://arxiv.org/html/2610.22234v1",
+    "type": "arXiv预印本",
+    "verification": "身份/日期与相关原始正文已核；未复现、未核尽代码和引用",
+    "verified_at": "2026-10-18T07:07:39.548675+08:00",
+    "evidence": "361题/50步；匹配27B Hybrid46.50、SFT62.75、RL66.44%；固定10K轨迹混合比GUI高3.05pp",
+    "read_first": "4.1、表1、表5",
+    "id": "arxiv:2610.22234",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "工作流子类RL未再提高；模型/训练成本及新仪器接入人时未测",
+    "version_date": "2026-10-15"
+  },
+  {
+    "title": "ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing",
+    "team": "自然资源部第一海洋研究所；Hao Zhang等",
+    "doi": "10.48550/arXiv.2610.21502",
+    "arxiv": "2610.21502",
+    "url": "https://arxiv.org/abs/2610.21502",
+    "fulltext_url": "https://arxiv.org/html/2610.21502v1",
+    "type": "arXiv预印本",
+    "verification": "身份/日期与相关原始正文已核；未复现、未核尽代码和引用",
+    "verified_at": "2026-10-18T07:07:39.548675+08:00",
+    "evidence": "852条件×4=3408运行；拒234结构错仍漏61内容错；50景39完成/11空提取，48.04s仅完成者处理链",
+    "read_first": "2.2、3.5图7",
+    "id": "arxiv:2610.21502",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "内容身份/完整性未被结构校验覆盖；非预测精度证据；时间不含LLM/取图",
+    "version_date": "2026-10-15"
+  },
+  {
+    "title": "Holding the Light: Teaching an AI to Lock and Tune our Quantum Computer’s Lasers",
+    "team": "QuEra激光团队；Claude/MHS合作",
+    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+    "fulltext_url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+    "type": "公司原始实质技术文章（非论文）",
+    "verification": "身份/日期与相关原始正文已核；未复现、未核尽代码和引用",
+    "verified_at": "2026-10-18T07:07:39.548675+08:00",
+    "evidence": "公司自报7类×100=700，695恢复；43自然跳模；约19h零失锁对先前1.6/h",
+    "read_first": "Building…与Tuning…两节",
+    "id": "url:https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+    "first_published": "2026-08-27",
+    "verified_version": null,
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "公司技术案例非论文；无独立完整数据审计；第二波长非跨仪器；接入总人时未知",
+    "version_date": "2026-08-27"
+  },
+  {
+    "title": "SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+    "team": "马里兰大学、Gradient Network等；Youran Sun等",
+    "doi": "10.48550/arXiv.2610.21082",
+    "arxiv": "2610.21082",
+    "url": "https://arxiv.org/abs/2610.21082",
+    "fulltext_url": "https://arxiv.org/html/2610.21082v1",
+    "type": "arXiv预印本",
+    "verification": "身份/日期与相关原始正文已核；未复现、未核尽代码和引用",
+    "verified_at": "2026-10-18T07:07:39.548675+08:00",
+    "evidence": "26项目248例，交换选项顺序；五模型medium均值有记录39.2%/无记录55.8%",
+    "read_first": "2.3、4.4、限制",
+    "id": "arxiv:2610.21082",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "挑战样本经模型分歧筛选；客户端/检索同时变化；不是通用决策准确率",
+    "version_date": "2026-10-15"
+  },
+  {
+    "title": "Reconstructing Implicit Scientific Knowledge: Evaluating LLM Agents through End-to-End Reproduction of Astronomy",
+    "team": "之江实验室科学数据枢纽研究中心；Yuehui Wang等",
+    "doi": "10.48550/arXiv.2609.35900",
+    "arxiv": "2609.35900",
+    "url": "https://arxiv.org/abs/2609.35900",
+    "fulltext_url": "https://arxiv.org/pdf/2609.35900",
+    "type": "arXiv预印本",
+    "verification": "身份/日期与相关原始正文已核；未复现、未核尽代码和引用",
+    "verified_at": "2026-10-18T07:07:39.548675+08:00",
+    "evidence": "3×2×2共12预定路径，尺度2.16–3.53kpc；13篇审查中11篇路径不唯一（作者报告）",
+    "read_first": "PDF4–5页和图7/8",
+    "id": "arxiv:2609.35900",
+    "first_published": "2026-09-28",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "3.1/3.3仍有模型/次数/包链接占位；不能当可独立复核性能基线或总体复现率",
+    "version_date": "2026-09-28"
   }
 ]
