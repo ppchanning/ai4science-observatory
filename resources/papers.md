@@ -88,3 +88,8 @@
 | [Holding the Light: Teaching an AI to Lock and Tune our Quantum Computer’s Lasers](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers) | QuEra激光团队；Claude/MHS合作 | 2026-08-27 | 公司原始实质技术文章（非论文） |
 | [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) | 马里兰大学、Gradient Network等；Youran Sun等 | 2026-10-15 | arXiv预印本 |
 | [Reconstructing Implicit Scientific Knowledge: Evaluating LLM Agents through End-to-End Reproduction of Astronomy](https://arxiv.org/abs/2609.35900) | 之江实验室科学数据枢纽研究中心；Yuehui Wang等 | 2026-09-28 | arXiv预印本 |
+| [Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents](https://arxiv.org/abs/2610.21942) | 华南师大、RIKEN、KEK等；Xiaolin Wang等 | 2026-10-15 | arXiv预印本 |
+| [Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery](https://arxiv.org/abs/2610.18449) | Northwestern University；Yibo Wen、Han Liu | 2026-10-13 | arXiv预印本 |
+| [Probe-and-Resume: When and How to Evaluate Agent Execution](https://arxiv.org/abs/2610.21088) | Columbia University；Jiakai Xu等 | 2026-10-15 | arXiv预印本 |
+| [ELISA: A Bayesian X/γ-ray Spectral Analysis Toolkit](https://arxiv.org/abs/2610.14587) | 中科院高能物理研究所等；Wang-Chen Xue等 | 2026-10-10 | arXiv预印本 |
+| [Easy remote observations using web interfaces: controlling an Italian telescope from Japan, and more](https://arxiv.org/abs/2501.07997) | INAF、日本国立天文台等；Davide Ricci等 | 2025-01-14 | 会议技术论文预印本 |

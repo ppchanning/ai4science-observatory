@@ -18,3 +18,4 @@
 - [PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents](https://arxiv.org/abs/2410.09034) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-15.md)
 - [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-16.md)
 - [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://arxiv.org/abs/2610.22234) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
+- [Probe-and-Resume: When and How to Evaluate Agent Execution](https://arxiv.org/abs/2610.21088) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)

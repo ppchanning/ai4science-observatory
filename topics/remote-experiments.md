@@ -34,3 +34,5 @@
 - [Agentic AI for operating scientific instruments for nanoscale characterization](https://arxiv.org/abs/2608.26198) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
 - [A Model Context Protocol Server for Quantum Execution in Hybrid Quantum-HPC Environments](https://arxiv.org/abs/2604.08318) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-17.md)
 - [Holding the Light: Teaching an AI to Lock and Tune our Quantum Computer’s Lasers](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
+- [Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents](https://arxiv.org/abs/2610.21942) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
+- [Easy remote observations using web interfaces: controlling an Italian telescope from Japan, and more](https://arxiv.org/abs/2501.07997) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)

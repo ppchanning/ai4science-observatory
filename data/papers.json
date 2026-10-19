@@ -1625,5 +1625,115 @@
     "provenance": "ai-assisted-literature-notes",
     "limitations": "3.1/3.3仍有模型/次数/包链接占位；不能当可独立复核性能基线或总体复现率",
     "version_date": "2026-09-28"
+  },
+  {
+    "title": "Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents",
+    "team": "华南师大、RIKEN、KEK等；Xiaolin Wang等",
+    "doi": "10.48550/arXiv.2610.21942",
+    "arxiv": "2610.21942",
+    "url": "https://arxiv.org/abs/2610.21942",
+    "fulltext_url": "https://arxiv.org/html/2610.21942v1",
+    "type": "arXiv预印本",
+    "verification": "身份/日期及相关原始正文已核；未复现、未核尽代码及引用",
+    "verified_at": "2026-10-19T07:08:24.441183+08:00",
+    "evidence": "Schwinger相关量最大误差0.594降至0.00806；Z2真机8.1483±0.1350 vs同线路无噪7.7502约2.95统计标准误",
+    "read_first": "第三节、图1、Schwinger案例末段",
+    "version_date": "2026-10-15",
+    "id": "arxiv:2610.21942",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "有限格点数值一致性不等于连续极限/真机定量准确；未测跨仪器接入人时"
+  },
+  {
+    "title": "Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery",
+    "team": "Northwestern University；Yibo Wen、Han Liu",
+    "doi": "10.48550/arXiv.2610.18449",
+    "arxiv": "2610.18449",
+    "url": "https://arxiv.org/abs/2610.18449",
+    "fulltext_url": "https://arxiv.org/html/2610.18449v1",
+    "type": "arXiv预印本",
+    "verification": "身份/日期及相关原始正文已核；未复现、未核尽代码及引用",
+    "verified_at": "2026-10-19T07:08:24.441183+08:00",
+    "evidence": "8配置×6任务×3次=144，31双门成功；最佳12/18；矫顽力3/24；113次失败中25次只缺发现/30次只缺学习/58次两项都缺",
+    "read_first": "2.4/2.6与表5，附录矫顽力任务",
+    "version_date": "2026-10-13",
+    "id": "arxiv:2610.18449",
+    "first_published": "2026-10-13",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "公开数据潜在记忆、任务按捷径审计校准、未含现场漂移和样品失败"
+  },
+  {
+    "title": "Probe-and-Resume: When and How to Evaluate Agent Execution",
+    "team": "Columbia University；Jiakai Xu等",
+    "doi": "10.48550/arXiv.2610.21088",
+    "arxiv": "2610.21088",
+    "url": "https://arxiv.org/abs/2610.21088",
+    "fulltext_url": "https://arxiv.org/html/2610.21088v1",
+    "type": "arXiv预印本",
+    "verification": "身份/日期及相关原始正文已核；未复现、未核尽代码及引用",
+    "verified_at": "2026-10-19T07:08:24.441183+08:00",
+    "evidence": "89任务各5次；首次完成63.4%至72.4%；30任务提高1退步；MCTS64%比较臂排除18不可评分试验",
+    "read_first": "第5节与表3、初始状态副本消融",
+    "version_date": "2026-10-15",
+    "id": "arxiv:2610.21088",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "物理状态不能分叉；检查仍会错拒；其他CLI成本比较含框架差异"
+  },
+  {
+    "title": "ELISA: A Bayesian X/γ-ray Spectral Analysis Toolkit",
+    "team": "中科院高能物理研究所等；Wang-Chen Xue等",
+    "doi": "10.48550/arXiv.2610.14587",
+    "arxiv": "2610.14587",
+    "url": "https://arxiv.org/abs/2610.14587",
+    "fulltext_url": "https://arxiv.org/html/2610.14587v1",
+    "type": "arXiv预印本",
+    "verification": "身份/日期及相关原始正文已核；未复现、未核尽代码及引用",
+    "verified_at": "2026-10-19T07:08:24.441183+08:00",
+    "evidence": "131分组拟合能道；同案例100随机重复，12–16s vs80–110s，ESS约1e4 vs不超1e3；预测准则差约1.2±1.4",
+    "read_first": "第五节诊断与第六节模型比较",
+    "version_date": "2026-10-10",
+    "id": "arxiv:2610.14587",
+    "first_published": "2026-10-10",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "正文匹配设置概述与列出的链/步数不完全一致，算法不同；不可隔离归因或普遍百倍"
+  },
+  {
+    "title": "Easy remote observations using web interfaces: controlling an Italian telescope from Japan, and more",
+    "team": "INAF、日本国立天文台等；Davide Ricci等",
+    "doi": "10.48550/arXiv.2501.07997",
+    "arxiv": "2501.07997",
+    "url": "https://arxiv.org/abs/2501.07997",
+    "fulltext_url": "https://arxiv.org/html/2501.07997v1",
+    "type": "会议技术论文预印本",
+    "verification": "身份/日期及相关原始正文已核；未复现、未核尽代码及引用",
+    "verified_at": "2026-10-19T07:08:24.441183+08:00",
+    "evidence": "单次远程案例，约200星粗测光，无受控性能对照",
+    "read_first": "第二节控制层次、第三节学生案例",
+    "version_date": "2025-01-14",
+    "id": "arxiv:2501.07997",
+    "first_published": "2025-01-14",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "旧能力证据非当前开放服务；HTML时延/曝光单位丢失不引用；接入人时/资格/价格未知"
   }
 ]

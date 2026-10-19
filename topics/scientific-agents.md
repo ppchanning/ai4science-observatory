@@ -68,3 +68,6 @@
 - [Holding the Light: Teaching an AI to Lock and Tune our Quantum Computer’s Lasers](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
 - [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
 - [Reconstructing Implicit Scientific Knowledge: Evaluating LLM Agents through End-to-End Reproduction of Astronomy](https://arxiv.org/abs/2609.35900) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
+- [Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents](https://arxiv.org/abs/2610.21942) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
+- [Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery](https://arxiv.org/abs/2610.18449) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
+- [Probe-and-Resume: When and How to Evaluate Agent Execution](https://arxiv.org/abs/2610.21088) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
