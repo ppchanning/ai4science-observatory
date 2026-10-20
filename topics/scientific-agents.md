@@ -71,3 +71,6 @@
 - [Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents](https://arxiv.org/abs/2610.21942) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
 - [Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery](https://arxiv.org/abs/2610.18449) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
 - [Probe-and-Resume: When and How to Evaluate Agent Execution](https://arxiv.org/abs/2610.21088) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
+- [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness](https://arxiv.org/abs/2610.20576) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration](https://arxiv.org/abs/2610.22379) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)

@@ -16,8 +16,8 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 | [catalogs/conference-candidates.csv](catalogs/conference-candidates.csv) | AI4Sci主会候选，902 条 |
 | [catalogs/reading-candidates.csv](catalogs/reading-candidates.csv) | 可follow论文库，1197 条 |
 | [industry/jobs.csv](industry/jobs.csv) | 岗位归档，60 条 |
-| [industry/startups.csv](industry/startups.csv) | 公司主表，41 条 |
-| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，48 条 |
+| [industry/startups.csv](industry/startups.csv) | 公司主表，42 条 |
+| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，49 条 |
 | [industry/research-programs.csv](industry/research-programs.csv) | 机构项目总表，18 条 |
 | [industry/public-company-initiatives.csv](industry/public-company-initiatives.csv) | 核心20家公司，20 条 |
 
@@ -52,3 +52,9 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 ### 2026-10-19 论文元数据修订
 
 依照 [Nature 原始论文](https://www.nature.com/articles/s41586-023-06735-9)的署名与在线发表日期，修订 CP00230（Scaling deep learning for materials discovery）的作者拆分、机构、发表日期与验证状态。该记录同时存在于 cited-papers.csv 与 core-papers.csv：修订1条既有论文记录、2份CSV，没有新增论文；行数仍为1290与282。在线发表为2023-11-29，与2023年12月卷期分别保留。
+
+### 2026-10-20 产业资料
+
+根据[科创板日报原始报道](https://api3.cls.cn/share/article/2508541?app=stib&os=ios&sv=241)，新增元材新界1家公司、1条种子轮融资记录（数千万人民币，君联资本领投、小苗朗程跟投）。金额为近似披露，交割日与资金用途未知；归属矛盾的应用案例未采用。
+
+根据[DOIT的AI4S论坛报道](https://www.doit.com.cn/computing/861318107402309.html)，修订中科曙光1条既有业务记录，补充机器学习力场与科学平台进展。模拟规模按企业介绍归属，不新增融资金额、估值或公司。

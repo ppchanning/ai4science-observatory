@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-20** — Added [13 news events](digests/ai4science/2026/2026-10-20.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-20.md) in 2 issues; added [1 company and 1 funding event, and revised 1 business record](data/README.md). Physical feedback, interface robustness and mathematical responsibility. No paper revisions, returning appearances or backfilled issues.
+
 - **2026-10-19** — Added [8 news events](digests/ai4science/2026/2026-10-19.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-19.md) in 2 issues; corrected 1 existing paper record in 2 CSVs. Crystal representations, scientific verification and remote astronomy.
 
 - **2026-10-18** — Added [7 news entries](digests/ai4science/2026/2026-10-18.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-18.md) in 2 issues; updated 1 returning news event and [1 historical funding record](data/README.md). Instrument feedback, software control and proof interpretation. No paper revisions or backfilled issues; the returning news event is counted once as a revision, not a new entry.

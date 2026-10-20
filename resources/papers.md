@@ -93,3 +93,8 @@
 | [Probe-and-Resume: When and How to Evaluate Agent Execution](https://arxiv.org/abs/2610.21088) | Columbia University；Jiakai Xu等 | 2026-10-15 | arXiv预印本 |
 | [ELISA: A Bayesian X/γ-ray Spectral Analysis Toolkit](https://arxiv.org/abs/2610.14587) | 中科院高能物理研究所等；Wang-Chen Xue等 | 2026-10-10 | arXiv预印本 |
 | [Easy remote observations using web interfaces: controlling an Italian telescope from Japan, and more](https://arxiv.org/abs/2501.07997) | INAF、日本国立天文台等；Davide Ricci等 | 2025-01-14 | 会议技术论文预印本 |
+| [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) | Chulhoon Yoon等；Korea University、Hanyang University | 2026-10-16 | arXiv预印本 |
+| [Autonomous Reliability Qualification of Ga2O3-based diode sensors via Safe Active Learning](https://arxiv.org/abs/2605.00868) | Davi Febba等；National Laboratory of the Rockies | 2026-04-22 | arXiv预印本 |
+| [One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness](https://arxiv.org/abs/2610.20576) | Artin Tajdini、Manpreet Kaur、Peng Qi；University of Washington、Uniphore | 2026-10-14 | arXiv预印本 |
+| [Design and Implementation of a Microservice-Architecture Master Control System for AIMS](https://arxiv.org/abs/2607.13561) | Li-Yue Tong等；中科院国家天文台、云南天文台、西安光机所、上海技物所等 | 2026-07-15 | arXiv预印本 |
+| [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration](https://arxiv.org/abs/2610.22379) | Ruo-Qian Wang；Rutgers University | 2026-10-01 | arXiv预印本 |

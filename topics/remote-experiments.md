@@ -36,3 +36,5 @@
 - [Holding the Light: Teaching an AI to Lock and Tune our Quantum Computer’s Lasers](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
 - [Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents](https://arxiv.org/abs/2610.21942) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
 - [Easy remote observations using web interfaces: controlling an Italian telescope from Japan, and more](https://arxiv.org/abs/2501.07997) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
+- [Autonomous Reliability Qualification of Ga2O3-based diode sensors via Safe Active Learning](https://arxiv.org/abs/2605.00868) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [Design and Implementation of a Microservice-Architecture Master Control System for AIMS](https://arxiv.org/abs/2607.13561) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)

@@ -5474,5 +5474,316 @@
       "digests/ai4science/2026/2026-10-19.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T17:07:13+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "地球与气候",
+      "能源相关工程科学"
+    ],
+    "id": "EV-5d6b119cbf79ef",
+    "title": "AI加持！南京土壤所探索地下水热耦合研究新方法",
+    "original_title": "AI加持！南京土壤所探索地下水热耦合研究新方法",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573203.shtm",
+    "summary": [
+      "报道介绍物理信息神经网络用于地下水热耦合：将水流、热输运方程加入训练，先检验一维瞬态传热与径向流，再用于河北献县地热对井，预测水位、温度和冷水回灌前缘。",
+      "两个网络表示相关物理量，分阶段训练处理耦合；回灌井附近增加局部时空采样以捕捉陡峭梯度。这里依据新闻说明机制，未独立核尽论文或复现实验，效果限于报道的研究条件。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19",
+    "date_precision": "day",
+    "discipline_tags": [
+      "物理",
+      "能源相关工程科学",
+      "科研仪器与自动化实验"
+    ],
+    "id": "EV-c08f4e4e89e522",
+    "title": "First-of-a-Kind Super Intelligence Chips Successfully Analyze Fusion Plasmas",
+    "original_title": "First-of-a-Kind Super Intelligence Chips Successfully Analyze Fusion Plasmas",
+    "url": "https://www.bnl.gov/newsroom/news.php?a=123222",
+    "summary": [
+      "BNL官方报道超导神经网络芯片完成三类聚变信号分析：DIII-D历史诊断记录上的异常分类和破裂预测，以及TORAX模拟数据上的锯齿振荡预测；处理速率为每秒百万样本量级。",
+      "硬件结合超导计算与光通信。历史测量数据、模拟数据和装置现场闭环是不同证据层次；扩大网络与现场试验仍属计划，论文尚在准备，不把分析测试写成已部署聚变控制。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T15:24:00+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "化学",
+      "材料",
+      "科研仪器与自动化实验"
+    ],
+    "id": "EV-269466602c1765",
+    "title": "智能科学家生态联盟第四届年会在合肥成功举办",
+    "original_title": "智能科学家生态联盟第四届年会在合肥成功举办",
+    "url": "http://ah.people.com.cn/n2/2026/1019/c358428-41726219.html",
+    "summary": [
+      "人民网报道10月18日合肥年会发布机器科学家2.2：大模型提出假设、小模型验证、科研机器人执行实验；中心称服务近百家单位，涉及能源化工和催化。10月19日是后续报道日期。",
+      "会上启动造药专项赛和首期3亿元的灵境造物投资基金，披露规模不等于已完成投资。设备接口、科学数据及能力评估标准仍在组织建设中，平台应用描述不替代可重复实验与独立效果验证。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T11:52:33+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "生命医药",
+      "化学"
+    ],
+    "id": "EV-210972305dcca7",
+    "title": "生成式AI能从原子层面设计蛋白质",
+    "original_title": "生成式AI能从原子层面设计蛋白质",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573178.shtm",
+    "summary": [
+      "科技日报报道RFdiffusion3以原子级条件设计蛋白质及核酸，允许指定反应原子、位置和氢键。报道所列41个已有酶活性位点中37个优于RFdiffusion2，结构生成速度约为其10倍。",
+      "报道还介绍分解对氧磷的酶及切割特定肽段的蛋白酶实验。相关目标切割不等于临床治疗已验证，计算比较也不等于研发成功率；本条为新闻解读，并非独立论文全文核验，新闻日期不作为模型首次公开日期。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19",
+    "date_precision": "day",
+    "discipline_tags": [
+      "材料",
+      "科研方法（跨学科）"
+    ],
+    "id": "EV-82894c0604623d",
+    "title": "超智融合赋能科学发现，CCF HPC 2026共议AI4S新趋势",
+    "original_title": "超智融合赋能科学发现，CCF HPC 2026共议AI4S新趋势",
+    "url": "https://www.doit.com.cn/computing/861318107402309.html",
+    "summary": [
+      "DOIT报道CCF HPC 2026 AI4S论坛讨论数据、模型、模拟与实验的验证链。曙光介绍与MatPL机器学习力场联合优化，实现3.6万亿原子模拟，并展示OneScience的科学数据、模型、工具调用与反馈组织。",
+      "模拟规模为企业在论坛中的披露，媒体未给出完整测试协议。机器学习力场是明确的AI科学用途；平台能力仍需追踪物理模型、数据、计算步骤与验证条件，不能仅凭规模认定科学突破或新增融资。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T20:04:06+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "科研方法（跨学科）"
+    ],
+    "id": "EV-ee5516a9083a06",
+    "title": "“HPC+AI for Science前沿观察计划”正式启动",
+    "original_title": "“HPC+AI for Science前沿观察计划”正式启动",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573239.shtm",
+    "summary": [
+      "中国科学报报道10月18日启动HPC+AI for Science前沿观察计划，汇集超算中心、高校与科研院所，发布百余项典型案例并计划开展持续跟踪、交流和研究。",
+      "观察覆盖科学发现、算力软件、数据智能及科研机制。计划启动与具体技术效果分别判断；百余案例未逐项核验，不予整体背书。同大会论坛与此计划发布对象不同，作为独立生态事件收录。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T11:52:59+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学",
+      "生命医药",
+      "科研评价（跨学科）"
+    ],
+    "id": "EV-191ebca8a7f56f",
+    "title": "AI开始“抢跑”，科研规则面临新考验",
+    "original_title": "AI开始“抢跑”，科研规则面临新考验",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573180.shtm",
+    "summary": [
+      "科技日报围绕数学证明和酶设计的争论，讨论AI时代研究优先权、未发表材料与贡献记录。报道区分简化流体数学问题和完整纳维—斯托克斯千禧难题，不将前者写成后者已解决。",
+      "相关公司否认访问未公开研究材料，报道没有证明私有数据用于训练。结果正确性、独立贡献和优先权需要不同证据；本条保留争议双方归属，不预判侵权，也不把担忧当作技术事实。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T18:04:18+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "id": "EV-46929abac940a5",
+    "title": "AI 开始挑战最复杂的系统：生命",
+    "original_title": "AI 开始挑战最复杂的系统：生命",
+    "url": "https://www.qbitai.com/2026/10/504242.html",
+    "summary": [
+      "量子位刊载哲源科技供稿，介绍WHIRLPO的多尺度生命系统建模路线，尝试连接多组学、细胞、临床信息及湿实验反馈，以研究疾病机制和干预结果。",
+      "内容属于企业技术路线阐释；10月17日活动与19日文章发表分别记录。分子结合指标不直接说明疾病效果，湿实验仍需检验具体预测；未据此推断外部验证的全病种能力或临床疗效。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T18:27:39+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "生命医药",
+      "科研仪器与自动化实验"
+    ],
+    "id": "EV-da5ef4034b8618",
+    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+    "original_title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+    "url": "https://www.qbitai.com/2026/10/504266.html",
+    "summary": [
+      "南京大数据集团供稿报道医疗健康世界模型分会场，涉及AI假设与湿实验、基因组数据和药物靶点，以及多类慢性疾病连续变化的模型研究。",
+      "不同报告的模型对象与尺度不同，不能拼接成统一人体模拟系统。合作发布、研究目标与有效性证据分别归属；是否接收真实观测、产生可检验预测、接受实验检验，仍需逐项目核查。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T15:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-406d76d2fe7510",
+    "title": "Recommendations on the use of AI for PhD students and supervisors",
+    "original_title": "Recommendations on the use of AI for PhD students and supervisors",
+    "url": "https://proofsandprompts.com/2026/10/19/recommendations-on-the-use-of-ai-for-phd-students-and-supervisors/",
+    "summary": [
+      "辛几何研究者在Proofs and Prompts提出AI使用建议：学生须理解核查证明、记录过程、披露实质帮助并承担结果责任；导师需讨论使用规则并考察理解，机构需支持资源获取。",
+      "将提示与回答视为研究记录，有助追踪想法、修正与推导；同时保留广泛训练和面对面交流。这是研究者集体倡议，不是署名者所在大学统一颁布的校规，也不把披露等同于正确性验证。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T14:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学",
+      "科研评价（跨学科）"
+    ],
+    "id": "EV-968268d48b1de1",
+    "title": "Contribution, Credit, and Community",
+    "original_title": "Contribution, Credit, and Community",
+    "url": "https://proofsandprompts.com/2026/10/19/contribution-credit-and-community/",
+    "summary": [
+      "Tommaso Moraschini评论AI参与数学后如何评价贡献，认为仅靠抢先公开与使用声明不足以判断人的参与，应结合解释能力、概念联系、研究交流和持续贡献。",
+      "这是研究评价的观点论证，未形成共同体共识或正式制度变化。数学结果是否正确与研究者如何参与是不同问题；文章关于AI参与难以追溯的论点不能用来指控具体研究者隐瞒。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19T11:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-12efc5fd6f28eb",
+    "title": "Thinking Hard Above AI",
+    "original_title": "Thinking Hard Above AI",
+    "url": "https://proofsandprompts.com/2026/10/19/thinking-hard-above-ai/",
+    "summary": [
+      "Benjamin Merlin Bumpus以研究和教学经验讨论获得AI证明后的工作：寻找更自然的论证、合适的定义和更深的结构，用追问检验理解，而不把第一个答案当作思考终点。",
+      "文章刊发于19日并注明更早的收到和跨刊背景；个人经验不是所有数学任务的系统测试。他人难题故事未独立核验，不转述为新成果；本条保留其方法反思与对未消化自动文本的警惕。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-19",
+    "date_precision": "day",
+    "discipline_tags": [
+      "材料",
+      "化学"
+    ],
+    "id": "EV-12314a6b478ada",
+    "title": "元材新界完成数千万种子轮融资 君联资本领投",
+    "original_title": "元材新界完成数千万种子轮融资 君联资本领投",
+    "url": "https://api3.cls.cn/share/article/2508541?app=stib&os=ios&sv=241",
+    "summary": [
+      "科创板日报披露上海元材新界完成数千万人民币种子轮，君联资本领投、小苗朗程跟投；公司于2026年9月成立，技术路线连接跨尺度材料模型、AutoDFT、AutoFEM、物理计算与实验数据反馈。",
+      "披露日期为10月19日，实际交割日及资金具体用途未知。数千万为量级而非精确金额；原报道部分应用案例存在归属矛盾，未采用其性能、授权或客户结论，融资事实不等于研发效果已验证。"
+    ],
+    "source_verification": {
+      "verification_status": "基于上游有来源解读；未独立复现",
+      "limits": "新闻、企业披露与评论按来源归属；未独立核尽原始论文"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
   }
 ]

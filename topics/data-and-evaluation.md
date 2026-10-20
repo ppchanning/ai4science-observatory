@@ -51,3 +51,8 @@
 - [Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery](https://arxiv.org/abs/2610.18449) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
 - [Probe-and-Resume: When and How to Evaluate Agent Execution](https://arxiv.org/abs/2610.21088) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
 - [ELISA: A Bayesian X/γ-ray Spectral Analysis Toolkit](https://arxiv.org/abs/2610.14587) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
+- [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [Autonomous Reliability Qualification of Ga2O3-based diode sensors via Safe Active Learning](https://arxiv.org/abs/2605.00868) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness](https://arxiv.org/abs/2610.20576) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [Design and Implementation of a Microservice-Architecture Master Control System for AIMS](https://arxiv.org/abs/2607.13561) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration](https://arxiv.org/abs/2610.22379) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)

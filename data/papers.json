@@ -1735,5 +1735,115 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "旧能力证据非当前开放服务；HTML时延/曝光单位丢失不引用；接入人时/资格/价格未知"
+  },
+  {
+    "arxiv": "2610.23012",
+    "title": "Adaptation of Computer Use Agents to New Software with User Manuals",
+    "version_date": "2026-10-16",
+    "team": "Chulhoon Yoon等；Korea University、Hanyang University",
+    "evidence": "五应用OSWorld，50步、5次运行；UI-TARS36.83→47.31%、EvoCUA47.54→53.67%；Slack30组任务由VLM判定",
+    "read_first": "§3.2–3.3、表3",
+    "doi": "10.48550/arXiv.2610.23012",
+    "url": "https://arxiv.org/abs/2610.23012",
+    "fulltext_url": "https://arxiv.org/html/2610.23012v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本页与相关全文已核；未复现",
+    "verified_at": "2026-10-20T07:06:04.726542+08:00",
+    "id": "arxiv:2610.23012",
+    "first_published": "2026-10-16",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "不是同一研究问题跨应用；应用训练覆盖未知，适配成本未报告；无API公平对照"
+  },
+  {
+    "arxiv": "2605.00868",
+    "title": "Autonomous Reliability Qualification of Ga2O3-based diode sensors via Safe Active Learning",
+    "version_date": "2026-08-07",
+    "team": "Davi Febba等；National Laboratory of the Rockies",
+    "evidence": "350–550°C/0–800ppm；阶段1固定阈值10共100轮1异常不安全；阶段2共100轮24低于固定阈值、9低于当轮阈值",
+    "read_first": "§4、§6、补充表S1与图S7",
+    "doi": "10.48550/arXiv.2605.00868",
+    "url": "https://arxiv.org/abs/2605.00868",
+    "fulltext_url": "https://arxiv.org/html/2605.00868v3",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本页与相关全文已核；未复现",
+    "verified_at": "2026-10-20T07:06:04.726542+08:00",
+    "id": "arxiv:2605.00868",
+    "first_published": "2026-04-22",
+    "verified_version": "v3",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "单设备示范非零风险保证；离线模型设计用过辅助验证数据；无接入人时或通用GUI对照"
+  },
+  {
+    "arxiv": "2610.20576",
+    "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+    "version_date": "2026-10-14",
+    "team": "Artin Tajdini、Manpreet Kaur、Peng Qi；University of Washington、Uniphore",
+    "evidence": "3920训练、2501 BFCLv4测试、13留出扰动；3B多接口均值54.2→56.1，4B79.7→80.7；多轮常规ToolRL绝对奖励更高",
+    "read_first": "表1、表8",
+    "doi": "10.48550/arXiv.2610.20576",
+    "url": "https://arxiv.org/abs/2610.20576",
+    "fulltext_url": "https://arxiv.org/html/2610.20576v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本页与相关全文已核；未复现",
+    "verified_at": "2026-10-20T07:06:04.726542+08:00",
+    "id": "arxiv:2610.20576",
+    "first_published": "2026-10-14",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "不约束参数概率一致性；部分提升在置信区间内；稳健性差距小不等于绝对成功更高"
+  },
+  {
+    "arxiv": "2607.13561",
+    "title": "Design and Implementation of a Microservice-Architecture Master Control System for AIMS",
+    "version_date": "2026-07-15",
+    "team": "Li-Yue Tong等；中科院国家天文台、云南天文台、西安光机所、上海技物所等",
+    "evidence": "表2逐功能部署边界；表3某扫描1–2→7–8组/日、7–8→2人，未给对照天数与错误分母；局域网通信<100ms非周转",
+    "read_first": "表2、§5、§3.3",
+    "doi": "10.48550/arXiv.2607.13561",
+    "url": "https://arxiv.org/abs/2607.13561",
+    "fulltext_url": "https://arxiv.org/pdf/2607.13561v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本页与相关全文已核；未复现",
+    "verified_at": "2026-10-20T07:06:04.726542+08:00",
+    "id": "arxiv:2607.13561",
+    "first_published": "2026-07-15",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "未来规划不可算已部署；运维前后描述未控天气；无新设备接入工时"
+  },
+  {
+    "arxiv": "2610.22379",
+    "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
+    "version_date": "2026-10-01",
+    "team": "Ruo-Qian Wang；Rutgers University",
+    "evidence": "共享4初始点，第5次提议23/25改善vs消融8/30；B5中位误差比21.9，B15无显著分离；同策略批中位数B5跨度9.8倍",
+    "read_first": "§3.2、表4–5、§5.5",
+    "doi": "10.48550/arXiv.2610.22379",
+    "url": "https://arxiv.org/abs/2610.22379",
+    "fulltext_url": "https://arxiv.org/html/2610.22379v1",
+    "type": "arXiv预印本",
+    "verification": "原始身份/版本页与相关全文已核；未复现",
+    "verified_at": "2026-10-20T07:06:04.726542+08:00",
+    "id": "arxiv:2610.22379",
+    "first_published": "2026-10-01",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "摘要9次混合达标发生在15次交接前不能归因交接；后期差异受可辨识性限制；单LLM配置"
   }
 ]
