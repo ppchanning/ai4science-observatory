@@ -896,7 +896,7 @@
     "discipline": "地球气候与海洋",
     "summary": [
       "报告以2015年为基期100，给出2025年中国海洋发展指数132.3、同比增长2.5%的结果。科技维度指数138.5、同比增长2.5%，报道还涉及深海活动、新能源及海洋产业发展。文章的主要结论是多个维度共同支撑海洋发展水平提升；发布于2026年的报告描述的是2025年指标，不能把报告发布时间当成被测活动发生时间。",
-      "正文的结构提示读者，综合指数不是单个科学发现，也不是把所有进展简单加总。技术创新、资源利用和生态治理衡量不同方面，整体上升仍需要回到分项理解，才能知道具体变化在哪。对于AI4Sci选题，海洋观测数据、深海装备和环境管理都是可继续研究的切口，但本篇没有逐项证明AI的贡献。适合在账号中作为海洋科研产业背景，说明为什么数据获取、工程能力和治理方法必须协同；若要比较不同年份，则应继续核对报告的方法和权重是否一致。"
+      "正文的结构提示读者，综合指数不是单个科学发现，也不是把所有进展简单加总。技术创新、资源利用和生态治理衡量不同方面，整体上升仍需要回到分项理解，才能知道具体变化在哪。海洋观测数据、深海装备和环境管理涉及不同研究环节，但本篇没有逐项证明AI的贡献。比较不同年份的指数，应核对报告的方法和权重是否一致。"
     ],
     "appearances": [
       "digests/ai4science/2026/2026-09-25.md"
@@ -2334,7 +2334,7 @@
     "date_precision": "second",
     "summary": [
       "周回顾概括了计划以重大科技基础设施开放联用和AI赋能为抓手，组织建制化攻关的主旨。回溯全文后，关键内容更清楚：选题机制包括国家战略中的真实问题、跨装置与跨学科合作产生的新问题，以及AI从文献和实验数据中识别接近突破的关键问题。首批十个项目涉及新元素合成、暗物质暗能量本质、化学键微观测量、人工合成细胞等方向。这是研究组织与支持机制的公告，报道说明的是拟怎样开展研究，不能把计划设想写成已经取得这些科学发现。",
-      "最有信息量的是“理论—实验—数据”闭环：先把分散的文献和装置数据汇集，借助AI发现值得追问的关系，再由装置集群的自动化实验快速验证。原文也提出分类支持、长短周期结合，以及青年人才的长期稳定支持。编辑理解是，AI的价值需要与数据可用性、装置能力和研究者判断一起发挥；挑出候选问题只是进入验证流程的起点。周回顾末尾还有其他学科、奖励与治理新闻，缺少AI直接参与的部分不进入本次选题。这样保留报道的真实性质，也把具体研究机制讲清楚。"
+      "最有信息量的是“理论—实验—数据”闭环：先把分散的文献和装置数据汇集，借助AI发现值得追问的关系，再由装置集群的自动化实验快速验证。原文也提出分类支持、长短周期结合，以及青年人才的长期稳定支持。编辑理解是，AI的价值需要与数据可用性、装置能力和研究者判断一起发挥；挑出候选问题只是进入验证流程的起点。周回顾还包含其他学科、奖励与治理新闻；上述说明仅针对AI参与研究组织与科学验证的部分。"
     ],
     "source_verification": {
       "body_read": true
@@ -2528,7 +2528,7 @@
     "published_at": "2026-10-05（仅日精度；Atom为updated，不作为精确published）",
     "summary": [
       "标题列出arXiv额度、AI论文工厂和Google FluSight。开篇把它们连到一个变化：AI降低科学输出的生产成本，有些结果可能技术上正确，却仍占用评审与理解资源。周报转述arXiv10月1日的提交政策，讨论可能出售正确数学结果的论文工厂，并介绍Google的流感住院预测。Google9月30日原文确认其模型在2025—26季CDC评估的39个合格提交中取得最佳平均预测表现；这是本期引用的较早事件。",
-      "正文还串联Elicit定期文献监测、科研智能体活动和AI-Newton从实验数据恢复已知力学规律的工作。已知规律的重新发现是检验方法的一种办法，不能仅凭自动运行就叫全新的物理发现。另两篇数学作者评论分别关心署名责任和预印本被AI抓取的时间安排。整期值得记住的关系是：搜集、生成、预测可以自动化，验证和解释仍需要对应任务的标准。编辑会把这些链接保留成后续选题入口，避免把周报中跨数月的材料拼成“今天集中突破”。"
+      "正文还串联Elicit定期文献监测、科研智能体活动和AI-Newton从实验数据恢复已知力学规律的工作。已知规律的重新发现是检验方法的一种办法，不能仅凭自动运行就叫全新的物理发现。另两篇数学作者评论分别关心署名责任和预印本被AI抓取的时间安排。整期值得记住的关系是：搜集、生成、预测可以自动化，验证和解释仍需要对应任务的标准。周报中材料跨越数月，不能将其解读为同一天集中发生的突破。"
     ],
     "appearances": [
       "digests/ai4science/2026/2026-10-06.md"
@@ -5783,6 +5783,472 @@
     },
     "appearances": [
       "digests/ai4science/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-1acb2ca3bba950",
+    "title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+    "original_title": "生成式人工智能赋能原子力显微超分辨成像研究取得进展",
+    "url": "https://www.cas.cn/syky/202609/t20260929_5121183.shtml",
+    "published_at": "2026-10-20T08:31:00+08:00",
+    "date_precision": "second_or_minute",
+    "summary": [
+      "StableAFM将AFM-SwinIR基础恢复与潜在扩散模型结合，把生成的高分辨图映射回测量网格，以实际采样约束细节。中科院机构报道给出相关均方误差下降31.3%，并讨论多层陶瓷电容器电介质的表面电势分析。",
+      "KPFM电势衰减被用于推断陷阱能级与密度；重复测量及形貌对照帮助排查波动和串扰。约四倍采集加速限相应KPFM条件，不外推到全部显微技术。此处依据机构报道，未独立验证论文或复现实验。"
+    ],
+    "discipline_tags": [
+      "材料",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-b977b504c502da",
+    "title": "剂泰科技与礼来达成战略合作，共同推进组织特异性LNP递送技术",
+    "original_title": "剂泰科技与礼来达成战略合作，共同推进组织特异性LNP递送技术",
+    "url": "https://finance.sina.com.cn/roll/2026-10-20/doc-inivvsvv6608915.shtml",
+    "published_at": "2026-10-20T10:55:00+08:00",
+    "date_precision": "second_or_minute",
+    "summary": [
+      "剂泰与礼来拟用NanoForge驱动的AiLNP平台发现和优化可离子化脂质，开发组织特异性LNP递送方案。新浪10月20日报道对应公司10月19日公告；公司官网正文的直接访问受限，事实依据媒体正文。",
+      "披露包括逾千万美元首付款、最高11亿美元附条件里程碑及个位数百分比分级特许权使用费。上限不等于到账资金或股权融资；具体组织、候选配方与实验成功率未披露，合作不构成疗效证据。"
+    ],
+    "discipline_tags": [
+      "生命医药",
+      "化学"
+    ],
+    "content_angle_tags": [
+      "产业应用与转化",
+      "创业公司与创始人"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-1d6cbd02fa03da",
+    "title": "CAS与Microsoft合作，助力制药、生命科学和化工行业加快创新步伐",
+    "original_title": "CAS与Microsoft合作，助力制药、生命科学和化工行业加快创新步伐",
+    "url": "https://www.prnasia.com/story/552441-1.shtml",
+    "published_at": "2026-10-20T20:00:00+08:00",
+    "date_precision": "second_or_minute",
+    "summary": [
+      "美国化学学会下属CAS宣布扩展与Microsoft的合作，把科学内容与CAS Newton智能体接入Microsoft 365 Copilot。应用例子包括核对CAS登记号、结构、反应条件与试剂来源，并提出连接实验记录和实验室信息系统。",
+      "这里的CAS并非中国科学院。资料标识与出处的对应关系是科学信息核对的基础；减少系统间搬运成本属于发布方的产品主张，新闻稿未给出研发周期缩短的对照证据。"
+    ],
+    "discipline_tags": [
+      "化学",
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "产业应用与转化"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-2179faff286226",
+    "title": "设计、实验、纠错全部自己来——AI智能体自主完成湿实验室闭环测试",
+    "original_title": "设计、实验、纠错全部自己来——AI智能体自主完成湿实验室闭环测试",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573270.shtm",
+    "published_at": "2026-10-20T10:49:32+08:00",
+    "date_precision": "second_or_minute",
+    "summary": [
+      "科技日报10月20日的中文报道介绍Google Research于10月16日披露的受监督湿实验室闭环。VERID表示机器人、孔板、试剂、耗材及容器兼容性，支撑分子设计、实验安排和反馈规划。",
+      "肌红蛋白测试中，检测伪影促使系统修改评估规则。数字孪生约束动作与状态，对照实验检查科学解释，两者作用不同；原型仍有人工审阅实验序列、计划及现场监督，不能按标题理解为完全无人运行。"
+    ],
+    "discipline_tags": [
+      "生命医药",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-67204e7d7ad97f",
+    "title": "一项实验性AI数学挑战：用第十个判别式的界探索排除Siegel零点的论证",
+    "original_title": "An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
+    "url": "https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/",
+    "published_at": "2026-10-20T15:35:00+00:00",
+    "date_precision": "rss_timestamp",
+    "summary": [
+      "陶哲轩提出实验性AI数学挑战：假设存在第十个相关Heegner判别式，利用指定的数论论证推导明确有效上界，并比较不同方法。挑战要求不依赖既有Heegner方法，强调公开过程、AI使用和已有工作。",
+      "很大的界也可能揭示论证能提供什么，评价对象包括推导、假设与可检查步骤。此处记录挑战的提出，不把挑战写成已完成，不对相关新手稿作最终正确性裁决，也不将评论区提交视为已验证成果。"
+    ],
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-838cfaa6ae8350",
+    "title": "AI揭示变暖气候如何增强新西兰最极端的暴雨",
+    "original_title": "AI reveals how a warming climate will intensify NZ’s most extreme downpours",
+    "url": "https://eveningreport.nz/2026/10/20/ai-reveals-how-a-warming-climate-will-intensify-nzs-most-extreme-downpours/",
+    "published_at": "2026-10-20",
+    "date_precision": "day",
+    "summary": [
+      "研究团队用140年的历史与较暖气候区域模拟训练AI，将全球格局映射到新西兰约12公里网格的降雨和温度。报道称四块专用芯片用六小时生成超过1.5万个累计模拟年，涵盖20个全球气候模式支持的多种实现。",
+      "持续高排放情景下，全国平均百年一遇日降雨强度每升温一度约增9%，常见强降雨约增5.6%；均为条件性模拟结果，不是各地固定增幅。“百年一遇”约指每年1%的超越概率，累计模拟年不等于真实观测年；生成质量与陌生气候泛化仍须检查。"
+    ],
+    "discipline_tags": [
+      "地球与气候"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-c4e2b023891691",
+    "title": "用Omnii-1寻找能够分离稀土金属的蛋白质",
+    "original_title": "Finding proteins that separate rare earth metals, with Omnii-1",
+    "url": "https://www.radicalnumerics.ai/blog/omnii-rare-earth",
+    "published_at": "2026-10-20",
+    "date_precision": "day",
+    "summary": [
+      "Radical Numerics用LLNL测量数据评估Omnii-1预测稀土结合偏好：609种有足够信号的天然蛋白分为292个序列簇，测量涉及15种元素。105个元素对上中位秩相关为0.340，对照ESM-C 6B为0.318。",
+      "这些数值是排序相关性，并非分离纯度；竞争实验测相对偏好而非绝对亲和力。半径最接近的17个元素对不足以可靠区分部分模型。新设计已交实验验证，前人lanmodulin纯度案例不属于本次成果；LLNL4月22日原始新闻只作为历史数据来源。"
+    ],
+    "discipline_tags": [
+      "化学",
+      "材料"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化",
+      "创业公司与创始人"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-01d72c836f56a9",
+    "title": "仅凭面部照片就能预测癌症患者死亡风险？新AI模型给出初步预测",
+    "original_title": "仅凭面部照片就能预测癌症患者死亡风险？新AI模型给出初步预测",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573288.shtm",
+    "published_at": "2026-10-20T17:53:36+08:00",
+    "date_precision": "second_or_minute",
+    "summary": [
+      "科学网转述FaceAge与FaceSurvival研究，分别估计面部生物年龄和生存风险。癌症放疗队列平均随访约四年：面部年龄大至少五岁的人群死亡相对风险关联约升21%，年轻至少五岁的人群约降17%。",
+      "这是特定队列的关联，不能用于个体寿命倒计时，也不能据生活方式关联推断干预因果。两种任务关注的面部区域不同，风险预测并非简单转换显老程度；本条仅依据新闻转述，未独立核读或验证原始研究全文。"
+    ],
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-ac67a5f12ec971",
+    "title": "Claude如何设计针对蝎子神经毒素的蛋白质结合体",
+    "original_title": "How Claude designed protein binders against scorpion neurotoxins",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "published_at": "2026-10-20",
+    "date_precision": "day",
+    "summary": [
+      "Anthropic报告研究模型在Claude Science中运行约64小时，经四次追加指令产生318484个设计，选出180个，加上团队31个，共211个送测。Adaptyv Bio与Twist Bioscience测试中，17个符合预设结合标准，覆盖五种目标毒素中的四种。",
+      "部分Cn2结合体达个位数纳摩尔亲和力；重复测量、非目标对照与竞争实验支持限定解释，部分目标只有一家实验机构数据。没有细胞中和或动物疗效试验，结果属于候选结合体；人工补充与监督保留在流程归属中。"
+    ],
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-5dcc659098abfc",
+    "title": "Radical Numerics称Omnii-1生成的噬菌体首次用于人体患者",
+    "original_title": "Radical Numerics creates first AI-generated phages to reach human patient with Omnii-1",
+    "url": "https://radicalnumerics.ai/blog/omnii-phage",
+    "published_at": "2026-10-20",
+    "date_precision": "day",
+    "summary": [
+      "Radical Numerics称Omnii-1提出的噬菌体变体经过患者分离菌株的体外作用确认后，在医生授权及相应监管路径下用于包含AI生成噬菌体的方案。公司描述了计算设计、细菌实验与反馈筛选的链条。",
+      "给药与体外活性按公司陈述归属。公开正文没有患者后续病程或疗效数据，多菌株及未见谱系评估也不证明广泛临床有效；这是一项早期转化节点，而非通用治疗结论。"
+    ],
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化",
+      "创业公司与创始人"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-2d1b29a9cd1020",
+    "title": "Omnii-1进入闭环：用实验反馈加速抗体设计",
+    "original_title": "Omnii-1 in the Loop: Accelerating Antibody Design with Experimental Feedback",
+    "url": "https://radicalnumerics.ai/blog/omnii-antibody",
+    "published_at": "2026-10-20",
+    "date_precision": "day",
+    "summary": [
+      "Radical Numerics与实验伙伴自九月中旬完成三轮抗体设计—合成—测量—反馈。首轮1620个候选中150个得到可分析的亲和力测量；第三轮两个候选的结合强度超出相应测量可分辨范围，只能报告界限。",
+      "序列聚类交叉验证减少近似序列混入训练测试的影响；结合与表达是不同目标。公司报告这项合作中的可选空间改善，接近或区间重叠的模型结果不能写成全面领先，测量下限也不是精确亲和力。"
+    ],
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化",
+      "创业公司与创始人"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-335069c0b0123e",
+    "title": "植物用电信号传递状态，这家创业公司用AI尝试解读",
+    "original_title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "published_at": "2026-10-20T16:00:00+00:00",
+    "date_precision": "second_or_minute",
+    "summary": [
+      "TechCrunch介绍一家用AI解释植物茎部微伏级电信号的创业公司：经探头、无线基站与云模型，将信号与水分、养分和光照状态联系，训练参照包括土壤探针和光谱。创始人称已涉及约125种植物。",
+      "报道披露1120万美元种子轮，由Onto Ventures和Climactic领投，交割日未知。减少用水20%以上、低传感器密度和成本优势均为创始人陈述，客户未具名；模型对植物需求的可靠映射仍需独立应用验证。"
+    ],
+    "discipline_tags": [
+      "生命医药",
+      "地球与气候"
+    ],
+    "content_angle_tags": [
+      "产业应用与转化",
+      "资本/融资与投资逻辑",
+      "创业公司与创始人"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-fb5a585d63d0a7",
+    "title": "OpenAI收购Orchestra Bio，以加强生物技术业务",
+    "original_title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "published_at": "2026-10-20T20:35:10+00:00",
+    "date_precision": "second_or_minute",
+    "summary": [
+      "TechCrunch报道OpenAI收购Orchestra Bio，团队将参与Rosalind及相关研发工作台。Orchestra原产品包含财务追踪和临床试验排期，后续工作台则面向实验规划与结果分析。",
+      "交易条款未披露；截至2025年约2000万美元历史融资不是收购价。客户名单按公司表述归属，运营工具本身不证明科学发现能力，报道未给出效率提升或科学验证的实测数据。"
+    ],
+    "discipline_tags": [
+      "生命医药",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "产业应用与转化",
+      "资本/融资与投资逻辑",
+      "创业公司与创始人"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-fd10e92767a688",
+    "title": "如果把闲置AI订阅额度捐给数学研究，会怎样？",
+    "original_title": "What if we donated our spare AI subscriptions to math?",
+    "url": "https://blog.kolen.dev/math/math-at-home.html",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "date_precision": "rss_timestamp",
+    "summary": [
+      "作者设想将闲置AI订阅额度或本地模型计算贡献给协作数学研究，并以Prime95、Folding@home等项目作类比。难点包括避免重复工作、交换中间记录、贡献归属，以及处理恶意或误导性建议。",
+      "最终证明能检查不意味着中间笔记易于验证。投票可能扩大研究议题，也可能进一步集中资源；文章属于基础设施构想，未提供已解决协调、安全或奖励的实现，对其他公司成果的引用亦非本库独立认证。"
+    ],
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-0dbff59dba0dc3",
+    "title": "给一位忧虑学生的信",
+    "original_title": "Letter to a worried student",
+    "url": "https://proofsandprompts.com/2026/10/20/letter-to-a-worried-student/",
+    "published_at": "2026-10-20T09:00:00+00:00",
+    "date_precision": "rss_timestamp",
+    "summary": [
+      "数学研究者David A. Madore的公开信主张将问题视为理解数学的路标，讨论AI解题、概念解释、问题选择及学术奖励之间的差别，并要求更公开的尝试范围和方法。",
+      "文章保留职业前景的不确定性，属于作者价值判断，不代表学生群体调查。法文原信由作者撰写，英文以Google Translate为起点后本人修改；评论区不构成统计证据。"
+    ],
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-ea688b646e67c2",
+    "title": "谁会成为Math 2.0时代的新数学家？",
+    "original_title": "Who will become the new mathematicians of Math 2.0?",
+    "url": "https://proofsandprompts.com/2026/10/20/who-will-become-the-new-mathematicians-of-math-2-0/",
+    "published_at": "2026-10-20T14:00:00+00:00",
+    "date_precision": "rss_timestamp",
+    "summary": [
+      "一位匿名数学博士生追问：若AI承担技术计算和引理证明，下一代如何获得独立发现与判断论证的能力？文章区分理解已有证明与亲自发现证明，讨论训练、招聘和资助怎样认可较慢的独立尝试。",
+      "匿名履历不能独立核实，个人离开学术界的计划不代表群体趋势。这是一手观点材料，亦承认新的解释与组织工作可能吸引不同研究动机的人，不能把其忧虑写成已证实的人才结果。"
+    ],
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-dcc2cf3b45f6c3",
+    "title": "对数学经济的一种批评",
+    "original_title": "A critique of the mathematical economy",
+    "url": "https://proofsandprompts.com/2026/10/20/a-critique-of-the-mathematical-economy/",
+    "published_at": "2026-10-20T11:00:00+00:00",
+    "date_precision": "rss_timestamp",
+    "summary": [
+      "Álvaro Gutiérrez用经济学类比区分数学工作的生产劳动、后续用途及发表、职位、奖项等认可，讨论LLM降低部分技术工作成本后，来源、解释和研究语境可能具有的作用。",
+      "作者承认经济框架只是提出问题的类比，并非验证过的经济模型；不能据此断言技术成本下降导致学科贬值。文章收到和修订时间早于10月20日公开发表日，两个日期概念分开保留。"
+    ],
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-21.md"
     ],
     "provenance": "ai-assisted-source-digest"
   }
