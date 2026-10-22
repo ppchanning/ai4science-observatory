@@ -20,3 +20,6 @@
 - [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://arxiv.org/abs/2610.22234) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-18.md)
 - [Probe-and-Resume: When and How to Evaluate Agent Execution](https://arxiv.org/abs/2610.21088) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
 - [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents](https://arxiv.org/abs/2610.27645) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay](https://arxiv.org/abs/2610.27954) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [CUA-Lite: An Open Platform for Computer Use Agents](https://arxiv.org/abs/2610.26071) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)

@@ -1845,5 +1845,115 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "摘要9次混合达标发生在15次交接前不能归因交接；后期差异受可辨识性限制；单LLM配置"
+  },
+  {
+    "title": "CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents",
+    "team": "Xu Hu等；UT Dallas、Manchester、Rice、UT Austin、UC Davis等",
+    "doi": "10.48550/arXiv.2610.27645",
+    "arxiv": "2610.27645",
+    "url": "https://arxiv.org/abs/2610.27645",
+    "fulltext_url": "https://arxiv.org/html/2610.27645v1",
+    "version_date": "2026-10-20",
+    "type": "arXiv预印本",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:02:11.028487+08:00",
+    "evidence": "100任务2250错误状态；377任务8577训练恢复轨迹；67.5%多应用；最高EAR44%、Pass@3 25.5%；等token训练对照EAR23.6% vs35.2%",
+    "read_first": "§3–4及恢复训练对照",
+    "id": "arxiv:2610.27645",
+    "first_published": "2026-10-20",
+    "verified_version": "v1",
+    "limitations": "错误意识含模型判分；不同深度失败样本不同；数字桌面结果未验证科学仪器。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay",
+    "team": "Byeonghun Bang、Sangwoo Park等；KAIST、ETRI、DeepAuto.ai",
+    "doi": "10.48550/arXiv.2610.27954",
+    "arxiv": "2610.27954",
+    "url": "https://arxiv.org/abs/2610.27954",
+    "fulltext_url": "https://arxiv.org/html/2610.27954v1",
+    "version_date": "2026-10-20",
+    "type": "arXiv预印本",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:02:11.028487+08:00",
+    "evidence": "Qwen3.5-9B三次运行39.38±1.17→44.26±1.90%；前向50步另加每次10恢复步与检测调用",
+    "read_first": "§5.1–5.2、表2、附录B.2",
+    "id": "arxiv:2610.27954",
+    "first_published": "2026-10-20",
+    "verified_version": "v1",
+    "limitations": "稳定回放筛选限制代表性；恢复和检测另耗预算；无物理可逆性验证。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "CUA-Lite: An Open Platform for Computer Use Agents",
+    "team": "Zhanhui Zhou、Weichen Zhang等；Dawn Song参与，Berkeley联系邮箱",
+    "doi": "10.48550/arXiv.2610.26071",
+    "arxiv": "2610.26071",
+    "url": "https://arxiv.org/abs/2610.26071",
+    "fulltext_url": "https://arxiv.org/html/2610.26071v1",
+    "version_date": "2026-10-19",
+    "type": "arXiv预印本",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:02:11.028487+08:00",
+    "evidence": "332共用OSWorld任务13模型，平均分差2.7pp，最大5.0pp，Spearman0.98；内存1/6、启动时间3/4",
+    "read_first": "§2.1–2.3与附录D",
+    "id": "arxiv:2610.26071",
+    "first_published": "2026-10-19",
+    "verified_version": "v1",
+    "limitations": "共同可运行任务子集；资源节省不等于科研集成成本；未进行科学任务等预算接口对照。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "The Scheduler Is a Hidden Retriever: How Asynchrony Shapes Evidence Acquisition in Search Agents",
+    "team": "Ruiyang Ren、Yuhao Wang、Yinan Zhang、Chunyan Miao；NTU",
+    "doi": "10.48550/arXiv.2610.26310",
+    "arxiv": "2610.26310",
+    "url": "https://arxiv.org/abs/2610.26310",
+    "fulltext_url": "https://arxiv.org/html/2610.26310v1",
+    "version_date": "2026-10-19",
+    "type": "arXiv预印本",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:02:11.028487+08:00",
+    "evidence": "两模型系列三基准；获取分歧最高超重复24pp；CEA降至重复约1pp内；准确率增益最高12.6pp",
+    "read_first": "引言、§3.2、§4–5",
+    "id": "arxiv:2610.26310",
+    "first_published": "2026-10-19",
+    "verified_version": "v1",
+    "limitations": "固定计划及稳定响应假设；最高增益依配置而异；未验证仪器环境。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows",
+    "team": "Nathaniel M. Vegh等；Nanoacademic、McGill",
+    "doi": "10.48550/arXiv.2610.26869",
+    "arxiv": "2610.26869",
+    "url": "https://arxiv.org/abs/2610.26869",
+    "fulltext_url": "https://arxiv.org/html/2610.26869v1",
+    "version_date": "2026-07-19",
+    "type": "arXiv预印本",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:02:11.028487+08:00",
+    "evidence": "44案例×3后端132次，119首计划13一次修复；23案例消融3重复，常规约71% vs100%；VASP19/19",
+    "read_first": "契约/校验、消融与VASP迁移段",
+    "id": "arxiv:2610.26869",
+    "first_published": "2026-07-19",
+    "verified_version": "v1",
+    "limitations": "冻结案例与专用校验规则；VASP基线验收口径不同；日期元数据冲突未解决。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

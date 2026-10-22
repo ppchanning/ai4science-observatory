@@ -74,3 +74,8 @@
 - [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
 - [One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness](https://arxiv.org/abs/2610.20576) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
 - [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration](https://arxiv.org/abs/2610.22379) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents](https://arxiv.org/abs/2610.27645) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay](https://arxiv.org/abs/2610.27954) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [CUA-Lite: An Open Platform for Computer Use Agents](https://arxiv.org/abs/2610.26071) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [The Scheduler Is a Hidden Retriever: How Asynchrony Shapes Evidence Acquisition in Search Agents](https://arxiv.org/abs/2610.26310) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](https://arxiv.org/abs/2610.26869) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)

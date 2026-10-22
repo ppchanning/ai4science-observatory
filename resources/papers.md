@@ -98,3 +98,8 @@
 | [One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness](https://arxiv.org/abs/2610.20576) | Artin Tajdini、Manpreet Kaur、Peng Qi；University of Washington、Uniphore | 2026-10-14 | arXiv预印本 |
 | [Design and Implementation of a Microservice-Architecture Master Control System for AIMS](https://arxiv.org/abs/2607.13561) | Li-Yue Tong等；中科院国家天文台、云南天文台、西安光机所、上海技物所等 | 2026-07-15 | arXiv预印本 |
 | [When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration](https://arxiv.org/abs/2610.22379) | Ruo-Qian Wang；Rutgers University | 2026-10-01 | arXiv预印本 |
+| [CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents](https://arxiv.org/abs/2610.27645) | Xu Hu等；UT Dallas、Manchester、Rice、UT Austin、UC Davis等 | 2026-10-20 | arXiv预印本 |
+| [Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay](https://arxiv.org/abs/2610.27954) | Byeonghun Bang、Sangwoo Park等；KAIST、ETRI、DeepAuto.ai | 2026-10-20 | arXiv预印本 |
+| [CUA-Lite: An Open Platform for Computer Use Agents](https://arxiv.org/abs/2610.26071) | Zhanhui Zhou、Weichen Zhang等；Dawn Song参与，Berkeley联系邮箱 | 2026-10-19 | arXiv预印本 |
+| [The Scheduler Is a Hidden Retriever: How Asynchrony Shapes Evidence Acquisition in Search Agents](https://arxiv.org/abs/2610.26310) | Ruiyang Ren、Yuhao Wang、Yinan Zhang、Chunyan Miao；NTU | 2026-10-19 | arXiv预印本 |
+| [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](https://arxiv.org/abs/2610.26869) | Nathaniel M. Vegh等；Nanoacademic、McGill | 2026-07-19 | arXiv预印本 |
