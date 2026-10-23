@@ -79,3 +79,8 @@
 - [CUA-Lite: An Open Platform for Computer Use Agents](https://arxiv.org/abs/2610.26071) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
 - [The Scheduler Is a Hidden Retriever: How Asynchrony Shapes Evidence Acquisition in Search Agents](https://arxiv.org/abs/2610.26310) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
 - [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](https://arxiv.org/abs/2610.26869) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [LLM Agents as Suppliers of Physical System Models: Calibration and Acceptance in Modelica](https://arxiv.org/abs/2610.25019) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models](https://arxiv.org/abs/2604.03286) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)

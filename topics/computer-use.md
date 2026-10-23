@@ -23,3 +23,6 @@
 - [CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents](https://arxiv.org/abs/2610.27645) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
 - [Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay](https://arxiv.org/abs/2610.27954) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
 - [CUA-Lite: An Open Platform for Computer Use Agents](https://arxiv.org/abs/2610.26071) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-22.md)
+- [Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [LLM Agents as Suppliers of Physical System Models: Calibration and Acceptance in Modelica](https://arxiv.org/abs/2610.25019) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)

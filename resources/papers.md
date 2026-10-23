@@ -103,3 +103,8 @@
 | [CUA-Lite: An Open Platform for Computer Use Agents](https://arxiv.org/abs/2610.26071) | Zhanhui Zhou、Weichen Zhang等；Dawn Song参与，Berkeley联系邮箱 | 2026-10-19 | arXiv预印本 |
 | [The Scheduler Is a Hidden Retriever: How Asynchrony Shapes Evidence Acquisition in Search Agents](https://arxiv.org/abs/2610.26310) | Ruiyang Ren、Yuhao Wang、Yinan Zhang、Chunyan Miao；NTU | 2026-10-19 | arXiv预印本 |
 | [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](https://arxiv.org/abs/2610.26869) | Nathaniel M. Vegh等；Nanoacademic、McGill | 2026-07-19 | arXiv预印本 |
+| [Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601) | Saaket Agashe等；UCSB、Cornell、CMU | 2026-10-20 | arXiv预印本 |
+| [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) | Ming Zhong、Stacy Li、Nicholas Carlini、Matthew Jagielski；Anthropic/Fellows | 2026-10-20 | arXiv预印本 |
+| [LLM Agents as Suppliers of Physical System Models: Calibration and Acceptance in Modelica](https://arxiv.org/abs/2610.25019) | Jörg Frochte、Herbert Schmidt；Bochum University of Applied Sciences | 2026-10-18 | arXiv预印本 |
+| [Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models](https://arxiv.org/abs/2604.03286) | Yong Xie、Kexin He，西安电子科技大学；Andres Castellanos-Gomez，ICMM-CSIC | 2025 | 期刊论文作者接受稿 |
+| [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094) | Franco Terranova、M. Voetberg、Brian Nord、Amanda Pagul；Pisa/Fermilab/UChicago/STScI | 2023-11-29 | 研讨会论文 |

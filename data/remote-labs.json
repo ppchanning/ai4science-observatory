@@ -14,6 +14,21 @@
       "interface": "浏览器仪器界面；Perform Measurement执行物理测量；示波器CSV导出已核（参考文档§4.1.7）",
       "feedback": "用户可依据测量修改电路再次提交；无已核自主agent闭环成绩",
       "timing_evidence": "§4.2区分用户取得结果UPRT与包含清理的节点处理HPRT；繁忙时增加排队。表4.1/4.2为2023年5月测试，不外推当前延迟。"
+    },
+    {
+      "key": "anthropic-model-hardware-standard",
+      "name": "Model Hardware Standard research preview",
+      "verified_at": "2026-10-23T07:10:47.229505+08:00",
+      "source_date": "2026-08-27",
+      "record_kind": "old_announcement_first_verification_not_recent_update",
+      "source_urls": [
+        "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      ],
+      "hardware": "协议/驱动接入方向；不是公开可预约设施",
+      "interface": "标准读写/设备元数据/安全限制，可由MCP/CLI/代码访问；依赖可编程硬件与驱动",
+      "access_evidence": "原页有限研究预览及首批伙伴/等候名单；未来开源不等于已开放",
+      "feedback": "原页设备控制案例；不外推通用科研闭环成绩",
+      "timing_evidence": "官方集成缩时说法无匹配样本/对照，未作性能保证"
     }
   ],
   "unknown_policy": "Missing and null are unknown, never zero/free/permitted."

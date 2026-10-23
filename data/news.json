@@ -1702,8 +1702,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-09-30.md",
-      "digests/ai4science/2026/2026-09-30.md",
       "digests/ai4science/2026/2026-09-30.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -1780,7 +1778,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-09-30.md",
       "digests/ai4science/2026/2026-09-30.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -1857,7 +1854,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-01.md",
       "digests/ai4science/2026/2026-10-01.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -1877,7 +1873,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-01.md",
       "digests/ai4science/2026/2026-10-01.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -1897,7 +1892,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-01.md",
       "digests/ai4science/2026/2026-10-01.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -1974,7 +1968,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-01.md",
       "digests/ai4science/2026/2026-10-01.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -2051,7 +2044,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-01.md",
       "digests/ai4science/2026/2026-10-01.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -2483,7 +2475,7 @@
     "published_at": "2026-10-05T22:00:00+08:00",
     "summary": [
       "原标题“AI and the mismeasure of science”直指衡量科学的方式。文章讨论一种长期默认：完成论文需要投入较多劳动，因此产出数量往往被当成贡献的信号。AI让这个成本结构改变，自动生成的大量技术上成立的输出可能淹没注意力。作者提出限制每年重点产出、或在评审中只看少数代表作的设想，例如每年两篇，以推动整合得更充分的研究。这个数字是他的评价政策建议，与arXiv近期每月提交额度属于不同规则。",
-      "文章把争论从“允许不允许AI”移到结果是否可理解、可复现、能累积知识。作者引用天体物理同行关于论文与科学关系的讨论，并谈到需要认真编排的知识表达为何很费人力；Distill的例子提示，优质解释也有持续编辑成本。可供读者带走的思考是：一篇论文不仅要有结果，还应该把证据、方法和与既有工作的关系组织清楚。编辑建议把这当作代表作制度的一种论证来读，比较它会如何影响合作和新入行研究者，而不是把个人提议写成已实施的新制度。"
+      "文章把争论从“允许不允许AI”移到结果是否可理解、可复现、能累积知识。作者引用天体物理同行关于论文与科学关系的讨论，并谈到需要认真编排的知识表达为何很费人力；Distill的例子提示，优质解释也有持续编辑成本。可供读者带走的思考是：一篇论文不仅要有结果，还应该把证据、方法和与既有工作的关系组织清楚。这是一种代表作制度的论证，可能影响合作和新入行研究者，但个人提议并非已实施的新制度。"
     ],
     "appearances": [
       "digests/ai4science/2026/2026-10-06.md"
@@ -2683,7 +2675,7 @@
     "date_precision": "second",
     "discipline": "数学/科研训练",
     "summary": [
-      "全文用导航工具带来的技能变化作类比，并讨论将思考外包后失去“如何做”和“如何想”的风险。但作者自己也用Claude Code整理材料、补充阅读背景，说明技术的作用取决于使用方式：直接接受结论和借工具帮助进一步学习，会留下不同的能力积累。对账号读者可转化为一个具体问题：读完AI总结后，是否还能解释定义、重建关键论证、指出自己不懂的地方？文章对个别AI解题表现的宏大说法未在本次独立核验，不作为科学进展事实。"
+      "全文用导航工具带来的技能变化作类比，并讨论将思考外包后失去“如何做”和“如何想”的风险。但作者自己也用Claude Code整理材料、补充阅读背景，说明技术的作用取决于使用方式：直接接受结论和借工具帮助进一步学习，会留下不同的能力积累。一个可供读者检查的问题是：读完AI总结后，是否还能解释定义、重建关键论证、指出自己不懂的地方？文章对个别AI解题表现的宏大说法未在本次独立核验，不作为科学进展事实。"
     ],
     "source_verification": {
       "body_read": true
@@ -2748,7 +2740,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-08.md",
       "digests/ai4science/2026/2026-10-08.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -2768,11 +2759,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-08.md",
-      "digests/ai4science/2026/2026-10-08.md",
-      "digests/ai4science/2026/2026-10-08.md",
-      "digests/ai4science/2026/2026-10-08.md",
-      "digests/ai4science/2026/2026-10-08.md",
       "digests/ai4science/2026/2026-10-08.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -2792,7 +2778,6 @@
       "body_read": true
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-08.md",
       "digests/ai4science/2026/2026-10-08.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -2987,9 +2972,6 @@
       "body_read_status": "selected_reactions_only"
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-09.md",
-      "digests/ai4science/2026/2026-10-09.md",
-      "digests/ai4science/2026/2026-10-09.md",
       "digests/ai4science/2026/2026-10-09.md"
     ],
     "provenance": "ai-assisted-source-digest"
@@ -6389,7 +6371,8 @@
       "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
     },
     "appearances": [
-      "digests/ai4science/2026/2026-10-22.md"
+      "digests/ai4science/2026/2026-10-22.md",
+      "digests/ai4science/2026/2026-10-23.md"
     ],
     "provenance": "ai-assisted-source-digest"
   },
@@ -6579,6 +6562,274 @@
     },
     "appearances": [
       "digests/ai4science/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T23:31:29+08:00",
+    "url": "https://www.xinhuanet.com/20261022/1d81872662a34789a9db3fa2ffc4ba3f/c.html",
+    "discipline_tags": [
+      "材料",
+      "地球与气候",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化",
+      "政策与生态"
+    ],
+    "id": "AI4SCI-20261023-01",
+    "original_title": "算力成底座、AI进实验室——从第23届中国计算机大会看人工智能发展新动向",
+    "title": "算力成底座、AI进实验室——从第23届中国计算机大会看人工智能发展新动向",
+    "summary": [
+      "新华社大会报道描述“天府·慧研”1.0以350亿激活参数模型连接科学数据与干湿实验室，面向材料、药物和能源组织预测—实验—验证—反馈。受访者指出文献、计算、实验、生产和服役数据需要贯通；部分应用属于建设规划，不能都当成完成成果。岩石薄片识别使用5万张标注图像，性能提升为企业披露，尚非独立对照。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T13:00:30Z",
+    "url": "https://siliconangle.com/2026/10/22/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embeddings-for-the-whole-planet/",
+    "discipline_tags": [
+      "地球与气候"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化"
+    ],
+    "id": "AI4SCI-20261023-02",
+    "original_title": "Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet",
+    "title": "Ai2发布OlmoEarth v1.3：面向全球的AI卫星嵌入数据",
+    "summary": [
+      "OlmoEarth v1.3把Sentinel-1雷达、Sentinel-2和Landsat等观测转为年度全球预计算嵌入，Explorer支持少量标注分类与跨年变化比较。报道中秘鲁La Pampa的变化面积为2016—2020年约34平方公里、2020—2024年约9平方公里；这是特定地点和时期的地图识别结果。变化原因仍需地面与政策证据，不能由面积差直接推断治理成效。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T08:00:00+08:00",
+    "url": "https://www.vbdata.cn/1519100996",
+    "discipline_tags": [
+      "生命医药",
+      "物理"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化",
+      "创业公司与创始人"
+    ],
+    "id": "AI4SCI-20261023-03",
+    "original_title": "清华系AI4S虚拟细胞，用多尺度物理力学+AI推演生命规律 | 独家专访深度细胞CEO陈新栋",
+    "title": "清华系AI4S虚拟细胞，用多尺度物理力学+AI推演生命规律 | 独家专访深度细胞CEO陈新栋",
+    "summary": [
+      "深度细胞访谈提出把多尺度物理力学和AI用于虚拟细胞，从分子相互作用扩展到细胞骨架、动力学与响应。平台授权及客户虚拟实验用于业务探索，干湿实验室仍在筹备；模型适用范围和跨任务泛化需要独立验证。近亿元种子轮为历史融资，下一轮刚启动，不能写成新增融资完成。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T22:08:24Z",
+    "url": "https://siliconangle.com/2026/10/22/ex-openai-science-chief-kevin-weil-launches-warp-sciences-with-215m-for-drug-chemistry/",
+    "discipline_tags": [
+      "化学",
+      "生命医药",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "产业应用与转化",
+      "资本/融资与投资逻辑",
+      "创业公司与创始人"
+    ],
+    "id": "AI4SCI-20261023-04",
+    "original_title": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry",
+    "title": "前OpenAI科学业务负责人Kevin Weil创办Warp Sciences，获2.15亿美元用于药物化学",
+    "summary": [
+      "Warp Sciences由Kevin Weil与Sol Reisberg创办，报道披露2.15亿美元融资，投资方包括Lightspeed、IVP和Lux。路线从先导化合物优化和类似物合成切入，用化学家作业及相机记录训练自动化。机器人全天运行是发展目标；客户阶段和化学质量、周期缩短需分别核验。估值说法来自媒体引述，不作为独立验证结果。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22",
+    "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/845968543196/index.phtml",
+    "discipline_tags": [
+      "生命医药",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "资本/融资与投资逻辑",
+      "产业应用与转化"
+    ],
+    "id": "AI4SCI-20261023-05",
+    "original_title": "医药生物行业：AI制药的风吹向哪里？",
+    "title": "医药生物行业：AI制药的风吹向哪里？",
+    "summary": [
+      "东方证券医药行业报告的公开摘要讨论AI制药的价值流向：候选生成之后仍要完成合成、亲和力与实验验证，并把新数据反馈到模型。此处仅据公开摘要整理，不表示核验报告全文。产业观点不等于已实现收入、临床成功或投资回报，不补入未核实预测数字。"
+    ],
+    "date_precision": "day",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T21:57:00+08:00",
+    "url": "https://app.cqrb.cn/disijii/2026-10-22/2803035_pc.html",
+    "discipline_tags": [
+      "材料",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化"
+    ],
+    "id": "AI4SCI-20261023-06",
+    "original_title": "世界科技与发展论坛｜当汽车传感器从5个增至上百个 当纤维开始“感知”环境  专家谈智能材料如何重塑世界",
+    "title": "世界科技与发展论坛｜当汽车传感器从5个增至上百个 当纤维开始“感知”环境  专家谈智能材料如何重塑世界",
+    "summary": [
+      "智能材料论坛报道涉及有研广东研究院魏锋介绍多通道生化传感、单细胞阵列及机器学习分析。AI与科学的连接在于将传感信号转成可分析信息，再支持材料和生物测量。该报道主要陈述研究方向；智能材料并不都使用AI，文中也不足以支持通用性能、临床或产品化结论。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T19:17:00Z",
+    "url": "https://terrytao.wordpress.com/2026/10/22/simple-and-critical-zeros-of-the-riemann-zeta-function/",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "id": "AI4SCI-20261023-07",
+    "original_title": "Simple and critical zeros of the Riemann zeta-function",
+    "title": "黎曼ζ函数的单零点与临界零点",
+    "summary": [
+      "陶哲轩博客刊载Caroline Turnage-Butterbaugh的评论，回顾此前BGST-B与Claude相关的简单临界零点讨论及Bombieri检验，并提及9月Lamzouri的较简证明。这是10月发表的回顾，不是同日新增定理。计数对象与条件必须保留：即使某类零点比例达到100%，也不自动证明黎曼猜想。上游公式提取不完整，本汇编没有完成证明核验。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T14:00:00Z",
+    "url": "https://proofsandprompts.com/2026/10/22/the-rules-cannot-change-only-for-young-mathematicians-ai-and-the-future-of-a-mathematical-career/",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "政策与生态",
+      "研究/方法"
+    ],
+    "id": "AI4SCI-20261023-08",
+    "original_title": "The Rules Cannot Change Only for Young Mathematicians: AI and the future of a mathematical career",
+    "title": "规则不能只为年轻数学家改变：AI与数学职业的未来",
+    "summary": [
+      "一位匿名PDE博士后讨论AI如何影响优先权、招聘与青年数学家的训练，并提出明确可接受使用方式、发表优先权、归属、招聘评价、训练保护和获取条件。身份未经独立核实，文中争议案例和统计也未逐一查证；这是制度观点，不是社区调查或因果实证。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T09:00:00Z",
+    "url": "https://proofsandprompts.com/2026/10/22/is-there-actually-a-good-way-to-use-ai-for-math/",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "id": "AI4SCI-20261023-09",
+    "original_title": "Is There Actually a Good Way to Use AI for Math?",
+    "title": "用AI做数学，究竟有没有更好的方法？",
+    "summary": [
+      "这篇自述文章以移除假设、寻找反例和检查依赖关系讨论数学中使用AI的方法。例如连续且端点异号支持存在性，严格单调性才进一步支持唯一性；同样观测可对应不同模型，涉及可辨识性。文章披露使用AI协助英文表达；个人练习经验不能当成已验证的一般教学效果。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "published_at": "2026-10-22T11:00:00Z",
+    "url": "https://proofsandprompts.com/2026/10/22/is-it-fish-love/",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "政策与生态",
+      "研究/方法"
+    ],
+    "id": "AI4SCI-20261023-10",
+    "original_title": "Is it fish love?",
+    "title": "这是“爱鱼”，还是爱数学带来的感受？",
+    "summary": [
+      "作者以“fish love”讨论追求知识、个人优先权和社会竞争之间的动机张力，以及AI可能改变的数学训练和职业期待。AI提供的灵感仍需数学验证；关于年轻研究者动力与制度选择的判断属于观点，不代表社区共识，也不能据此标签化不同意见者。"
+    ],
+    "date_precision": "second",
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "依据上游已核公开报道或评论整理；未独立验证新闻中的性能和观点。"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-23.md"
     ],
     "provenance": "ai-assisted-source-digest"
   }

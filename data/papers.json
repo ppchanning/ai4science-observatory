@@ -1955,5 +1955,115 @@
       "digests/scientific-computer-use/2026/2026-10-22.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Evolving Agent Interfaces",
+    "team": "Saaket Agashe等；UCSB、Cornell、CMU",
+    "doi": "10.48550/arXiv.2610.28601",
+    "arxiv": "2610.28601",
+    "url": "https://arxiv.org/abs/2610.28601",
+    "fulltext_url": "https://arxiv.org/html/2610.28601v1",
+    "version_date": "2026-10-20",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-23T07:10:47.229505+08:00",
+    "evidence": "相同PrimeAgent框架ScienceBoard从93/169到99/169；61.7到58.9调用；15到64函数",
+    "read_first": "§4、表3、附录A.2/B.4",
+    "id": "arxiv:2610.28601",
+    "first_published": "2026-10-20",
+    "verified_version": "v1",
+    "limitations": "验证选择使用了15个最终测试题；标题提升混合执行框架变化；数字软件非物理设备。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+    "team": "Ming Zhong、Stacy Li、Nicholas Carlini、Matthew Jagielski；Anthropic/Fellows",
+    "doi": "10.48550/arXiv.2610.28763",
+    "arxiv": "2610.28763",
+    "url": "https://arxiv.org/abs/2610.28763",
+    "fulltext_url": "https://arxiv.org/html/2610.28763v1",
+    "version_date": "2026-10-20",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-23T07:10:47.229505+08:00",
+    "evidence": "20基准25任务11领域；8 H200/12h；相对改善Opus10.4%→20.1%、Codex4.4%→8.1%（加入技能）",
+    "read_first": "§2.2–2.3、§3.3–4",
+    "id": "arxiv:2610.28763",
+    "first_published": "2026-10-20",
+    "verified_version": "v1",
+    "limitations": "相对改善不是准确率百分点；人先整理基线；无同预算人类基线；技能针对已观察问题。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "LLM Agents as Suppliers of Physical System Models: Calibration and Acceptance in Modelica",
+    "team": "Jörg Frochte、Herbert Schmidt；Bochum University of Applied Sciences",
+    "doi": "10.48550/arXiv.2610.25019",
+    "arxiv": "2610.25019",
+    "url": "https://arxiv.org/abs/2610.25019",
+    "fulltext_url": "https://arxiv.org/html/2610.25019v1",
+    "version_date": "2026-10-18",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-23T07:10:47.229505+08:00",
+    "evidence": "四模拟任务138评分运行、磁铁35运行；反例在留出输入仍拟合却32.9kJ入62.1kJ出",
+    "read_first": "引言能量反例、§4–5",
+    "id": "arxiv:2610.25019",
+    "first_published": "2026-10-18",
+    "verified_version": "v1",
+    "limitations": "模型与执行框架绑定，重复及停止规则不同；部分验收事后补充；能量反例不是普遍失效率。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
+    "team": "Yong Xie、Kexin He，西安电子科技大学；Andres Castellanos-Gomez，ICMM-CSIC",
+    "doi": "10.1002/sstr.202500173",
+    "arxiv": "2604.03286",
+    "url": "https://arxiv.org/abs/2604.03286",
+    "fulltext_url": "https://arxiv.org/pdf/2604.03286",
+    "version_date": "2026-03-25",
+    "type": "期刊论文作者接受稿",
+    "verified_at": "2026-10-23T07:10:47.229505+08:00",
+    "evidence": "真实扫描/成图与源表I–V案例；无匹配GUI/API/人工编程对照",
+    "read_first": "图2与图5及代理控制段",
+    "id": "doi:10.1002/sstr.202500173",
+    "first_published": "2025",
+    "verified_version": "v1",
+    "limitations": "无匹配GUI/API和人类耗时对照；科学决策闭环证据有限；arXiv日期标注有歧义；PDF视觉核验未完成。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning",
+    "team": "Franco Terranova、M. Voetberg、Brian Nord、Amanda Pagul；Pisa/Fermilab/UChicago/STScI",
+    "doi": "10.48550/arXiv.2311.18094",
+    "arxiv": "2311.18094",
+    "url": "https://arxiv.org/abs/2311.18094",
+    "fulltext_url": "https://arxiv.org/html/2311.18094v1",
+    "version_date": "2023-11-29",
+    "type": "研讨会论文",
+    "verified_at": "2026-10-23T07:10:47.229505+08:00",
+    "evidence": "26状态特征、361动作；500测试回合归一化奖励Rainbow约87±6% vs随机39±12%",
+    "read_first": "§2.1–2.3、§3",
+    "id": "arxiv:2311.18094",
+    "first_published": "2023-11-29",
+    "verified_version": "v1",
+    "limitations": "模拟转移和奖励不是实测或成功率；单台站与天气、多目标条件有限。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

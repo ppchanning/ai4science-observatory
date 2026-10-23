@@ -38,3 +38,5 @@
 - [Easy remote observations using web interfaces: controlling an Italian telescope from Japan, and more](https://arxiv.org/abs/2501.07997) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-19.md)
 - [Autonomous Reliability Qualification of Ga2O3-based diode sensors via Safe Active Learning](https://arxiv.org/abs/2605.00868) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
 - [Design and Implementation of a Microservice-Architecture Master Control System for AIMS](https://arxiv.org/abs/2607.13561) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
+- [Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models](https://arxiv.org/abs/2604.03286) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)

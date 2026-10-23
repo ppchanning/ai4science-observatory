@@ -16,6 +16,7 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-23** — Added [10 news events](digests/ai4science/2026/2026-10-23.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-23.md) in 2 issues, plus [1 historical hardware-standard evidence record](resources/remote-labs.md). Revised 2 historical explanations; includes 1 returning news appearance. Physical checks and scientific interfaces. No paper revisions or backfilled issues; bibliography additions include older papers. Also removed repeated same-issue paths from 11 historical appearance arrays; no new appearances were created by this cleanup.
 - **2026-10-22** — Added [12 news events](digests/ai4science/2026/2026-10-22.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-22.md) in 2 issues; [revised 1 company record](data/industry/public-company-initiatives.csv). Recovery evidence, scientific workflows and mathematical understanding. No paper/news revisions, returning appearances or backfilled issues.
 - **2026-10-21** — Added [17 news events in 1 issue](digests/ai4science/2026/2026-10-21.md), revised 3 historical news explanations, and [revised 1 business record](data/README.md). Measurement constraints, experimental feedback and mathematical research; collaboration milestones retain their conditions. No new paper issues, paper revisions, returning news or backfilled issues.
 
