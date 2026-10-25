@@ -2065,5 +2065,115 @@
       "digests/scientific-computer-use/2026/2026-10-23.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Subgoal-aware Memory Graph for GUI Agent",
+    "team": "Dezhao Luo、Daniel Beechey、Derek Yuen、Weilin Luo；Huawei Noah’s Ark Lab",
+    "doi": "10.48550/arXiv.2610.31307",
+    "arxiv": "2610.31307",
+    "url": "https://arxiv.org/abs/2610.31307",
+    "fulltext_url": "https://arxiv.org/html/2610.31307v1",
+    "version_date": "2026-10-22",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-24T07:02:42.361367+08:00",
+    "evidence": "13个SPA-Bench英文单应用level-3任务，3次运行均值；无记忆34.19%、子目标图45.30%，差11.11个百分点；平铺子目标30.77%",
+    "read_first": "§3、表1",
+    "id": "arxiv:2610.31307",
+    "first_published": "2026-10-22",
+    "verified_version": "v1",
+    "limitations": "固定 Qwen3-VL-8B-Instruct，在经过云端兼容性筛选的 13 个 SPA-Bench 英文单应用 level-3 任务上取 3 次运行均值：无记忆为 34.19%，子目标图为 45.30%，相差 11.11 个百分点；平铺子目标为 30.77%，动作图与任务图为 38.46% 和 36.75%。没有逐任务原始计数或置信区间；构建约需 4 GPU 小时，每步检索约 0.5 秒，小样本结果不能直接推广到科学软件。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition",
+    "team": "Sage-A1.5团队；上海人工智能实验室",
+    "doi": "10.48550/arXiv.2610.28578",
+    "arxiv": "2610.28578",
+    "url": "https://arxiv.org/abs/2610.28578",
+    "fulltext_url": "https://arxiv.org/html/2610.28578v1",
+    "version_date": "2026-10-20",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-24T07:02:42.361367+08:00",
+    "evidence": "Sc2Au6八轮试验六次接受；7500观测点Rwp88.3091%至86.1092%，降2.1999个百分点；第3/5轮拒绝",
+    "read_first": "§4.4凝聚态物理段、图16",
+    "id": "arxiv:2610.28578",
+    "first_published": "2026-10-20",
+    "verified_version": "v1",
+    "limitations": "Sc2Au6 案例使用 7,500 个观测值，8 轮中 6 轮获准，Rwp 从 88.3091% 降至 86.1092%，下降 2.1999 个百分点；第 3、5 轮被拒。较高的残差仍限制结构结论，改善目标值不是准确结构的保证。案例没有给出 GUI 与 API 的受控对照，也不能代表系统所有能力都已得到独立验证。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "GAV: A scientific experimentation environment for PDE agents",
+    "team": "Muheng Li、Wenlong Mou；University of Toronto、Vector Institute",
+    "doi": "10.48550/arXiv.2610.30292",
+    "arxiv": "2610.30292",
+    "url": "https://arxiv.org/abs/2610.30292",
+    "fulltext_url": "https://arxiv.org/html/2610.30292v1",
+    "version_date": "2026-10-21",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-24T07:02:42.361367+08:00",
+    "evidence": "六条动力学运行生成集R1至R6误差降25.4%—90.1%；ARTEMIS Astra内部降73.4%但独立平均误差升至R1的5.69倍",
+    "read_first": "§3、表2、附录D.1.2",
+    "id": "arxiv:2610.30292",
+    "first_published": "2026-10-21",
+    "verified_version": "v1",
+    "limitations": "六类动力学中，生成分布上的 R1–R6 误差下降为 25.4%–90.1%。但 ARTEMIS 的 Astra 内部误差虽下降 73.4%，独立评测的第 6 轮平均误差却达到第 1 轮的 5.69 倍。最终程序对原始种子程序的比较和 R1–R6 比较不是同一基准。代码能执行、内部验收通过和独立科学有效性应分别报告。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization",
+    "team": "Zhaoran Feng等；南京大学、上海创智学院、复旦大学、同济大学等",
+    "doi": "10.48550/arXiv.2610.30851",
+    "arxiv": "2610.30851",
+    "url": "https://arxiv.org/abs/2610.30851",
+    "fulltext_url": "https://arxiv.org/html/2610.30851v1",
+    "version_date": "2026-10-22",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-24T07:02:42.361367+08:00",
+    "evidence": "八留出拓扑各H100四小时；总目标均值0.204 vs NAAdam0.452；同选起点固定Adam0.256；全法一拓扑更差",
+    "read_first": "§3、表3、附录F.4",
+    "id": "arxiv:2610.30851",
+    "first_published": "2026-10-22",
+    "verified_version": "v1",
+    "limitations": "8 个留出拓扑各在 H100 上运行 4 小时，平均目标值为 0.204，NAAdam 为 0.452；同一选定起点配固定 Adam 为 0.256，有一个拓扑上完整方法反而更差。目标值降低不能等比例改写为物理灵敏度提高，“±”反映跨拓扑差异，开发成本须另算；历史与初始化选择也贡献了收益，不能全归因于优化器本身。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "LAP: An Agent-to-Instrument Protocol for Autonomous Science",
+    "team": "Linwu Zhu、Liqiang Gao、Yan Chen、Dan Zhu、Jian Huang；Shiyanjia Lab",
+    "doi": "10.48550/arXiv.2606.03755",
+    "arxiv": "2606.03755",
+    "url": "https://arxiv.org/abs/2606.03755",
+    "fulltext_url": "https://arxiv.org/html/2606.03755v1",
+    "version_date": "2026-06-02",
+    "type": "协议设计预印本",
+    "verified_at": "2026-10-24T07:02:42.361367+08:00",
+    "evidence": "协议设计与材料多设施走查；§6.3将实证部署列未来工作，无成功率/成本/时延对照",
+    "read_first": "核心对象、任务状态机、§6.3",
+    "id": "arxiv:2606.03755",
+    "first_published": "2026-06-02",
+    "verified_version": "v1",
+    "limitations": "正文主要给出对象、状态机和场景演练；§6.3 把部署列为后续工作，没有实测成功率、费用、延迟或已完成的实验活动。样品、单位、校准和不确定度字段值得核查，但当前接入和价格不能由草案推断。本文首发于 2026-06-02，核验 v1；HTML 封面出现的 8 月日期不构成新版本。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

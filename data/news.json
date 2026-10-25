@@ -6372,7 +6372,8 @@
     },
     "appearances": [
       "digests/ai4science/2026/2026-10-22.md",
-      "digests/ai4science/2026/2026-10-23.md"
+      "digests/ai4science/2026/2026-10-23.md",
+      "digests/ai4science/2026/2026-10-24.md"
     ],
     "provenance": "ai-assisted-source-digest"
   },
@@ -6830,6 +6831,200 @@
     },
     "appearances": [
       "digests/ai4science/2026/2026-10-23.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261024-08",
+    "title": "科研总院一案例入选2026年AIIA人工智能先锋案例实践",
+    "original_title": "科研总院一案例入选2026年AIIA人工智能先锋案例实践",
+    "url": "https://www.chnenergy.com.cn/gjnyjtww/newCE0302/202610/a01633d6973f4b1e90a837b1d2288a66.shtml",
+    "published_at": "2026-10-23",
+    "date_precision": "day",
+    "discipline_tags": [
+      "化学",
+      "材料",
+      "能源相关工程科学",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化"
+    ],
+    "summary": [
+      "国家能源集团科研总院报道案例入选 AIIA 人工智能先锋案例实践，报道日期为 10 月 23 日、活动日期为 10 月 15 日。费托催化方向以约 12,000 篇文献构建知识库，连接推理、计划与实验执行；分子筛方向由约 1,500 篇论文提取约 5,000 条记录，构建含约 27,000 个实体、62,000 条边的知识图谱，尝试让配方检索可追溯。",
+      "机构所称约 70% 的前期调研与筛选周期缩短属于自身案例披露，不是催化效率提高 70%，也不是跨实验室受控复现。阅读时应分清知识整理规模、实验执行能力与材料性能证据。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261024-01",
+    "title": "Pathos AI完成2.37亿美元E轮融资，扩展智能体药物研发平台与肿瘤管线",
+    "original_title": "Pathos AI Secures $237 Million in Series E Financing to Scale Agentic AI Drug Development Platform and Advance Oncology Pipeline",
+    "url": "https://www.pathos.com/pathos-ai-secures-237-million-in-series-e-financing-to-scale-agentic-ai-drug-development-platform-and-advance-oncology-pipeline",
+    "published_at": "2026-10-23T13:00:00Z",
+    "date_precision": "second",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "资本/融资与投资逻辑",
+      "产业应用与转化",
+      "创业公司与创始人",
+      "研究/方法"
+    ],
+    "summary": [
+      "Pathos 宣布完成 2.37 亿美元 E 轮融资，由 BMS 领投，估值约 30 亿美元。公司称 Foundry 通过专用 Agent 整合临床、基因组、样本和竞争信息，辅助患者分组及试验设计；披露四项临床肿瘤资产，其中包括 TROP2/HER3 ADC JSKN016。",
+      "另一个合作安排含五年 5,500 万美元 Tempus 去标识纵向神经科学数据许可，以及 BMS 三年独家神经科学支持和更广泛的非独家平台合作。许可金额不能再次加进融资额。融资与公司平台自述均不能替代临床疗效证据。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261024-02",
+    "title": "将基础模型带到结核病筛查一线",
+    "original_title": "Bringing foundational models to the front lines of TB screening",
+    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "published_at": "2026-10-23",
+    "date_precision": "day",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "产业应用与转化"
+    ],
+    "summary": [
+      "Google Research 回顾基础模型参与结核筛查的部署与研究，包括南非 NexusAI 报告的 40 个设施、90 名临床人员和 25,000 张 X 光片，以及 Mponeng 矿井约地下 4 公里的离线便携 X 光场景。这些计数是项目自述，筛查结果仍需分子检测等确诊。",
+      "MedSigLIP 面向图文与少样本任务，MedGemma 支持本地多模态推理，HeAR 探索咳嗽声音信号；三者证据不能混成统一诊断成功率。印度尼西亚每年筛查 5,000 万人的数字是目标，WHO/FDA 相关流程也不能写成全部完成。该文包含历史研究回顾，不代表所有结果当天新出。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261024-03",
+    "title": "《北京科学宣言》（全文）发布！",
+    "original_title": "《北京科学宣言》（全文）发布！",
+    "url": "https://cingai.nankai.edu.cn/2026/1023/c10233a604965/page.htm",
+    "published_at": "2026-10-23",
+    "date_precision": "day",
+    "discipline_tags": [
+      "跨学科科研方法"
+    ],
+    "content_angle_tags": [
+      "政策与生态",
+      "研究/方法"
+    ],
+    "summary": [
+      "南开大学 10 月 23 日转载《北京科学宣言》全文，国际科学理事会原文发表于 10 月 21 日。这是中文传播节点，而不是当天又发布一份新宣言。18 项行动承诺涉及可靠、可重复、可验证、可互操作与可追溯的科学，以及数据、知识产权、共同署名和负责任使用 AI。",
+      "它把研究质量与激励制度联系起来：不仅奖励发表数量，也关注共享、核验和长期公共贡献。宣言属于规范性共同倡议，不能当作每个机构已实施的治理制度或 AI 系统可靠性的实验依据。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261024-04",
+    "title": "回应“谁将成为数学2.0时代的新数学家？”",
+    "original_title": "A Response to “Who will become the new mathematicians of Math 2.0?”",
+    "url": "https://proofsandprompts.com/2026/10/23/a-response-to-who-will-become-the-new-mathematicians-of-math-2-0/",
+    "published_at": "2026-10-23T14:00:00Z",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "summary": [
+      "Álvaro Lozano-Robledo 对 Math 2.0 讨论的回应强调，博士训练还包括教学、沟通、深度思考和独立研究习惯，不能只按最终产出计数。学生和导师应说清 AI 的使用方式，让学生能独立说明引理、重写论证并探索推广。",
+      "AI 证明草稿可成为引导阅读的材料，但不自动构成博士研究贡献。这里呈现作者的教育观点，既不是调查形成的统一共识，也没有证明某种培养方式更有效。涉及猜想条件的数学论断必须保留条件，不因叙事简化为已无条件解决。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261024-05",
+    "title": "对AI感到反感？",
+    "original_title": "Disgusted by AI?",
+    "url": "https://proofsandprompts.com/2026/10/23/disgusted-by-ai/",
+    "published_at": "2026-10-23T11:00:00Z",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "summary": [
+      "Marcus Zibrowius 以“Disgusted by AI?”讨论数学证明的优先权、理解和共同工作价值，用作曲与演奏作类比，强调解释、组织和复用知识也值得获得承认。",
+      "这是一篇个人规范性论述，不是数学家群体态度调查或已确立的评价改革。它有助于区分机器生成结果、可理解的证明与人的数学贡献，不能据此推断所有作者或机构的立场。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "AI4SCI-20261024-06",
+    "title": "迈向世界数学公共资源",
+    "original_title": "Towards a world mathematical commons",
+    "url": "https://proofsandprompts.com/2026/10/23/towards-a-world-mathematical-commons/",
+    "published_at": "2026-10-23T09:00:00Z",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "summary": [
+      "Kunal Marwaha 提议以非营利与社区治理方式连接企业算力和开放数学知识，关注 Lean、Mathlib 与模型辅助形式化如何组织可核查的依赖关系，同时保留人类对概念的压缩和理解。",
+      "“世界数学公地”在文中是未来治理与基础设施的提议，并非已经建成的统一平台。形式化依赖图有助于复用和验证，但不意味着开放许可、资金和治理问题已解决。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-24.md"
     ],
     "provenance": "ai-assisted-source-digest"
   }

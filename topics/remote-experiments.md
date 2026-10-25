@@ -40,3 +40,5 @@
 - [Design and Implementation of a Microservice-Architecture Master Control System for AIMS](https://arxiv.org/abs/2607.13561) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-20.md)
 - [Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models](https://arxiv.org/abs/2604.03286) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
 - [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization](https://arxiv.org/abs/2610.30851) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [LAP: An Agent-to-Instrument Protocol for Autonomous Science](https://arxiv.org/abs/2606.03755) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)

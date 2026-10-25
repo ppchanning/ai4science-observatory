@@ -65,3 +65,8 @@
 - [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
 - [LLM Agents as Suppliers of Physical System Models: Calibration and Acceptance in Modelica](https://arxiv.org/abs/2610.25019) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
 - [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
+- [Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](https://arxiv.org/abs/2610.28578) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [GAV: A scientific experimentation environment for PDE agents](https://arxiv.org/abs/2610.30292) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization](https://arxiv.org/abs/2610.30851) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [LAP: An Agent-to-Instrument Protocol for Autonomous Science](https://arxiv.org/abs/2606.03755) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)

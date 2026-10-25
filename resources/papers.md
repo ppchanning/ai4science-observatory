@@ -108,3 +108,8 @@
 | [LLM Agents as Suppliers of Physical System Models: Calibration and Acceptance in Modelica](https://arxiv.org/abs/2610.25019) | Jörg Frochte、Herbert Schmidt；Bochum University of Applied Sciences | 2026-10-18 | arXiv预印本 |
 | [Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models](https://arxiv.org/abs/2604.03286) | Yong Xie、Kexin He，西安电子科技大学；Andres Castellanos-Gomez，ICMM-CSIC | 2025 | 期刊论文作者接受稿 |
 | [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094) | Franco Terranova、M. Voetberg、Brian Nord、Amanda Pagul；Pisa/Fermilab/UChicago/STScI | 2023-11-29 | 研讨会论文 |
+| [Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307) | Dezhao Luo、Daniel Beechey、Derek Yuen、Weilin Luo；Huawei Noah’s Ark Lab | 2026-10-22 | 预印本/技术报告 |
+| [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](https://arxiv.org/abs/2610.28578) | Sage-A1.5团队；上海人工智能实验室 | 2026-10-20 | 预印本/技术报告 |
+| [GAV: A scientific experimentation environment for PDE agents](https://arxiv.org/abs/2610.30292) | Muheng Li、Wenlong Mou；University of Toronto、Vector Institute | 2026-10-21 | 预印本/技术报告 |
+| [ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization](https://arxiv.org/abs/2610.30851) | Zhaoran Feng等；南京大学、上海创智学院、复旦大学、同济大学等 | 2026-10-22 | 预印本/技术报告 |
+| [LAP: An Agent-to-Instrument Protocol for Autonomous Science](https://arxiv.org/abs/2606.03755) | Linwu Zhu、Liqiang Gao、Yan Chen、Dan Zhu、Jian Huang；Shiyanjia Lab | 2026-06-02 | 协议设计预印本 |

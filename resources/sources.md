@@ -177,3 +177,4 @@
 | [First Proof · AI研究数学评测项目](https://1stproof.org/) | 低频项目原始公告 | 英文 | 2026-10-11 |
 | [科学北极星 · 科研仪器AI与产品公告](https://www.scipolaris.com/) | 低频企业研发及产品公告 | 中文 | 2026-10-13 |
 | [OpenPep · 开放肽发现项目](https://www.openpep.com/) | 低频科研项目参考 | 英文 | 2026-10-15 |
+| [Pathos AI · 企业研发公告](https://www.pathos.com/) | 低频企业研发参考 | 英文 | 2026-10-24 |

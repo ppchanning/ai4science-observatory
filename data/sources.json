@@ -5867,6 +5867,40 @@
       "evidence_url": "https://www.openpep.com/science.html",
       "evidence_note": "多伦多药学院10月14日报道直接链接OpenPep；官网解释无细胞蛋白合成、亲和选择质谱、剂量反应与留靶测试结合AI闭环。计划不得写成已交付数据库。",
       "checked_at": "2026-10-15"
+    },
+    {
+      "source_id": "S181",
+      "name": "Pathos AI · 企业研发公告",
+      "nature": "低频企业研发参考",
+      "region": "美国",
+      "language": "英文",
+      "priority": "P2",
+      "role": "企业原始材料/公司自述",
+      "discipline_tags": {
+        "生命医药": "很多",
+        "化学": "未见",
+        "材料": "未见",
+        "物理": "未见",
+        "地球气候": "未见",
+        "能源": "未见",
+        "数学与科学计算": "未见"
+      },
+      "facet_tags": {
+        "技术": "很多",
+        "商业": "很多",
+        "金融": "中",
+        "政策": "未见"
+      },
+      "focus": "AI生物建模、精准肿瘤学与神经科学药物研发",
+      "home_url": "https://www.pathos.com/",
+      "collect_url": "https://www.pathos.com/",
+      "method": "html_agent",
+      "access_status": "入口及两篇研发/融资公告GET200",
+      "observed_frequency": "仅核两篇2026-10-23公告，不推定稳定频率",
+      "official_frequency": "未声明",
+      "evidence_url": "https://www.pathos.com/pathos-ai-secures-237-million-in-series-e-financing-to-scale-agentic-ai-drug-development-platform-and-advance-oncology-pipeline",
+      "evidence_note": "Foundry智能体整合临床、基因组与样本数据，支持患者分组与试验设计；BMS/Tempus神经科学合作公告披露纵向数据与假设检验用途。商业效能均为公司自述。",
+      "checked_at": "2026-10-24"
     }
   ],
   "note": "Historical checks; access and frequency may change."
