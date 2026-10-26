@@ -7027,5 +7027,239 @@
       "digests/ai4science/2026/2026-10-24.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573574.shtm",
+    "published_at": "2026-10-25T16:25:01+08:00",
+    "discipline_tags": [
+      "生命医药",
+      "化学"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "id": "AI4SCI-20261026-01",
+    "title": "一句“我想要”，AI就能生成候选蛋白质序列？",
+    "original_title": "一句“我想要”，AI就能生成候选蛋白质序列？",
+    "date_precision": "second",
+    "summary": [
+      "中国科学报介绍 Pinal 的文字描述、结构蓝图、序列生成与候选排序流程，对应报道所述10月21日《自然》研究。团队分别展示荧光蛋白、PET水解酶、醇脱氢酶与H蛋白的实验，讨论自然语言要求能否转化为可测功能。",
+      "报道中的验证跨越多个层级：荧光发色团突变后信号消失，PET测试同时检查反应产物和固体表面；20个受测H蛋白中14个可溶表达、5个在体外固碳体系中有活性。最佳产物浓度11.1毫摩尔每升，约为同一体系天然大肠杆菌H组分的1.7倍。",
+      "这些结果不能解释为任意自然语言要求都可获得有效蛋白质。生成、表达和功能验收分别构成筛选关口；本条为媒体报道的证据整理，不是独立复现。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://www3.xinhuanet.com/20261025/a5935eeb65ee4ab68569681bdbe2b73c/c.html",
+    "published_at": "2026-10-25T12:18:42+08:00",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "产业应用与转化",
+      "政策与生态"
+    ],
+    "id": "AI4SCI-20261026-02",
+    "title": "英国宣布设立AI生物安全实验室",
+    "original_title": "英国宣布设立AI生物安全实验室",
+    "date_precision": "second",
+    "summary": [
+      "新华社10月25日报道英国政府10月24日的实验室建设公告。计划连接前沿AI、生物模型与专业机构，用于生物威胁监测，以及疫苗、治疗药物的研发和测试；目前属于建设承诺。",
+      "政府投入1亿英镑；OpenAI承诺1亿英镑计算与模型额度，Anthropic提供最高1亿英镑模型额度、访问与技术支持。后两项不是现金融资，不能把全部资源写成3亿英镑现金。公告另涉及Basecamp Research生物模型能力、Google DeepMind科研合作及监管沟通。",
+      "拟采用独立非营利安排，治理与科学咨询细节仍待公布。资源承诺不代表设施已经开放或药物已经通过验证，未知访问资格、费用和排队时间保持未知。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest",
+    "related_sources": [
+      {
+        "url": "https://news.sciencenet.cn/htmlnews/2026/10/573585.shtm",
+        "title": "英国宣布设立AI生物安全实验室",
+        "published_at": "2026-10-25T21:58:53+08:00"
+      },
+      {
+        "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+        "title": "Introducing the AI Biosecurity Lab",
+        "published_at": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "url": "https://www.stdaily.com/web/gdxw/2026-10/25/content_602495.html",
+    "published_at": "2026-10-25T20:26:34+08:00",
+    "discipline_tags": [
+      "化学",
+      "科研仪器与自动化实验"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "id": "AI4SCI-20261026-03",
+    "title": "AI时代，让青年相遇让思想碰撞——2026世界青年科学家峰会观察",
+    "original_title": "AI时代，让青年相遇让思想碰撞——2026世界青年科学家峰会观察",
+    "date_precision": "second",
+    "summary": [
+      "科技日报峰会观察引用汪淏田建设全自动化AI电催化实验室的介绍，以及袁洋对AI科研训练和评价的讨论。与科学智能直接相连的是实验组织、问题提出和研究训练，而不是一般会议活动本身。",
+      "报道所述峰会有来自62个国家和地区的近800名参会者，相关协议计划每年支持100人次青年科研人员来华访问。这些是交流规模和未来支持安排，不能作为实验室催化性能或AI效果的证据。",
+      "发言者主张评价更关注核心想法与真实问题；这属于受访观点及实践介绍，不是受控教育研究。报道中没有明确科学用途的一般具身智能和基金信息，不扩展为AI4Science成果。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://news.sciencenet.cn/htmlnews/2026/10/573569.shtm",
+    "published_at": "2026-10-25T15:57:12+08:00",
+    "discipline_tags": [
+      "科研方法（跨学科）"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "id": "AI4SCI-20261026-04",
+    "title": "使用AI撰写论文的博士生不太可能留在学术界",
+    "original_title": "使用AI撰写论文的博士生不太可能留在学术界",
+    "date_precision": "second",
+    "summary": [
+      "中国科学报转述一份未经同行评审的研究，涉及2019年1月至2026年5月美国22.6万余名STEM博士毕业生。研究以Pangram分类论文摘要，再连接领英就业资料；分类不是逐一观察写作过程。",
+      "报道给出的被判AI生成比例为2023年1.7%、2025年18.8%、2026年前五个月29.4%。在美国完成本科教育的博士样本中，被判AI摘要者进入学术界的相对可能性低17%、进入产业界高16%；美国以外本科背景样本的关联较弱。",
+      "相对可能性差异不是概率下降17个百分点，也不确立AI使用导致离开学术界。职业偏好、岗位、薪资与生活成本可能影响两者；作者承认不能确定AI是否损害研究能力。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/10/25/disadvantages-of-designating-mathematicians-for-ai-output-releases/",
+    "published_at": "2026-10-25T22:17:58+00:00",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "id": "AI4SCI-20261026-05",
+    "title": "指定数学家参与AI成果发布的弊端",
+    "original_title": "Disadvantages of Designating Mathematicians for AI Output Releases",
+    "date_precision": "second",
+    "summary": [
+      "数学与人工智能顾问组AGMAI的客座文章由陶哲轩博客转载，讨论企业在AI数学成果发布前指定少数数学家审阅的制度代价。观点归属于AGMAI，不能全部署为陶哲轩个人意见。",
+      "文章承认提前阅读有助于解释成果，同时提出访问机会不平等、审阅者选择不透明、议程影响与声望背书等问题。建议成熟工作按学术惯例发表，未完成工作放入可引用、可版本化的独立仓库，保留模型、提示、尝试记录、成本与适当的形式化材料。",
+      "独立非营利组织可组织后续工作坊和经费，帮助共同体自主选择核验问题。这是科研治理建议，不是对某项数学证明正确性的实验判断，也不是已普遍实施的制度。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://proofsandprompts.com/2026/10/25/could-ai-help-correct-the-mathematical-literature/",
+    "published_at": "2026-10-25T15:00:00+00:00",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法"
+    ],
+    "id": "AI4SCI-20261026-06",
+    "title": "AI能帮忙纠正数学文献吗？",
+    "original_title": "Could AI help correct the mathematical literature?",
+    "date_precision": "second",
+    "summary": [
+      "Alonso Castillo-Ramirez以自身研究经历讨论模型帮助定位证明疑点。作者称检查数十篇论文后得到五项疑点，之后均经人核实；这是小规模自述，没有给出总体检出率或漏检率。",
+      "具体案例涉及其2023年《Semigroup Forum》论文定理17中关于G等变变换之核的推断。文章称模型指出问题，而合作者Ramón H. Ruiz-Medina数月前已注意到该处；原结论可能修补，不宜把定位疑点写成自动完成勘误。",
+      "可追踪的已确认和已修正状态有助于把质疑转成负责任的数学维护。材料属于作者经验与观点，不能推出模型可自动替代审稿或为所有数学文献判真。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://www.vbdata.cn/1519100998",
+    "published_at": "2026-10-25T08:00:00+08:00",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "content_angle_tags": [
+      "产业应用与转化"
+    ],
+    "id": "AI4SCI-20261026-07",
+    "title": "齐聚沙特利雅得！中国医疗创新企业出海实录",
+    "original_title": "齐聚沙特利雅得！中国医疗创新企业出海实录",
+    "date_precision": "second",
+    "summary": [
+      "动脉网10月25日回顾9月利雅得医学生物技术峰会，介绍晶泰以AI与量子物理驱动的药物设计平台提供计算研发能力。报道作者所在机构同时参与中国馆组织，保留组织者视角的来源限制。",
+      "材料讨论计算研发与临床、监管、本地人才及合作网络的对接。它确认的是能力展示与接触合作机会，没有披露晶泰新增签约对象或金额；不能把9月参展写成10月25日新交易，也不能把参展企业全部归入AI4Science。",
+      "对应上市公司历史档案仅补充业务与参展注记。活动目标、市场预测和组织方评价不作为已实现收入、融资或药物疗效。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "url": "https://proofsandprompts.com/2026/10/25/two-technical-questions-floating-intellectual-property-and-liability-risks-of-ai-agents-and-users-in-research/",
+    "published_at": "2026-10-25T12:00:00+00:00",
+    "discipline_tags": [
+      "数学"
+    ],
+    "content_angle_tags": [
+      "研究/方法",
+      "政策与生态"
+    ],
+    "id": "AI4SCI-20261026-08",
+    "title": "两个技术问题：研究中浮动的知识产权，以及AI智能体与使用者的责任风险",
+    "original_title": "Two technical questions: floating intellectual property and liability risks of AI agents and users in research",
+    "date_precision": "second",
+    "summary": [
+      "Pedro Freitas讨论未公开数学想法与科研代理的可追溯性：想法何时进入模型交互，后续使用者能否识别原贡献者，以及代理实际访问过哪些资料。文章提出问题与情境，未给出已确立的责任结论。",
+      "两组设问分别关乎科学贡献的归属与自主行动的边界。对科研记录而言，模型版本、材料来源、实际访问和人工允许的步骤有助于说明来历，但记录本身不自动解决署名或责任争议。",
+      "本条保留作者讨论的性质，不将文中未独立核实的外部事件复述为确认新闻，也不把假设情境写成某个模型已经发生的行为。"
+    ],
+    "source_verification": {
+      "verification_status": "source-report-based; source checked upstream",
+      "limits": "机构、企业、作者观点及媒体转述分别归属；未独立复现"
+    },
+    "appearances": [
+      "digests/ai4science/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
   }
 ]

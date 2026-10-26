@@ -376,7 +376,7 @@
   },
   {
     "title": "Autonomous Algorithm Discovery for Ptychography via Evolutionary LLM Reasoning",
-    "team": "Xiangyu Yin、Ming Du等；APS关注作者后续补读",
+    "team": "Xiangyu Yin、Ming Du等",
     "doi": "10.48550/arXiv.2603.05696",
     "arxiv": "2603.05696",
     "url": "https://arxiv.org/abs/2603.05696",
@@ -2173,6 +2173,116 @@
     "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
     "appearances": [
       "digests/scientific-computer-use/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems",
+    "team": "Dhairya Shah、Spanddhana Sara、Savitha Viswanadh Kandala、Ambuj Varshney；NUS",
+    "doi": "10.48550/arXiv.2610.24231",
+    "arxiv": "2610.24231",
+    "url": "https://arxiv.org/abs/2610.24231",
+    "fulltext_url": "https://arxiv.org/html/2610.24231v1",
+    "version_date": "2026-10-16",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-26T07:14:47.038513+08:00",
+    "evidence": "4任务×6模型每条件1次；基线13/24，整套LoopHIL19/24；困难任务1/6→5/6；增加省电目标后5/6→1/6",
+    "read_first": "§3.4、§4.4–4.5、表3–4、图6",
+    "id": "arxiv:2610.24231",
+    "first_published": "2026-10-16",
+    "verified_version": "v1",
+    "limitations": "四项任务、六模型、每条件每格一次，共24对；达到独立硬件验收从13/24到19/24，困难任务从1/6到5/6。增加省电目标后同一困难任务却从5/6降到1/6，说明优化可能破坏解码；论文记录依据新测量撤销DMA方案。工具、技能和验证流程整体变化，不能单独归因接口；迁移人时未知，小样本不能估计部署故障率，上游测量通过也不保证商用接收机通过。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Self-Building Labs",
+    "team": "Jiaru Bai等、Alán Aspuru-Guzik团队；Toronto/Acceleration Consortium/Vector/NVIDIA等",
+    "doi": "10.48550/arXiv.2610.23826",
+    "arxiv": "2610.23826",
+    "url": "https://arxiv.org/abs/2610.23826",
+    "fulltext_url": "https://arxiv.org/html/2610.23826v1",
+    "version_date": "2026-10-16",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-26T07:14:47.038513+08:00",
+    "evidence": "OT-2 236命令、轨道机械臂19阶段、PlateLoc和Cytation 5；60°C 8小时；无匹配人时/成功率对照",
+    "read_first": "§2.3–2.4、图5、Methods/讨论",
+    "id": "arxiv:2610.23826",
+    "first_published": "2026-10-16",
+    "verified_version": "v1",
+    "limitations": "实体CdS量子点案例中，OT-2执行236条命令，轨道机械臂完成19阶段，96孔板在60°C持续8小时后读谱。人仍负责备料、装载、计划批准与消歧；设备已经有认证HTTP/OpenAPI服务和批准工具。没有匹配工程人时或跨实验室成功率对照，更大机器人规模主要来自模拟；光谱用于分析，未展示根据新光谱选下一配方。8小时是实验条件，不是排队或端到端代理时延。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "CUAWright: A Minimal Unified Interface for Digital Agents",
+    "team": "Yadong Lu等；Microsoft Research、NUS、OSU、CMU",
+    "doi": "10.48550/arXiv.2610.04116",
+    "arxiv": "2610.04116",
+    "url": "https://arxiv.org/abs/2610.04116",
+    "fulltext_url": "https://arxiv.org/html/2610.04116v1",
+    "version_date": "2026-10-02",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-26T07:14:47.038513+08:00",
+    "evidence": "6基准；Mind2Web300任务136站同GPT5.4 83.4→88.1%；Desktop105任务同GPT5.5部分47.5→63.2、严格13.9→25.7%；Sol严格27.3→27.6%",
+    "read_first": "§2、表2、附录A4.2/A1",
+    "id": "arxiv:2610.04116",
+    "first_published": "2026-10-02",
+    "verified_version": "v1",
+    "limitations": "Online-Mind2Web有300任务、136网站，同GPT-5.4报告83.4%到88.1%；Desktop排除3项后为105任务，同GPT-5.5部分完成47.5到63.2、严格完成13.9%到25.7%。GPT-5.6 Sol严格完成仅27.3%到27.6%，说明子步骤进展与整项完成不同。部分基线资源与权限未全对齐，不能将差值全归因接口；报销跨应用案例只有部分得分，不是完整科学任务成功。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+    "team": "Jiening Siow等；Tsinghua、Zhipu AI、Renmin",
+    "doi": "10.48550/arXiv.2610.31372",
+    "arxiv": "2610.31372",
+    "url": "https://arxiv.org/abs/2610.31372",
+    "fulltext_url": "https://arxiv.org/html/2610.31372v1",
+    "version_date": "2026-10-22",
+    "type": "预印本/技术报告",
+    "verified_at": "2026-10-26T07:14:47.038513+08:00",
+    "evidence": "50任务×6配置300轨迹；另60参考轨迹F1 85.2%；20任务×3配置60配对，剩余检测问题14.9→9.4，8组恶化",
+    "read_first": "§3、§5.2、图4",
+    "id": "arxiv:2610.31372",
+    "first_published": "2026-10-22",
+    "verified_version": "v1",
+    "limitations": "50任务×6配置产生300轨迹，另有17名研究者参与标注的60条参考轨迹，实例级F1为85.2%（精确率87.1%、召回率83.3%）。20题×3配置的60组配对干预将剩余检测问题均值14.9降到9.4，仍有8组恶化。评估依赖检测器及模型事件匹配；故意保留可访问的禁用数据、预算较宽，不能外推真实违规率或科学收益，也没有证明等成本优势。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array",
+    "team": "Isabel A. Gerrard、Sofia Z. Sheikh；Oxford Breakthrough Listen、SETI Institute、UC Berkeley",
+    "doi": "10.48550/arXiv.2610.07065",
+    "arxiv": "2610.07065",
+    "url": "https://arxiv.org/abs/2610.07065",
+    "fulltext_url": "https://arxiv.org/html/2610.07065v1",
+    "version_date": "2026-10-05",
+    "type": "观测技术会议论文",
+    "verified_at": "2026-10-26T07:14:47.038513+08:00",
+    "evidence": "28有效天线双波束2356–3700MHz；约876在天小时；10511/11313指向有效，规划87660；仅84/126会话分析，8473/11212图已标；25候选14集中同指向近频",
+    "read_first": "§2.2–2.3、表3、§3.3/4.1",
+    "id": "arxiv:2610.07065",
+    "first_published": "2026-10-05",
+    "verified_version": "v1",
+    "limitations": "2024年8月至2026年8月约876在天小时，28有效天线、2356—3700MHz；11313指向中10511有效，相对87660规划指向约12%。126会话仅84进入分析，11212图中8473已人工标注。25候选中14集中在同一指向近频，不是25个独立发现或确认信号；后续重观测结果未报告。跨期干扰参数变化影响比较，5分钟是扫描时间，不能作为申请排队或全流程时延。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-26.md"
     ],
     "provenance": "ai-assisted-literature-notes"
   }

@@ -42,3 +42,6 @@
 - [Self-Driving Telescopes: Autonomous Scheduling of Astronomical Observation Campaigns with Offline Reinforcement Learning](https://arxiv.org/abs/2311.18094) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
 - [ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization](https://arxiv.org/abs/2610.30851) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
 - [LAP: An Agent-to-Instrument Protocol for Autonomous Science](https://arxiv.org/abs/2606.03755) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems](https://arxiv.org/abs/2610.24231) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [Self-Building Labs](https://arxiv.org/abs/2610.23826) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array](https://arxiv.org/abs/2610.07065) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)

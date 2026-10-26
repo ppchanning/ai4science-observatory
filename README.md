@@ -24,12 +24,12 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-10-26** — Added [8 news events](digests/ai4science/2026/2026-10-26.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-26.md) in 2 issues; [revised 1 business record](data/README.md) and cleaned reading-status and private comparison wording in 2 historical notes and 1 existing bibliography record. Functional checks, hardware feedback and mathematical review.
 - **2026-10-25** — Added [7 news events](digests/ai4science/2026/2026-10-24.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-24.md); backfilled 2 issues dated 2026-10-24, with 1 returning news appearance and [1 new source](resources/sources.md). Evidence gates, clinical claims and mathematical commons.
 - **2026-10-23** — Added [10 news events](digests/ai4science/2026/2026-10-23.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-23.md) in 2 issues, plus [1 historical hardware-standard evidence record](resources/remote-labs.md). Revised 2 historical explanations; includes 1 returning news appearance. Physical checks and scientific interfaces.
 - **2026-10-22** — Added [12 news events](digests/ai4science/2026/2026-10-22.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-22.md) in 2 issues; [revised 1 company record](data/industry/public-company-initiatives.csv). Recovery evidence, scientific workflows and mathematical understanding.
 - **2026-10-21** — Added [17 news events in 1 issue](digests/ai4science/2026/2026-10-21.md), revised 3 historical news explanations, and [revised 1 business record](data/README.md). Measurement constraints, experimental feedback and mathematical research; collaboration milestones retain their conditions.
 - **2026-10-20** — Added [13 news events](digests/ai4science/2026/2026-10-20.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-20.md) in 2 issues; added [1 company and 1 funding event, and revised 1 business record](data/README.md). Physical feedback, interface robustness and mathematical responsibility.
-- **2026-10-19** — Added [8 news events](digests/ai4science/2026/2026-10-19.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-19.md) in 2 issues; corrected 1 existing paper record in 2 CSVs. Crystal representations, scientific verification and remote astronomy.
 <!-- updates-daily:end -->
 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
@@ -68,8 +68,8 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 
 | What you want to do | Where to start | What you get |
 | --- | --- | --- |
-| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-10-24.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
-| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-10-24.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
+| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-10-26.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
+| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-10-26.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
 | Build a reading path around a question | [Topic map](topics/README.md) · [Paper catalog](resources/papers.md) | Papers connected by methods and settings, with original sources for checking claims |
 | Build your own information feed | [Source directory](resources/sources.md) | Institutions, journals, projects, and specialist media, with collection methods and historical verification information |
 | Compare research areas, projects, or industry developments | [Data guide](data/README.md) | Downloadable catalogs of papers, surveys, companies, funding events, jobs, and institutional programs |
@@ -136,9 +136,9 @@ Paper tables may overlap; their row counts cannot be added to obtain a unique pa
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-10-25**: **31 science digests · 338 deduplicated news events · 24 scientific-agent reading issues · 109 bibliography entries · 174 sources · 11 CSV datasets**.
+As of **2026-10-26**: **32 science digests · 346 deduplicated news events · 25 scientific-agent reading issues · 114 bibliography entries · 174 sources · 11 CSV datasets**.
 
-News archives cover 2026-09-22 through 2026-10-24; reading issues cover 2026-09-28 through 2026-10-24. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
+News archives cover 2026-09-22 through 2026-10-26; reading issues cover 2026-09-28 through 2026-10-26. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

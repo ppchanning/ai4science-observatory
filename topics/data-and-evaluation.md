@@ -70,3 +70,8 @@
 - [GAV: A scientific experimentation environment for PDE agents](https://arxiv.org/abs/2610.30292) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
 - [ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization](https://arxiv.org/abs/2610.30851) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
 - [LAP: An Agent-to-Instrument Protocol for Autonomous Science](https://arxiv.org/abs/2606.03755) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems](https://arxiv.org/abs/2610.24231) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [Self-Building Labs](https://arxiv.org/abs/2610.23826) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [CUAWright: A Minimal Unified Interface for Digital Agents](https://arxiv.org/abs/2610.04116) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention](https://arxiv.org/abs/2610.31372) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array](https://arxiv.org/abs/2610.07065) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)

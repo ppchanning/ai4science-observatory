@@ -113,3 +113,8 @@
 | [GAV: A scientific experimentation environment for PDE agents](https://arxiv.org/abs/2610.30292) | Muheng Li、Wenlong Mou；University of Toronto、Vector Institute | 2026-10-21 | 预印本/技术报告 |
 | [ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization](https://arxiv.org/abs/2610.30851) | Zhaoran Feng等；南京大学、上海创智学院、复旦大学、同济大学等 | 2026-10-22 | 预印本/技术报告 |
 | [LAP: An Agent-to-Instrument Protocol for Autonomous Science](https://arxiv.org/abs/2606.03755) | Linwu Zhu、Liqiang Gao、Yan Chen、Dan Zhu、Jian Huang；Shiyanjia Lab | 2026-06-02 | 协议设计预印本 |
+| [LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems](https://arxiv.org/abs/2610.24231) | Dhairya Shah、Spanddhana Sara、Savitha Viswanadh Kandala、Ambuj Varshney；NUS | 2026-10-16 | 预印本/技术报告 |
+| [Self-Building Labs](https://arxiv.org/abs/2610.23826) | Jiaru Bai等、Alán Aspuru-Guzik团队；Toronto/Acceleration Consortium/Vector/NVIDIA等 | 2026-10-16 | 预印本/技术报告 |
+| [CUAWright: A Minimal Unified Interface for Digital Agents](https://arxiv.org/abs/2610.04116) | Yadong Lu等；Microsoft Research、NUS、OSU、CMU | 2026-10-02 | 预印本/技术报告 |
+| [RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention](https://arxiv.org/abs/2610.31372) | Jiening Siow等；Tsinghua、Zhipu AI、Renmin | 2026-10-22 | 预印本/技术报告 |
+| [A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array](https://arxiv.org/abs/2610.07065) | Isabel A. Gerrard、Sofia Z. Sheikh；Oxford Breakthrough Listen、SETI Institute、UC Berkeley | 2026-10-05 | 观测技术会议论文 |

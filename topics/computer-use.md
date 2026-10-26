@@ -27,3 +27,5 @@
 - [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
 - [LLM Agents as Suppliers of Physical System Models: Calibration and Acceptance in Modelica](https://arxiv.org/abs/2610.25019) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-23.md)
 - [Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
+- [LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems](https://arxiv.org/abs/2610.24231) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [CUAWright: A Minimal Unified Interface for Digital Agents](https://arxiv.org/abs/2610.04116) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
