@@ -118,3 +118,8 @@
 | [CUAWright: A Minimal Unified Interface for Digital Agents](https://arxiv.org/abs/2610.04116) | Yadong Lu等；Microsoft Research、NUS、OSU、CMU | 2026-10-02 | 预印本/技术报告 |
 | [RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention](https://arxiv.org/abs/2610.31372) | Jiening Siow等；Tsinghua、Zhipu AI、Renmin | 2026-10-22 | 预印本/技术报告 |
 | [A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array](https://arxiv.org/abs/2610.07065) | Isabel A. Gerrard、Sofia Z. Sheikh；Oxford Breakthrough Listen、SETI Institute、UC Berkeley | 2026-10-05 | 观测技术会议论文 |
+| [Adaptive Control of Scientific Instruments with Nonstationary Responses through Multimodal Agents](https://arxiv.org/abs/2610.32370) | Guoyang Shi等；ENN聚变、北京高磁场球形托卡马克聚变实验室等 | 2026-10-23 | arXiv预印本 |
+| [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](https://arxiv.org/abs/2610.31882) | Tristan Liang、Aravind Nagulu；Northeastern University Oakland | 2026-10-22 | arXiv预印本 |
+| [QuantumMatterExplorer: An Autonomous Agent for the Discovery of Quantum Many-Body Phases of Matter](https://arxiv.org/abs/2610.32001) | Jannes Nys、Andrew Jreissaty、Juan Carrasquilla；ETH Zürich | 2026-10-22 | arXiv预印本 |
+| [POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories](https://arxiv.org/abs/2610.32448) | Qifan Zhang等；HKUST（广州）、腾讯混元 | 2026-10-23 | arXiv预印本 |
+| [Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance](https://arxiv.org/abs/2610.32555) | Antonio Ken Iannillo等；卢森堡大学、Tilburg、GSSI、Naples Federico II等 | 2026-10-23 | arXiv预印本 |

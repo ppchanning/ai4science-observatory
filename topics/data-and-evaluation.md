@@ -75,3 +75,6 @@
 - [CUAWright: A Minimal Unified Interface for Digital Agents](https://arxiv.org/abs/2610.04116) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
 - [RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention](https://arxiv.org/abs/2610.31372) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
 - [A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array](https://arxiv.org/abs/2610.07065) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [Adaptive Control of Scientific Instruments with Nonstationary Responses through Multimodal Agents](https://arxiv.org/abs/2610.32370) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
+- [POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories](https://arxiv.org/abs/2610.32448) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
+- [Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance](https://arxiv.org/abs/2610.32555) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)

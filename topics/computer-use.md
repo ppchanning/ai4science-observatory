@@ -29,3 +29,6 @@
 - [Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-24.md)
 - [LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems](https://arxiv.org/abs/2610.24231) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
 - [CUAWright: A Minimal Unified Interface for Digital Agents](https://arxiv.org/abs/2610.04116) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](https://arxiv.org/abs/2610.31882) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
+- [QuantumMatterExplorer: An Autonomous Agent for the Discovery of Quantum Many-Body Phases of Matter](https://arxiv.org/abs/2610.32001) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
+- [POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories](https://arxiv.org/abs/2610.32448) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)

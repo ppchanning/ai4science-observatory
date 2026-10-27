@@ -45,3 +45,4 @@
 - [LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems](https://arxiv.org/abs/2610.24231) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
 - [Self-Building Labs](https://arxiv.org/abs/2610.23826) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
 - [A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array](https://arxiv.org/abs/2610.07065) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
+- [Adaptive Control of Scientific Instruments with Nonstationary Responses through Multimodal Agents](https://arxiv.org/abs/2610.32370) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)

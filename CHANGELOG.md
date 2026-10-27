@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-27** — Added [15 news events and commentaries](digests/ai4science/2026/2026-10-27.md), [5 research resources](digests/scientific-computer-use/2026/2026-10-27.md), and [1 company / 1 funding event](data/README.md) in 2 issues. Instrument feedback, scientific software and evidence checks; original dates retained.
+
 - **2026-10-26** — Added [8 news events](digests/ai4science/2026/2026-10-26.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-26.md) in 2 issues; [revised 1 business record](data/README.md) and cleaned reading-status and private comparison wording in 2 historical notes and 1 existing bibliography record. Functional checks, hardware feedback and mathematical review.
 
 - **2026-10-25** — Added [7 news events](digests/ai4science/2026/2026-10-24.md) and [5 research resources](digests/scientific-computer-use/2026/2026-10-24.md); backfilled 2 issues dated 2026-10-24, with 1 returning news appearance and [1 new source](resources/sources.md). Evidence gates, clinical claims and mathematical commons. No paper or news-body revisions; the returning event only gains an issue reference.
