@@ -70,3 +70,18 @@
 | [2026-09-30](scientific-computer-use/2026/2026-09-30.md) | 2 |
 | [2026-09-29](scientific-computer-use/2026/2026-09-29.md) | 3 |
 | [2026-09-28](scientific-computer-use/2026/2026-09-28.md) | 4 |
+
+## 2026-11-02 补录
+
+- [2026-11-02 · ai4science](ai4science/2026/2026-11-02.md)
+- [2026-11-02 · scientific-computer-use](scientific-computer-use/2026/2026-11-02.md)
+- [2026-11-01 · ai4science](ai4science/2026/2026-11-01.md)
+- [2026-11-01 · scientific-computer-use](scientific-computer-use/2026/2026-11-01.md)
+- [2026-10-31 · ai4science](ai4science/2026/2026-10-31.md)
+- [2026-10-31 · scientific-computer-use](scientific-computer-use/2026/2026-10-31.md)
+- [2026-10-30 · ai4science](ai4science/2026/2026-10-30.md)
+- [2026-10-30 · scientific-computer-use](scientific-computer-use/2026/2026-10-30.md)
+- [2026-10-29 · ai4science](ai4science/2026/2026-10-29.md)
+- [2026-10-29 · scientific-computer-use](scientific-computer-use/2026/2026-10-29.md)
+- [2026-10-28 · ai4science](ai4science/2026/2026-10-28.md)
+- [2026-10-28 · scientific-computer-use](scientific-computer-use/2026/2026-10-28.md)

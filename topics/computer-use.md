@@ -32,3 +32,7 @@
 - [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](https://arxiv.org/abs/2610.31882) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
 - [QuantumMatterExplorer: An Autonomous Agent for the Discovery of Quantum Many-Body Phases of Matter](https://arxiv.org/abs/2610.32001) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
 - [POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories](https://arxiv.org/abs/2610.32448) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
+
+## 2026-11-02 补录：科学执行与验证
+
+[10月28日至11月2日阅读档案](../digests/README.md)：区分软件交互、真实仪器、历史数据与模拟；先确认反馈来源和验证条件，再比较成绩。

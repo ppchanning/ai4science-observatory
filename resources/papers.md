@@ -123,3 +123,32 @@
 | [QuantumMatterExplorer: An Autonomous Agent for the Discovery of Quantum Many-Body Phases of Matter](https://arxiv.org/abs/2610.32001) | Jannes Nys、Andrew Jreissaty、Juan Carrasquilla；ETH Zürich | 2026-10-22 | arXiv预印本 |
 | [POSEIDON: Scaling Training Environments for Scientific Agents from Code Repositories](https://arxiv.org/abs/2610.32448) | Qifan Zhang等；HKUST（广州）、腾讯混元 | 2026-10-23 | arXiv预印本 |
 | [Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance](https://arxiv.org/abs/2610.32555) | Antonio Ken Iannillo等；卢森堡大学、Tilburg、GSSI、Naples Federico II等 | 2026-10-23 | arXiv预印本 |
+| [The Right Fact, the Wrong Decision: SciValidityBench for Scientific Agent Memory](https://arxiv.org/abs/2610.34767) | Yuexi Pan、Yongchao Chen；清华大学／中国科大 | 2026-10-26 | arXiv预印本 |
+| [OS-Wizard: Scaling Computer-Using Agents to Specialized Software via Knowledge-Guided Exploration](https://arxiv.org/abs/2610.33907) | Zhoumianze Liu等；上海人工智能实验室、复旦大学、香港大学等 | 2026-10-24 | arXiv预印本 |
+| [Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents](https://arxiv.org/abs/2610.34298) | Zhenning Shi、Liang Pang、Yongqi Li；香港理工大学／中科院计算所 | 2026-10-25 | arXiv预印本 |
+| [MatOS: An Agent Operating System for Materials Research](https://arxiv.org/abs/2610.34203) | AI Materials Team；中关村学院／中关村人工智能研究院 | 2026-10-25 | arXiv预印本 |
+| [Data-driven acquisition offset correction for telescope networks using machine learning and sensitivity analysis](https://arxiv.org/abs/2610.34719) | Jackson Zariski等；亚利桑那大学Steward天文台／LCO／UCSB | 2026-10-26 | arXiv预印本 |
+| [From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents](https://arxiv.org/abs/2610.37482) | HKUST(GZ)/Shandong University | 2026-10-27 | preprint |
+| [ASTRA: An Autonomous Framework for Physics-Validated Analysis and Hypothesis Generation in Astrophysics](https://arxiv.org/abs/2610.36144) | Open University/STFC RAL Space | 2026-10-26 | preprint |
+| [Async-RBench: Benchmarking Asynchronous Task Execution in LLM Agents](https://arxiv.org/abs/2610.32429) | UESTC | 2026-10-23 | preprint |
+| [Can LLMs Uncover Hidden Physical Laws through Free Exploration?](https://arxiv.org/abs/2610.37649) | HKUST(GZ) | 2026-10-27 | preprint |
+| [TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information](https://arxiv.org/abs/2610.37571) | MIT/KAIST/UT Austin/University of Maryland | 2026-10-27 | preprint |
+| [EmbodiedLab: Benchmarking Embodied Agents That Act to Know](https://arxiv.org/abs/2610.35385) | HexaFuture/Tsinghua/NUS/PKU | 2026-10-26 | preprint |
+| [Making Self-Driving Laboratories Auditable: A Unified Framework for Hybrid Actions, Measurements, and Safe Execution](https://arxiv.org/abs/2610.36761) | SII/ECNU/Nankai/SJTU/Lixun | 2026-10-27 | preprint |
+| [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | Luma AI | 2026-10-13 | preprint |
+| [Closed-Loop Evaluation of LLM Agents for Embedded Software Development](https://arxiv.org/abs/2610.11447) | University of Alicante/UPV | 2026-10-08 | journal version stated in arxiv full text |
+| [Collaborative AI agents for autonomous experimental research with solid-state quantum spins](https://arxiv.org/abs/2610.40589) | Mansouri/Kimura/Koga/Arai; Institute of Science Tokyo | 2026-10-29 | preprint |
+| [VeriCUA: Verification as Agentic Exploration for Computer-Using Agents](https://arxiv.org/abs/2610.40578) | Qiushi Sun et al.; Google/HKU | 2026-10-29 | preprint |
+| [FLITS: an interactive, reproducible workbench for fast radio burst analysis](https://arxiv.org/abs/2610.37034) | Kuiper/Pleunis/Hessels; UAmsterdam/ASTRON/McGill | 2026-10-27 | preprint |
+| [FARMS: A Verifiable Foundation for Automated Computational Science](https://arxiv.org/abs/2610.40560) | Di Wu/Ling Liang/Haizhao Yang; UMD/UTennessee | 2026-10-29 | preprint |
+| [Schema-Bound LLM Control of Scientific Instrumentation through Model Context Protocol Skills](https://arxiv.org/abs/2607.17012) | Roberto dos Reis/Vinayak Dravid; Northwestern | 2026-07-19 | preprint |
+| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://arxiv.org/abs/2610.22200) | Alibaba Token Hub | 2026-10-15 | preprint/technical report |
+| [Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM](https://arxiv.org/abs/2610.38203) | Will Gunn et al.; University of Queensland/Raith/GenISys | 2026-10-28 | preprint/technical report |
+| [GOWC: an open tool for observing-conditions prediction and observation planning, tested against site monitors and an exposure-time calculator](https://arxiv.org/abs/2610.34940) | Ahzam Ahmed; Independent researcher, UK | 2026-10-26 | preprint/technical report |
+| [EnvOS: Auditing Computer-Use Agents When the World Moves On](https://arxiv.org/abs/2610.40246) | Ankush Kadu et al.; QpiAI | 2026-10-29 | preprint/technical report |
+| [Algebraic World Model: From Exploration to Proofs](https://arxiv.org/abs/2610.40503) | Pan/Tan/Yuan/Yao; Zhejiang/Tsinghua/Shanghai QiZhi | 2026-10-29 | preprint/technical report |
+| [HERA: Assessing an Autonomous Agent for Quantum Device Measurement](https://arxiv.org/abs/2610.39074) | Stanford/SLAC/NIMS; Gomez/Sharpe et al. | 2026-10-29 | preprint |
+| [Autonomous Quantum Measurement with Agentic AI](https://arxiv.org/abs/2610.38850) | MIT; Rha/Chotrattanapituk/Li et al. | 2026-10-28 | preprint |
+| [The Robotarium: A remotely accessible swarm robotics research testbed](https://arxiv.org/abs/1609.04730) | Georgia Tech; Pickem/Glotfelter/Egerstedt et al. | 2016-09-15 | preprint |
+| [Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents](https://arxiv.org/abs/2610.40545) | TUM/Nanjing; Strauß/Bing/Knoll | 2026-10-29 | preprint |
+| [Measuring Precipitable Water Vapor through Dual-Band GPS at Rubin Observatory](https://arxiv.org/abs/2610.40363) | Pittsburgh/Harvard/Rubin; Weyant/Wood-Vasey/Urbach et al. | 2026-10-29 | preprint |

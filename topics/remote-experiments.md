@@ -46,3 +46,7 @@
 - [Self-Building Labs](https://arxiv.org/abs/2610.23826) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
 - [A Technosignature Survey Of The Anti-Solar Point: The SETI Institute’s Largest-Ever Campaign With The Allen Telescope Array](https://arxiv.org/abs/2610.07065) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-26.md)
 - [Adaptive Control of Scientific Instruments with Nonstationary Responses through Multimodal Agents](https://arxiv.org/abs/2610.32370) · [阅读笔记](../digests/scientific-computer-use/2026/2026-10-27.md)
+
+## 2026-11-02 补录：科学执行与验证
+
+[10月28日至11月2日阅读档案](../digests/README.md)：区分软件交互、真实仪器、历史数据与模拟；先确认反馈来源和验证条件，再比较成绩。

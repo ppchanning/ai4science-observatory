@@ -2395,5 +2395,519 @@
       "digests/scientific-computer-use/2026/2026-10-27.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "arxiv": "2610.34767",
+    "title": "The Right Fact, the Wrong Decision: SciValidityBench for Scientific Agent Memory",
+    "team": "Yuexi Pan、Yongchao Chen；清华大学／中国科大",
+    "evidence": "64任务×10种子×4模型×5表示=12800原决策，另5120反事实；相对事件图提升9.2–18.8个百分点，95%区间>0",
+    "read_first": "§3.3、§4.3–4.4",
+    "doi": "10.48550/arXiv.2610.34767",
+    "url": "https://arxiv.org/abs/2610.34767",
+    "fulltext_url": "https://arxiv.org/html/2610.34767v1",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-28T07:10:04.576398+08:00",
+    "first_published": "2026-10-26",
+    "verified_version": "v1",
+    "limitations": "确定性状态编译依赖预置规则；未验证从任意截图/仪器日志提取；平铺状态亦可有效",
+    "id": "arxiv:2610.34767",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-28.md"
+    ]
+  },
+  {
+    "arxiv": "2610.33907",
+    "title": "OS-Wizard: Scaling Computer-Using Agents to Specialized Software via Knowledge-Guided Exploration",
+    "team": "Zhoumianze Liu等；上海人工智能实验室、复旦大学、香港大学等",
+    "evidence": "10919轨迹54938状态动作；Qwen3.5-27B ScienceBoard 5.9→64.1±0.7%，三轮/50步；2万样本混合55.0 vs无代码26.6",
+    "read_first": "§3.3、表1、图4(b)",
+    "doi": "10.48550/arXiv.2610.33907",
+    "url": "https://arxiv.org/abs/2610.33907",
+    "fulltext_url": "https://arxiv.org/html/2610.33907v1",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-28T07:10:04.576398+08:00",
+    "first_published": "2026-10-24",
+    "verified_version": "v1",
+    "limitations": "混合动作非纯GUI；训练分布混杂；人类59.8为引用非同条件重跑；软件快照不可推物理撤回",
+    "id": "arxiv:2610.33907",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-28.md"
+    ]
+  },
+  {
+    "arxiv": "2610.34298",
+    "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
+    "team": "Zhenning Shi、Liang Pang、Yongqi Li；香港理工大学／中科院计算所",
+    "evidence": "6模型×334任务=2004对轨迹，1889对结构分歧94.3%非失败率；Qwen14B ALF MCP20.1/CLI56.7，WebShop64.4/59.5；DART至多+9pp",
+    "read_first": "§4、表1、附录B.2",
+    "doi": "10.48550/arXiv.2610.34298",
+    "url": "https://arxiv.org/abs/2610.34298",
+    "fulltext_url": "https://arxiv.org/pdf/2610.34298",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-28T07:10:04.576398+08:00",
+    "first_published": "2026-10-25",
+    "verified_version": "v1",
+    "limitations": "不含截图GUI；不同环境得分含义不同；DART收益包含控制流程；CLI开销不总下降",
+    "id": "arxiv:2610.34298",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-28.md"
+    ]
+  },
+  {
+    "arxiv": "2610.34203",
+    "title": "MatOS: An Agent Operating System for Materials Research",
+    "team": "AI Materials Team；中关村学院／中关村人工智能研究院",
+    "evidence": "ResearchClawBench12任务GPT5.4得分19.46，相对MIRA+11.15%；MatTools48/49 vs47/49；SciAgentGym25/42 vs24/42，6个GPT5.5评判器各7例",
+    "read_first": "§2.2、§3.2–3.3、附录10",
+    "doi": "10.48550/arXiv.2610.34203",
+    "url": "https://arxiv.org/abs/2610.34203",
+    "fulltext_url": "https://arxiv.org/html/2610.34203v1",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-28T07:10:04.576398+08:00",
+    "first_published": "2026-10-25",
+    "verified_version": "v1",
+    "limitations": "不可用冻结评测证明自演化；窄任务只差1题；仪器Backend类型不等于实测闭环；迁移人时无受控证据",
+    "id": "arxiv:2610.34203",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-28.md"
+    ]
+  },
+  {
+    "arxiv": "2610.34719",
+    "title": "Data-driven acquisition offset correction for telescope networks using machine learning and sensitivity analysis",
+    "team": "Jackson Zariski等；亚利桑那大学Steward天文台／LCO／UCSB",
+    "evidence": "时间划分真实日志测试；RA平均绝对误差0.354→0.0323度约11倍、Dec0.059→0.012度约5倍；原始偏差为基线",
+    "read_first": "§4表3–4、§5–6",
+    "doi": "10.48550/arXiv.2610.34719",
+    "url": "https://arxiv.org/abs/2610.34719",
+    "fulltext_url": "https://arxiv.org/html/2610.34719v1",
+    "type": "arXiv预印本",
+    "verified_at": "2026-10-28T07:10:04.576398+08:00",
+    "first_published": "2026-10-26",
+    "verified_version": "v1",
+    "limitations": "14589条及70/10/20属坐标变换实验，非真实遥测分母；未现场对照现役模型；无资格费用/接入人时证据",
+    "id": "arxiv:2610.34719",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-28.md"
+    ]
+  },
+  {
+    "title": "From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents",
+    "arxiv": "2610.37482",
+    "url": "https://arxiv.org/abs/2610.37482",
+    "team": "HKUST(GZ)/Shandong University",
+    "type": "preprint",
+    "verified_at": "2026-10-29T13:38:59.618094+08:00",
+    "evidence": "截图GUI跨应用，以可见证据组织已确认成果；科学验收未知",
+    "read_first": "§3.2–3.3/Table3",
+    "first_published": "2026-10-27",
+    "verified_version": "unknown",
+    "limitations": "证据限于原始论文所述设置；未独立复现，不证明通用科学软件或物理仪器迁移。",
+    "id": "arxiv:2610.37482",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-29.md"
+    ]
+  },
+  {
+    "title": "ASTRA: An Autonomous Framework for Physics-Validated Analysis and Hypothesis Generation in Astrophysics",
+    "arxiv": "2610.36144",
+    "url": "https://arxiv.org/abs/2610.36144",
+    "team": "Open University/STFC RAL Space",
+    "type": "preprint",
+    "verified_at": "2026-10-29T13:38:59.618094+08:00",
+    "evidence": "专用Python负责科学计算，LLM只作界面翻译解释；真实历史观测及合成数据，无新曝光",
+    "read_first": "§2.5/§3.5",
+    "first_published": "2026-10-26",
+    "verified_version": "unknown",
+    "limitations": "证据限于原始论文所述设置；未独立复现，不证明通用科学软件或物理仪器迁移。",
+    "id": "arxiv:2610.36144",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-29.md"
+    ]
+  },
+  {
+    "title": "Async-RBench: Benchmarking Asynchronous Task Execution in LLM Agents",
+    "arxiv": "2610.32429",
+    "url": "https://arxiv.org/abs/2610.32429",
+    "team": "UESTC",
+    "type": "preprint",
+    "verified_at": "2026-10-29T13:38:59.618094+08:00",
+    "evidence": "软件任务受控异步返回；过程与结果分开评分；非物理实验",
+    "read_first": "§3.2/§4.4",
+    "first_published": "2026-10-23",
+    "verified_version": "unknown",
+    "limitations": "证据限于原始论文所述设置；未独立复现，不证明通用科学软件或物理仪器迁移。",
+    "id": "arxiv:2610.32429",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-29.md"
+    ]
+  },
+  {
+    "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+    "arxiv": "2610.37649",
+    "url": "https://arxiv.org/abs/2610.37649",
+    "team": "HKUST(GZ)",
+    "type": "preprint",
+    "verified_at": "2026-10-29T13:38:59.618094+08:00",
+    "evidence": "MuJoCo改变物理规律，结构化动作和装置设计；新模拟观察改变探索",
+    "read_first": "§4.1–4.2/Fig5–6",
+    "first_published": "2026-10-27",
+    "verified_version": "unknown",
+    "limitations": "证据限于原始论文所述设置；未独立复现，不证明通用科学软件或物理仪器迁移。",
+    "id": "arxiv:2610.37649",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-29.md"
+    ]
+  },
+  {
+    "title": "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
+    "arxiv": "2610.37571",
+    "url": "https://arxiv.org/abs/2610.37571",
+    "team": "MIT/KAIST/UT Austin/University of Maryland",
+    "type": "preprint",
+    "verified_at": "2026-10-29T13:38:59.618094+08:00",
+    "evidence": "既有文本/代码事实分配；通信与检索分别比较，无仪器",
+    "read_first": "§3.2/§4.2",
+    "first_published": "2026-10-27",
+    "verified_version": "unknown",
+    "limitations": "证据限于原始论文所述设置；未独立复现，不证明通用科学软件或物理仪器迁移。",
+    "id": "arxiv:2610.37571",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-29.md"
+    ]
+  },
+  {
+    "arxiv": "2610.35385",
+    "title": "EmbodiedLab: Benchmarking Embodied Agents That Act to Know",
+    "url": "https://arxiv.org/abs/2610.35385",
+    "team": "HexaFuture/Tsinghua/NUS/PKU",
+    "type": "preprint",
+    "evidence": "答案必须引用本轮仪器记录；原生层最强43.3%为实验等权平均",
+    "limitations": "无真实硬件或跨科研应用证明",
+    "verified_at": "2026-10-30T13:41:15.168662+08:00",
+    "first_published": "2026-10-26",
+    "verified_version": "v1",
+    "id": "arxiv:2610.35385",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-30.md"
+    ]
+  },
+  {
+    "arxiv": "2610.36761",
+    "title": "Making Self-Driving Laboratories Auditable: A Unified Framework for Hybrid Actions, Measurements, and Safe Execution",
+    "url": "https://arxiv.org/abs/2610.36761",
+    "team": "SII/ECNU/Nankai/SJTU/Lixun",
+    "type": "preprint",
+    "evidence": "架构与初始实现；评估计划不是已完成比较实验",
+    "limitations": "迁移人时及性能未验证",
+    "verified_at": "2026-10-30T13:41:15.168662+08:00",
+    "first_published": "2026-10-27",
+    "verified_version": "v1",
+    "id": "arxiv:2610.36761",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-30.md"
+    ]
+  },
+  {
+    "arxiv": "2610.18792",
+    "title": "SEAR: Self-Evolving Agentic Robotics",
+    "url": "https://arxiv.org/abs/2610.18792",
+    "team": "Luma AI",
+    "type": "preprint",
+    "evidence": "代理自选重置条件可高估练习表现；独立操作者设置测试场景",
+    "limitations": "任务混合评分非统一二元成功率；新机器人展示非技能迁移",
+    "verified_at": "2026-10-30T13:41:15.168662+08:00",
+    "first_published": "2026-10-13",
+    "verified_version": "v1",
+    "id": "arxiv:2610.18792",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-30.md"
+    ]
+  },
+  {
+    "arxiv": "2610.11447",
+    "title": "Closed-Loop Evaluation of LLM Agents for Embedded Software Development",
+    "url": "https://arxiv.org/abs/2610.11447",
+    "team": "University of Alicante/UPV",
+    "type": "journal version stated in arxiv full text",
+    "evidence": "7配置×5任务×4反馈×3重复=420；隐藏验收区分自测与控制行为",
+    "limitations": "无真实电路；详细反馈与原始观测不可混同",
+    "verified_at": "2026-10-30T13:41:15.168662+08:00",
+    "doi": "10.1016/j.sysarc.2026.103937",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "id": "arxiv:2610.11447",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-30.md"
+    ]
+  },
+  {
+    "arxiv": "2610.40589",
+    "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+    "url": "https://arxiv.org/abs/2610.40589",
+    "team": "Mansouri/Kimura/Koga/Arai; Institute of Science Tokyo",
+    "type": "preprint",
+    "evidence": "最终6小时21600条有效一秒记录；对比量实测40.0±0.4与预测39.7±1.3，单位10^-3加权计数/shot",
+    "limitations": "10个独立校准设置不是10次采样；专用装置与代码，没有跨厂商迁移工程量对照",
+    "verified_at": "2026-10-31T08:49:37.526208+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.40589",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-31.md"
+    ]
+  },
+  {
+    "arxiv": "2610.40578",
+    "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+    "url": "https://arxiv.org/abs/2610.40578",
+    "team": "Qiushi Sun et al.; Google/HKU",
+    "type": "preprint",
+    "evidence": "ScienceBoard169轨迹：一致率86.4%，明确决定70%，成功召回60%，失败误报5.4%",
+    "limitations": "验收正确率不是执行成功率；离线预算匹配不可外推所有在线设置",
+    "verified_at": "2026-10-31T08:49:37.526208+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.40578",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-31.md"
+    ]
+  },
+  {
+    "arxiv": "2610.37034",
+    "title": "FLITS: an interactive, reproducible workbench for fast radio burst analysis",
+    "url": "https://arxiv.org/abs/2610.37034",
+    "team": "Kuiper/Pleunis/Hessels; UAmsterdam/ASTRON/McGill",
+    "type": "preprint",
+    "evidence": "公开参考流程，与读取器、fitburst及RM-Tools参考数据核对；JSON保存输入校验和与分析条件",
+    "limitations": "重放不重算所有可选扫描/拟合；没有效率对照或完整环境封装",
+    "verified_at": "2026-10-31T08:49:37.526208+08:00",
+    "first_published": "2026-10-27",
+    "verified_version": "v1",
+    "id": "arxiv:2610.37034",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-31.md"
+    ]
+  },
+  {
+    "arxiv": "2610.40560",
+    "title": "FARMS: A Verifiable Foundation for Automated Computational Science",
+    "url": "https://arxiv.org/abs/2610.40560",
+    "team": "Di Wu/Ling Liang/Haizhao Yang; UMD/UTennessee",
+    "type": "preprint",
+    "evidence": "171目标接受157，154无警告加3来源警告；热流和波响应计算示例",
+    "limitations": "接受率不等于所有定理完整证明；来源陈述仍为显式前提；六例成本对照有限",
+    "verified_at": "2026-10-31T08:49:37.526208+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.40560",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-31.md"
+    ]
+  },
+  {
+    "arxiv": "2607.17012",
+    "title": "Schema-Bound LLM Control of Scientific Instrumentation through Model Context Protocol Skills",
+    "url": "https://arxiv.org/abs/2607.17012",
+    "team": "Roberto dos Reis/Vinayak Dravid; Northwestern",
+    "type": "preprint",
+    "evidence": "30工具5长任务6技能；120确定性测试，15模型集成测试各轮通过12–15",
+    "limitations": "示例适配器不是完成商业部署；参数边界不等于完整状态安全；模型探测单轮",
+    "verified_at": "2026-10-31T08:49:37.526208+08:00",
+    "first_published": "2026-07-19",
+    "verified_version": "v1",
+    "id": "arxiv:2607.17012",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-10-31.md"
+    ]
+  },
+  {
+    "arxiv": "2610.22200",
+    "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+    "url": "https://arxiv.org/abs/2610.22200",
+    "team": "Alibaba Token Hub",
+    "type": "preprint/technical report",
+    "evidence": "八模型平均部分分45.3→64.9；平均相对步数-53%；同权限代码执行+6.1分",
+    "limitations": "部分得分非完整成功；步骤非时间；无仪器迁移工程量",
+    "verified_at": "2026-11-01T08:43:58.175340+08:00",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "id": "arxiv:2610.22200",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-01.md"
+    ]
+  },
+  {
+    "arxiv": "2610.38203",
+    "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
+    "url": "https://arxiv.org/abs/2610.38203",
+    "team": "Will Gunn et al.; University of Queensland/Raith/GenISys",
+    "type": "preprint/technical report",
+    "evidence": "400张5×5微米图像约5.5小时；2nm/px，线宽误差保守±4nm；两种胶校准",
+    "limitations": "三点对准仍人工；三天到一天为作者估计；无公开远程接入/许可成本证据",
+    "verified_at": "2026-11-01T08:43:58.175340+08:00",
+    "first_published": "2026-10-28",
+    "verified_version": "v1",
+    "id": "arxiv:2610.38203",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-01.md"
+    ]
+  },
+  {
+    "arxiv": "2610.34940",
+    "title": "GOWC: an open tool for observing-conditions prediction and observation planning, tested against site monitors and an exposure-time calculator",
+    "url": "https://arxiv.org/abs/2610.34940",
+    "team": "Ahzam Ahmed; Independent researcher, UK",
+    "type": "preprint/technical report",
+    "evidence": "两仪器16点SNR与ING中位差1.9%；606夜水汽ρ.95且+43%偏差；575夜视宁度ρ.24低于风速.27/持续.42",
+    "limitations": "2642是目录台址非接入仪器；暴露时间非排队；跨站预测弱",
+    "verified_at": "2026-11-01T08:43:58.175340+08:00",
+    "first_published": "2026-10-26",
+    "verified_version": "v1",
+    "id": "arxiv:2610.34940",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-01.md"
+    ]
+  },
+  {
+    "arxiv": "2610.40246",
+    "title": "EnvOS: Auditing Computer-Use Agents When the World Moves On",
+    "url": "https://arxiv.org/abs/2610.40246",
+    "team": "Ankush Kadu et al.; QpiAI",
+    "type": "preprint/technical report",
+    "evidence": "预约16配对：Opus5无提示0/16，提醒2/16，当前值15/16；校正p=.00293；外部问题检出25/39",
+    "limitations": "小样本任务；不普遍代表所有模型；审计仍漏14项",
+    "verified_at": "2026-11-01T08:43:58.175340+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.40246",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-01.md"
+    ]
+  },
+  {
+    "arxiv": "2610.40503",
+    "title": "Algebraic World Model: From Exploration to Proofs",
+    "url": "https://arxiv.org/abs/2610.40503",
+    "team": "Pan/Tan/Yuan/Yao; Zhejiang/Tsinghua/Shanghai QiZhi",
+    "type": "preprint/technical report",
+    "evidence": "两不可能关卡6运行证明均检查通过；初始界限4/6正确，反馈修复6/6；错误定位42次16→29，对照30",
+    "limitations": "证明正确依赖模型；完成7448动作外另总探索24604；随机噪声/硬件未验证",
+    "verified_at": "2026-11-01T08:43:58.175340+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.40503",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-01.md"
+    ]
+  },
+  {
+    "arxiv": "2610.39074",
+    "title": "HERA: Assessing an Autonomous Agent for Quantum Device Measurement",
+    "url": "https://arxiv.org/abs/2610.39074",
+    "team": "Stanford/SLAC/NIMS; Gomez/Sharpe et al.",
+    "type": "preprint",
+    "evidence": "盲测2器件与封存专家一致；2模型x2知识库消融；6模型300离线设计；第二rig数小时协议与2纠正",
+    "limitations": "2器件不是广泛成功率；依赖专家知识和专用工具，非零接入",
+    "verified_at": "2026-11-02T07:09:34.591726+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.39074",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-02.md"
+    ]
+  },
+  {
+    "arxiv": "2610.38850",
+    "title": "Autonomous Quantum Measurement with Agentic AI",
+    "url": "https://arxiv.org/abs/2610.38850",
+    "team": "MIT; Rha/Chotrattanapituk/Li et al.",
+    "type": "preprint",
+    "evidence": "12可读值为量程恢复读数；3mA不一致被弃；SNR6.81<10；1s未满足精度；机制分离电阻范围3.28%",
+    "limitations": "案例无匹配人/GUI广泛成功率；物理操作人授权，仍需驱动集成",
+    "verified_at": "2026-11-02T07:09:34.591726+08:00",
+    "first_published": "2026-10-28",
+    "verified_version": "v1",
+    "id": "arxiv:2610.38850",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-02.md"
+    ]
+  },
+  {
+    "arxiv": "1609.04730",
+    "title": "The Robotarium: A remotely accessible swarm robotics research testbed",
+    "url": "https://arxiv.org/abs/1609.04730",
+    "team": "Georgia Tech; Pickem/Glotfelter/Egerstedt et al.",
+    "type": "preprint",
+    "evidence": "约30000样本拟合动力学；0.0052m最近轨迹平均距离；远程外部使用案例",
+    "limitations": "2016论文不能证明当前资格费用时延；局部控制速率非远程周转",
+    "verified_at": "2026-11-02T07:09:34.591726+08:00",
+    "first_published": "2016-09-15",
+    "verified_version": "v1",
+    "id": "arxiv:1609.04730",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-02.md"
+    ]
+  },
+  {
+    "arxiv": "2610.40545",
+    "title": "Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents",
+    "url": "https://arxiv.org/abs/2610.40545",
+    "team": "TUM/Nanjing; Strauß/Bing/Knoll",
+    "type": "preprint",
+    "evidence": "检索各6种子，平均曲线回报0.95首次越过：0.59M/0.94M/>2M；短上下文无检索也能行为编码",
+    "limitations": "固定几何/单次检索；完整理论未测试；负对照不支持能力差距",
+    "verified_at": "2026-11-02T07:09:34.591726+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.40545",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-02.md"
+    ]
+  },
+  {
+    "arxiv": "2610.40363",
+    "title": "Measuring Precipitable Water Vapor through Dual-Band GPS at Rubin Observatory",
+    "url": "https://arxiv.org/abs/2610.40363",
+    "team": "Pittsburgh/Harvard/Rubin; Weyant/Wood-Vasey/Urbach et al.",
+    "type": "preprint",
+    "evidence": "10 IGS站点；PWV准确度估计0.9kg/m2，形式精密度0.36；平滑对齐ERA5相关0.89",
+    "limitations": "无代理；历史数据；ERA5比较非完全独立；未证最终科学收益",
+    "verified_at": "2026-11-02T07:09:34.591726+08:00",
+    "first_published": "2026-10-29",
+    "verified_version": "v1",
+    "id": "arxiv:2610.40363",
+    "provenance": "ai-assisted-literature-notes",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-02.md"
+    ]
   }
 ]

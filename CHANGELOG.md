@@ -6,6 +6,12 @@
 
 Earlier entries follow material dates, backfilled at the repository launch on **2026-10-10**. These dates describe existing material, rather than earlier GitHub publication. Counts refer to unique entries linked to each issue in the structured catalogs, not first-time additions. Older digests without catalog entries are counted as issues only. Missing dates have no invented activity.
 
+## 2026-11-02
+
+- **2026-11-02** — Added 54 news entries and 29 research resources; revised 0 existing resources. [Backfilled 12 issues, October 28–November 2](digests/README.md). Scientific feedback, verification and evidence limits. Also added 1 company and 2 financing rows; revised 1 company and 1 literature record across 2 CSVs.
+
+Repeat source appearances: 4; not counted as new resources.
+
 ## Milestones
 
 - 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/curated.html) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.

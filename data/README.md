@@ -16,8 +16,8 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 | [catalogs/conference-candidates.csv](catalogs/conference-candidates.csv) | AI4Sci主会候选，902 条 |
 | [catalogs/reading-candidates.csv](catalogs/reading-candidates.csv) | 可follow论文库，1197 条 |
 | [industry/jobs.csv](industry/jobs.csv) | 岗位归档，60 条 |
-| [industry/startups.csv](industry/startups.csv) | 公司主表，43 条 |
-| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，50 条 |
+| [industry/startups.csv](industry/startups.csv) | 公司主表，44 条 |
+| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，52 条 |
 | [industry/research-programs.csv](industry/research-programs.csv) | 机构项目总表，18 条 |
 | [industry/public-company-initiatives.csv](industry/public-company-initiatives.csv) | 核心20家公司，20 条 |
 
@@ -74,3 +74,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 ### 2026-10-27 细胞疗法融资
 
 据[动脉网](https://www.vbdata.cn/1519101324)与[投资界](https://news.pedaily.cn/202610/570819.shtml)10月26日对公司披露的报道，新增锋寻生物1家公司、1条Pre-A融资事件。亿元人民币为本轮约数，成立以来累计近2亿元不是本轮金额；新老投资方分别保留。上海法人地址与报道卡片江苏存在口径差异，不推定迁址。交割日和估值未知，IIT不等于获批上市，融资不证明疗效。
+
+### 2026-11-02 补录与目录修订
+
+补录既有公开资料：新增1家公司、2条融资事件，修订百奥几何1条公司记录。系列累计超1亿美元不等于A+本轮金额；本轮未披露时保持未知。论文活动与技术范式修订涉及1条既有文献的2份CSV投影，不新增论文。被引数零/空值沿用公开历史口径，不因工作簿序列化变化批量改写。
