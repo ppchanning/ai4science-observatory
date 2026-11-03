@@ -24,8 +24,8 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-11-02** — Added 54 news entries and 29 research resources; revised 0 existing resources. [Backfilled 12 issues, October 28–November 2](digests/README.md). Scientific feedback, verification and evidence limits. Also added 1 company and 2 financing rows; revised 1 company and 1 literature record across 2 CSVs.
-- **2026-10-27** — Added [15 news events and commentaries](digests/ai4science/2026/2026-11-02.md), [5 research resources](digests/scientific-computer-use/2026/2026-11-02.md), and [1 company / 1 funding event](data/README.md) in 2 issues. Instrument feedback, scientific software and evidence checks; original dates retained.
+- **2026-11-03** — Added [5 research resources](digests/scientific-computer-use/2026/2026-11-03.md) and [6 news entries](digests/ai4science/2026/2026-11-03.md); 0 existing-resource revisions, 0 backfills. State verification and evidence limits. Corrected historical update links and the November 2 backfill count.
+- **2026-11-02** — Added 54 news entries and 29 research resources; revised 0 existing resources. [12 issues, October 28–November 2: 10 backfills and 2 current issues](digests/README.md). Scientific feedback, verification and evidence limits. Also added 1 company and 2 financing rows; revised 1 company and 1 literature record across 2 CSVs.
 <!-- updates-daily:end -->
 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
@@ -64,8 +64,8 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 
 | What you want to do | Where to start | What you get |
 | --- | --- | --- |
-| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-11-02.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
-| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-11-02.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
+| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-11-03.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
+| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-11-03.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
 | Build a reading path around a question | [Topic map](topics/README.md) · [Paper catalog](resources/papers.md) | Papers connected by methods and settings, with original sources for checking claims |
 | Build your own information feed | [Source directory](resources/sources.md) | Institutions, journals, projects, and specialist media, with collection methods and historical verification information |
 | Compare research areas, projects, or industry developments | [Data guide](data/README.md) | Downloadable catalogs of papers, surveys, companies, funding events, jobs, and institutional programs |
@@ -132,9 +132,9 @@ Paper tables may overlap; their row counts cannot be added to obtain a unique pa
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-11-02**: **39 science digests · 415 deduplicated news events · 32 scientific-agent reading issues · 148 bibliography entries · 174 sources · 11 CSV datasets**.
+As of **2026-11-03**: **40 science digests · 421 deduplicated news events · 33 scientific-agent reading issues · 153 bibliography entries · 174 sources · 11 CSV datasets**.
 
-News archives cover 2026-09-22 through 2026-11-02; reading issues cover 2026-09-28 through 2026-11-02. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
+News archives cover 2026-09-22 through 2026-11-03; reading issues cover 2026-09-28 through 2026-11-03. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

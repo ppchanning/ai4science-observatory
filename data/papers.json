@@ -2909,5 +2909,100 @@
     "appearances": [
       "digests/scientific-computer-use/2026/2026-11-02.md"
     ]
+  },
+  {
+    "title": "Evaluating Instrument-Centered AI Agents for Table-Top Science Experiments",
+    "team": "MIT/Boston College等",
+    "arxiv": "2610.41717",
+    "url": "https://arxiv.org/abs/2610.41717",
+    "type": "preprint",
+    "verification": "原始摘要与正文方法/关键实验/局限定向核验",
+    "verified_at": "2026-11-03T07:04:17.158481+08:00",
+    "evidence": "虚拟仪器；37任务，测量与分析量表分开；人工同意仅实验室部署模式",
+    "limitations": "限定所测配置、任务及接口，未证通用跨设施迁移",
+    "read_first": "§2、§3.2–3.3及图1",
+    "first_published": "2026-10-30",
+    "verified_version": "v1",
+    "id": "arxiv:2610.41717",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Verify–Backtrack Loop: Structured Precondition Recovery for Long-Horizon Language Agents",
+    "team": "CityU/Huawei Noah’s Ark",
+    "arxiv": "2610.41564",
+    "url": "https://arxiv.org/abs/2610.41564",
+    "type": "preprint",
+    "verification": "原始摘要与正文方法/关键实验/局限定向核验",
+    "verified_at": "2026-11-03T07:04:17.158481+08:00",
+    "evidence": "目标栈、双层验证与诊断；AppWorld417挑战任务；增加token开销",
+    "limitations": "限定所测配置、任务及接口，未证通用跨设施迁移",
+    "read_first": "§3.2–3.3、表3",
+    "first_published": "2026-10-30",
+    "verified_version": "v1",
+    "id": "arxiv:2610.41564",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
+    "team": "Tata Research Development and Design Center",
+    "arxiv": "2610.41267",
+    "url": "https://arxiv.org/abs/2610.41267",
+    "type": "preprint",
+    "verification": "原始摘要与正文方法/关键实验/局限定向核验",
+    "verified_at": "2026-11-03T07:04:17.158481+08:00",
+    "evidence": "规格构造、软件完成和数值验证分开；118/120含正确澄清/拒绝",
+    "limitations": "限定所测配置、任务及接口，未证通用跨设施迁移",
+    "read_first": "表5、附录C",
+    "first_published": "2026-10-30",
+    "verified_version": "v1",
+    "id": "arxiv:2610.41267",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution",
+    "team": "Accentrust及大学合作作者",
+    "arxiv": "2610.41453",
+    "url": "https://arxiv.org/abs/2610.41453",
+    "type": "preprint",
+    "verification": "原始摘要与正文方法/关键实验/局限定向核验",
+    "verified_at": "2026-11-03T07:04:17.158481+08:00",
+    "evidence": "58配对回合认证30对9；非真实仪器或真实费用",
+    "limitations": "限定所测配置、任务及接口，未证通用跨设施迁移",
+    "read_first": "§3–4、表6",
+    "first_published": "2026-10-30",
+    "verified_version": "v1",
+    "id": "arxiv:2610.41453",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity",
+    "team": "CMU/UC Berkeley等",
+    "arxiv": "2610.41970",
+    "url": "https://arxiv.org/abs/2610.41970",
+    "type": "preprint",
+    "verification": "原始摘要与正文方法/关键实验/局限定向核验",
+    "verified_at": "2026-11-03T07:04:17.158481+08:00",
+    "evidence": "263状态、八候选、两次重复；选择信号弱；端到端时延与FLOPs不同",
+    "limitations": "限定所测配置、任务及接口，未证通用跨设施迁移",
+    "read_first": "§4.1–4.3、表1",
+    "first_published": "2026-10-30",
+    "verified_version": "v1",
+    "id": "arxiv:2610.41970",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

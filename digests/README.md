@@ -1,11 +1,18 @@
 # Digest Archive
 
-按资料日期倒序排列。缺少日期表示未归档，不补造内容。数字为结构化目录中关联当期的去重条目数，不等于首次新增；“—”表示该历史日报尚无结构化条目，不能据此认定正文为空。
+按资料日期倒序排列。缺少日期表示未归档，不补造内容。
 
-## AI4Science Daily
+## AI4Science daily
 
-| 日期 | 结构化条目 |
+| 日期 | 阅读条目 |
 | --- | ---: |
+| [2026-11-03](ai4science/2026/2026-11-03.md) | 6 |
+| [2026-11-02](ai4science/2026/2026-11-02.md) | 11 |
+| [2026-11-01](ai4science/2026/2026-11-01.md) | 9 |
+| [2026-10-31](ai4science/2026/2026-10-31.md) | 10 |
+| [2026-10-30](ai4science/2026/2026-10-30.md) | 9 |
+| [2026-10-29](ai4science/2026/2026-10-29.md) | 8 |
+| [2026-10-28](ai4science/2026/2026-10-28.md) | 11 |
 | [2026-10-27](ai4science/2026/2026-10-27.md) | 15 |
 | [2026-10-26](ai4science/2026/2026-10-26.md) | 8 |
 | [2026-10-24](ai4science/2026/2026-10-24.md) | 8 |
@@ -37,13 +44,19 @@
 | [2026-09-26](ai4science/2026/2026-09-26.md) | 15 |
 | [2026-09-25](ai4science/2026/2026-09-25.md) | 25 |
 | [2026-09-24](ai4science/2026/2026-09-24.md) | 22 |
-| [2026-09-23](ai4science/2026/2026-09-23.md) | — |
 | [2026-09-22](ai4science/2026/2026-09-22.md) | 18 |
 
-## Scientific Computer Use
+## Scientific computer use
 
-| 日期 | 结构化条目 |
+| 日期 | 阅读条目 |
 | --- | ---: |
+| [2026-11-03](scientific-computer-use/2026/2026-11-03.md) | 5 |
+| [2026-11-02](scientific-computer-use/2026/2026-11-02.md) | 5 |
+| [2026-11-01](scientific-computer-use/2026/2026-11-01.md) | 5 |
+| [2026-10-31](scientific-computer-use/2026/2026-10-31.md) | 5 |
+| [2026-10-30](scientific-computer-use/2026/2026-10-30.md) | 4 |
+| [2026-10-29](scientific-computer-use/2026/2026-10-29.md) | 5 |
+| [2026-10-28](scientific-computer-use/2026/2026-10-28.md) | 5 |
 | [2026-10-27](scientific-computer-use/2026/2026-10-27.md) | 5 |
 | [2026-10-26](scientific-computer-use/2026/2026-10-26.md) | 5 |
 | [2026-10-24](scientific-computer-use/2026/2026-10-24.md) | 5 |
@@ -70,18 +83,3 @@
 | [2026-09-30](scientific-computer-use/2026/2026-09-30.md) | 2 |
 | [2026-09-29](scientific-computer-use/2026/2026-09-29.md) | 3 |
 | [2026-09-28](scientific-computer-use/2026/2026-09-28.md) | 4 |
-
-## 2026-11-02 补录
-
-- [2026-11-02 · ai4science](ai4science/2026/2026-11-02.md)
-- [2026-11-02 · scientific-computer-use](scientific-computer-use/2026/2026-11-02.md)
-- [2026-11-01 · ai4science](ai4science/2026/2026-11-01.md)
-- [2026-11-01 · scientific-computer-use](scientific-computer-use/2026/2026-11-01.md)
-- [2026-10-31 · ai4science](ai4science/2026/2026-10-31.md)
-- [2026-10-31 · scientific-computer-use](scientific-computer-use/2026/2026-10-31.md)
-- [2026-10-30 · ai4science](ai4science/2026/2026-10-30.md)
-- [2026-10-30 · scientific-computer-use](scientific-computer-use/2026/2026-10-30.md)
-- [2026-10-29 · ai4science](ai4science/2026/2026-10-29.md)
-- [2026-10-29 · scientific-computer-use](scientific-computer-use/2026/2026-10-29.md)
-- [2026-10-28 · ai4science](ai4science/2026/2026-10-28.md)
-- [2026-10-28 · scientific-computer-use](scientific-computer-use/2026/2026-10-28.md)

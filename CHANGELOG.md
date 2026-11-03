@@ -6,9 +6,13 @@
 
 Earlier entries follow material dates, backfilled at the repository launch on **2026-10-10**. These dates describe existing material, rather than earlier GitHub publication. Counts refer to unique entries linked to each issue in the structured catalogs, not first-time additions. Older digests without catalog entries are counted as issues only. Missing dates have no invented activity.
 
+## 2026-11-03
+
+- **2026-11-03** — Added [5 research resources](digests/scientific-computer-use/2026/2026-11-03.md) and [6 news entries](digests/ai4science/2026/2026-11-03.md); 0 existing-resource revisions, 0 backfills. State verification and evidence limits. Corrected historical update links and the November 2 backfill count.
+
 ## 2026-11-02
 
-- **2026-11-02** — Added 54 news entries and 29 research resources; revised 0 existing resources. [Backfilled 12 issues, October 28–November 2](digests/README.md). Scientific feedback, verification and evidence limits. Also added 1 company and 2 financing rows; revised 1 company and 1 literature record across 2 CSVs.
+- **2026-11-02** — Added 54 news entries and 29 research resources; revised 0 existing resources. [12 issues, October 28–November 2: 10 backfills and 2 current issues](digests/README.md). Scientific feedback, verification and evidence limits. Also added 1 company and 2 financing rows; revised 1 company and 1 literature record across 2 CSVs.
 
 Repeat source appearances: 4; not counted as new resources.
 

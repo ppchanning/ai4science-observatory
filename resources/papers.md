@@ -152,3 +152,9 @@
 | [The Robotarium: A remotely accessible swarm robotics research testbed](https://arxiv.org/abs/1609.04730) | Georgia Tech; Pickem/Glotfelter/Egerstedt et al. | 2016-09-15 | preprint |
 | [Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents](https://arxiv.org/abs/2610.40545) | TUM/Nanjing; Strauß/Bing/Knoll | 2026-10-29 | preprint |
 | [Measuring Precipitable Water Vapor through Dual-Band GPS at Rubin Observatory](https://arxiv.org/abs/2610.40363) | Pittsburgh/Harvard/Rubin; Weyant/Wood-Vasey/Urbach et al. | 2026-10-29 | preprint |
+
+| [Evaluating Instrument-Centered AI Agents for Table-Top Science Experiments](https://arxiv.org/abs/2610.41717) | MIT/Boston College等 | 2026-10-30 | preprint |
+| [Verify–Backtrack Loop: Structured Precondition Recovery for Long-Horizon Language Agents](https://arxiv.org/abs/2610.41564) | CityU/Huawei Noah’s Ark | 2026-10-30 | preprint |
+| [From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?](https://arxiv.org/abs/2610.41267) | Tata Research Development and Design Center | 2026-10-30 | preprint |
+| [Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution](https://arxiv.org/abs/2610.41453) | Accentrust及大学合作作者 | 2026-10-30 | preprint |
+| [When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity](https://arxiv.org/abs/2610.41970) | CMU/UC Berkeley等 | 2026-10-30 | preprint |

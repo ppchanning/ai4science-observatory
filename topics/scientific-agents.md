@@ -132,3 +132,5 @@
 - [The Robotarium: A remotely accessible swarm robotics research testbed](https://arxiv.org/abs/1609.04730)
 - [Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents](https://arxiv.org/abs/2610.40545)
 - [Measuring Precipitable Water Vapor through Dual-Band GPS at Rubin Observatory](https://arxiv.org/abs/2610.40363)
+
+- [2026-11-03：状态、工具反馈与验证的证据边界](../digests/scientific-computer-use/2026/2026-11-03.md)。
