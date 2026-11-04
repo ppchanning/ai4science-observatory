@@ -29,6 +29,21 @@
       "access_evidence": "原页有限研究预览及首批伙伴/等候名单；未来开源不等于已开放",
       "feedback": "原页设备控制案例；不外推通用科研闭环成绩",
       "timing_evidence": "官方集成缩时说法无匹配样本/对照，未作性能保证"
+    },
+    {
+      "key": "ata-agentic-nvidia-20261030",
+      "name": "Allen Telescope Array agentic observatory",
+      "verified_at": "2026-11-03T07:04:17.158481+08:00",
+      "source_date": "2026-10-30",
+      "source_urls": [
+        "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/"
+      ],
+      "verification": "官方公司现场报道，非原始对照论文；未独立复现",
+      "hardware": "公司报道真实望远镜及现场实时数据；不是数字仿真",
+      "interface": "Nexus协调仪器状态、计算资源和处理管线，Holoscan提供数据通路；属于专用集成，不证明截图GUI控制",
+      "feedback": "报道包含校准、数据纠错及实时脉冲星检测；未提供新检测驱动下一次观测的完整闭环轨迹",
+      "limitations": "未提供条件完整的性能、自主性或迁移对照；不采用数周或数年缩至数小时的效率主张",
+      "access_evidence": "公开预约、个人资格、自动化权限、费用、排队及实验时长未知；不能由现场部署推定开放接入"
     }
   ],
   "unknown_policy": "Missing and null are unknown, never zero/free/permitted."

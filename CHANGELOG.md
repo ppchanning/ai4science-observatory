@@ -6,6 +6,10 @@
 
 Earlier entries follow material dates, backfilled at the repository launch on **2026-10-10**. These dates describe existing material, rather than earlier GitHub publication. Counts refer to unique entries linked to each issue in the structured catalogs, not first-time additions. Older digests without catalog entries are counted as issues only. Missing dates have no invented activity.
 
+## 2026-11-04
+
+- **2026-11-04** — Added [1 observatory evidence record](resources/remote-labs.md#allen-telescope-array现场部署报道); 0 new papers/news, 0 revisions, 0 backfilled issues. Telescope deployment reports leave autonomy and public access unproven.
+
 ## 2026-11-03
 
 - **2026-11-03** — Added [5 research resources](digests/scientific-computer-use/2026/2026-11-03.md) and [6 news entries](digests/ai4science/2026/2026-11-03.md); 0 existing-resource revisions, 0 backfills. State verification and evidence limits. Corrected historical update links and the November 2 backfill count.
