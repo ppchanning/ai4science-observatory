@@ -5901,6 +5901,40 @@
       "evidence_url": "https://www.pathos.com/pathos-ai-secures-237-million-in-series-e-financing-to-scale-agentic-ai-drug-development-platform-and-advance-oncology-pipeline",
       "evidence_note": "Foundry智能体整合临床、基因组与样本数据，支持患者分组与试验设计；BMS/Tempus神经科学合作公告披露纵向数据与假设检验用途。商业效能均为公司自述。",
       "checked_at": "2026-10-24"
+    },
+    {
+      "source_id": "S182",
+      "name": "Warp Sciences · 研发与服务原始材料",
+      "nature": "低频企业研发参考",
+      "region": "美国",
+      "language": "英文",
+      "priority": "P2",
+      "role": "企业原始材料/公司自述",
+      "discipline_tags": {
+        "生命医药": "很多",
+        "化学": "很多",
+        "材料": "未见",
+        "物理": "未见",
+        "地球气候": "未见",
+        "能源": "未见",
+        "数学与科学计算": "未见"
+      },
+      "facet_tags": {
+        "技术": "很多",
+        "商业": "很多",
+        "金融": "未见",
+        "政策": "未见"
+      },
+      "focus": "AI辅助药物化学、机器人合成、先导化合物优化与按交付计费",
+      "home_url": "https://warp.xyz/",
+      "collect_url": "https://warp.xyz/",
+      "method": "html_agent",
+      "access_status": "主页与Working with Warp正文GET200",
+      "observed_frequency": "仅核两页无日期服务说明，不推断更新频率",
+      "official_frequency": "未声明",
+      "evidence_url": "https://warp.xyz/working-with-warp/",
+      "evidence_note": "公司说明AI与机器人用于先导优化中的类似物合成，实验反馈改进模型，按交付化合物收费；仍处少量设计伙伴阶段。",
+      "checked_at": "2026-11-05"
     }
   ],
   "note": "Historical checks; access and frequency may change."

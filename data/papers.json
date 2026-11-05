@@ -3004,5 +3004,85 @@
       "digests/scientific-computer-use/2026/2026-11-03.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A semi-autonomous multi-agent pipeline for high-energy astrophysics research with enforced provenance and verifiable self-extension",
+    "team": "Fang Zhou; Washington University in St. Louis",
+    "arxiv": "2611.05251",
+    "url": "https://arxiv.org/abs/2611.05251",
+    "type": "preprint",
+    "verification": "原始摘要及正文方法、关键实验、局限定向核验；未独立复现",
+    "verified_at": "2026-11-05T07:06:12.011730+08:00",
+    "evidence": "65植入缺陷漏过1个；69正确修改误拒40个；CygX-1比较14量均在3σ内，但有系统偏差与分析条件差异",
+    "limitations": "证据出处约束不等于科学正确；文献数值不自动查证；误拒可能阻塞工具扩展",
+    "read_first": "§3、§5、§4.2",
+    "id": "arxiv:2611.05251",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "first_published": "2026-11-03",
+    "verified_version": "v1",
+    "fulltext_url": "https://arxiv.org/html/2611.05251v1"
+  },
+  {
+    "title": "The Agentic Observer Hackathon: Autonomous Decision-making in Simulated Astronomical Surveys",
+    "team": "Haosong Wang et al.; SHAO/CAS, CEA, LBNL等",
+    "arxiv": "2611.01988",
+    "url": "https://arxiv.org/abs/2611.01988",
+    "type": "preprint",
+    "verification": "原始摘要及正文方法、关键实验、局限定向核验；未独立复现",
+    "verified_at": "2026-11-05T07:06:12.011730+08:00",
+    "evidence": "102队，4保留场景；46队超过强基线；领先33576 vs基线27101为合成科学效用",
+    "limitations": "手写规划器贡献混杂；LLM使用由竞赛规则筛选；转向/读出开销省略；改科学优先级排名相关0.38",
+    "read_first": "环境行动定义、两条基线、排行榜及优先级变化实验",
+    "id": "arxiv:2611.01988",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "first_published": "2026-11-01",
+    "verified_version": "v1",
+    "fulltext_url": "https://arxiv.org/html/2611.01988v1"
+  },
+  {
+    "title": "AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion",
+    "team": "Olabode T. Ajenifujah, Amir Barati Farimani; Carnegie Mellon University",
+    "arxiv": "2611.05171",
+    "url": "https://arxiv.org/abs/2611.05171",
+    "type": "preprint",
+    "verification": "原始摘要及正文方法、关键实验、局限定向核验；未独立复现",
+    "verified_at": "2026-11-05T07:06:12.011730+08:00",
+    "evidence": "145提示×5=725；解析子集98.5%；65可行优化全部满足约束，中位距穷举最优1%；缺陷标签来自模拟几何",
+    "limitations": "模型内验证不等于真实缺陷或良率；MCP需要专用模型与封装工程",
+    "read_first": "§2.3、§2.6、§3.5–3.7",
+    "id": "arxiv:2611.05171",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "first_published": "2026-11-03",
+    "verified_version": "v1",
+    "fulltext_url": "https://arxiv.org/html/2611.05171v1"
+  },
+  {
+    "title": "RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing",
+    "team": "Hao Zhang et al.; Khalifa University、NUAA、JAIST等",
+    "arxiv": "2610.05485",
+    "url": "https://arxiv.org/abs/2610.05485",
+    "type": "preprint",
+    "verification": "原始摘要及正文方法、关键实验、局限定向核验；未独立复现",
+    "verified_at": "2026-11-05T07:06:12.011730+08:00",
+    "evidence": "固定3次采集预算1560回合：联合成功66.60% vs64.29%，差2.31pp CI[0.96,3.85]；采集降12.3%，请求增1至2.876",
+    "limitations": "预算2/4优势区间含零；部分指令分布一次规划更好；视图证据相关；模型成本上升",
+    "read_first": "§V-A、§V-F及图7",
+    "id": "arxiv:2610.05485",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "first_published": "2026-10-04",
+    "verified_version": "v1",
+    "fulltext_url": "https://arxiv.org/html/2610.05485v1"
   }
 ]

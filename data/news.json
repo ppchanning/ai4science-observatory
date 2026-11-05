@@ -8593,5 +8593,95 @@
       "digests/ai4science/2026/2026-11-03.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-a9272d997c8c99",
+    "title": "Ai2与Google合作推进NeuralGCM+气候建模",
+    "url": "https://allenai.org/blog/google-climate-partnership",
+    "published_at": "2026-11-04",
+    "date_precision": "day",
+    "summary": [
+      "Ai2宣布Google.org三年资助与Google Research技术支持，计划推进开源NeuralGCM+。该路线保留大尺度物理动力学，用AI表示局地云与降水等过程，并计划连接海洋与海冰模型。",
+      "后续任务包括回算过去50年的区域误差、暖气候外推检验及GPU与文档改进。既有NeuralGCM和ACE的加速结果不属于新项目已实现的性能；开放协作仍需后续实验检验。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-9f5a65e6089d6e",
+    "title": "UCB与Cradle合作开展数字抗体工程",
+    "url": "https://www.cradle.bio/blog/ucb",
+    "published_at": "2026-11-04",
+    "date_precision": "day",
+    "summary": [
+      "UCB计划在选定抗体发现项目中使用Cradle平台，覆盖命中生成、先导优化和临床前准备。实验数据持续回流项目专用模型，用于下一轮候选设计与多属性优化。",
+      "公告未披露此次合作的具体效率增益。平台80多个活跃项目是整体业务口径，并非UCB合作规模；公司关于研发效能的说法不作为独立验证。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-ae745b4bf6ba7a",
+    "title": "MIT研究者因AI抗生素发现工作获奖",
+    "url": "https://www.eecs.mit.edu/regina-barzilay-and-jim-collins-win-pritzker-prize-for-ai-and-science-research-excellence-for-work-in-ai-enabled-antibiotic-discovery/",
+    "published_at": "2026-11-04",
+    "date_precision": "day",
+    "summary": [
+      "MIT报道Regina Barzilay和Jim Collins因AI辅助抗生素发现获得Pritzker奖，并回顾halicin和abaucin研究。模型从分子与实验活性中学习，再排序候选，把实验资源集中到值得检验的对象。",
+      "报道中的2020年与2023年成果是历史回顾，不能算作此次新实验。候选抗菌活性不等于临床疗效，后续仍需要更接近人体生物学的模型与验证。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-78890f91e8371b",
+    "title": "虚拟细胞研讨会讨论数据、样本与实验验证",
+    "url": "https://www.zj.news.cn/20261104/2e34f92348b54566a395973565778732/c.html",
+    "published_at": "2026-11-04T18:14:42+08:00",
+    "date_precision": "second",
+    "summary": [
+      "11月4日桐乡研讨会讨论虚拟细胞、数字小鼠、类器官与药物研究。报道标注来源墨卓生物，应理解为企业供稿；产业联盟讨论跨机构共享、标准和知识产权。",
+      "同源匹配的多模态样本可帮助模型关联可对应的生物状态，研发早期湿实验验证仍关键。诊疗全周期预测是发言者展望，联盟成立本身不证明模型能力。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-51a661acdf6abf",
+    "title": "机器人药物化学服务的交付与成本问题",
+    "url": "https://www.techlifesci.com/p/weekly-techbio-89-can-robots-bring",
+    "published_at": "2026-11-04T02:30:34+00:00",
+    "date_precision": "second",
+    "summary": [
+      "BiopharmaTrend通讯以Warp Sciences讨论AI、化学家与机器人协作的美国药物化学外包。公司服务说明称按交付化合物收费，聚焦先导优化，通常涉及5—15步合成，仍处少量设计伙伴阶段。",
+      "实验结果回流模型提供了改进路径，但价格竞争力、设备利用率和长期交付能力仍需客户项目验证。通讯所引融资原始报道为10月22日，不属于11月4日新融资。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-ce9dfab383be14",
+    "title": "为渐进式数学研究辩护：AI时代的审稿容量",
+    "url": "https://proofsandprompts.com/2026/11/04/in-defence-of-incremental-mathematics/",
+    "published_at": "2026-11-04T12:00:00+00:00",
+    "date_precision": "second",
+    "summary": [
+      "Anna Maltsev主张AI提高小步数学研究产出并不自动降低知识价值，重大进展依赖长期积累。她建议通过电子子刊和付费审稿扩展可信发表容量。",
+      "文中AI生成预算是倡议演算，非出版社已执行方案。个人效率体验不能推广到所有数学家；论证检查与研究重要性判断也需要分别评价。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
   }
 ]

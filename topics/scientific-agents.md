@@ -134,3 +134,5 @@
 - [Measuring Precipitable Water Vapor through Dual-Band GPS at Rubin Observatory](https://arxiv.org/abs/2610.40363)
 
 - [2026-11-03：状态、工具反馈与验证的证据边界](../digests/scientific-computer-use/2026/2026-11-03.md)。
+- [A semi-autonomous multi-agent pipeline for high-energy astrophysics research with enforced provenance and verifiable self-extension](https://arxiv.org/abs/2611.05251) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)
+- [AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion](https://arxiv.org/abs/2611.05171) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)

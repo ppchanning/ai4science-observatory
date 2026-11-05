@@ -158,3 +158,7 @@
 | [From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?](https://arxiv.org/abs/2610.41267) | Tata Research Development and Design Center | 2026-10-30 | preprint |
 | [Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution](https://arxiv.org/abs/2610.41453) | Accentrust及大学合作作者 | 2026-10-30 | preprint |
 | [When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity](https://arxiv.org/abs/2610.41970) | CMU/UC Berkeley等 | 2026-10-30 | preprint |
+| [A semi-autonomous multi-agent pipeline for high-energy astrophysics research with enforced provenance and verifiable self-extension](https://arxiv.org/abs/2611.05251) | Fang Zhou; Washington University in St. Louis | 2026-11-03 | preprint |
+| [The Agentic Observer Hackathon: Autonomous Decision-making in Simulated Astronomical Surveys](https://arxiv.org/abs/2611.01988) | Haosong Wang et al.; SHAO/CAS, CEA, LBNL等 | 2026-11-01 | preprint |
+| [AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion](https://arxiv.org/abs/2611.05171) | Olabode T. Ajenifujah, Amir Barati Farimani; Carnegie Mellon University | 2026-11-03 | preprint |
+| [RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing](https://arxiv.org/abs/2610.05485) | Hao Zhang et al.; Khalifa University、NUAA、JAIST等 | 2026-10-04 | preprint |

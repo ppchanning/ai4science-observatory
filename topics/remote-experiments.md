@@ -52,3 +52,5 @@
 [10月28日至11月2日阅读档案](../digests/README.md)：区分软件交互、真实仪器、历史数据与模拟；先确认反馈来源和验证条件，再比较成绩。
 
 - [2026-11-03：状态、工具反馈与验证的证据边界](../digests/scientific-computer-use/2026/2026-11-03.md)。
+- [The Agentic Observer Hackathon: Autonomous Decision-making in Simulated Astronomical Surveys](https://arxiv.org/abs/2611.01988) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)
+- [RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing](https://arxiv.org/abs/2610.05485) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)
