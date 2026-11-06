@@ -162,3 +162,8 @@
 | [The Agentic Observer Hackathon: Autonomous Decision-making in Simulated Astronomical Surveys](https://arxiv.org/abs/2611.01988) | Haosong Wang et al.; SHAO/CAS, CEA, LBNL等 | 2026-11-01 | preprint |
 | [AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion](https://arxiv.org/abs/2611.05171) | Olabode T. Ajenifujah, Amir Barati Farimani; Carnegie Mellon University | 2026-11-03 | preprint |
 | [RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing](https://arxiv.org/abs/2610.05485) | Hao Zhang et al.; Khalifa University、NUAA、JAIST等 | 2026-10-04 | preprint |
+| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://arxiv.org/abs/2611.06910) | BenchFlow/UC Berkeley等 | 2026-11-04 | preprint |
+| [Agentic Systems for Calibrating Cosmological Simulations](https://arxiv.org/abs/2610.40685) | Columbia/IAS | 2026-10-26 | preprint |
+| [Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments](https://arxiv.org/abs/2611.05450) | HKUST/Huawei | 2026-11-03 | preprint |
+| [Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard](https://arxiv.org/abs/2611.05650) | Salesforce AI Research | 2026-11-03 | preprint |
+| [EviSeek: An Evidence-Centric Agentic Framework for Embodied Active Information Seeking](https://arxiv.org/abs/2611.06434) | CASIA/UCAS/BAAI | 2026-11-04 | preprint |

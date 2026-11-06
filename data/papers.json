@@ -3084,5 +3084,100 @@
     "first_published": "2026-10-04",
     "verified_version": "v1",
     "fulltext_url": "https://arxiv.org/html/2610.05485v1"
+  },
+  {
+    "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+    "team": "BenchFlow/UC Berkeley等",
+    "arxiv": "2611.06910",
+    "url": "https://arxiv.org/abs/2611.06910",
+    "verification": "原始摘要与相关正文方法、主要实验和局限定向核验；未复现",
+    "verified_at": "2026-11-06T07:08:02.480744+08:00",
+    "evidence": "数值验证+专家阻断准则；最高46/168通过；人工发现9/168纯误拒",
+    "limitations": "框架不同；评分也可能错误",
+    "read_first": "§2.3、§3.3、附录A",
+    "id": "arxiv:2611.06910",
+    "first_published": "2026-11-04",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.06910v1"
+  },
+  {
+    "title": "Agentic Systems for Calibrating Cosmological Simulations",
+    "team": "Columbia/IAS",
+    "arxiv": "2610.40685",
+    "url": "https://arxiv.org/abs/2610.40685",
+    "verification": "原始摘要与相关正文方法、主要实验和局限定向核验；未复现",
+    "verified_at": "2026-11-06T07:08:02.480744+08:00",
+    "evidence": "20次；昂贵模拟调用中位8.5 vs17.5；文件笔记接续选参",
+    "limitations": "基线信息与指南、代码、探测工具不同；简并使谱拟合不等于参数恢复",
+    "read_first": "§3—4、附录C",
+    "id": "arxiv:2610.40685",
+    "first_published": "2026-10-26",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2610.40685v1"
+  },
+  {
+    "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+    "team": "HKUST/Huawei",
+    "arxiv": "2611.05450",
+    "url": "https://arxiv.org/abs/2611.05450",
+    "verification": "原始摘要与相关正文方法、主要实验和局限定向核验；未复现",
+    "verified_at": "2026-11-06T07:08:02.480744+08:00",
+    "evidence": "20模型；即时更新覆盖最高37.63；任务与保存内容分别评分",
+    "limitations": "LLM判分；任务流后续环境可分叉",
+    "read_first": "§2.4、§3.3.2",
+    "id": "arxiv:2611.05450",
+    "first_published": "2026-11-03",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.05450v1"
+  },
+  {
+    "title": "Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard",
+    "team": "Salesforce AI Research",
+    "arxiv": "2611.05650",
+    "url": "https://arxiv.org/abs/2611.05650",
+    "verification": "原始摘要与相关正文方法、主要实验和局限定向核验；未复现",
+    "verified_at": "2026-11-06T07:08:02.480744+08:00",
+    "evidence": "24状态同种子副本彼此一致仍9/24与20/24偏离现场；保存随机流后消失",
+    "limitations": "方法倡议；未测历史对模型行为因果效应",
+    "read_first": "§3.2、§4",
+    "id": "arxiv:2611.05650",
+    "first_published": "2026-11-03",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.05650v1"
+  },
+  {
+    "title": "EviSeek: An Evidence-Centric Agentic Framework for Embodied Active Information Seeking",
+    "team": "CASIA/UCAS/BAAI",
+    "arxiv": "2611.06434",
+    "url": "https://arxiv.org/abs/2611.06434",
+    "verification": "原始摘要与相关正文方法、主要实验和局限定向核验；未复现",
+    "verified_at": "2026-11-06T07:08:02.480744+08:00",
+    "evidence": "3436问题同30步上限；准确率+7.1/+3.7pp；需求与保留消融",
+    "limitations": "精确度量退步；Gemini环境动作增多；token节省非仪器成本节省",
+    "read_first": "§4.3—4.4、表2—3、附录F",
+    "id": "arxiv:2611.06434",
+    "first_published": "2026-11-04",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.06434v1"
   }
 ]
