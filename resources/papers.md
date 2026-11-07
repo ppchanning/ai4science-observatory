@@ -167,3 +167,6 @@
 | [Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments](https://arxiv.org/abs/2611.05450) | HKUST/Huawei | 2026-11-03 | preprint |
 | [Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard](https://arxiv.org/abs/2611.05650) | Salesforce AI Research | 2026-11-03 | preprint |
 | [EviSeek: An Evidence-Centric Agentic Framework for Embodied Active Information Seeking](https://arxiv.org/abs/2611.06434) | CASIA/UCAS/BAAI | 2026-11-04 | preprint |
+| [ReproBridge: Building Reproducibility into ML Research Artifacts](https://arxiv.org/abs/2611.08452) | Google／Waterloo | 2026-11-05 | preprint |
+| [Scientist World: Grow a Research World for AI-Scientists](https://arxiv.org/abs/2611.08478) | Princeton University | 2026-11-05 | preprint |
+| [AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude) | Anthropic Economics | 2026-11-05 | official_technical_report |

@@ -3179,5 +3179,52 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "fulltext_url": "https://arxiv.org/html/2611.06434v1"
+  },
+  {
+    "id": "arxiv:2611.08452",
+    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+    "url": "https://arxiv.org/abs/2611.08452",
+    "first_published": "2026-11-05",
+    "type": "preprint",
+    "verification": "原始页面和相关方法、实验、局限定向核验；未复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "arxiv": "2611.08452",
+    "team": "Google／Waterloo",
+    "evidence": "36篇1029任务，四模型平均76.4%至92.6%；下游API费用降19.7%，排除构建审计GPU成本",
+    "read_first": "§3.1、§4.1与§4.6"
+  },
+  {
+    "id": "arxiv:2611.08478",
+    "title": "Scientist World: Grow a Research World for AI-Scientists",
+    "url": "https://arxiv.org/abs/2611.08478",
+    "first_published": "2026-11-05",
+    "type": "preprint",
+    "verification": "原始页面和相关方法、实验、局限定向核验；未复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "arxiv": "2611.08478",
+    "team": "Princeton University",
+    "evidence": "1000环境为构建规模；模型评测仅10个低算力环境；84%/74%分别是improve/innovate尝试超过重建基线",
+    "read_first": "§2.1、§4.1及附录E—G"
+  },
+  {
+    "id": "url:https://www.anthropic.com/research/how-researchers-use-claude",
+    "title": "AI for scientific discovery: How researchers use Claude",
+    "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+    "first_published": "2026-11-05",
+    "type": "official_technical_report",
+    "verification": "原始页面和相关方法、实验、局限定向核验；未复现",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "team": "Anthropic Economics",
+    "evidence": "207049个科学会话；会话份额不是人数、工时或产出效果",
+    "read_first": "How we conducted this research及How Claude use varies across research tasks"
   }
 ]

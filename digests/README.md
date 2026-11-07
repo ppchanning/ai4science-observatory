@@ -52,6 +52,7 @@
 
 | 日期 | 阅读条目 |
 | --- | ---: |
+| [2026-11-07](scientific-computer-use/2026/2026-11-07.md) | 3 |
 | [2026-11-06](scientific-computer-use/2026/2026-11-06.md) | 5 |
 | [2026-11-05](scientific-computer-use/2026/2026-11-05.md) | 4 |
 | [2026-11-03](scientific-computer-use/2026/2026-11-03.md) | 5 |

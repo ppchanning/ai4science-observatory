@@ -91,3 +91,9 @@
 - [Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments](https://arxiv.org/abs/2611.05450) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-06.md)
 - [Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard](https://arxiv.org/abs/2611.05650) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-06.md)
 - [EviSeek: An Evidence-Centric Agentic Framework for Embodied Active Information Seeking](https://arxiv.org/abs/2611.06434) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-06.md)
+
+- [ReproBridge: Building Reproducibility into ML Research Artifacts](https://arxiv.org/abs/2611.08452) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-07.md)
+
+- [Scientist World: Grow a Research World for AI-Scientists](https://arxiv.org/abs/2611.08478) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-07.md)
+
+- [AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-07.md)
