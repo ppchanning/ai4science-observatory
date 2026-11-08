@@ -170,3 +170,8 @@
 | [ReproBridge: Building Reproducibility into ML Research Artifacts](https://arxiv.org/abs/2611.08452) | Google／Waterloo | 2026-11-05 | preprint |
 | [Scientist World: Grow a Research World for AI-Scientists](https://arxiv.org/abs/2611.08478) | Princeton University | 2026-11-05 | preprint |
 | [AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude) | Anthropic Economics | 2026-11-05 | official_technical_report |
+| [Goal-Driven Autonomous Optical Experimentation via a Self-Recursive Hardware-Software Harness](https://arxiv.org/abs/2611.04481) | Konica Minolta China; Giant Testing Equipment | 2026-11-03 | preprint |
+| [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://arxiv.org/abs/2610.26703) | UC Berkeley; University of Michigan | 2026-10-19 | preprint |
+| [Silent Instrument Errors Reorder Agent Leaderboards](https://arxiv.org/abs/2611.04399) | Shandong University | 2026-11-03 | preprint |
+| [Tiny Observatory for Telescope Optimization (TOTO): testing algorithms for autonomous on-orbit alignment for space-based telescope systems](https://arxiv.org/abs/2607.27457) | University of Arizona Steward Observatory; Wyant College of Optical Sciences | 2026-07-29 | preprint |
+| [Measuring the collaboration, not the agent](https://arxiv.org/abs/2611.06487) | Shonan Institute of Technology; Nihon University | 2026-11-04 | preprint |

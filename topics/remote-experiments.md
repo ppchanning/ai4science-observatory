@@ -54,3 +54,5 @@
 - [2026-11-03：状态、工具反馈与验证的证据边界](../digests/scientific-computer-use/2026/2026-11-03.md)。
 - [The Agentic Observer Hackathon: Autonomous Decision-making in Simulated Astronomical Surveys](https://arxiv.org/abs/2611.01988) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)
 - [RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing](https://arxiv.org/abs/2610.05485) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)
+- [Goal-Driven Autonomous Optical Experimentation via a Self-Recursive Hardware-Software Harness](https://arxiv.org/abs/2611.04481) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
+- [Tiny Observatory for Telescope Optimization (TOTO): testing algorithms for autonomous on-orbit alignment for space-based telescope systems](https://arxiv.org/abs/2607.27457) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)

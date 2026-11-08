@@ -97,3 +97,6 @@
 - [Scientist World: Grow a Research World for AI-Scientists](https://arxiv.org/abs/2611.08478) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-07.md)
 
 - [AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-07.md)
+- [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://arxiv.org/abs/2610.26703) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
+- [Silent Instrument Errors Reorder Agent Leaderboards](https://arxiv.org/abs/2611.04399) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
+- [Measuring the collaboration, not the agent](https://arxiv.org/abs/2611.06487) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)

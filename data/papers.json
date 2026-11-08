@@ -3226,5 +3226,95 @@
     "team": "Anthropic Economics",
     "evidence": "207049个科学会话；会话份额不是人数、工时或产出效果",
     "read_first": "How we conducted this research及How Claude use varies across research tasks"
+  },
+  {
+    "title": "Goal-Driven Autonomous Optical Experimentation via a Self-Recursive Hardware-Software Harness",
+    "team": "Konica Minolta China; Giant Testing Equipment",
+    "arxiv": "2611.04481",
+    "url": "https://arxiv.org/abs/2611.04481",
+    "verification": "原始身份页与HTML方法/实验/局限定向核验；未复现或独立复算",
+    "verified_at": "2026-11-08T07:05:14.037435+08:00",
+    "read_first": "§6.2–6.4、图5",
+    "evidence": "12项接口检查；单目标两次反馈19.756→1.211色差，九组成对新测量七改善两退步",
+    "id": "arxiv:2611.04481",
+    "first_published": "2026-11-03",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "Comparing Computer Use Behavior Across Multiple Levels of Abstraction",
+    "team": "UC Berkeley; University of Michigan",
+    "arxiv": "2610.26703",
+    "url": "https://arxiv.org/abs/2610.26703",
+    "verification": "原始身份页与HTML方法/实验/局限定向核验；未复现或独立复算",
+    "verified_at": "2026-11-08T07:05:14.037435+08:00",
+    "read_first": "§3–5、表5–6",
+    "evidence": "28条人工对照；方法标签均值79.5%，分段误差敏感；覆盖不等于准确",
+    "id": "arxiv:2610.26703",
+    "first_published": "2026-10-19",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "Silent Instrument Errors Reorder Agent Leaderboards",
+    "team": "Shandong University",
+    "arxiv": "2611.04399",
+    "url": "https://arxiv.org/abs/2611.04399",
+    "verification": "原始身份页与HTML方法/实验/局限定向核验；未复现或独立复算",
+    "verified_at": "2026-11-08T07:05:14.037435+08:00",
+    "read_first": "§3.2–3.4、表1",
+    "evidence": "漏评修正汇总0.30→0.43；预算/政策获取仍混杂，轨迹可含评分器动作",
+    "id": "arxiv:2611.04399",
+    "first_published": "2026-11-03",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "Tiny Observatory for Telescope Optimization (TOTO): testing algorithms for autonomous on-orbit alignment for space-based telescope systems",
+    "team": "University of Arizona Steward Observatory; Wyant College of Optical Sciences",
+    "arxiv": "2607.27457",
+    "url": "https://arxiv.org/abs/2607.27457",
+    "verification": "原始身份页与HTML方法/实验/局限定向核验；未复现或独立复算",
+    "verified_at": "2026-11-08T07:05:14.037435+08:00",
+    "read_first": "§2.2、§4、图4–9",
+    "evidence": "一坏轴排除；20微米粗调阈值，后续相位恢复；完整自由度/宽带仍后续",
+    "id": "arxiv:2607.27457",
+    "first_published": "2026-07-29",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "Measuring the collaboration, not the agent",
+    "team": "Shonan Institute of Technology; Nihon University",
+    "arxiv": "2611.06487",
+    "url": "https://arxiv.org/abs/2611.06487",
+    "verification": "原始身份页与HTML方法/实验/局限定向核验；未复现或独立复算",
+    "verified_at": "2026-11-08T07:05:14.037435+08:00",
+    "read_first": "§4.3–5、图2",
+    "evidence": "4980模拟会话；34.7%参数格协作互补，记忆消融区分容易数据块",
+    "id": "arxiv:2611.06487",
+    "first_published": "2026-11-04",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
   }
 ]

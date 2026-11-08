@@ -39,3 +39,4 @@
 
 - [2026-11-03：状态、工具反馈与验证的证据边界](../digests/scientific-computer-use/2026/2026-11-03.md)。
 - [AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion](https://arxiv.org/abs/2611.05171) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)
+- [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://arxiv.org/abs/2610.26703) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
