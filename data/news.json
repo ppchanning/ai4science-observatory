@@ -8775,13 +8775,12 @@
     "provenance": "ai-assisted-source-digest"
   },
   {
-    "title": "向大科学装置的前沿难题发起挑战！科学骑士专项赛即将开启",
-    "url": "https://www.bjnews.com.cn/detail/1794017184019779.html",
-    "published_at": "2026-11-07T11:56:00+08:00",
-    "date_precision": "exact",
+    "title": "物理约束神经网络重建三十年全球海洋表层流",
+    "url": "https://scienmag.com/physics-informed-neural-networks-reconstruct-three-decades-of-global-ocean-surface-currents/",
+    "published_at": "2026-11-07",
+    "date_precision": "day",
     "discipline_tags": [
-      "科研仪器与自动化实验",
-      "科研方法"
+      "地球与气候"
     ],
     "id": "EV-5d27e364585729",
     "summary": [
@@ -8791,6 +8790,63 @@
     ],
     "appearances": [
       "digests/ai4science/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "进博会 | 从退役飞机到轮胎，绿色材料开始算量产账",
+    "url": "https://huacheng.gz-cmc.com/pages/2026/11/08/a0cd6c5f4b244374b11402ae295ddb1e.html",
+    "published_at": "2026-11-08T22:00:57+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "材料"
+    ],
+    "id": "EV-1cf2e04bbd3783",
+    "summary": [
+      "这篇进博会现场报道里，符合AI4Science交集的是默克材料智能平台与无PFAS光刻胶验证的段落。科学问题是材料替代后的性能和工艺适用性，AI的直接联系由报道明确给出。广州日报新花城记者陈庆辉、周裕妩采访企业负责人，能够提供产品验证的产业现场信息。",
+      "全文用退役飞机、轮胎和芯片材料串起绿色材料的量产问题，主旨是新材料要过性能测试、认证和成本关。默克电子科技中国董事总经理隋郁介绍，无PFAS显示光刻胶在过去一两年已有多批产品完成市场验证和量产导入，未来一两年全部替换是企业目标。报道又明确写到，Materials Intelligence将AI与材料科学结合，并与中国客户开展无PFAS光刻胶产品验证。这为AI参与具体材料研发应用提供了可归属的新闻依据。",
+      "PFAS是难降解的一类全氟和多氟烷基物质，替代它意味着材料还要适配实际应用。报道提及今年9月开工的苏州光刻材料技术中心，承担本土研发、测试验证与工艺优化能力建设。对读者最有用的启发，是把平台、产品验证和生产导入区分为相互衔接的环节：报道支持它们出现在同一研发转化链中，但没有逐款说明AI怎样设计配方，也没有披露平台算法和提速幅度。碳纤维回收及轮胎材料是全文的其他案例，不能一并算作AI成果；公司的减排数据也不能直接归因于该平台。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "计算机行业周报：OpenAI展示端到端工程设计 前沿模型打开物理研发入口",
+    "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/847468889036/index.phtml",
+    "published_at": "2026-11-08",
+    "date_precision": "day",
+    "discipline_tags": [
+      "物理"
+    ],
+    "id": "EV-7105b14df2b7b0",
+    "summary": [
+      "这篇行业周报从流体仿真进入AI4Science：改变汽车鼻锥几何形状，观察气流，再据此比较风阻方案。作者周成署名于湘财证券行业研究，价值在于把具体研发流程与软件商业机制联系起来；它是分析师对企业案例的解读，技术细节按研报归属。",
+      "周报引用OpenAI于11月3日发布的工程案例，称其与马自达气动及碰撞安全团队合作，借助模型开展鼻锥建模、气流仿真和风阻方案迭代。文章开篇同时介绍测试设备设计与赛车零件建模，随后提出核心判断：AI可能改变单个设计方案的边际成本，让原先受人力和预算限制的备选方案进入评估。结尾把这一判断延伸到研发工具、仿真数据和制造场景的产业机会；这是研究员的预期，并非已经测得全行业成本下降。",
+      "正文把耗时点拆得很具体：需求转为几何表征、模型转入仿真前处理、运行计算、解释结果，往往需要反复转换。Agent若能调用已有工具、设置参数并返回结果，就可能缩短这些操作间的等待；流体规律的求解仍需要可靠的软件与检验。周成因此认为，软件价值会更依赖接口稳定性、结果可验证性和模型文件可编辑性。可供讨论的问题是：科研AI的商业价值可以围绕“多完成了多少可复核的比较”来讨论；安全取舍、工艺路线和最终方案仍由专业工程师判断。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "Aaronson-Ambainis Conjecture proved!  (By AI, of course)",
+    "url": "https://scottaaronson.blog/?p=10295",
+    "published_at": "2026-11-08T21:44:31+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "EV-692c48daa43f4d",
+    "summary": [
+      "Scott Aaronson作为猜想共同提出者讨论AI辅助证明与量子查询复杂度。评论发布于11月8日，被评论的PSI公告发布于11月6日；评论与研究公告分别保留日期。",
+      "文章报告，Physical Superintelligence使用内部研究系统与非公开Anthropic模型得到Aaronson—Ambainis猜想的证明。Aaronson表示自己尚未理解完整证明，但因Lean证书和其他专家的阅读而相信结果正确。猜想讨论低次数、有界布尔多项式：只要输出仍有足够变化，就存在一个影响足够大的输入变量。它与量子计算的联系在于，查询算法的接受概率可以写成低次数多项式；逐步读取重要变量，就能在多数输入上用经典查询逼近结果。",
+      "最需要解释的是“多数输入”和“查询”这两个条件。该结果限制随机预言机条件下判定问题的一类超多项式查询优势，并不据此消除Shor分解算法或量子物理、化学模拟的价值。PSI公告还区分系统开发、问题设定、模型运行、论文初稿和人工审核的职责，David Turturean负责系统与工作推进，Jim Halverson审核证明。这里可看见AI科研的实际协作链：提出和筛选论证、形式化检查、专家理解各有作用。报道中对证书与正确性的陈述来自作者及公司，本次没有运行Lean或独立审证明。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-09.md"
     ],
     "provenance": "ai-assisted-source-digest"
   }

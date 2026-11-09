@@ -175,3 +175,6 @@
 | [Silent Instrument Errors Reorder Agent Leaderboards](https://arxiv.org/abs/2611.04399) | Shandong University | 2026-11-03 | preprint |
 | [Tiny Observatory for Telescope Optimization (TOTO): testing algorithms for autonomous on-orbit alignment for space-based telescope systems](https://arxiv.org/abs/2607.27457) | University of Arizona Steward Observatory; Wyant College of Optical Sciences | 2026-07-29 | preprint |
 | [Measuring the collaboration, not the agent](https://arxiv.org/abs/2611.06487) | Shonan Institute of Technology; Nihon University | 2026-11-04 | preprint |
+| [ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents](https://arxiv.org/abs/2611.03238) | — | 2026-11-02 | preprint |
+| [Reimagining computational quantum research with AI scientists](https://arxiv.org/abs/2611.02833) | — | 2026-11-02 | preprint |
+| [Answering Without Arriving: An Evidence Audit for Embodied Question Answering](https://arxiv.org/abs/2611.01958) | — | 2026-11-01 | preprint |

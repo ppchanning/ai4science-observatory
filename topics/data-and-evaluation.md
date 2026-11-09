@@ -100,3 +100,7 @@
 - [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://arxiv.org/abs/2610.26703) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
 - [Silent Instrument Errors Reorder Agent Leaderboards](https://arxiv.org/abs/2611.04399) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
 - [Measuring the collaboration, not the agent](https://arxiv.org/abs/2611.06487) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
+
+- [ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents](https://arxiv.org/abs/2611.03238) — [阅读说明](../digests/scientific-computer-use/2026/2026-11-09.md)
+- [Reimagining computational quantum research with AI scientists](https://arxiv.org/abs/2611.02833) — [阅读说明](../digests/scientific-computer-use/2026/2026-11-09.md)
+- [Answering Without Arriving: An Evidence Audit for Embodied Question Answering](https://arxiv.org/abs/2611.01958) — [阅读说明](../digests/scientific-computer-use/2026/2026-11-09.md)

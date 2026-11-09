@@ -3316,5 +3316,53 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents",
+    "arxiv": "2611.03238",
+    "url": "https://arxiv.org/abs/2611.03238",
+    "verification": "original relevant fulltext",
+    "verified_at": "2026-11-09T07:01:33.548554+08:00",
+    "evidence": "文档→技能/参考→失败诊断→重置环境独立验证；168测试/108演化；GUI与无障碍树，不是纯截图。",
+    "id": "arxiv:2611.03238",
+    "first_published": "2026-11-02",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "Reimagining computational quantum research with AI scientists",
+    "arxiv": "2611.02833",
+    "url": "https://arxiv.org/abs/2611.02833",
+    "verification": "original relevant fulltext",
+    "verified_at": "2026-11-09T07:01:33.548554+08:00",
+    "evidence": "59计算复现；5开发54未见；专家审阅经验；相同模型24h预算68%→约85%；验收修改与执行修复分开。",
+    "id": "arxiv:2611.02833",
+    "first_published": "2026-11-02",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "Answering Without Arriving: An Evidence Audit for Embodied Question Answering",
+    "arxiv": "2611.01958",
+    "url": "https://arxiv.org/abs/2611.01958",
+    "verification": "original relevant fulltext",
+    "verified_at": "2026-11-09T07:01:33.548554+08:00",
+    "evidence": "200模拟回合800题；零到达却45.5%答对，无图45.4%；重放57.4%含路线与选帧帮助。",
+    "id": "arxiv:2611.01958",
+    "first_published": "2026-11-01",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
   }
 ]
