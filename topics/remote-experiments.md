@@ -56,3 +56,5 @@
 - [RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing](https://arxiv.org/abs/2610.05485) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-05.md)
 - [Goal-Driven Autonomous Optical Experimentation via a Self-Recursive Hardware-Software Harness](https://arxiv.org/abs/2611.04481) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
 - [Tiny Observatory for Telescope Optimization (TOTO): testing algorithms for autonomous on-orbit alignment for space-based telescope systems](https://arxiv.org/abs/2607.27457) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
+
+- [CCAT: Prime-Cam Control System and Related Software](https://arxiv.org/abs/2611.05253) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)

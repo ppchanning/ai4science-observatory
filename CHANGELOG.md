@@ -6,6 +6,7 @@
 
 Earlier entries follow material dates, backfilled at the repository launch on **2026-10-10**. These dates describe existing material, rather than earlier GitHub publication. Counts refer to unique entries linked to each issue in the structured catalogs, not first-time additions. Older digests without catalog entries are counted as issues only. Missing dates have no invented activity.
 
+- **2026-11-10** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-10.md) and [9 news events](digests/ai4science/2026/2026-11-10.md); added 1 funding event and revised 1 company record. 0 backfilled issues. Tutorials, state diagnosis and real observatory controls.
 - **2026-11-09** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-09.md) and [3 news events](digests/ai4science/2026/2026-11-09.md); corrected source metadata for 1 ocean-current event; 0 backfills. Check scoring coverage and evidence acquisition separately.
 
 ## 2026-11-08

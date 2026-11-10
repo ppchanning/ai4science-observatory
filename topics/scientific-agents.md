@@ -153,3 +153,9 @@
 
 - [ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents](https://arxiv.org/abs/2611.03238) — [阅读说明](../digests/scientific-computer-use/2026/2026-11-09.md)
 - [Reimagining computational quantum research with AI scientists](https://arxiv.org/abs/2611.02833) — [阅读说明](../digests/scientific-computer-use/2026/2026-11-09.md)
+
+- [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://arxiv.org/abs/2611.04073) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)
+
+- [CCAT: Prime-Cam Control System and Related Software](https://arxiv.org/abs/2611.05253) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)
+
+- [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)

@@ -17,7 +17,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 | [catalogs/reading-candidates.csv](catalogs/reading-candidates.csv) | 可follow论文库，1197 条 |
 | [industry/jobs.csv](industry/jobs.csv) | 岗位归档，60 条 |
 | [industry/startups.csv](industry/startups.csv) | 公司主表，44 条 |
-| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，52 条 |
+| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，53 条 |
 | [industry/research-programs.csv](industry/research-programs.csv) | 机构项目总表，18 条 |
 | [industry/public-company-initiatives.csv](industry/public-company-initiatives.csv) | 核心20家公司，20 条 |
 
@@ -78,3 +78,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 ### 2026-11-02 补录与目录修订
 
 补录既有公开资料：新增1家公司、2条融资事件，修订百奥几何1条公司记录。系列累计超1亿美元不等于A+本轮金额；本轮未披露时保持未知。论文活动与技术范式修订涉及1条既有文献的2份CSV投影，不新增论文。被引数零/空值沿用公开历史口径，不因工作簿序列化变化批量改写。
+
+### 2026-11-10 融资记录
+
+根据[融中财经](https://www.thecapital.com.cn/news/detail/125591)11月9日报道，新增清析智研1条天使轮融资事件并修订1条既有公司记录。近亿元为本轮披露约数；7月记录保留，两次金额关系未披露，不相加推算累计融资。披露日不等于交割日。

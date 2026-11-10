@@ -3364,5 +3364,51 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials",
+    "arxiv": "2611.04073",
+    "url": "https://arxiv.org/abs/2611.04073",
+    "verification": "原始摘要与正文方法结果局限已核",
+    "verified_at": "2026-11-10T07:03:13.966547+08:00",
+    "id": "arxiv:2611.04073",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。",
+    "first_published": "2026-11-02",
+    "type": "preprint"
+  },
+  {
+    "title": "CCAT: Prime-Cam Control System and Related Software",
+    "arxiv": "2611.05253",
+    "doi": "10.1117/12.3105331",
+    "url": "https://arxiv.org/abs/2611.05253",
+    "verification": "原始摘要与正文方法结果局限已核",
+    "verified_at": "2026-11-10T07:03:13.966547+08:00",
+    "id": "arxiv:2611.05253",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。",
+    "first_published": "2026-08-19",
+    "type": "conference_paper"
+  },
+  {
+    "title": "What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows",
+    "arxiv": "2611.03227",
+    "url": "https://arxiv.org/abs/2611.03227",
+    "verification": "原始摘要与正文方法结果局限已核",
+    "verified_at": "2026-11-10T07:03:13.966547+08:00",
+    "id": "arxiv:2611.03227",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。",
+    "first_published": "2026-11-02",
+    "type": "preprint"
   }
 ]

@@ -2,7 +2,7 @@
 
 主题可重叠，按标题和公开证据建立导航，不宣称分类完备。
 
-- [Scientific agents](scientific-agents.md) — 140 条相关资料
-- [Scientific computer use](computer-use.md) — 33 条相关资料
-- [Remote experiments](remote-experiments.md) — 48 条相关资料
-- [Data & evaluation](data-and-evaluation.md) — 92 条相关资料
+- [Scientific agents](scientific-agents.md) — 143 条相关资料
+- [Scientific computer use](computer-use.md) — 35 条相关资料
+- [Remote experiments](remote-experiments.md) — 49 条相关资料
+- [Data & evaluation](data-and-evaluation.md) — 94 条相关资料
