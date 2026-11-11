@@ -58,3 +58,4 @@
 - [Tiny Observatory for Telescope Optimization (TOTO): testing algorithms for autonomous on-orbit alignment for space-based telescope systems](https://arxiv.org/abs/2607.27457) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-08.md)
 
 - [CCAT: Prime-Cam Control System and Related Software](https://arxiv.org/abs/2611.05253) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)
+- [Upgrade of the MITHiC testbed for phase and amplitude control in the focal plane](https://arxiv.org/abs/2611.12183) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-11.md)

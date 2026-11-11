@@ -3410,5 +3410,56 @@
     "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。",
     "first_published": "2026-11-02",
     "type": "preprint"
+  },
+  {
+    "title": "SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12552",
+    "team": "Northwestern University",
+    "verification": "原始身份页和正文方法、实验、局限已核",
+    "verified_at": "2026-11-11T07:01:28.311752+08:00",
+    "evidence": "六个固定场景各重复三次；GPT组12/18对基础8/18，同一基准模型组总模型额度含编辑探测选择",
+    "read_first": "§3.3–3.6及表2",
+    "id": "arxiv:2611.12552",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
+    "first_published": "2026-11-09",
+    "verified_version": "v1"
+  },
+  {
+    "title": "AMSchem: Automated Schematic Visualization of AMS Circuits via Verifiable Agentic Generation",
+    "url": "https://arxiv.org/abs/2611.12333",
+    "team": "东方理工、上海交通及UW/Cambridge等合作者",
+    "verification": "原始身份页和正文方法、实验、局限已核",
+    "verified_at": "2026-11-11T07:01:28.311752+08:00",
+    "evidence": "40例图形子集34/40对13/40；IR校验80%，加视觉85%；AnalogCoder失败样本额外预算非同预算对照",
+    "read_first": "方法流程与消融表",
+    "id": "arxiv:2611.12333",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
+    "first_published": "2026-11-09",
+    "verified_version": "v1"
+  },
+  {
+    "title": "Upgrade of the MITHiC testbed for phase and amplitude control in the focal plane",
+    "url": "https://arxiv.org/abs/2611.12183",
+    "team": "LAM Aix-Marseille/CNRS/CNES",
+    "verification": "原始身份页和正文方法、实验、局限已核",
+    "verified_at": "2026-11-11T07:01:28.311752+08:00",
+    "evidence": "g=1，75周期/孔径，15轮原始OPD RMS34.8nm至2.4nm；滤波4.1nm；注入误差8.6nm",
+    "read_first": "ZELDA闭环段及误差图",
+    "id": "arxiv:2611.12183",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
+    "first_published": "2026-11-09",
+    "verified_version": "v1"
   }
 ]

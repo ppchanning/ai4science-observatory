@@ -181,3 +181,6 @@
 | [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://arxiv.org/abs/2611.04073) | — | 2026-11-02 | preprint |
 | [CCAT: Prime-Cam Control System and Related Software](https://arxiv.org/abs/2611.05253) | — | 2026-08-19 | conference_paper |
 | [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) | — | 2026-11-02 | preprint |
+| [SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery](https://arxiv.org/abs/2611.12552) | Northwestern University | 2026-11-09 | preprint |
+| [AMSchem: Automated Schematic Visualization of AMS Circuits via Verifiable Agentic Generation](https://arxiv.org/abs/2611.12333) | 东方理工、上海交通及UW/Cambridge等合作者 | 2026-11-09 | preprint |
+| [Upgrade of the MITHiC testbed for phase and amplitude control in the focal plane](https://arxiv.org/abs/2611.12183) | LAM Aix-Marseille/CNRS/CNES | 2026-11-09 | preprint |

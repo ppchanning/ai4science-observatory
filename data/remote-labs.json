@@ -44,6 +44,23 @@
       "feedback": "报道包含校准、数据纠错及实时脉冲星检测；未提供新检测驱动下一次观测的完整闭环轨迹",
       "limitations": "未提供条件完整的性能、自主性或迁移对照；不采用数周或数年缩至数小时的效率主张",
       "access_evidence": "公开预约、个人资格、自动化权限、费用、排队及实验时长未知；不能由现场部署推定开放接入"
+    },
+    {
+      "key": "google-computational-discovery-mcp-20261103",
+      "name": "Computational Discovery MCP",
+      "verified_at": "2026-11-11T07:01:28.311752+08:00",
+      "source_date": "2026-11-03",
+      "source_urls": [
+        "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+      ],
+      "interface": "获准用户可通过MCP接入兼容agent；网页仍可用",
+      "hardware": "计算科研工具，未核远程实物控制",
+      "individual_eligibility": "需获准；当前开放范围须向提供方确认。",
+      "queue_time_current": null,
+      "experiment_time_current": null,
+      "analysis_time": null,
+      "integration_person_hours": null,
+      "running_cost": null
     }
   ],
   "unknown_policy": "Missing and null are unknown, never zero/free/permitted."
