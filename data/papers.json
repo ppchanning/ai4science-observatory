@@ -3461,5 +3461,88 @@
     "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
     "first_published": "2026-11-09",
     "verified_version": "v1"
+  },
+  {
+    "title": "ChipOmni: A General-Purpose AI Agent for Electronic Design Automation",
+    "team": "中国科大、同济、香港城大等；正文列斯坦福关联单位",
+    "url": "https://arxiv.org/abs/2611.13020",
+    "verification": "原始身份页及正文相关方法、实验、局限已核；未运行代码",
+    "verified_at": "2026-11-12T07:12:04.560712+08:00",
+    "read_first": "迁移到其他工具链所需人时、配置与失败分布尚不明确，结果不能外推为任意EDA流程的自主性。先读图4及验证、调试、上下文整理部分，追踪同一规格怎样贯穿工具输出和验收。",
+    "id": "arxiv:2611.13020",
+    "first_published": "2026-11-09",
+    "verified_version": "v1",
+    "evidence": "作者报告30项AnalogCoder-Pro任务最终均求解；在相同GPT-5骨干下，单次成功估计从87.90%提高到92.67%，五次成功估计从95.30%提高到98.71%。最终求解率与首试成功率的分母和预算不同。PySpice等仿真与GDSII物理签核属于计算和设计验证，不是流片后的硅片测量。",
+    "limitations": "迁移到其他工具链所需人时、配置与失败分布尚不明确，结果不能外推为任意EDA流程的自主性。先读图4及验证、调试、上下文整理部分，追踪同一规格怎样贯穿工具输出和验收。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Don’t Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+    "team": "KAIST、DeepAuto.ai",
+    "url": "https://arxiv.org/abs/2611.14320",
+    "verification": "原始身份页及正文相关方法、实验、局限已核；未运行代码",
+    "verified_at": "2026-11-12T07:12:04.560712+08:00",
+    "read_first": "解释生成、查询选择及模型裁判存在额外条件，实验不能证明所有收益都由某一个记忆部件单独导致。先读§3、表1与§4.3，区分经验内容、证据链接与检索策略的贡献。",
+    "id": "arxiv:2611.14320",
+    "first_published": "2026-11-10",
+    "verified_version": "v1",
+    "evidence": "作者在5个基准的8组设置中各运行3次，报告平均成绩90.2，对比无记忆79.5及无来源链接的同经验版本87.0。记忆诱发退化比例为4.5%，对比6.5%；分母是无记忆时多数运行成功的任务，不是全部任务。ScienceWorld是文本仿真，AppWorld提供API环境，均不是物理实验。",
+    "limitations": "解释生成、查询选择及模型裁判存在额外条件，实验不能证明所有收益都由某一个记忆部件单独导致。先读§3、表1与§4.3，区分经验内容、证据链接与检索策略的贡献。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "team": "Cornell，Ziang Liu、James J. Kim、Yijia Dai、Jennifer J. Sun",
+    "url": "https://arxiv.org/abs/2611.14514",
+    "verification": "原始身份页及正文相关方法、实验、局限已核；未运行代码",
+    "verified_at": "2026-11-12T07:12:04.560712+08:00",
+    "read_first": "候选解释若遗漏关键可能性，搜索也可能在不完整的问题空间中高置信收敛。先看§3.2–3.4与图1、图3，将提问策略、可执行检验和结论判据分开核对。",
+    "id": "arxiv:2611.14514",
+    "first_published": "2026-11-10",
+    "verified_version": "v1",
+    "evidence": "作者报告200个问题中平均解决161.9个，对比97.2个。前4个数据集各3次运行，后2个各1次；解决判据包含模型给出的主观先验、后验及0.8阈值。38名专家的盲评中78%一致性来自已被系统判定解决的问题，不能推广为全部问题的科学正确率。",
+    "limitations": "候选解释若遗漏关键可能性，搜索也可能在不完整的问题空间中高置信收敛。先看§3.2–3.4与图1、图3，将提问策略、可执行检验和结论判据分开核对。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+    "team": "UCL、港科大（广州）、上海交大等；首作者Che/Chen页面拼写不一致",
+    "url": "https://arxiv.org/abs/2611.12958",
+    "verification": "原始身份页及正文相关方法、实验、局限已核；未运行代码",
+    "verified_at": "2026-11-12T07:12:04.560712+08:00",
+    "read_first": "没有同预算随机搜索或其他优化器对照，也缺少足够重复及误差报告；电解质范围描述存在不一致。先读§4.2–4.3、图4及附录D/G，逐项核对机器人执行、设备反馈和化学测量。",
+    "id": "arxiv:2611.12958",
+    "first_published": "2026-11-07",
+    "verified_version": "v1",
+    "evidence": "作者报告5轮初始实验加10轮贝叶斯优化，共15轮物理实验、约45小时，透光率从82%至99.7%，推算染料浓度去除98.5%。透光率、浓度去除和完全矿化是不同指标，不能互换。",
+    "limitations": "没有同预算随机搜索或其他优化器对照，也缺少足够重复及误差报告；电解质范围描述存在不一致。先读§4.2–4.3、图4及附录D/G，逐项核对机器人执行、设备反馈和化学测量。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "The components of agent memory",
+    "team": "Anthropic Engineering",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "verification": "官方全文及评估条件、反例已核",
+    "verified_at": "2026-11-12T07:12:04.560712+08:00",
+    "read_first": "部分案例中wiki没有增益。先读Dreaming相关段落及反例，检查原始日志是否可追溯、反馈来自哪里、何时更新记忆；文章没有仪器控制或实体实验成绩。",
+    "id": "url:https://www.anthropic.com/research/components-of-agent-memory",
+    "evidence": "CLBench在每项任务后给正确答案反馈，与开放科学中缺少即时真值的条件不同。内部35万文件、25个问题的案例中，wiki加搜索为61%，仅搜索53%，仅wiki48%；这些是文中量表满足度，不能写成科学任务成功率。",
+    "limitations": "部分案例中wiki没有增益。先读Dreaming相关段落及反例，检查原始日志是否可追溯、反馈来自哪里、何时更新记忆；文章没有仪器控制或实体实验成绩。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

@@ -184,3 +184,8 @@
 | [SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery](https://arxiv.org/abs/2611.12552) | Northwestern University | 2026-11-09 | preprint |
 | [AMSchem: Automated Schematic Visualization of AMS Circuits via Verifiable Agentic Generation](https://arxiv.org/abs/2611.12333) | 东方理工、上海交通及UW/Cambridge等合作者 | 2026-11-09 | preprint |
 | [Upgrade of the MITHiC testbed for phase and amplitude control in the focal plane](https://arxiv.org/abs/2611.12183) | LAM Aix-Marseille/CNRS/CNES | 2026-11-09 | preprint |
+| [ChipOmni: A General-Purpose AI Agent for Electronic Design Automation](https://arxiv.org/abs/2611.13020) | 中国科大、同济、香港城大等；正文列斯坦福关联单位 | 2026-11-09 | paper |
+| [Don’t Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://arxiv.org/abs/2611.14320) | KAIST、DeepAuto.ai | 2026-11-10 | paper |
+| [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514) | Cornell，Ziang Liu、James J. Kim、Yijia Dai、Jennifer J. Sun | 2026-11-10 | paper |
+| [Embodied Science Agents: Making Embodied Experimental Design Learnable](https://arxiv.org/abs/2611.12958) | UCL、港科大（广州）、上海交大等；首作者Che/Chen页面拼写不一致 | 2026-11-07 | paper |
+| [The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory) | Anthropic Engineering | — | official_technical_article |

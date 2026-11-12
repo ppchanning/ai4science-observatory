@@ -29,3 +29,9 @@
 ## Computational Discovery MCP
 
 [Google 官方更新](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)：2026-11-03新增获准用户的 MCP 接入，网页仍可用；2026-11-11核查。计算科研工具，不是远程实物控制证据。资格需批准，费用、排队、实验/分析时长与集成人时未知。
+
+## NSLS-II HXN：真实成像驱动的后续测量
+
+[Brookhaven官方新闻](https://www.bnl.gov/newsroom/news.php?a=223173&btw=1)发表于2026-11-04，2026-11-12核查。SYNAPS-I在HXN用新取得的真实图像选择兴趣区域，再进行高分辨率物理测量；报道描述该段无人介入。另一芯片重建演示的吞吐率不能当作此集成流程的端到端时延。
+
+证据是设施官方演示报道，不是独立复现。设施专用集成不等于公众可用的通用API或GUI；个人资格、自动化许可、排队、实验时长、费用和集成人时均未知。

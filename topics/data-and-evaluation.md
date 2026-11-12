@@ -110,3 +110,6 @@
 - [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)
 - [SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery](https://arxiv.org/abs/2611.12552) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-11.md)
 - [AMSchem: Automated Schematic Visualization of AMS Circuits via Verifiable Agentic Generation](https://arxiv.org/abs/2611.12333) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-11.md)
+- [Don’t Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://arxiv.org/abs/2611.14320) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
+- [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
+- [The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)

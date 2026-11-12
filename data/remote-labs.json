@@ -61,6 +61,23 @@
       "analysis_time": null,
       "integration_person_hours": null,
       "running_cost": null
+    },
+    {
+      "key": "bnl-synaps-i-hxn-20261104",
+      "name": "NSLS-II HXN SYNAPS-I adaptive imaging demonstration",
+      "verified_at": "2026-11-12T07:12:04.560712+08:00",
+      "source_date": "2026-11-04",
+      "source_urls": [
+        "https://www.bnl.gov/newsroom/news.php?a=223173&btw=1"
+      ],
+      "interface": "设施专用数据/控制集成；官方新闻未给通用GUI/API/MCP入口",
+      "hardware": "HXN真实成像后选择兴趣区域继续高分辨率测量，报道称该段无人介入",
+      "individual_eligibility": null,
+      "queue_time_current": null,
+      "experiment_time_current": null,
+      "analysis_time": null,
+      "integration_person_hours": null,
+      "running_cost": null
     }
   ],
   "unknown_policy": "Missing and null are unknown, never zero/free/permitted."

@@ -48,3 +48,5 @@
 - [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)
 - [SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery](https://arxiv.org/abs/2611.12552) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-11.md)
 - [AMSchem: Automated Schematic Visualization of AMS Circuits via Verifiable Agentic Generation](https://arxiv.org/abs/2611.12333) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-11.md)
+- [ChipOmni: A General-Purpose AI Agent for Electronic Design Automation](https://arxiv.org/abs/2611.13020) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
+- [Embodied Science Agents: Making Embodied Experimental Design Learnable](https://arxiv.org/abs/2611.12958) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)

@@ -1902,9 +1902,9 @@
       "access_status": "网页可读；agent提取",
       "observed_frequency": "未知/不定期；单次入口核验不足以估计节奏",
       "official_frequency": "未发现承诺",
-      "evidence_url": "https://www.csiro.au/en/news/All/Articles/2023/September/artificial-intelligence-counts-science",
-      "evidence_note": "官方/源站AI4S文章或主题，详见研究检索记录",
-      "checked_at": "2026-09-15"
+      "evidence_url": "https://www.csiro.au/en/news/all/articles/2026/november/blackhole-conversation",
+      "evidence_note": "CSIRO作者解读：GenDIReCT以闭合不变量重建M87；非天文训练图像、非环测试和冻结后的目标数据分析构成独立检验。页面日期仅到日，未据单篇样本推断更新频率。",
+      "checked_at": "2026-11-12"
     },
     {
       "source_id": "S060",

@@ -59,3 +59,4 @@
 
 - [CCAT: Prime-Cam Control System and Related Software](https://arxiv.org/abs/2611.05253) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-10.md)
 - [Upgrade of the MITHiC testbed for phase and amplitude control in the focal plane](https://arxiv.org/abs/2611.12183) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-11.md)
+- [Embodied Science Agents: Making Embodied Experimental Design Learnable](https://arxiv.org/abs/2611.12958) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)

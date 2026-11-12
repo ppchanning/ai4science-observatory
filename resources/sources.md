@@ -59,7 +59,7 @@
 | [ELLIS](https://ellis.eu/news) | 欧洲AI研究网络 | 英文 | 2026-09-15 |
 | [RIKEN AIP](https://aip.riken.jp/news/) | 国家科研机构 | 英文/日文 | 2026-09-15 |
 | [RIKEN Science News](https://www.riken.jp/en/news_pubs/research_news/) | 国家科研机构 | 英文 | 2026-09-15 |
-| [CSIRO](https://www.csiro.au/en/news) | 国家科研机构 | 英文 | 2026-09-15 |
+| [CSIRO](https://www.csiro.au/en/news) | 国家科研机构 | 英文 | 2026-11-12 |
 | [AI Singapore](https://aisingapore.org/news/) | 国家AI项目 | 英文 | 2026-09-15 |
 | [Mila](https://mila.quebec/en/news) | 科研机构 | 英文/法文 | 2026-09-15 |
 | [Vector Institute](https://vectorinstitute.ai/insights/) | 科研机构 | 英文 | 2026-09-15 |
