@@ -113,3 +113,6 @@
 - [Don’t Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://arxiv.org/abs/2611.14320) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
 - [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
 - [The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
+- [Veritas: A Verifier Generation Harness for Agent Tasks](https://arxiv.org/abs/2611.13336) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-13.md)
+- [ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows](https://arxiv.org/abs/2611.14492) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-13.md)
+- [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](https://arxiv.org/abs/2611.14326) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-13.md)

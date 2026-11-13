@@ -50,3 +50,5 @@
 - [AMSchem: Automated Schematic Visualization of AMS Circuits via Verifiable Agentic Generation](https://arxiv.org/abs/2611.12333) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-11.md)
 - [ChipOmni: A General-Purpose AI Agent for Electronic Design Automation](https://arxiv.org/abs/2611.13020) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
 - [Embodied Science Agents: Making Embodied Experimental Design Learnable](https://arxiv.org/abs/2611.12958) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
+- [ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows](https://arxiv.org/abs/2611.14492) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-13.md)
+- [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](https://arxiv.org/abs/2611.14326) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-13.md)

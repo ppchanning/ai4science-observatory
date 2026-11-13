@@ -36,14 +36,16 @@
       "verified_at": "2026-11-03T07:04:17.158481+08:00",
       "source_date": "2026-10-30",
       "source_urls": [
-        "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/"
+        "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+        "https://stelline.space/"
       ],
       "verification": "官方公司现场报道，非原始对照论文；未独立复现",
       "hardware": "公司报道真实望远镜及现场实时数据；不是数字仿真",
       "interface": "Nexus协调仪器状态、计算资源和处理管线，Holoscan提供数据通路；属于专用集成，不证明截图GUI控制",
       "feedback": "报道包含校准、数据纠错及实时脉冲星检测；未提供新检测驱动下一次观测的完整闭环轨迹",
       "limitations": "未提供条件完整的性能、自主性或迁移对照；不采用数周或数年缩至数小时的效率主张",
-      "access_evidence": "公开预约、个人资格、自动化权限、费用、排队及实验时长未知；不能由现场部署推定开放接入"
+      "access_evidence": "公开预约、个人资格、自动化权限、费用、排队及实验时长未知；不能由现场部署推定开放接入",
+      "evidence_update": "2026-11-13：Stelline官方页补充ATA现场数据经CyberEther处理与可视化、Nexus负责专用集群编排。网页入口不证明截图GUI控制；未公开检测改变下一次观测的完整轨迹。费用、资格、排队与接入工时仍未知。"
     },
     {
       "key": "google-computational-discovery-mcp-20261103",

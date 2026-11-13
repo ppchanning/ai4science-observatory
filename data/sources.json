@@ -5215,11 +5215,11 @@
       "collect_url": "https://proofsandprompts.com/feed/",
       "method": "rss_atom",
       "access_status": "已实测结构化读取",
-      "observed_frequency": "RSS10条，2026-09-17至22；不承诺频率",
+      "observed_frequency": "2026-11-12已读3篇；样本不代表固定频率",
       "official_frequency": "未发现承诺",
-      "evidence_url": "https://proofsandprompts.com/2026/09/22/why-i-agreed-to-join-agmai/",
-      "evidence_note": "S130转载正文链接发现，入口、多篇目录和原文均已核实；独立共同体博客，不是陶哲轩个人博客镜像",
-      "checked_at": "2026-09-23"
+      "evidence_url": "https://proofsandprompts.com/2026/11/12/on-ai-and-progress-in-mathematics-dreaming-a-mathematical-universal-machine/",
+      "evidence_note": "11月12日三篇正文及发布时间已核：数学通用机器倡议、数学共同体与AI公司合作评论、两项AI忧虑。均为观点材料，不等于新定理。",
+      "checked_at": "2026-11-13"
     },
     {
       "source_id": "S162",

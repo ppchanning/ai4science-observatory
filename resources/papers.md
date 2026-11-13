@@ -189,3 +189,6 @@
 | [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514) | Cornell，Ziang Liu、James J. Kim、Yijia Dai、Jennifer J. Sun | 2026-11-10 | paper |
 | [Embodied Science Agents: Making Embodied Experimental Design Learnable](https://arxiv.org/abs/2611.12958) | UCL、港科大（广州）、上海交大等；首作者Che/Chen页面拼写不一致 | 2026-11-07 | paper |
 | [The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory) | Anthropic Engineering | — | official_technical_article |
+| [Veritas: A Verifier Generation Harness for Agent Tasks](https://arxiv.org/abs/2611.13336) | ByteDance、UIC、NYU | 2026-11-09 | 预印本 |
+| [ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows](https://arxiv.org/abs/2611.14492) | Amazon、Columbia University | 2026-11-10 | 预印本 |
+| [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](https://arxiv.org/abs/2611.14326) | NTU、Georgia Tech、UW、NUS等 | 2026-11-10 | 预印本 |

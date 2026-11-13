@@ -3544,5 +3544,56 @@
       "digests/scientific-computer-use/2026/2026-11-12.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Veritas: A Verifier Generation Harness for Agent Tasks",
+    "team": "ByteDance、UIC、NYU",
+    "url": "https://arxiv.org/abs/2611.13336",
+    "verification": "原始身份页及v1 HTML方法、实验、限制和相关附录已核；未执行代码",
+    "verified_at": "2026-11-13T07:11:10.520508+08:00",
+    "read_first": "§3.2–3.3、表2、附录D.2/C.1",
+    "id": "arxiv:2611.13336",
+    "first_published": "2026-11-09",
+    "verified_version": "v1",
+    "evidence": "方法的关键不是多加一轮“请仔细检查”，而是把验收条件落在实际证据上。首先在输入开头说明，验收器运行时究竟会得到对话、工具轨迹、最终数据库，还是文件系统；其次补充任务文字常省略的领域规则；最后加入关于拒绝空操作、伪造和部分完成的写作原则。不同任务需要不同包装适配器，因此这仍有接入工程量。操作发生在代码、容器和基准接口中，覆盖软件修复、终端科学任务和模拟客服环境，没有现场仪器测量。",
+    "limitations": "一个具体例子是板材损伤定位。错误程序无论输入什么都返回板中心；只检查坐标是否落在板内，会让它蒙混过关。Veritas生成的验收器在已知位置设置损伤，再检查定位误差，因而能区分占位答案与真正定位。这里测试用的已知损伤属于基准构造的可控输入，不能写成真实材料实验。主比较固定GLM-5.2，只改变运行框架：在经作者筛查的39个TB-Science任务、219份候选结果上，Veritas与官方标签的一致性指标κ*为0.548，普通OpenCode为0.474。κ*扣除了偶然一致，并把没有给出判定也算错；它不是科学发现成功率。作者也核查官方判定，剔除不可靠标签，因此结论适用于筛选后的样本。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+    "team": "Amazon、Columbia University",
+    "url": "https://arxiv.org/abs/2611.14492",
+    "verification": "原始身份页及v1 HTML方法、实验、限制和相关附录已核；未执行代码",
+    "verified_at": "2026-11-13T07:11:10.520508+08:00",
+    "read_first": "§3、表1–2、§5.4/7",
+    "id": "arxiv:2611.14492",
+    "first_published": "2026-11-10",
+    "verified_version": "v1",
+    "evidence": "作者利用代理随工具调用给出的理由恢复分支条件，而不只复制动作序列。系统也可根据训练任务的失败反馈修复代码，但这种修复发生在部署前，不能混同为新测量触发开放式科研决策。公开实验是客服工具的模拟环境与SOP任务；企业实验使用内部生产平台，包含网页自动化工具，原文没有提供截图GUI代理与API代理的等预算比较。人提供规程、工具及评价规则，编译出来的流程处理新输入；规程或工具改变时可能需要重新构建。",
+    "limitations": "最容易被误用的数字是“1.3秒对170秒”：它来自τ²-bench电信领域solo模式的40个测试输入，工具被模拟、运行中没有规划模型调用，工作流任务成功率75.8%，原代理80.6%。因此这是用部分成功率换执行效率的证据，不是远程仪器排队或测量的提速；一次性构建调用还应另外摊销。企业平台覆盖79种规程，各方法实际可运行70—78种，按规程平均的完成率为93.8%对96.8%，每任务运行费用降低24%，计入工具内部模型调用，但不是包含构建和维护的全生命周期成本。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents",
+    "team": "NTU、Georgia Tech、UW、NUS等",
+    "url": "https://arxiv.org/abs/2611.14326",
+    "verification": "原始身份页及v1 HTML方法、实验、限制和相关附录已核；未执行代码",
+    "verified_at": "2026-11-13T07:11:10.520508+08:00",
+    "read_first": "§4、§6.1、附录C.3/D.2",
+    "id": "arxiv:2611.14326",
+    "first_published": "2026-11-10",
+    "verified_version": "v1",
+    "evidence": "这些检查分三路：相近但未见过的任务能否受益，貌似相似却不该套用规则的反例会不会暴露错误，过去已做对的存档任务会不会退步。失败后可以缩窄适用范围或拒绝更新。正式运行时也按前提检索经验，并监测效果违例。这里持续维护的是有作用域、检查记录和修订依据的经验集合，而不是把所有轨迹无差别塞入上下文。作者在浏览器网页任务、AppWorld的应用API、客服工具、记忆问答和代码等环境评价；跨任务反馈来自软件状态、数据库或基准答案，不能当成科研事实的自然真值。",
+    "limitations": "最有信息量的实验不是跨模型排行榜，而是检查预算与消融。默认每个任务最多提出3个更新，每个候选分配8个迁移检查、16个反例检查和16个回归检查；这些是候选检查数，不等于40次廉价函数调用，实际可能需要完整代理运行。作者报告，去掉反例检查会增加错误提交，去掉回归检查会伤害已有能力，针对候选假设挑选检查比随机抽取更容易提前暴露有害更新。其受控比较要求相同模型、工具、记忆、更新和验证预算，并把更大搜索或额外训练的原生设置另列，因此不宜拿总表中不同骨干的分数直接宣称算法胜出。统计保证也依赖验证器与抽样假设，不能跨过这些前提变成“学到的规律可信”。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

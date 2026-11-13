@@ -157,7 +157,7 @@
 | [Xinming Tu · @TuXinming](https://x.com/TuXinming) | 通讯博客 | 英文 | 2026-09-22T14:08:14.724272+00:00 |
 | [Quanquan Gu · @QuanquanGu](https://x.com/QuanquanGu) | 通讯博客 | 英文 | 2026-09-22T14:08:14.724272+00:00 |
 | [Sai Teja Pusuluri](https://saiteja.ai/) | 通讯博客 | 英文 | 2026-09-22T14:08:14.724272+00:00 |
-| [Proofs and Prompts](https://proofsandprompts.com/) | 通讯博客 | 英文 | 2026-09-23 |
+| [Proofs and Prompts](https://proofsandprompts.com/) | 通讯博客 | 英文 | 2026-11-13 |
 | [AGMAI · 数学与人工智能咨询组](https://agmai.org/) | 机构/企业原始发布与低频参考 | 英文 | 2026-09-23 |
 | [AI.MATH · 数学研究与教育倡议](https://ai.math.ms/en/) | 机构/企业原始发布与低频参考 | 英文 | 2026-09-24 |
 | [中国科学院上海高等研究院 · 能源材料与碳核算](https://www.sari.ac.cn/) | 机构/企业原始发布与低频参考 | 中文 | 2026-09-24 |
