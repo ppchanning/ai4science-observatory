@@ -192,3 +192,5 @@
 | [Veritas: A Verifier Generation Harness for Agent Tasks](https://arxiv.org/abs/2611.13336) | ByteDance、UIC、NYU | 2026-11-09 | 预印本 |
 | [ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows](https://arxiv.org/abs/2611.14492) | Amazon、Columbia University | 2026-11-10 | 预印本 |
 | [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](https://arxiv.org/abs/2611.14326) | NTU、Georgia Tech、UW、NUS等 | 2026-11-10 | 预印本 |
+| [Auditable Human–Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) | BNL、LBNL、Argonne、University of Pennsylvania | 2026-11-06 | 预印本 |
+| [Computer-Use Agents Are Embodied Generalists](https://arxiv.org/abs/2611.09847) | Carnegie Mellon University | 2026-11-06 | 预印本 |

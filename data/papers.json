@@ -3595,5 +3595,35 @@
       "digests/scientific-computer-use/2026/2026-11-13.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Auditable Human–Agent Teams for Autonomous X-ray Experimentation",
+    "team": "BNL、LBNL、Argonne、University of Pennsylvania",
+    "url": "https://arxiv.org/abs/2611.12933",
+    "verification": "原始身份页及v1 HTML方法、实验、限制与相关附录已核；未运行代码",
+    "read_first": "§3.1、图2/4、表S2",
+    "id": "arxiv:2611.12933",
+    "version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "23次配置改变请求到新设置首测量中位22分钟，授权到首测量12分钟；0.01mm设置未落实、实际0.05mm网格由人看图发现并纠正；非匹配性能对照",
+    "limitations": "作者报告，未独立复现；不同权限、任务及指标不能直接比较。"
+  },
+  {
+    "title": "Computer-Use Agents Are Embodied Generalists",
+    "team": "Carnegie Mellon University",
+    "url": "https://arxiv.org/abs/2611.09847",
+    "verification": "原始身份页及v1 HTML方法、实验、限制与相关附录已核；未运行代码",
+    "read_first": "§2.4–2.5、§3.2表2",
+    "id": "arxiv:2611.09847",
+    "version": "v1",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "验证集API/GUI四行83.9/85.2、67.4/63.4、26.7/28.1、95.8/94.6，各指标不同；差距1.2–4.0分、方向混合，无表内置信区间",
+    "limitations": "作者报告，未独立复现；不同权限、任务及指标不能直接比较。"
   }
 ]

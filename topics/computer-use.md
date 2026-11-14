@@ -52,3 +52,7 @@
 - [Embodied Science Agents: Making Embodied Experimental Design Learnable](https://arxiv.org/abs/2611.12958) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
 - [ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows](https://arxiv.org/abs/2611.14492) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-13.md)
 - [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](https://arxiv.org/abs/2611.14326) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-13.md)
+
+- [Auditable Human–Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-14.md)
+
+- [Computer-Use Agents Are Embodied Generalists](https://arxiv.org/abs/2611.09847) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-14.md)
