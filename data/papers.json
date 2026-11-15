@@ -3625,5 +3625,55 @@
     "provenance": "ai-assisted-literature-notes",
     "evidence": "验证集API/GUI四行83.9/85.2、67.4/63.4、26.7/28.1、95.8/94.6，各指标不同；差距1.2–4.0分、方向混合，无表内置信区间",
     "limitations": "作者报告，未独立复现；不同权限、任务及指标不能直接比较。"
+  },
+  {
+    "title": "Advancing science & engineering with Antigravity’s /teamwork",
+    "team": "Google Research; Vahab Mirrokni",
+    "url": "https://www.research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "verification": "官方全文非生物工程部分已核；内嵌研究未逐篇核验",
+    "read_first": "Scaling long-horizon reasoning；TPU kernel optimization",
+    "id": "url:https://www.research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告，未独立复现；证据核验范围见同期笔记。",
+    "first_published": "2026-11-13",
+    "type": "official_technical_article",
+    "evidence": "作者报告23秒快速评估对7–32分钟硬件评估；17个JAXBench几何平均4.09x，7个手工Pallas内核2.99x；无统一预算消融"
+  },
+  {
+    "title": "AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design",
+    "team": "Nova-Silicon Team",
+    "url": "https://arxiv.org/abs/2611.16991",
+    "verification": "原始身份摘要、HTML方法实验案例限制已核；接受率口径冲突未解决",
+    "read_first": "§3.3、§6.1、表1",
+    "version": "v1",
+    "id": "arxiv:2611.16991",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告，未独立复现；证据核验范围见同期笔记。",
+    "first_published": "2026-11-12",
+    "type": "paper",
+    "evidence": "13配置×40任务×3尝试，3小时上限；原始摘要23.0%验收与HTML21.3%不一致；VCO三个尝试长宽比22.63–26.31超过4上限，仅0.3分"
+  },
+  {
+    "title": "AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents",
+    "team": "Zhejiang University; You Wu, Guhong Zhang et al.",
+    "url": "https://arxiv.org/abs/2611.16590",
+    "verification": "原始身份摘要、HTML方法主表消融案例限制已核",
+    "read_first": "§4.2、表9、§5.3",
+    "version": "v1",
+    "id": "arxiv:2611.16590",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告，未独立复现；证据核验范围见同期笔记。",
+    "first_published": "2026-11-12",
+    "type": "paper",
+    "evidence": "2240实例；同会话128K Pi78.20/RAG82.74/Mem081.70；新会话262K RAG53.03/Mem065.28，差12.25，95%区间[10.09,14.37]；不同窗口不可直接归因重启"
   }
 ]

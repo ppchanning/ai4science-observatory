@@ -16,8 +16,8 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 | [catalogs/conference-candidates.csv](catalogs/conference-candidates.csv) | AI4Sci主会候选，902 条 |
 | [catalogs/reading-candidates.csv](catalogs/reading-candidates.csv) | 可follow论文库，1197 条 |
 | [industry/jobs.csv](industry/jobs.csv) | 岗位归档，60 条 |
-| [industry/startups.csv](industry/startups.csv) | 公司主表，45 条 |
-| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，54 条 |
+| [industry/startups.csv](industry/startups.csv) | 公司主表，46 条 |
+| [industry/funding-events.csv](industry/funding-events.csv) | 融资事件，55 条 |
 | [industry/research-programs.csv](industry/research-programs.csv) | 机构项目总表，18 条 |
 | [industry/public-company-initiatives.csv](industry/public-company-initiatives.csv) | 核心20家公司，20 条 |
 
@@ -86,3 +86,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 ### 2026-11-11 融资记录
 
 新增物原科技1家公司、1条天使及天使+两轮合并披露记录。[企业供稿报道](https://www.qbitai.com/2026/11/508991.html)提供交叉入口；超过1亿美元为两轮合计，不是单轮金额。实际完成日期及地点待核，不从融资推断物理仿真保真度。
+
+### 2026-11-15 融资历史资料
+
+根据[36氪硬氪11月13日采访](https://www.36kr.com/p/4067548192576389)，新增青葵智造1家公司、1条A轮融资记录。亿元是披露约数，非精确一亿元；总部、交割日和领投方未核实。AI设计、化学自动实验和数据回流按企业访谈归属，不作为独立性能证据。

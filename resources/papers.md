@@ -194,3 +194,6 @@
 | [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](https://arxiv.org/abs/2611.14326) | NTU、Georgia Tech、UW、NUS等 | 2026-11-10 | 预印本 |
 | [Auditable Human–Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) | BNL、LBNL、Argonne、University of Pennsylvania | 2026-11-06 | 预印本 |
 | [Computer-Use Agents Are Embodied Generalists](https://arxiv.org/abs/2611.09847) | Carnegie Mellon University | 2026-11-06 | 预印本 |
+| [Advancing science & engineering with Antigravity’s /teamwork](https://www.research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) | Google Research; Vahab Mirrokni | 2026-11-13 | official_technical_article |
+| [AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design](https://arxiv.org/abs/2611.16991) | Nova-Silicon Team | 2026-11-12 | paper |
+| [AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents](https://arxiv.org/abs/2611.16590) | Zhejiang University; You Wu, Guhong Zhang et al. | 2026-11-12 | paper |

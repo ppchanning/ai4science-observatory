@@ -9724,5 +9724,115 @@
       "digests/ai4science/2026/2026-11-14.md"
     ],
     "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+    "url": "https://www.qbitai.com/2026/11/510232.html",
+    "published_at": "2026-11-14T17:58:22+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "化学",
+      "材料",
+      "生命医药"
+    ],
+    "id": "A4S-20261115-00",
+    "summary": [
+      "SPU用116项任务、4207个湿实验检验模型预测实验结果排序。100个公开任务来自85篇论文，另有16个未发表任务，涉及抗体、反应条件和电解液。量子位报道的首轮评测覆盖12款模型、13种配置；超过随机排序阈值的任务比例为34%—52%，不是单个实验预测准确率。",
+      "评分以Spearman相关系数比较预测与实测排序，每题4000组随机排序的95百分位作参照。一个推理强度对照的耗时约4.8倍、API成本约5.3倍，没有相应得分提升；同批电解液的离子电导率排序约0.89—0.95，电化学窗口降到−0.55—0.07。数字仅属于所报道设置，不能泛化为所有科研模型；本条基于报道，未核原始论文全文。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "title": "AMP Challenge: towards a standardized, community-wide benchmark for AI-driven antimicrobial peptide design",
+    "url": "https://link.springer.com/article/10.1186/s13059-026-04316-3",
+    "published_at": "2026-11-14",
+    "date_precision": "day",
+    "discipline_tags": [
+      "生命医药"
+    ],
+    "id": "A4S-20261115-04",
+    "summary": [
+      "AMP Challenge是Genome Biology发表的评测倡议，目的是统一AI生成抗菌肽的前瞻性湿实验条件。计划最多20队，每队提交5万条序列和前100名，由组织方从前100名随机抽25条，最多500条实验候选；这些是计划，不是已验证的药物。",
+      "统一供应商、盲法与同批协议减少条件差异，20种菌株的最低抑菌浓度与HC50溶血指标同时衡量活性和毒性。倡议涉及预注册和按条件开放数据代码，活动计划衔接2027年会议。有效性和安全性需等待实验，不能从生成数量推断。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "title": "Introducing MathHelm: A Place to discuss AI-generated papers",
+    "url": "https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/",
+    "published_at": "2026-11-14T03:19:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "A4S-20261115-06",
+    "summary": [
+      "MathHelm科学委员会在陶哲轩博客发表客座文章，介绍对AI生成数学手稿的实名讨论平台；不是陶哲轩本人给出的审稿结论。委员会主席为北京大学袁新意。站点日期11月13日、RSS时间11月14日03:19 UTC，分别保留。",
+      "平台旨在汇集正确性、可读性、原创性和参考文献等局部评议。文章以此前公开的722篇数学手稿为背景，鼓励贡献一步疑问或一条参考，而不是要求参与者先判断整篇。论坛上线不意味着手稿通过同行评审，人的解释与后续质疑仍是证据链的一部分。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "title": "中科院院士徐宗本：AI颠覆的不是数学，而是研究数学的方式",
+    "url": "https://k.sina.com.cn/article_5044281310_12ca99fde02002lx5w.html",
+    "published_at": "2026-11-14T18:13:00+08:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "A4S-20261115-01",
+    "summary": [
+      "新浪转载澎湃新闻11月14日报道，转述徐宗本11月11日关于AI与数学研究方式的讲话。报道日期与讲话日期不同；这是学者观点，不是新的实验或定理。",
+      "论述区分数学本体、研究事业与职业分工：机器计算、数学实验和形式验证可以改变探索流程，但提出有价值问题、理解概念联系和评价意义仍需要学术判断。可与MathHelm并读，比较个人研究训练和共同体评议各自解决什么问题。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "title": "How do we know that they are not cheating?",
+    "url": "https://proofsandprompts.com/2026/11/14/how-do-we-know-that-they-are-not-cheating/",
+    "published_at": "2026-11-14T12:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "A4S-20261115-07",
+    "summary": [
+      "José Alejandro Samper在Proofs and Prompts讨论AI形式证明的可信性与验证漏洞。阅读时应区分形式系统中证明通过、目标表述是否准确，以及系统自身是否可靠。",
+      "这是一篇数学评论，不是已经发现证明内核被攻破的实证报告；评论提出的风险不能作为现有工具失效的测量结论。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "title": "Why Correct Answers Are Not Enough",
+    "url": "https://proofsandprompts.com/2026/11/14/why-correct-answers-are-not-enough/",
+    "published_at": "2026-11-14T15:00:00+00:00",
+    "date_precision": "second",
+    "discipline_tags": [
+      "数学"
+    ],
+    "id": "A4S-20261115-08",
+    "summary": [
+      "Wen Yang在Proofs and Prompts讨论正确答案之外的数学理解、人的能动性与共同体评价。文章10月收稿、11月14日刊出；刊出日不是新定理产生日期。",
+      "可将其作为评价AI数学产出的观点材料：最终答案正确与研究者能解释、质疑和决定研究方向，是不同评价维度。它不提供可与实验基准直接比较的能力分数。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
   }
 ]
