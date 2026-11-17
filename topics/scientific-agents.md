@@ -175,3 +175,5 @@
 - [Advancing science & engineering with Antigravity’s /teamwork](https://www.research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-15.md)
 - [AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design](https://arxiv.org/abs/2611.16991) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-15.md)
 - [AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents](https://arxiv.org/abs/2611.16590) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-15.md)
+- [Spectro Capture: A Software System for Automated Small-Observatory Spectroscopy](https://arxiv.org/abs/2605.19459) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-16.md)
+- [Model-Free Runtime Measurement of Task-Relevant Information](https://arxiv.org/abs/2611.14111) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-16.md)

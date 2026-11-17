@@ -9834,5 +9834,57 @@
       "digests/ai4science/2026/2026-11-15.md"
     ],
     "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261116-00",
+    "title": "能相互评价、质疑甚至反驳！25位AI“科学家”组团搞科研",
+    "url": "https://news.bjd.com.cn/2026/11/15/12031432.shtml",
+    "published_at": "2026-11-15T15:11:00+08:00",
+    "summary": [
+      "SciMatrix 1.5把跨学科讨论组织为25个专业智能体的分工、追问与汇总，真人可补充条件和纠偏。北京日报采访研发负责人，称院内70多家单位的170多个团队参与使用；这是受访者披露的规模，不是独立科研效果评估。专家推荐与虚拟角色讨论是不同功能。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-public-news-notes"
+  },
+  {
+    "id": "A4S-20261116-25",
+    "title": "中国AI4LS赛道10个月战绩彪悍：35亿美元、124起融资",
+    "url": "https://www.vbdata.cn/1519104612",
+    "published_at": "2026-11-15T08:00:00+08:00",
+    "summary": [
+      "动脉网不完全统计2026年前十个月中国AI4LS有124起融资、合计34.91亿美元；全球前十项目58.33亿美元是另一头部样本口径。报道讨论模型设计、湿实验与结构化反馈，以及平台服务和自研管线的商业接口。融资不等于科研效果，累计资金与单轮金额不可混用。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-public-news-notes"
+  },
+  {
+    "id": "A4S-20261116-27",
+    "title": "2026年气候变化与可持续发展工程国际会议在广州举行",
+    "url": "https://news.sciencenet.cn/htmlnews/2026/11/574785.shtm",
+    "published_at": "2026-11-15T23:47:01+08:00",
+    "summary": [
+      "中国科学报报道广州11月15日气候与可持续工程会议，将AI与地球系统数值模拟、全球变化观测和生态碳循环相联系。七个专题、31场学术报告及两场企业实践报告提供后续追踪入口；会议议程与合作倡议不构成技术效果验证。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-public-news-notes"
+  },
+  {
+    "id": "A4S-20261116-17",
+    "title": "Why will I fight for a PhD in this era? A naive retrospective in the age of AI",
+    "url": "https://proofsandprompts.com/2026/11/15/why-will-i-fight-for-a-phd-in-this-era-a-naive-retrospective-in-the-age-of-ai/",
+    "published_at": "2026-11-15T15:00:00+00:00",
+    "summary": [
+      "Orlando Ferrari以准备申请博士的数学硕士生身份讨论AI时代科研训练：研究目的、具体问题与工具使用方式。文中说明使用AI辅助笔记、检索和推理检查，并以能否独立解释与提出想法反省依赖。这是个人评论，不是学界共识或能力实验。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-public-news-notes"
   }
 ]

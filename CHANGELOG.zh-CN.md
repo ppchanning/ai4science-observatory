@@ -6,6 +6,8 @@
 
 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入。 这些日期表示原有资料的整理日期，不表示当天已在 GitHub 发布。下列数字按结构化目录中的当期去重条目统计，不等于首次新增；未收录结构化条目的旧日报只计期数。缺少日期不补造活动。
 
+- **2026-11-17** — 补录[2条研究资料](digests/scientific-computer-use/2026/2026-11-16.md)和[4条新闻](digests/ai4science/2026/2026-11-16.md)，0条修订、2期补录：天文观测反馈、信息获取与科研协作。
+
 - **2026-11-15** — 新增 [3 项研究资料](digests/scientific-computer-use/2026/2026-11-15.md)、[6 条新闻](digests/ai4science/2026/2026-11-15.md)、1 家公司和 1 条融资事件；论文/新闻修订 0 项、补录 0 期。实验预测、全局设计约束与记忆证据边界。
 - **2026-11-14** — 新增 [2 项研究资料](digests/scientific-computer-use/2026/2026-11-14.md)、[6 条新闻](digests/ai4science/2026/2026-11-14.md)；修订 [1 家公司举措](data/industry/public-company-initiatives.csv)，论文/新闻修订 0 项、补录 0 期。核对实际测量与配置，保留科学主张的证据范围。
 - **2026-11-13** — 新增[3项研究资料](digests/scientific-computer-use/2026/2026-11-13.md)、[10条新闻](digests/ai4science/2026/2026-11-13.md)；修订[1项信源](resources/sources.md)及[1项既有平台证据](resources/remote-labs.md)。论文／新闻修订0项、补录0期。验收证据、流程成本与气候训练数据。

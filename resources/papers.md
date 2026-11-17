@@ -197,3 +197,5 @@
 | [Advancing science & engineering with Antigravity’s /teamwork](https://www.research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) | Google Research; Vahab Mirrokni | 2026-11-13 | official_technical_article |
 | [AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design](https://arxiv.org/abs/2611.16991) | Nova-Silicon Team | 2026-11-12 | paper |
 | [AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents](https://arxiv.org/abs/2611.16590) | Zhejiang University; You Wu, Guhong Zhang et al. | 2026-11-12 | paper |
+| [Spectro Capture: A Software System for Automated Small-Observatory Spectroscopy](https://arxiv.org/abs/2605.19459) | — | 2026-05-19 | research paper |
+| [Model-Free Runtime Measurement of Task-Relevant Information](https://arxiv.org/abs/2611.14111) | — | 2026-11-10 | research paper |

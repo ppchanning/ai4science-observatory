@@ -62,3 +62,4 @@
 - [Embodied Science Agents: Making Embodied Experimental Design Learnable](https://arxiv.org/abs/2611.12958) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-12.md)
 
 - [Auditable Human–Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-14.md)
+- [Spectro Capture: A Software System for Automated Small-Observatory Spectroscopy](https://arxiv.org/abs/2605.19459) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-16.md)

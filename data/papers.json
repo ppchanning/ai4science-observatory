@@ -3675,5 +3675,34 @@
     "first_published": "2026-11-12",
     "type": "paper",
     "evidence": "2240实例；同会话128K Pi78.20/RAG82.74/Mem081.70；新会话262K RAG53.03/Mem065.28，差12.25，95%区间[10.09,14.37]；不同窗口不可直接归因重启"
+  },
+  {
+    "title": "Spectro Capture: A Software System for Automated Small-Observatory Spectroscopy",
+    "doi": "10.1016/j.ascom.2026.101162",
+    "arxiv": "2605.19459",
+    "url": "https://arxiv.org/abs/2605.19459",
+    "id": "doi:10.1016/j.ascom.2026.101162",
+    "first_published": "2026-05-19",
+    "evidence": "Spectro Capture通过ASCOM、PWI4 HTTP及PHD2接口组织相机、望远镜和导星。人提供目标表并完成标定；稳定反馈决定何时启动曝光，天气安全状态能中止运行。2026年1月1日至5月11日74个批次中，345个目标块完成339个（98.3%）。另268个完成目标的获取导星日志平均62秒、90%在92秒内。",
+    "limitations": "这是专用真实仪器集成，没有语言模型或截图操作。完成率分母是目标块；获取开销不含科学曝光。6次未完成中4次导星问题、1次解析失败、1次天气安全停止。没有受控人工计时对照、公众机时资格或跨站即插即用证据。光谱约化仍在下游进行。",
+    "read_first": "§6表1—3；§7.2—7.3",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Model-Free Runtime Measurement of Task-Relevant Information",
+    "arxiv": "2611.14111",
+    "url": "https://arxiv.org/abs/2611.14111",
+    "id": "arxiv:2611.14111",
+    "first_published": "2026-11-10",
+    "evidence": "AST要求领域接口把观察映射为任务要求的解决程度和证据表示，再监测进展与信息阻滞。八类任务主要来自计算、数据和模拟。搜救询问实验用三套语料、10个种子，比较五种PPO策略；完整预算下平均解决8项中的7.67—8项。",
+    "limitations": "相同AST阈值0.20触发提前终止时，基线平均2.37项／约7%完整解决，AST-Pen为7.07项／87%。优势依赖终止规则，不能推广为一般成功率提升。无模型不等于无需领域评分，也不能证明证据真实性；没有远程真实仪器实验。",
+    "read_first": "§2.1—2.2；表1；附录E",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]
