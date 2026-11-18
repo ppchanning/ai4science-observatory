@@ -63,3 +63,7 @@
 
 - [Auditable Human–Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-14.md)
 - [Spectro Capture: A Software System for Automated Small-Observatory Spectroscopy](https://arxiv.org/abs/2605.19459) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-16.md)
+
+## 2026-11-18
+
+- [The Tierras Observatory: Ultra-Precise Photometry for Characterizing Exoplanets and Their Host Stars](https://arxiv.org/abs/2611.12849) — [方法与证据边界](../digests/scientific-computer-use/2026/2026-11-18.md)
