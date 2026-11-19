@@ -56,3 +56,9 @@
 - [Auditable Human–Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-14.md)
 
 - [Computer-Use Agents Are Embodied Generalists](https://arxiv.org/abs/2611.09847) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-14.md)
+
+- [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](https://arxiv.org/abs/2611.21950) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
+
+- [The Agentic AI Kerr Lab: LLM Agents for Kerr Microscopy Experiments with Magnetic Skyrmions](https://arxiv.org/abs/2611.00299) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
+
+- [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)

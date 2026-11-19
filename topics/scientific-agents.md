@@ -177,3 +177,9 @@
 - [AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents](https://arxiv.org/abs/2611.16590) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-15.md)
 - [Spectro Capture: A Software System for Automated Small-Observatory Spectroscopy](https://arxiv.org/abs/2605.19459) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-16.md)
 - [Model-Free Runtime Measurement of Task-Relevant Information](https://arxiv.org/abs/2611.14111) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-16.md)
+
+- [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](https://arxiv.org/abs/2611.21950) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
+
+- [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
+
+- [The Agentic AI Kerr Lab: LLM Agents for Kerr Microscopy Experiments with Magnetic Skyrmions](https://arxiv.org/abs/2611.00299) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)

@@ -67,3 +67,5 @@
 ## 2026-11-18
 
 - [The Tierras Observatory: Ultra-Precise Photometry for Characterizing Exoplanets and Their Host Stars](https://arxiv.org/abs/2611.12849) — [方法与证据边界](../digests/scientific-computer-use/2026/2026-11-18.md)
+
+- [The Agentic AI Kerr Lab: LLM Agents for Kerr Microscopy Experiments with Magnetic Skyrmions](https://arxiv.org/abs/2611.00299) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)

@@ -200,3 +200,7 @@
 | [Spectro Capture: A Software System for Automated Small-Observatory Spectroscopy](https://arxiv.org/abs/2605.19459) | — | 2026-05-19 | research paper |
 | [Model-Free Runtime Measurement of Task-Relevant Information](https://arxiv.org/abs/2611.14111) | — | 2026-11-10 | research paper |
 | [The Tierras Observatory: Ultra-Precise Photometry for Characterizing Exoplanets and Their Host Stars](https://arxiv.org/abs/2611.12849) | Juliana García-Mejía et al. | 2026-11-09 | preprint |
+| [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](https://arxiv.org/abs/2611.21950) | Owen Queen、Ioana Ciuca等；Stanford/KIPAC、SLAC等 | 2026-11-16 | arXiv预印本 |
+| [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541) | Brian T. Weston、Alondra Torres Contreras、Aldair E. Gongora；LLNL | 2026-11-16 | arXiv预印本 |
+| [The Agentic AI Kerr Lab: LLM Agents for Kerr Microscopy Experiments with Magnetic Skyrmions](https://arxiv.org/abs/2611.00299) | Kilian Leutner等；Mainz、Max Planck等 | 2026-10-30 | arXiv预印本 |
+| [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) | Haoqing Wang等；Microsoft Research、复旦、清华 | 2026-10-30 | arXiv预印本 |

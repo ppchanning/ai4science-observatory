@@ -24,12 +24,12 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-11-19** — Added [5 news events](digests/ai4science/2026/2026-11-19.md) and [4 papers](digests/scientific-computer-use/2026/2026-11-19.md); 0 revisions or backfilled issues. Scientific judgment, provenance and physical feedback.
 - **2026-11-18** — Added [10 news events](digests/ai4science/2026/2026-11-18.md) and [1 paper](digests/scientific-computer-use/2026/2026-11-18.md); 0 revisions or backfilled issues. Scientific software checks and long-term observing precision.
 - **2026-11-17** — Added [2 research resources](digests/scientific-computer-use/2026/2026-11-16.md) and [4 news events](digests/ai4science/2026/2026-11-16.md); 0 revisions, 2 backfilled issues. Telescope feedback, information acquisition and scientific collaboration.
 - **2026-11-15** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-16.md) and [6 news events](digests/ai4science/2026/2026-11-16.md), 1 company and 1 funding event; 0 paper/news revisions or backfilled issues. Experimental prediction, global design constraints and scoped memory evidence.
 - **2026-11-14** — Added [2 research resources](digests/scientific-computer-use/2026/2026-11-14.md) and [6 news events](digests/ai4science/2026/2026-11-14.md); revised [1 company initiative](data/industry/public-company-initiatives.csv). 0 paper/news revisions or backfilled issues. Actual measurements versus configuration, and scoped scientific claims.
 - **2026-11-13** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-13.md) and [10 news events](digests/ai4science/2026/2026-11-13.md); revised [1 source](resources/sources.md) and [1 existing platform evidence record](resources/remote-labs.md). 0 paper/news revisions or backfilled issues. Verifier evidence, workflow costs and climate training data.
-- **2026-11-12** — Added [5 research resources](digests/scientific-computer-use/2026/2026-11-12.md), [11 news events](digests/ai4science/2026/2026-11-12.md) and [1 physical-imaging platform record](resources/remote-labs.md); revised [1 source record](resources/sources.md). 0 existing-paper/news revisions or backfilled issues. Traceable memory, competing explanations and measured experiments.
 <!-- updates-daily:end -->
 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
@@ -68,8 +68,8 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 
 | What you want to do | Where to start | What you get |
 | --- | --- | --- |
-| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-11-18.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
-| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-11-18.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
+| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-11-19.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
+| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-11-19.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
 | Build a reading path around a question | [Topic map](topics/README.md) · [Paper catalog](resources/papers.md) | Papers connected by methods and settings, with original sources for checking claims |
 | Build your own information feed | [Source directory](resources/sources.md) | Institutions, journals, projects, and specialist media, with collection methods and historical verification information |
 | Compare research areas, projects, or industry developments | [Data guide](data/README.md) | Downloadable catalogs of papers, surveys, companies, funding events, jobs, and institutional programs |
@@ -136,9 +136,9 @@ Paper tables may overlap; their row counts cannot be added to obtain a unique pa
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-11-18**: **52 science digests · 503 deduplicated news events · 46 scientific-agent reading issues · 195 bibliography entries · 175 sources · 11 CSV datasets**.
+As of **2026-11-19**: **53 science digests · 508 deduplicated news events · 47 scientific-agent reading issues · 199 bibliography entries · 175 sources · 11 CSV datasets**.
 
-News archives cover 2026-09-22 through 2026-11-18; reading issues cover 2026-09-28 through 2026-11-18. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
+News archives cover 2026-09-22 through 2026-11-19; reading issues cover 2026-09-28 through 2026-11-19. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

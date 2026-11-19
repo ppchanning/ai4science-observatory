@@ -6,6 +6,7 @@
 
 Earlier entries follow material dates, backfilled at the repository launch on **2026-10-10**. These dates describe existing material, rather than earlier GitHub publication. Counts refer to unique entries linked to each issue in the structured catalogs, not first-time additions. Older digests without catalog entries are counted as issues only. Missing dates have no invented activity.
 
+- **2026-11-19** — Added [5 news events](digests/ai4science/2026/2026-11-19.md) and [4 papers](digests/scientific-computer-use/2026/2026-11-19.md); 0 revisions or backfilled issues. Scientific judgment, provenance and physical feedback.
 - **2026-11-18** — Added [10 news events](digests/ai4science/2026/2026-11-18.md) and [1 paper](digests/scientific-computer-use/2026/2026-11-18.md); 0 revisions or backfilled issues. Scientific software checks and long-term observing precision.
 - **2026-11-17** — Added [2 research resources](digests/scientific-computer-use/2026/2026-11-16.md) and [4 news events](digests/ai4science/2026/2026-11-16.md); 0 revisions, 2 backfilled issues. Telescope feedback, information acquisition and scientific collaboration.
 

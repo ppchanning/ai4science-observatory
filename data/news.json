@@ -10036,5 +10036,75 @@
       "digests/ai4science/2026/2026-11-18.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "The Art of Asking Questions: From Stephen Hawking to AI",
+    "url": "https://physics.aps.org/articles/v19/154",
+    "published_at": "2026-11-18",
+    "date_precision": "day",
+    "id": "EV-51fdfab626d0e9",
+    "summary": [
+      "物理学家Marika Taylor以理论研究实践说明，LLM可辅助追溯旧文献中的数学结果与探索猜想；问题选择、适用条件和论证核验仍由研究者承担。本文为署名评论，发布日期仅精确到日，不是新实验或独立性能评测。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research",
+    "url": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
+    "published_at": "2026-11-18T12:00:00Z",
+    "date_precision": "timestamp",
+    "id": "EV-5894b02298a54c",
+    "summary": [
+      "Tesorai披露530万美元种子轮、累计800万美元，服务侧重质谱原始数据的统一、检索和再分析。公司重处理五项公开脑组织研究所得p-tau217信号是历史数据复用案例；融资与企业模型性能陈述不证明药物疗效或独立验证收益。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "Tesorai raises $5.3M to feed starving AI models with biological data and accelerate drug discovery",
+    "url": "https://siliconangle.com/2026/11/18/tesorai-raises-5-3m-to-feed-starving-ai-models-with-biological-data-and-accelerate-drug-discovery/",
+    "published_at": "2026-11-18T14:00:00Z",
+    "date_precision": "timestamp",
+    "id": "EV-7f0ff0e1cfa97f",
+    "summary": [
+      "Zapata公告ForShor.ai挑战，以已形式化的Shor算法实现为起点，在明确规范下探索AI生成方案。挑战上线提供检验机制，尚不能作为量子算法性能突破；形式正确与机制理解需要分别考察。材料为公司公告性质。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "Mathematics: From Deductive Science to Actually an Experimental Science",
+    "url": "https://proofsandprompts.com/2026/11/18/mathematics-from-deductive-science-to-actually-an-experimental-science/",
+    "published_at": "2026-11-18T12:00:00Z",
+    "date_precision": "timestamp",
+    "id": "EV-63b6de66466cfb",
+    "summary": [
+      "AIAS+2026会议回顾讨论候选生成加快后的实验与独立判断瓶颈。自愿调查中71%关注验证、73%重视独立科学家判断，但缺少总体推断所需抽样设计。会议于11月5–7日举行，11月18日为报道日；观点与组织规模不替代单项成果证据。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "title": "AI Is Accelerating Scientific Discovery. What Will It Take to Trust the Results?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-accelerating-scientific-discovery-trust-170000804.html",
+    "published_at": "2026-11-18T17:00:00Z",
+    "date_precision": "timestamp",
+    "id": "EV-ded2419d1f95ed",
+    "summary": [
+      "Tiago Veríssimo提出AI证明搜索可能使数学研究更重视问题选择、概念探索与失败路径记录。这里的“实验”指形成猜想的方法，命题成立仍需证明。文章是个人规范性评论，不证明数学已整体转型。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
   }
 ]
