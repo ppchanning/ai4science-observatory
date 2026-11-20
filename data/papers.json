@@ -3793,5 +3793,21 @@
     "provenance": "ai-assisted-literature-notes",
     "first_published": "2026-10-30",
     "limitations": "一般桌面任务，未连接物理仪器。OSWorld2.0中108任务、同模型500步，Partial72.37对68.82、Binary32.40对31.50；对照CUA Driver也支持三通路，不能将差异归因于混合接口相对纯GUI。科学控件与接入人时未验证。"
+  },
+  {
+    "title": "The Transient Array Radio Telescope: An open-source all-sky imaging radio interferometer",
+    "url": "https://arxiv.org/abs/2611.02313",
+    "verification": "原始页及全文相关章节",
+    "verified_at": "2026-11-20T07:03:55.648668+08:00",
+    "id": "arxiv:2611.02313",
+    "first_published": "2026-11-02",
+    "type": "preprint",
+    "evidence": "TART用24接收单元进行全天空射电成像。浏览器与REST API共用后端，公开数据读取与认证配置分开；tart2ms转换Measurement Set，再接CASA、Stimela或WSClean。作者用加纳台站同一真实测量展示三种成像，专用校准算法跟踪增益和相位。",
+    "limitations": "图10为真实数据处理链能力证据，不是接口性能对照或语言模型闭环实验。未展示agent据图像改变下一次采集；通量表述待核，不转述灵敏度。公众控制资格、价格、排队与接入人时未知。",
+    "read_first": "§3.1–3.5及§4图10",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

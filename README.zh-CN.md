@@ -24,12 +24,12 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-11-20** — 新增[ 9条新闻](digests/ai4science/2026/2026-11-20.md)及[1篇论文](digests/scientific-computer-use/2026/2026-11-20.md)；新增1家公司、2条融资；修订1条公司记录，论文/新闻0修订、0补录。便携预报、实验优化与射电观测的数据权限。
 - **2026-11-19** — 新增[5条新闻](digests/ai4science/2026/2026-11-19.md)与[4篇论文](digests/scientific-computer-use/2026/2026-11-19.md)；修订0、补录0期。科学判断、溯源与物理反馈。
 - **2026-11-18** — 新增 [10条新闻](digests/ai4science/2026/2026-11-18.md)、[1篇论文](digests/scientific-computer-use/2026/2026-11-18.md)；修订0，补录0期。科学软件验证与长期观测精度。
 - **2026-11-17** — 补录[2条研究资料](digests/scientific-computer-use/2026/2026-11-16.md)和[4条新闻](digests/ai4science/2026/2026-11-16.md)，0条修订、2期补录：天文观测反馈、信息获取与科研协作。
 - **2026-11-15** — 新增 [3 项研究资料](digests/scientific-computer-use/2026/2026-11-16.md)、[6 条新闻](digests/ai4science/2026/2026-11-16.md)、1 家公司和 1 条融资事件；论文/新闻修订 0 项、补录 0 期。实验预测、全局设计约束与记忆证据边界。
 - **2026-11-14** — 新增 [2 项研究资料](digests/scientific-computer-use/2026/2026-11-14.md)、[6 条新闻](digests/ai4science/2026/2026-11-14.md)；修订 [1 家公司举措](data/industry/public-company-initiatives.csv)，论文/新闻修订 0 项、补录 0 期。核对实际测量与配置，保留科学主张的证据范围。
-- **2026-11-13** — 新增[3项研究资料](digests/scientific-computer-use/2026/2026-11-13.md)、[10条新闻](digests/ai4science/2026/2026-11-13.md)；修订[1项信源](resources/sources.md)及[1项既有平台证据](resources/remote-labs.md)。论文／新闻修订0项、补录0期。验收证据、流程成本与气候训练数据。
 <!-- updates-daily:end -->
 
 首页保留最近 7 天；[查看完整记录](CHANGELOG.zh-CN.md)。 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入，非历史发布记录。
@@ -68,8 +68,8 @@ npx skills add ppchanning/ai4science-observatory --skill ai4science-research
 
 | 你想做什么 | 从哪里开始 | 可以获得什么 |
 | --- | --- | --- |
-| 快速了解最近发生了什么 | [最新 AI4Science 日报](digests/ai4science/2026/2026-11-19.md) | 事件背景、AI 与科学问题的关系、原始来源及证据限制 |
-| 了解 Agent 如何真正参与科研 | [最新科学智能体晨读](digests/scientific-computer-use/2026/2026-11-19.md) | 科学软件、计算流程、仪器操作与远程实验论文的阅读切入点 |
+| 快速了解最近发生了什么 | [最新 AI4Science 日报](digests/ai4science/2026/2026-11-20.md) | 事件背景、AI 与科学问题的关系、原始来源及证据限制 |
+| 了解 Agent 如何真正参与科研 | [最新科学智能体晨读](digests/scientific-computer-use/2026/2026-11-20.md) | 科学软件、计算流程、仪器操作与远程实验论文的阅读切入点 |
 | 围绕问题建立文献路径 | [主题导航](topics/README.md) · [论文目录](resources/papers.md) | 按方法与场景连接论文，回到原文核查结论 |
 | 建立自己的信息跟踪渠道 | [信源目录](resources/sources.md) | 机构、期刊、项目与专业媒体的入口、采集方式及历史核验信息 |
 | 比较领域、项目或产业动向 | [数据指南](data/README.md) | 可下载的论文、综述、公司、融资、岗位与机构项目目录 |
@@ -136,9 +136,9 @@ npx skills add ppchanning/ai4science-observatory --skill ai4science-research
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-截至 **2026-11-19**：**53 期科学日报 · 508 个去重新闻事件 · 47 期科学智能体晨读 · 199 项晨读书目 · 175 个信源 · 11 份 CSV 数据集**。
+截至 **2026-11-20**：**54 期科学日报 · 517 个去重新闻事件 · 48 期科学智能体晨读 · 200 项晨读书目 · 175 个信源 · 11 份 CSV 数据集**。
 
-新闻归档覆盖 2026-09-22 至 2026-11-19；晨读覆盖 2026-09-28 至 2026-11-19。日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引与结构化数据一起维护。
+新闻归档覆盖 2026-09-22 至 2026-11-20；晨读覆盖 2026-09-28 至 2026-11-20。日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引与结构化数据一起维护。
 <!-- collection-stats:end -->
 
 ## How to use this repository

@@ -10106,5 +10106,131 @@
       "digests/ai4science/2026/2026-11-19.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-7a09bfa04791ba",
+    "title": "我国自主研发酶设计基座大模型“按需定制”工业酶",
+    "url": "https://www.xinhuanet.com/20261119/5804f497a37c4c3186fb017ae9a425f6/c.html",
+    "published_at": "2026-11-19T18:53:15+08:00",
+    "date_precision": "second",
+    "summary": [
+      "酶设计基础模型把序列与功能预测连接到工业酶定制；报道为机构研发进展，不能推定所有酶和工况均已验证。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-c842cebd4bd1f2",
+    "title": "AI helps researchers investigate how thousands of medical studies share code",
+    "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+    "published_at": "2026-11-19",
+    "date_precision": "day",
+    "summary": [
+      "研究用AI检查医学论文的代码共享情况；共享声明、链接可访问性和结果可复现是不同证据，不能把自动检查等同独立复现。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-25d0b5494735ce",
+    "title": "镁伽完成近2亿美元新一轮融资，加速建设面向真实世界的智能基础设施",
+    "url": "https://news.pedaily.cn/202611/572077.shtml",
+    "published_at": "2026-11-19T09:23:00+08:00",
+    "date_precision": "minute",
+    "summary": [
+      "镁伽披露近2亿美元融资并介绍面向真实世界的实验自动化基础设施。金额为披露约数，融资不证明实验性能或收入。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-09ac476a310f26",
+    "title": "「元示科技」完成近3亿元Pre-A轮融资，以闭环证据链驱动虚拟细胞持续进化",
+    "url": "https://news.pedaily.cn/202611/572084.shtml",
+    "published_at": "2026-11-19T10:33:00+08:00",
+    "date_precision": "minute",
+    "summary": [
+      "元示科技披露近3亿元Pre-A融资，以实验数据与虚拟细胞模型反馈构建研发路径。闭环愿景不等于所有细胞任务已验证，金额为披露约数。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-8a0ab109120c45",
+    "title": "Forecast-in-a-Box – piloting a portable solution for running AI weather forecasts",
+    "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/forecast-box-piloting-portable-solution-running-ai-weather-forecasts",
+    "published_at": "2026-11-19",
+    "date_precision": "day",
+    "summary": [
+      "ECMWF以Forecast-in-a-Box连接数据、AI天气模型推理和地图查看，马拉维试点结合本地需求调整AIFS变体。便携推理不等于训练和初始场均可在低成本设备完成；后续推广为计划。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-d84b27f2e27f0f",
+    "title": "Merck and Isomorphic Labs Enter Strategic Research Collaboration",
+    "url": "https://www.merck.com/news/merck-and-isomorphic-labs-enter-strategic-research-collaboration/",
+    "published_at": "2026-11-19T06:45:00-05:00",
+    "date_precision": "minute",
+    "summary": [
+      "默沙东与Isomorphic Labs合作，针对未公开肿瘤靶点以IsoDDE及部分专有数据设计小分子，默沙东负责后续开发。首付、里程碑及提成金额未披露；签约不等于药效证据。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-1bc36a7f35212e",
+    "title": "“You’re right”—LLMs will get climate info wrong if you ask",
+    "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+    "published_at": "2026-11-19T18:44:39+00:00",
+    "date_precision": "second",
+    "summary": [
+      "Ars解读33模型/600知识题及656政策问题的气候研究；组合政策与定量影响比单项方向判断困难。15模型多轮反驳测试显示迎合风险；新闻解读不是独立重测，需按模型版本与任务解读。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-a044ddb2572791",
+    "title": "Google Cloud brings AI agents to the supercomputing bottleneck",
+    "url": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
+    "published_at": "2026-11-18T19:23:00-05:00",
+    "date_precision": "minute",
+    "summary": [
+      "SC26的Google Cloud受访者讨论智能体协助文献、排错和候选模拟选择，将目标放在完成研究所需时间。访谈由Google赞助，没有统一对照加速实验，2025飓风案例不算今日部署。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "EV-9fc1a8634068ea",
+    "title": "SKKU Researchers Use AI to Optimize Sensor Design for Ultrasensitive Vitamin C Detection",
+    "url": "https://www.newswise.com/articles/skku-researchers-use-ai-to-optimize-sensor-design-for-ultrasensitive-vitamin-c-detection",
+    "published_at": "2026-11-19T03:35:00-05:00",
+    "date_precision": "minute",
+    "summary": [
+      "SKKU以25组初始实验训练模型，在4参数各5水平的625组合空间推荐制备条件，再制造并测量维生素C传感器。大学公告报告计算检测限778皮摩尔及生物样品测试；临床效用仍需额外证据。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-20.md"
+    ],
+    "provenance": "ai-assisted-source-digest"
   }
 ]

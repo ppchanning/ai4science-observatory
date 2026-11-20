@@ -204,3 +204,4 @@
 | [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541) | Brian T. Weston、Alondra Torres Contreras、Aldair E. Gongora；LLNL | 2026-11-16 | arXiv预印本 |
 | [The Agentic AI Kerr Lab: LLM Agents for Kerr Microscopy Experiments with Magnetic Skyrmions](https://arxiv.org/abs/2611.00299) | Kilian Leutner等；Mainz、Max Planck等 | 2026-10-30 | arXiv预印本 |
 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) | Haoqing Wang等；Microsoft Research、复旦、清华 | 2026-10-30 | arXiv预印本 |
+| [The Transient Array Radio Telescope: An open-source all-sky imaging radio interferometer](https://arxiv.org/abs/2611.02313) | — | 2026-11-02 | preprint |

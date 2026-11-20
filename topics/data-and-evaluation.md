@@ -131,3 +131,5 @@
 - [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
 
 - [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
+
+- [The Transient Array Radio Telescope: An open-source all-sky imaging radio interferometer](https://arxiv.org/abs/2611.02313) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-20.md)
