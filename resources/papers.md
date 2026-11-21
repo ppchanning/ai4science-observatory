@@ -205,3 +205,7 @@
 | [The Agentic AI Kerr Lab: LLM Agents for Kerr Microscopy Experiments with Magnetic Skyrmions](https://arxiv.org/abs/2611.00299) | Kilian Leutner等；Mainz、Max Planck等 | 2026-10-30 | arXiv预印本 |
 | [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) | Haoqing Wang等；Microsoft Research、复旦、清华 | 2026-10-30 | arXiv预印本 |
 | [The Transient Array Radio Telescope: An open-source all-sky imaging radio interferometer](https://arxiv.org/abs/2611.02313) | — | 2026-11-02 | preprint |
+
+| [Steering Automated Scientific Discovery via Audited Epistemic Exploration](https://arxiv.org/abs/2611.25214) | UMD、UIUC、MBZUAI | 2026-11-18 | preprint |
+| [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) | University of Toronto、Acceleration Consortium／Aspuru-Guzik、Bernales | 2026-11-18 | preprint |
+| [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) | UNC Chapel Hill、LLNL、Trilobio相关作者 | 2026-11-08 | preprint |

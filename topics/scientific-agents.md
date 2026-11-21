@@ -183,3 +183,7 @@
 - [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
 
 - [The Agentic AI Kerr Lab: LLM Agents for Kerr Microscopy Experiments with Magnetic Skyrmions](https://arxiv.org/abs/2611.00299) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
+
+- [Steering Automated Scientific Discovery via Audited Epistemic Exploration](https://arxiv.org/abs/2611.25214) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
+- [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
+- [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)

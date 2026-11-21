@@ -133,3 +133,7 @@
 - [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-19.md)
 
 - [The Transient Array Radio Telescope: An open-source all-sky imaging radio interferometer](https://arxiv.org/abs/2611.02313) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-20.md)
+
+- [Steering Automated Scientific Discovery via Audited Epistemic Exploration](https://arxiv.org/abs/2611.25214) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
+- [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
+- [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)

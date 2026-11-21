@@ -3809,5 +3809,62 @@
       "digests/scientific-computer-use/2026/2026-11-20.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Steering Automated Scientific Discovery via Audited Epistemic Exploration",
+    "url": "https://arxiv.org/abs/2611.25214",
+    "doi": "10.48550/arXiv.2611.25214",
+    "arxiv": "2611.25214",
+    "team": "UMD、UIUC、MBZUAI",
+    "verification": "原始身份页、HTML方法/关键实验/局限及相关附录；未复现、未独立核实原始数据",
+    "verified_at": "2026-11-21T07:03:58.655359+08:00",
+    "id": "arxiv:2611.25214",
+    "first_published": "2026-11-18",
+    "type": "preprint",
+    "evidence": "假设—观测树；同模型信念更新与4候选选择；程序化实验接口。物理规律模拟，无现场仪器。新证据重评假设，未区分假设与覆盖缺口引导后续实验。作者报告：NewtonBench每Gemini配置972试验，符号准确率46.6%→60.9%，LLM裁判；同实验预算",
+    "limitations": "非校准信念；无跨软件与仪器接入工时、GUI/API匹配对照。未独立复现。",
+    "read_first": "§2.4—2.7、表3、附录B.3",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+    "url": "https://arxiv.org/abs/2611.25043",
+    "doi": "10.48550/arXiv.2611.25043",
+    "arxiv": "2611.25043",
+    "team": "University of Toronto、Acceleration Consortium／Aspuru-Guzik、Bernales",
+    "verification": "原始身份页、HTML方法/关键实验/局限及相关附录；未复现、未独立核实原始数据",
+    "verified_at": "2026-11-21T07:03:58.655359+08:00",
+    "id": "arxiv:2611.25043",
+    "first_published": "2026-11-18",
+    "type": "preprint",
+    "evidence": "OpenLab CDS、MoSeS Python、数据库与任务监视器专用集成；非截图GUI。真实LC-MS活动1次；另有23次存档数据回放。真实新数据入库触发代理下一轮，选孔、复测、失败判定；人要求全板并扩预算。作者报告：28孔26可用；现场不证明预算选样优势；回放>=8预算各活动找到最优，同板每档最多3次",
+    "limitations": "人直接修改预算绕正式审批；无知情选样基线或跨仪器接入工时。未独立复现。",
+    "read_first": "§4.1—4.2、§5",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task",
+    "url": "https://arxiv.org/abs/2611.11690",
+    "doi": "10.48550/arXiv.2611.11690",
+    "arxiv": "2611.11690",
+    "team": "UNC Chapel Hill、LLNL、Trilobio相关作者",
+    "verification": "原始身份页、HTML方法/关键实验/局限及相关附录；未复现、未独立核实原始数据",
+    "verified_at": "2026-11-21T07:03:58.655359+08:00",
+    "id": "arxiv:2611.11690",
+    "first_published": "2026-11-08",
+    "type": "preprint",
+    "evidence": "机器人与读板仪Python API；Claude文本API、run_python、propose_setting；专用集成。3目标×2方法，6次真实配液活动，各48轮约4小时。新吸收测量引导局部建模、配方调整与重复；活动期间作者报告无人纠正。作者报告：表2代理10/23/11轮达到误差带，BO21/34/48内未达；每目标每方法1次",
+    "limitations": "三波长非全谱；初始策略不同；噪声取巧与单次重复限制；商用硬件投资大，接入人时未知。未独立复现。",
+    "read_first": "表2、§2.1—2.2、附录B",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]
