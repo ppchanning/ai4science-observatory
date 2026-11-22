@@ -21,6 +21,7 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## 2026-11-21
 
+- **2026-11-22** — Added [2 research resources](digests/scientific-computer-use/2026/2026-11-22.md) and [1 news event](digests/ai4science/2026/2026-11-22.md); 0 revisions or backfilled issues. Circuit-board acceptance and evolving research evidence.
 - **2026-11-21** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-21.md) and [8 news events](digests/ai4science/2026/2026-11-21.md); 0 revisions or backfilled issues. Scientific feedback and evidence limits.
 
 ## 2026-11-08

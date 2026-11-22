@@ -3866,5 +3866,41 @@
       "digests/scientific-computer-use/2026/2026-11-21.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own",
+    "arxiv": "2611.26503",
+    "url": "https://arxiv.org/abs/2611.26503",
+    "team": "University of Georgia",
+    "verification": "原始身份及正文相关方法实验局限定向核验",
+    "verified_at": "2026-11-22T07:02:38.581784+08:00",
+    "id": "arxiv:2611.26503",
+    "first_published": "2026-11-19",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "单板42步159分钟；60Hz通过但1Hz失败；下一版设计预测未实物验证",
+    "limitations": "单板案例；60Hz衰减50.6dB但1Hz增益−1.29dB未达标；后续设计只有预测，运行前批准与急停监护另计。",
+    "read_first": "先读§VII-B/C及表III，看清哪些指标失败、下一版哪些结论仅由模型支持。"
+  },
+  {
+    "title": "Pro² Agent: Scientific Problem Probing for Autonomous AI R&D",
+    "arxiv": "2611.25357",
+    "url": "https://arxiv.org/abs/2611.25357",
+    "team": "Yixiong Chen et al.; Alan Yuille/JHU",
+    "verification": "原始身份及正文相关方法实验局限定向核验",
+    "verified_at": "2026-11-22T07:02:38.581784+08:00",
+    "id": "arxiv:2611.25357",
+    "first_published": "2026-11-19",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "22任务三次24h消融：动态89.4%、静态83.3%；跨系统预算混杂",
+    "limitations": "计算研究，无现场物理反馈；75任务24h与48h预算不能混比；22任务消融每条件三次，跨系统硬件模型存在混杂。",
+    "read_first": "先读§3.2.2和表4，比较静态与动态状态，辨认成绩增长是否来自真正的判断修订。"
   }
 ]

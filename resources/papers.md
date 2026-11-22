@@ -209,3 +209,5 @@
 | [Steering Automated Scientific Discovery via Audited Epistemic Exploration](https://arxiv.org/abs/2611.25214) | UMD、UIUC、MBZUAI | 2026-11-18 | preprint |
 | [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) | University of Toronto、Acceleration Consortium／Aspuru-Guzik、Bernales | 2026-11-18 | preprint |
 | [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) | UNC Chapel Hill、LLNL、Trilobio相关作者 | 2026-11-08 | preprint |
+| [JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own](https://arxiv.org/abs/2611.26503) | University of Georgia | 2026-11-19 | preprint |
+| [Pro² Agent: Scientific Problem Probing for Autonomous AI R&D](https://arxiv.org/abs/2611.25357) | Yixiong Chen et al.; Alan Yuille/JHU | 2026-11-19 | preprint |

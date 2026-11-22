@@ -10344,5 +10344,20 @@
       "digests/ai4science/2026/2026-11-21.md"
     ],
     "provenance": "ai-assisted-source-digest"
+  },
+  {
+    "id": "A4S-20261122-01",
+    "title": "Lean for the working mathematician",
+    "url": "https://xenaproject.wordpress.com/2026/11/21/lean-for-the-working-mathematician/",
+    "published_at": "2026-11-21T17:16:37+00:00",
+    "date_precision": "timestamp",
+    "summary": [
+      "Mitchell Taylor以偏微分方程与相位恢复的形式化经验，说明大模型生成与Lean核验如何嵌入数学研究。研究者仍须核对定义、假设和结论是否对应原问题。",
+      "在长证明的关键子目标设置检查点，可及早发现遗漏假设。作者一个月形式化两篇论文属于个人经验，不能视为一般效率基准；形式化通过与数学理解仍有区别。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-22.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
   }
 ]

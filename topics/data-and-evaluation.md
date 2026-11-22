@@ -137,3 +137,4 @@
 - [Steering Automated Scientific Discovery via Audited Epistemic Exploration](https://arxiv.org/abs/2611.25214) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
 - [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
 - [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
+- [Pro² Agent: Scientific Problem Probing for Autonomous AI R&D](https://arxiv.org/abs/2611.25357) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-22.md)
