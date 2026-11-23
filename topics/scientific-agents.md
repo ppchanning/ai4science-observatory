@@ -189,3 +189,5 @@
 - [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
 - [JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own](https://arxiv.org/abs/2611.26503) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-22.md)
 - [Pro² Agent: Scientific Problem Probing for Autonomous AI R&D](https://arxiv.org/abs/2611.25357) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-22.md)
+
+- [SciWorkBench: A Benchmark for Real Scientific Workflows](https://arxiv.org/abs/2611.22490) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-23.md)

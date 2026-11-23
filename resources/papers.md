@@ -211,3 +211,4 @@
 | [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) | UNC Chapel Hill、LLNL、Trilobio相关作者 | 2026-11-08 | preprint |
 | [JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own](https://arxiv.org/abs/2611.26503) | University of Georgia | 2026-11-19 | preprint |
 | [Pro² Agent: Scientific Problem Probing for Autonomous AI R&D](https://arxiv.org/abs/2611.25357) | Yixiong Chen et al.; Alan Yuille/JHU | 2026-11-19 | preprint |
+| [SciWorkBench: A Benchmark for Real Scientific Workflows](https://arxiv.org/abs/2611.22490) | Alibaba Group et al. | 2026-11-17 | preprint |

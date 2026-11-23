@@ -24,6 +24,7 @@ The collection brings together science news digests, paper reading notes, topica
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-11-23** — Added [1 paper](digests/scientific-computer-use/2026/2026-11-23.md) and [2 news events](digests/ai4science/2026/2026-11-23.md); 0 revisions or backfilled issues. Scientific judgment and research collaboration.
 - **2026-11-22** — Added [2 research resources](digests/scientific-computer-use/2026/2026-11-22.md) and [1 news event](digests/ai4science/2026/2026-11-22.md); 0 revisions or backfilled issues. Circuit-board acceptance and evolving research evidence.
 - **2026-11-21** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-21.md) and [8 news events](digests/ai4science/2026/2026-11-21.md); 0 revisions or backfilled issues. Scientific feedback and evidence limits.
 - **2026-11-20** — Added [9 news events](digests/ai4science/2026/2026-11-20.md) and [1 paper](digests/scientific-computer-use/2026/2026-11-20.md); Added 1 company and 2 funding events; revised 1 existing company, with 0 paper/news revisions or backfilled issues. Portable forecasts, experimental design and radio-data access.
@@ -68,8 +69,8 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 
 | What you want to do | Where to start | What you get |
 | --- | --- | --- |
-| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-11-22.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
-| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-11-22.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
+| Catch up on recent developments | [Latest AI4Science digest](digests/ai4science/2026/2026-11-23.md) | Event context, the connection between AI and the scientific problem, original sources, and evidence limitations |
+| Understand how agents participate in scientific work | [Latest scientific-agent reading notes](digests/scientific-computer-use/2026/2026-11-23.md) | Reading entry points for scientific software, computational workflows, instrument operation, and remote experiments |
 | Build a reading path around a question | [Topic map](topics/README.md) · [Paper catalog](resources/papers.md) | Papers connected by methods and settings, with original sources for checking claims |
 | Build your own information feed | [Source directory](resources/sources.md) | Institutions, journals, projects, and specialist media, with collection methods and historical verification information |
 | Compare research areas, projects, or industry developments | [Data guide](data/README.md) | Downloadable catalogs of papers, surveys, companies, funding events, jobs, and institutional programs |
@@ -136,9 +137,9 @@ Paper tables may overlap; their row counts cannot be added to obtain a unique pa
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-11-22**: **56 science digests · 526 deduplicated news events · 50 scientific-agent reading issues · 205 bibliography entries · 175 sources · 11 CSV datasets**.
+As of **2026-11-23**: **57 science digests · 528 deduplicated news events · 51 scientific-agent reading issues · 206 bibliography entries · 175 sources · 11 CSV datasets**.
 
-News archives cover 2026-09-22 through 2026-11-22; reading issues cover 2026-09-28 through 2026-11-22. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
+News archives cover 2026-09-22 through 2026-11-23; reading issues cover 2026-09-28 through 2026-11-23. There may be gaps within these date ranges. New and revised material is archived by date, with current entry points, topic indexes, and structured data maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

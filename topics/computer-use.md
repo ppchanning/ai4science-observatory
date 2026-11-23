@@ -65,3 +65,5 @@
 
 - [The Transient Array Radio Telescope: An open-source all-sky imaging radio interferometer](https://arxiv.org/abs/2611.02313) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-20.md)
 - [JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own](https://arxiv.org/abs/2611.26503) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-22.md)
+
+- [SciWorkBench: A Benchmark for Real Scientific Workflows](https://arxiv.org/abs/2611.22490) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-23.md)

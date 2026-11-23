@@ -24,6 +24,7 @@ AI 正在进入科学研究的多个环节：分析数据、构建模型、提�
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-11-23** — 新增[1篇论文](digests/scientific-computer-use/2026/2026-11-23.md)、[2条新闻](digests/ai4science/2026/2026-11-23.md)；修订0、补录0。科学判断与研究协作。
 - **2026-11-22** — 新增[2项研究资料](digests/scientific-computer-use/2026/2026-11-22.md)、[1条新闻](digests/ai4science/2026/2026-11-22.md)；修订0项、补录0期。电路板验收与研究证据更新。
 - **2026-11-21** — 新增[3项研究资料](digests/scientific-computer-use/2026/2026-11-21.md)与[8条新闻](digests/ai4science/2026/2026-11-21.md)；0修订、0补录。科学闭环与证据边界。
 - **2026-11-20** — 新增[ 9条新闻](digests/ai4science/2026/2026-11-20.md)及[1篇论文](digests/scientific-computer-use/2026/2026-11-20.md)；新增1家公司、2条融资；修订1条公司记录，论文/新闻0修订、0补录。便携预报、实验优化与射电观测的数据权限。
@@ -68,8 +69,8 @@ npx skills add ppchanning/ai4science-observatory --skill ai4science-research
 
 | 你想做什么 | 从哪里开始 | 可以获得什么 |
 | --- | --- | --- |
-| 快速了解最近发生了什么 | [最新 AI4Science 日报](digests/ai4science/2026/2026-11-22.md) | 事件背景、AI 与科学问题的关系、原始来源及证据限制 |
-| 了解 Agent 如何真正参与科研 | [最新科学智能体晨读](digests/scientific-computer-use/2026/2026-11-22.md) | 科学软件、计算流程、仪器操作与远程实验论文的阅读切入点 |
+| 快速了解最近发生了什么 | [最新 AI4Science 日报](digests/ai4science/2026/2026-11-23.md) | 事件背景、AI 与科学问题的关系、原始来源及证据限制 |
+| 了解 Agent 如何真正参与科研 | [最新科学智能体晨读](digests/scientific-computer-use/2026/2026-11-23.md) | 科学软件、计算流程、仪器操作与远程实验论文的阅读切入点 |
 | 围绕问题建立文献路径 | [主题导航](topics/README.md) · [论文目录](resources/papers.md) | 按方法与场景连接论文，回到原文核查结论 |
 | 建立自己的信息跟踪渠道 | [信源目录](resources/sources.md) | 机构、期刊、项目与专业媒体的入口、采集方式及历史核验信息 |
 | 比较领域、项目或产业动向 | [数据指南](data/README.md) | 可下载的论文、综述、公司、融资、岗位与机构项目目录 |
@@ -136,9 +137,9 @@ npx skills add ppchanning/ai4science-observatory --skill ai4science-research
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-截至 **2026-11-22**：**56 期科学日报 · 526 个去重新闻事件 · 50 期科学智能体晨读 · 205 项晨读书目 · 175 个信源 · 11 份 CSV 数据集**。
+截至 **2026-11-23**：**57 期科学日报 · 528 个去重新闻事件 · 51 期科学智能体晨读 · 206 项晨读书目 · 175 个信源 · 11 份 CSV 数据集**。
 
-新闻归档覆盖 2026-09-22 至 2026-11-22；晨读覆盖 2026-09-28 至 2026-11-22。日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引与结构化数据一起维护。
+新闻归档覆盖 2026-09-22 至 2026-11-23；晨读覆盖 2026-09-28 至 2026-11-23。日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引与结构化数据一起维护。
 <!-- collection-stats:end -->
 
 ## How to use this repository

@@ -3902,5 +3902,24 @@
     "evidence": "22任务三次24h消融：动态89.4%、静态83.3%；跨系统预算混杂",
     "limitations": "计算研究，无现场物理反馈；75任务24h与48h预算不能混比；22任务消融每条件三次，跨系统硬件模型存在混杂。",
     "read_first": "先读§3.2.2和表4，比较静态与动态状态，辨认成绩增长是否来自真正的判断修订。"
+  },
+  {
+    "title": "SciWorkBench: A Benchmark for Real Scientific Workflows",
+    "arxiv": "2611.22490",
+    "url": "https://arxiv.org/abs/2611.22490",
+    "team": "Alibaba Group et al.",
+    "verification": "原始身份与全文方法实验局限定向核验",
+    "verified_at": "2026-11-23T07:04:11.625609+08:00",
+    "id": "arxiv:2611.22490",
+    "first_published": "2026-11-17",
+    "type": "preprint",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-23.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "98项数据分析任务、13种模型与执行框架组合；最高57.38为平均规则评分，不是任务成功率。",
+    "limitations": "完整数据、环境、轨迹及评分代码尚未公开；重复有限、模型评分器有效性仍需核验；没有现场新测量。",
+    "read_first": "先读§5.6、附录E，再读§5.2和数据代码可用性声明。",
+    "verified_version": "v1"
   }
 ]
