@@ -212,3 +212,5 @@
 | [JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own](https://arxiv.org/abs/2611.26503) | University of Georgia | 2026-11-19 | preprint |
 | [Pro² Agent: Scientific Problem Probing for Autonomous AI R&D](https://arxiv.org/abs/2611.25357) | Yixiong Chen et al.; Alan Yuille/JHU | 2026-11-19 | preprint |
 | [SciWorkBench: A Benchmark for Real Scientific Workflows](https://arxiv.org/abs/2611.22490) | Alibaba Group et al. | 2026-11-17 | preprint |
+
+| [MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration](https://arxiv.org/abs/2611.17931) | Bing Wang; Mingyang Wang et al. | 2026-11-13 | preprint |

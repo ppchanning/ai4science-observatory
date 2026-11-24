@@ -3921,5 +3921,25 @@
     "limitations": "完整数据、环境、轨迹及评分代码尚未公开；重复有限、模型评分器有效性仍需核验；没有现场新测量。",
     "read_first": "先读§5.6、附录E，再读§5.2和数据代码可用性声明。",
     "verified_version": "v1"
+  },
+  {
+    "id": "arxiv:2611.17931",
+    "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
+    "authors": "Bing Wang; Mingyang Wang et al.",
+    "arxiv": "2611.17931",
+    "url": "https://arxiv.org/abs/2611.17931",
+    "fulltext_url": "https://arxiv.org/html/2611.17931v1",
+    "first_published": "2026-11-13",
+    "verified_version": "v1",
+    "type": "preprint",
+    "evidence": "277个历史案例、1572份参考方案，4框架×7模型共28配置；OpenCode/GPT-6.1 Sol micro-F1为63.84%，不是实验成功率。",
+    "limitations": "历史文献重建的文本规划，无本轮物理测量或实物反馈；参考方案不穷尽合理替代，模型评审覆盖受多提方案影响。",
+    "read_first": "§3.2、§4.1、§5.2–5.3，Figure 3与Table 4。",
+    "verification": "original_fulltext_targeted_sections",
+    "verified_at": "2026-11-24",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

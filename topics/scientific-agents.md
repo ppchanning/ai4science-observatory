@@ -191,3 +191,5 @@
 - [Pro² Agent: Scientific Problem Probing for Autonomous AI R&D](https://arxiv.org/abs/2611.25357) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-22.md)
 
 - [SciWorkBench: A Benchmark for Real Scientific Workflows](https://arxiv.org/abs/2611.22490) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-23.md)
+
+- [MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration](https://arxiv.org/abs/2611.17931) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-24.md)
