@@ -3941,5 +3941,26 @@
       "digests/scientific-computer-use/2026/2026-11-24.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Discovering formally verified quantum programs with AI",
+    "arxiv": "2611.09822",
+    "url": "https://arxiv.org/abs/2611.09822",
+    "team": "Google DeepMind / Google Quantum AI",
+    "version_date": "2026-11-16",
+    "id": "arxiv:2611.09822",
+    "verified_version": "v3",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted_sections",
+    "verified_at": "2026-11-25",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.09822v3",
+    "first_published": "2026-11-06",
+    "evidence": "反正弦Q×T约3.70e5，可模拟阶段4.15e5；形式验证扩展再降约11%，非实机提速。",
+    "limitations": "人工规范与专用库成本未知；基线精度不同，无新硬件测量或物理迁移实证。",
+    "read_first": "图1、§1.2、附录C及§2.2。"
   }
 ]

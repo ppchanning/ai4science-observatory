@@ -214,3 +214,5 @@
 | [SciWorkBench: A Benchmark for Real Scientific Workflows](https://arxiv.org/abs/2611.22490) | Alibaba Group et al. | 2026-11-17 | preprint |
 
 | [MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration](https://arxiv.org/abs/2611.17931) | Bing Wang; Mingyang Wang et al. | 2026-11-13 | preprint |
+
+| [Discovering formally verified quantum programs with AI](https://arxiv.org/abs/2611.09822) | Google DeepMind / Google Quantum AI | 2026-11-06 | preprint |

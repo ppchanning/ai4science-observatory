@@ -10501,5 +10501,145 @@
       "digests/ai4science/2026/2026-11-24.md"
     ],
     "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-01",
+    "title": "Predicting the unknown: a robust approach lets AI extrapolate to undiscovered materials",
+    "url": "https://www.asiaresearchnews.com/content/predicting-unknown-robust-approach-lets-ai-extrapolate-undiscovered-materials",
+    "published_at": "2026-11-24",
+    "date_precision": "day",
+    "summary": [
+      "东京大学团队将结构表征与性质回归解耦，以较早Materials Project数据训练、2018—2021新增材料测试。机构公告称特定外推条件下相对CGCNN误差最多降低68%；不适用于任意新化学环境，计算筛选仍需合成测量验证。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-02",
+    "title": "GPT‑6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "published_at": "2026-11-24",
+    "date_precision": "day",
+    "summary": [
+      "OpenAI报告通用推理模型结合结构预测、序列设计等工具提出蛋白候选，Onava骨架设计批次321个设计中35个出现结合信号。不同任务与模型分别计数；内部研究版本不等于公开版本，结合信号不证明细胞效应、安全性或临床疗效。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-03",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+    "published_at": "2026-11-24",
+    "date_precision": "day",
+    "summary": [
+      "Astra以代码流程筛查约十万颗Kepler恒星，获得含已知对象的两百多个信号。约13.8天与4.8天的周期性亮度变化经研究者复查仍是候选，食双星及仪器误差等替代解释与后续观测尚须检验；并非确认新行星。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-04",
+    "title": "Argonne puts the Genesis Mission to work in its first year",
+    "url": "https://www.anl.gov/article/argonne-puts-the-genesis-mission-to-work-in-its-first-year",
+    "published_at": "2026-11-24",
+    "date_precision": "day",
+    "summary": [
+      "阿贡周年回顾介绍APS实时图像分析、SYNAPS-I仪器辅助操作及ModCon科学工作流。机构案例展示分析与实验动作连接的方向，非所有项目当日首发或独立性能验证；IBM同日周年文章合并为同一事件。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-05",
+    "title": "Leash Biosciences Raises $11M to Build Training Environments for Scientific AI",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-11-24-leash-biosciences-raises-11m-to-build-training-environments-for-scientific-ai",
+    "published_at": "2026-11-24T21:00:00+08:00",
+    "date_precision": "second",
+    "summary": [
+      "Leash通过Business Wire披露1100万美元融资，拟扩展科学AI训练环境及合作。预先实测数据支持实验选择的快速重放；重放反馈区别于每步新做湿实验，资金与企业愿景不证明模型保真度或实验效果。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-06",
+    "title": "《柳叶刀》主编：AI辅助写论文，有两件事绝不能妥协",
+    "url": "http://news.sciencenet.cn/htmlnews/2026/11/575285.shtm",
+    "published_at": "2026-11-24T19:29:43+08:00",
+    "date_precision": "second",
+    "summary": [
+      "《柳叶刀》负责人采访强调透明披露AI使用范围及作者承担科学责任；关于生成初稿的个人审慎立场不等于期刊新规。语言帮助与数据、引文、结论的科学核验须分开理解。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-07",
+    "title": "Math with impact: the models that predict our weather",
+    "url": "https://www.boisestate.edu/news/2026/11/24/math-with-impact-the-models-that-predict-our-weather/",
+    "published_at": "2026-11-25T02:56:02+08:00",
+    "date_precision": "second",
+    "summary": [
+      "Boise State报道机器学习辅助自适应网格：把细分辨率用于更复杂的天气或海洋区域。已有模型被采用不表示全部AI策略已业务部署，评价须结合计算成本、关键物理过程与新区域泛化。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-08",
+    "title": "人工智能在天文学中的应用科学研讨会在我校举办",
+    "url": "https://news.ustc.edu.cn/info/1055/97021.htm",
+    "published_at": "2026-11-24",
+    "date_precision": "day",
+    "summary": [
+      "中科大11月24日报道11月18—21日天文AI研讨会，涵盖巡天检测、暂现源、基础模型与多智能体观测。会议任务地图可辅助寻找研究入口，不能当作当天新模型发布或统一性能比较。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-09",
+    "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+    "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+    "published_at": "2026-11-25T02:01:55+08:00",
+    "date_precision": "second",
+    "summary": [
+      "The Decoder转述诺华CEO预测未来十年药物开发或从12年缩至8年，临床成功率或从8%升至12%。这是预测及四个百分点差异，非已验证收益；原金融时报采访全文未独立取得，保留转述层级。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261125-10",
+    "title": "Decade Review Identifies Seven Functional Artificial Intelligence Domains in Earth System Science",
+    "url": "https://scienmag.com/decade-review-identifies-seven-functional-artificial-intelligence-domains-in-earth-system-science/",
+    "published_at": "2026-11-24T18:12:47+08:00",
+    "date_precision": "second",
+    "summary": [
+      "地球系统综述从2015—2025英文文献题摘筛选4276篇，以LDA形成七类科学功能。预测、重建与参数化替代各需不同验证；文献映射不是逐篇复现，单人筛选、语言与检索范围限制分类适用性。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
   }
 ]

@@ -11,7 +11,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 | [remote-labs.json](remote-labs.json) | 平台证据及未知条件 |
 | [catalogs/cited-papers.csv](catalogs/cited-papers.csv) | 被引文献库，1290 条 |
 | [catalogs/core-papers.csv](catalogs/core-papers.csv) | 全部核心论文，282 条 |
-| [catalogs/surveys.csv](catalogs/surveys.csv) | 综述论文库，20 条 |
+| [catalogs/surveys.csv](catalogs/surveys.csv) | 综述论文库，21 条 |
 | [catalogs/published-papers.csv](catalogs/published-papers.csv) | 严格纳入，1243 条 |
 | [catalogs/conference-candidates.csv](catalogs/conference-candidates.csv) | AI4Sci主会候选，902 条 |
 | [catalogs/reading-candidates.csv](catalogs/reading-candidates.csv) | 可follow论文库，1197 条 |
@@ -94,3 +94,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 ### 2026-11-20 融资资料
 
 据[元示科技报道](https://news.pedaily.cn/202611/572084.shtml)与[镁伽科技报道](https://news.pedaily.cn/202611/572077.shtml)，新增1家公司、2条融资事件，修订元示科技1条既有公司记录。近3亿元人民币及近2亿美元均为本轮约数；累计约6亿美元不是镁伽本轮金额，交割日期未知。融资不能作为模型或实验性能证据。
+
+### 2026-11-25 综述资料
+
+新增1条[地球系统科学映射综述](https://doi.org/10.3389/feart.2026.1940857)；4276条文献的题摘主题建模不代表逐篇全文核读或复现。原有20行保持不变。

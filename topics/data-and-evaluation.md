@@ -140,3 +140,5 @@
 - [Pro² Agent: Scientific Problem Probing for Autonomous AI R&D](https://arxiv.org/abs/2611.25357) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-22.md)
 
 - [MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration](https://arxiv.org/abs/2611.17931) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-24.md)
+
+- [Discovering formally verified quantum programs with AI](https://arxiv.org/abs/2611.09822) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-25.md)
