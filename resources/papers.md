@@ -216,3 +216,7 @@
 | [MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration](https://arxiv.org/abs/2611.17931) | Bing Wang; Mingyang Wang et al. | 2026-11-13 | preprint |
 
 | [Discovering formally verified quantum programs with AI](https://arxiv.org/abs/2611.09822) | Google DeepMind / Google Quantum AI | 2026-11-06 | preprint |
+| [ChiProgramBench: Can LLM Agents Rebuild Efficient Circuits from Pin-Level Experiments?](https://arxiv.org/abs/2611.31082) |  | 2026-11-23 | preprint |
+| [RUIBench: What Makes a Good Robot-Use Interface?](https://arxiv.org/abs/2611.31115) |  | 2026-11-23 | preprint |
+| [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](https://arxiv.org/abs/2611.26248) |  | 2026-11-19 | preprint |
+| [Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra/) |  | 2026-11-24 | official_case_article |

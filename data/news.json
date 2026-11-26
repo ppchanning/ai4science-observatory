@@ -10641,5 +10641,103 @@
       "digests/ai4science/2026/2026-11-25.md"
     ],
     "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261126-01",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "published_at": "2026-11-25T17:00:00Z",
+    "date_precision": "second",
+    "summary": [
+      "Antigravity用GNPS、MoNA、SIRIUS及碎片解释工具连接质谱与结构推断。团队在筛选的100个化合物谱图、每谱三次尝试和一小时时限下报告约97%准确率；不能外推所有未知分子，峰覆盖不等于结构唯一，仍需化学判断。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261126-02",
+    "title": "Machine learning identified the best structures for atomically thin metals",
+    "url": "https://www.jyu.fi/en/news/machine-learning-identified-the-best-structures-for-atomically-thin-metals",
+    "published_at": "2026-11-25T07:05:00+02:00",
+    "date_precision": "second",
+    "summary": [
+      "机器学习探索超过一千种二维材料保护层与薄金属组合，关键结果与量子计算对照。室温稳定性来自模拟，不是合成验收；机构新闻解释此前已发表论文，不能把报道日当论文首发。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261126-03",
+    "title": "江南大学发布首个BioManuAgent 生物制造智能体",
+    "url": "http://news.sciencenet.cn/htmlnews/2026/11/575314.shtm",
+    "published_at": "2026-11-25T15:38:07+08:00",
+    "date_precision": "second",
+    "summary": [
+      "BioManuAgent将路径分析、菌株改造和发酵放大工具相连。11月25日报道回顾11月20日发布；教师效率反馈不是统一对照实验，理论路线仍需实验和工艺验证。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261126-04",
+    "title": "Schrödinger Acquires ENPICOM to Establish End-to-End Computational Platform for Biologics Discovery",
+    "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Acquires-ENPICOM-to-Establish-End-to-End-Computational-Platform-for-Biologics-Discovery/default.aspx",
+    "published_at": "2026-11-25",
+    "date_precision": "day; New York dateline bounds checked",
+    "summary": [
+      "薛定谔公告约2200万欧元现金收购ENPICOM，称11月25日完成。拟连接生物序列筛选、物理建模和协作；速度收益为企业预期，交易不证明药物研发成功，也不是股权融资事件。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261126-05",
+    "title": "Profiles in Discovery with Rodrigo Alejandro Vargas-Hernández: Using AI to bridge theoretical and experimental chemistry",
+    "url": "https://science.mcmaster.ca/profiles-in-discovery-with-rodrigo-alejandro-vargas-hernndez-using-ai-to-bridge-theoretical-and-experimental-chemistry/",
+    "published_at": "2026-11-25T15:04:20Z",
+    "date_precision": "second",
+    "summary": [
+      "麦克马斯特大学研究者访谈讨论化学预测与实验验证互相约束。研发时间缩短为受访者领域概括，非统一实验；人物经历与学习建议不构成新模型性能证据。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261126-06",
+    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "published_at": "2026-11-25T11:30:00Z",
+    "date_precision": "second",
+    "summary": [
+      "WIRED讨论飞行观测、天气数据与机器学习湍流预警。企业应用主张需独立检验提前量与覆盖；此前TEMPEST物理和数据驱动研究仅为背景，不把历史项目当今日新成果。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
+  },
+  {
+    "id": "A4S-20261126-07",
+    "title": "数智时代共商AI赋能公共卫生高质量发展",
+    "url": "https://huacheng.gz-cmc.com/pages/2026/11/25/31f9451222d34e8fb4f1a3aea55cacdd.html",
+    "published_at": "2026-11-25T11:34:30+08:00",
+    "date_precision": "second",
+    "summary": [
+      "公共卫生分论坛新闻预告讨论大数据流行病学、风险因素和AI图像分析。会议定于11月28至30日，报道是议题披露，非已验证成果；风险相关性与干预有效性须分别判断。"
+    ],
+    "appearances": [
+      "digests/ai4science/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-news-notes"
   }
 ]

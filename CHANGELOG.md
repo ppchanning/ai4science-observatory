@@ -25,6 +25,10 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 - **2026-11-10** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-10.md) and [9 news events](digests/ai4science/2026/2026-11-10.md); added 1 funding event and revised 1 company record. 0 backfilled issues. Tutorials, state diagnosis and real observatory controls.
 - **2026-11-09** — Added [3 research resources](digests/scientific-computer-use/2026/2026-11-09.md) and [3 news events](digests/ai4science/2026/2026-11-09.md); corrected source metadata for 1 ocean-current event; 0 backfills. Check scoring coverage and evidence acquisition separately.
 
+## 2026-11-26
+
+- **2026-11-26** — Added [4 research resources](digests/scientific-computer-use/2026/2026-11-26.md) and [7 news events](digests/ai4science/2026/2026-11-26.md); 0 revisions or backfilled issues. Measurement feedback, interfaces and simulation evidence.
+
 ## 2026-11-21
 
 - **2026-11-22** — Added [2 research resources](digests/scientific-computer-use/2026/2026-11-22.md) and [1 news event](digests/ai4science/2026/2026-11-22.md); 0 revisions or backfilled issues. Circuit-board acceptance and evolving research evidence.

@@ -195,3 +195,11 @@
 - [MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration](https://arxiv.org/abs/2611.17931) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-24.md)
 
 - [Discovering formally verified quantum programs with AI](https://arxiv.org/abs/2611.09822) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-25.md)
+
+- [ChiProgramBench: Can LLM Agents Rebuild Efficient Circuits from Pin-Level Experiments?](https://arxiv.org/abs/2611.31082) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-26.md)
+
+- [RUIBench: What Makes a Good Robot-Use Interface?](https://arxiv.org/abs/2611.31115) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-26.md)
+
+- [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](https://arxiv.org/abs/2611.26248) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-26.md)
+
+- [Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra/) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-26.md)

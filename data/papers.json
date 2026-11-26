@@ -3962,5 +3962,84 @@
     "evidence": "反正弦Q×T约3.70e5，可模拟阶段4.15e5；形式验证扩展再降约11%，非实机提速。",
     "limitations": "人工规范与专用库成本未知；基线精度不同，无新硬件测量或物理迁移实证。",
     "read_first": "图1、§1.2、附录C及§2.2。"
+  },
+  {
+    "title": "ChiProgramBench: Can LLM Agents Rebuild Efficient Circuits from Pin-Level Experiments?",
+    "arxiv": "2611.31082",
+    "url": "https://arxiv.org/abs/2611.31082",
+    "first_published": "2026-11-23",
+    "verification": "原始身份、正文方法和关键实验已核；非全部补充材料",
+    "evidence": "432试验，全部通过与PPA分开；非实芯片",
+    "id": "arxiv:2611.31082",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verified_at": "2026-11-26",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.31082v1",
+    "authors": "Tianrun Gou et al.",
+    "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
+    "read_first": "建议先读§III-C与§III-E，弄清探测状态怎样延续，以及“通过很多测试”和“恢复行为”之间的差别。"
+  },
+  {
+    "title": "RUIBench: What Makes a Good Robot-Use Interface?",
+    "arxiv": "2611.31115",
+    "url": "https://arxiv.org/abs/2611.31115",
+    "first_published": "2026-11-23",
+    "verification": "原始身份、正文方法和关键实验已核；非全部补充材料",
+    "evidence": "仿真1950回合/前沿代理；实机统计本轮未细核",
+    "id": "arxiv:2611.31115",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verified_at": "2026-11-26",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.31115v1",
+    "authors": "Yanzhe Chen; Zhijun Cao; Zechen Bai; Wenzheng Zeng et al.",
+    "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
+    "read_first": "建议先读§3.2、§4及Table 3，追踪接口改变时哪些支持被固定、哪些决策被移入后端。"
+  },
+  {
+    "title": "TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs",
+    "arxiv": "2611.26248",
+    "url": "https://arxiv.org/abs/2611.26248",
+    "first_published": "2026-11-19",
+    "verification": "原始身份、正文方法和关键实验已核；非全部补充材料",
+    "evidence": "隐藏状态干预；非现场物理测量；只取物理工程方法",
+    "id": "arxiv:2611.26248",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verified_at": "2026-11-26",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.26248v1",
+    "authors": "Yang Wan; Linchao Zhu",
+    "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
+    "read_first": "建议先读§3及§4.3—4.4，看清读数来源，以及改变隐藏状态后结论是否随之变化。"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+    "first_published": "2026-11-24",
+    "verification": "官方全文核验",
+    "evidence": "历史天文数据；候选未确认；未证实自动新观测",
+    "id": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+    "verified_version": "official article",
+    "type": "official_technical_case",
+    "verified_at": "2026-11-26",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+    "authors": "",
+    "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
+    "read_first": "建议先读“Looking for dips in starlight”，分清程序改进、独立复核与确认行星各是谁完成的。"
   }
 ]
