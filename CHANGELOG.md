@@ -6,6 +6,8 @@
 
 Earlier entries follow material dates, backfilled at the repository launch on **2026-10-10**. These dates describe existing material, rather than earlier GitHub publication. Counts refer to unique entries linked to each issue in the structured catalogs, not first-time additions. Older digests without catalog entries are counted as issues only. Missing dates have no invented activity.
 
+- **2026-11-27** — Added [7 news events](digests/ai4science/2026/2026-11-27.md), [3 papers](digests/scientific-computer-use/2026/2026-11-27.md), [1 survey record](data/catalogs/surveys.csv), and [1 platform record](resources/remote-labs.md). 0 revisions and 0 backfilled issues. Astronomy workflows and teleoperation records.
+
 - **2026-11-25** — Added [10 news events](digests/ai4science/2026/2026-11-25.md) and [1 paper](digests/scientific-computer-use/2026/2026-11-25.md); 0 revisions or backfilled issues. Added [1 survey catalog record](data/catalogs/surveys.csv). Material extrapolation and formal scientific verification.
 
 - **2026-11-24** — Added [1 papers](digests/scientific-computer-use/2026/2026-11-24.md) and [8 news events](digests/ai4science/2026/2026-11-24.md); 0 revisions or backfilled issues. Experimental choices, brain science and materials synthesis.

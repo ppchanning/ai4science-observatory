@@ -6,6 +6,8 @@
 
 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入。 这些日期表示原有资料的整理日期，不表示当天已在 GitHub 发布。下列数字按结构化目录中的当期去重条目统计，不等于首次新增；未收录结构化条目的旧日报只计期数。缺少日期不补造活动。
 
+- **2026-11-27** — 新增 [7 条新闻](digests/ai4science/2026/2026-11-27.md)、[3 篇论文](digests/scientific-computer-use/2026/2026-11-27.md)、[1 条综述记录](data/catalogs/surveys.csv)及 [1 条平台证据](resources/remote-labs.md)。0 条资料修订，0 期补录。看点是天文数据分析与远程操作记录。
+
 - **2026-11-25** — 新增[10条新闻](digests/ai4science/2026/2026-11-25.md)与[1篇论文](digests/scientific-computer-use/2026/2026-11-25.md)；修订0、补录期数0。另新增[1条综述目录记录](data/catalogs/surveys.csv)。材料外推与形式化科学验收。
 
 - **2026-11-24** — 新增[1篇论文](digests/scientific-computer-use/2026/2026-11-24.md)及[8条新闻](digests/ai4science/2026/2026-11-24.md)；修订0、补录期数0。实验选择、脑科学与材料合成。

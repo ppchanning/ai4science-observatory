@@ -150,3 +150,6 @@
 - [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](https://arxiv.org/abs/2611.26248) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-26.md)
 
 - [Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra/) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-26.md)
+- [MAASAI: A Tool-Augmented Multi-Agent System for Astronomical Data Analysis](https://arxiv.org/abs/2611.31088) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-27.md)
+- [Inferring Experimental Objectives in Microscopy Experiments from Decision Traces](https://arxiv.org/abs/2611.29814) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-27.md)
+- [PUPPET: Physical-Unified Platform for Presence, Embodiment, and Teleoperation](https://arxiv.org/abs/2611.26350) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-27.md)

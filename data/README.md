@@ -11,7 +11,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 | [remote-labs.json](remote-labs.json) | 平台证据及未知条件 |
 | [catalogs/cited-papers.csv](catalogs/cited-papers.csv) | 被引文献库，1290 条 |
 | [catalogs/core-papers.csv](catalogs/core-papers.csv) | 全部核心论文，282 条 |
-| [catalogs/surveys.csv](catalogs/surveys.csv) | 综述论文库，21 条 |
+| [catalogs/surveys.csv](catalogs/surveys.csv) | 综述论文库，22 条 |
 | [catalogs/published-papers.csv](catalogs/published-papers.csv) | 严格纳入，1243 条 |
 | [catalogs/conference-candidates.csv](catalogs/conference-candidates.csv) | AI4Sci主会候选，902 条 |
 | [catalogs/reading-candidates.csv](catalogs/reading-candidates.csv) | 可follow论文库，1197 条 |
@@ -98,3 +98,7 @@ UTF-8 JSON / CSV。空值表示未知，不能解释为零、免费或已获许�
 ### 2026-11-25 综述资料
 
 新增1条[地球系统科学映射综述](https://doi.org/10.3389/feart.2026.1940857)；4276条文献的题摘主题建模不代表逐篇全文核读或复现。原有20行保持不变。
+
+### 2026-11-27 综述资料
+
+补录[短至中期 AI 天气预报综述](https://www.nature.com/articles/s43017-026-00849-0)，核对公开元数据及摘要。该综述发表于 11 月 25 日，讨论同化、后处理、物理参数化及完整模型，并指出极端天气和物理一致性的评估难题。

@@ -4041,5 +4041,66 @@
     "authors": "",
     "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
     "read_first": "建议先读“Looking for dips in starlight”，分清程序改进、独立复核与确认行星各是谁完成的。"
+  },
+  {
+    "id": "arxiv:2611.31088",
+    "title": "MAASAI: A Tool-Augmented Multi-Agent System for Astronomical Data Analysis",
+    "arxiv": "2611.31088",
+    "url": "https://arxiv.org/abs/2611.31088",
+    "fulltext_url": "https://arxiv.org/html/2611.31088v1",
+    "authors": "S. Riggi et al.",
+    "first_published": "2026-11-23",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "基于原始元数据和所述方法与结果整理",
+    "verified_at": "2026-11-27",
+    "evidence": "共享文件和工作流状态连接天文档案、图像和目录分析。作者在5,718张带标注无线电图像上报告宏平均 F1 0.72对0.53，在3,835张 FIRST 图像上为0.88对0.37；第一组 EXTENDED 类为0.56对0.74。",
+    "limitations": "这是既有数据分类，未展示新望远镜观测。专用工具、模型和环境同时变化，系统比较无法单独归因于多代理。",
+    "read_first": "先读共享状态和图5，检查中间产物怎样传递，再核对分类分母。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2611.29814",
+    "title": "Inferring Experimental Objectives in Microscopy Experiments from Decision Traces",
+    "arxiv": "2611.29814",
+    "url": "https://arxiv.org/abs/2611.29814",
+    "fulltext_url": "https://arxiv.org/html/2611.29814v2",
+    "authors": "Barakati et al.",
+    "first_published": "2026-11-22",
+    "verified_version": "v2",
+    "type": "preprint",
+    "verification": "基于原始元数据和所述方法与结果整理",
+    "verified_at": "2026-11-27",
+    "evidence": "研究从一张256×256像素的归档显微图像构造候选。每轮20选1，六条100步轨迹分别来自两名参与者、两种启发式规则和两个GPT序列。方法用已选和未选图块估计偏好，并用留出选择与受控切换测试预测。",
+    "limitations": "随机首选命中率为5%。拼接轨迹或已知切换测试模型的识别能力，无法独立确认真正实验中的研究意图变化。",
+    "read_first": "先读第2节，再读图6–8，分别标出原始选择、拼接和受控变化。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "version_date": "2026-11-25"
+  },
+  {
+    "id": "arxiv:2611.26350",
+    "title": "PUPPET: Physical-Unified Platform for Presence, Embodiment, and Teleoperation",
+    "arxiv": "2611.26350",
+    "url": "https://arxiv.org/abs/2611.26350",
+    "fulltext_url": "https://arxiv.org/html/2611.26350v1",
+    "authors": "Mahika Vats et al.",
+    "first_published": "2026-11-19",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "基于原始元数据和所述方法与结果整理",
+    "verified_at": "2026-11-27",
+    "evidence": "30名参与者用现场、二维远程和VR三种界面操控真实 TIAGo 机器人。每种条件先练习一次，后两次用于主要分析。仅成功试次的平均用时，三种条件分别为72.10、94.96和68.66秒；另按完整性和连续性等规则检查状态、位姿及视频。",
+    "limitations": "动作由人决定。VR组同时改变视角与输入，无法单独识别显示因素；仅成功试次计时应与动作成功及记录验收分开。",
+    "read_first": "先读三组实验设计和记录验收，再比较成功试次用时。",
+    "appearances": [
+      "digests/scientific-computer-use/2026/2026-11-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

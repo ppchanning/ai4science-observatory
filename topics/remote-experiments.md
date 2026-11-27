@@ -76,3 +76,4 @@
 - [Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories](https://arxiv.org/abs/2611.25043) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
 - [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) — [阅读笔记](../digests/scientific-computer-use/2026/2026-11-21.md)
 - [JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own](https://arxiv.org/abs/2611.26503) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-22.md)
+- [PUPPET: Physical-Unified Platform for Presence, Embodiment, and Teleoperation](https://arxiv.org/abs/2611.26350) · [阅读笔记](../digests/scientific-computer-use/2026/2026-11-27.md)

@@ -57,7 +57,7 @@
   },
   {
     "file": "data/catalogs/surveys.csv",
-    "rows": 21,
+    "rows": 22,
     "source_sheet": "综述论文库",
     "fields": [
       "题名",
@@ -78,7 +78,7 @@
       "主链接",
       "标准引文"
     ],
-    "snapshot": "2026-11-25"
+    "snapshot": "2026-11-27"
   },
   {
     "file": "data/catalogs/published-papers.csv",

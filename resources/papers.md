@@ -220,3 +220,6 @@
 | [RUIBench: What Makes a Good Robot-Use Interface?](https://arxiv.org/abs/2611.31115) |  | 2026-11-23 | preprint |
 | [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](https://arxiv.org/abs/2611.26248) |  | 2026-11-19 | preprint |
 | [Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra/) |  | 2026-11-24 | official_case_article |
+| [MAASAI: A Tool-Augmented Multi-Agent System for Astronomical Data Analysis](https://arxiv.org/abs/2611.31088) | S. Riggi et al. | 2026-11-23 | preprint |
+| [Inferring Experimental Objectives in Microscopy Experiments from Decision Traces](https://arxiv.org/abs/2611.29814) | Barakati et al. | 2026-11-22 | preprint |
+| [PUPPET: Physical-Unified Platform for Presence, Embodiment, and Teleoperation](https://arxiv.org/abs/2611.26350) | Mahika Vats et al. | 2026-11-19 | preprint |

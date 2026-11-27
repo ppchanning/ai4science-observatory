@@ -80,6 +80,22 @@
       "analysis_time": null,
       "integration_person_hours": null,
       "running_cost": null
+    },
+    {
+      "key": "tart",
+      "name": "Transient Array Radio Telescope (TART)",
+      "hardware": "论文用加纳台站取得的真实历史数据演示全天空射电成像。",
+      "interface": "浏览器和 REST API 共用后端；专用工具将数据转换为 Measurement Set 后进行成像。",
+      "feedback": "专用算法持续校准；未提供代理根据测量调整下一次观测的实证。",
+      "source_urls": [
+        "https://arxiv.org/abs/2611.02313",
+        "https://tart.elec.ac.nz/"
+      ],
+      "verified_at": "2026-11-20",
+      "individual_eligibility": null,
+      "running_cost": null,
+      "queue_time_current": null,
+      "experiment_time_current": null
     }
   ],
   "unknown_policy": "Missing and null are unknown, never zero/free/permitted."
